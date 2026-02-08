@@ -1,0 +1,43 @@
+Colonial Pipeline CEO admits to authorizing $4.4 million ransomware payment
+
+Washington CNN — Colonial Pipeline CEO Joseph Blount said he authorized a ransom payment of $4.4 million in response to a cyberattack on the company's network earlier this month, according to The Wall Street Journal, which published an interview with the CEO Wednesday.
+
+This is the first public announcement by the company that a ransom had been paid and comes after repeated refusals from the company to discuss the payment, which Blount called "a highly controversial decision."
+
+"It was the right thing to do for the country," he told The Wall Street Journal. "I didn't make it lightly. I will admit that I wasn't comfortable seeing money go out the door to people like this."
+
+CNN reported last week that Colonial Pipeline paid the ransomware group that carried out a crippling cyberattack, two sources familiar with the matter said. The ransomware attack spurred the company to shutdown pipeline operations, causing massive gasoline disruptions in the southeast US.
+
+Colonial employees did not have any direct contact with the threat actor, according to a Colonial spokesperson. It's unclear who negotiated the payment.
+
+Colonial Pipeline briefed congressional staff on Monday, offering new insight into the timeline of the ransomware attack, but also frustrating lawmakers and staff over the company's refusal to discuss the ransom and related details.
+
+Democratic Reps. Carolyn Maloney of New York, the chairwoman of the House Oversight and Reform Committee, and Bennie Thompson of Mississippi, the chairman of the Homeland Security Committee, said they were "disappointed that the company refused to share any specific information regarding the reported payment of ransom during today's briefing."
+
+"In order for Congress to legislate effectively on ransomware, we need this information," they added in a statement.
+
+A representative for Colonial told congressional staff that special attention to the ransom would encourage future attacks and therefore did not want to discuss the topic, according to a Hill aide.
+
+The Colonial briefing, which was led by company CIO Marie Mouchet, came a little more than a week after the company first learned of the ransomware attack on May 7, the aide said.
+
+Colonial found out about the cyberattack around 5:30 a.m., prompting a call to FireEye Mandiant, the company hired for the incident response to the hack, according to the aide, followed by a call to the FBI.
+
+The spokesperson for Colonial confirmed that the company discovered the breach on the morning of May 7.
+
+The Cybersecurity and Infrastructure Security Agency received information from Colonial Pipeline shortly after the incident occurred, an agency spokesperson said Wednesday. Subsequent updates were provided principally through the Department of Energy, according to the CISA spokesperson.
+
+Last week, the US government obtained "indicators of compromise" associated with the Colonial Pipeline incident and shared them broadly with critical infrastructure partners and others in the industry, according to the CISA spokesperson.
+
+CISA is working with other federal agencies to continues to identify the appropriate time to release a public version of the information, according to the spokesperson.
+
+Speculation regarding the root cause of the incident is premature, according to the Colonial spokesperson.
+
+Energy Secretary Jennifer Granholm said Wednesday that "there's no doubt" that the energy sector, like other critical sectors, "needs to continue to do better at defending itself against cyber threats."
+
+The federal government is taking several steps – such as President Joe Biden's recent executive order requiring new standards on software used by the government – to try to protect the sprawling energy sector, which is operated by private, not-for-profit, and state and local entities, Granholm said, pointing out that are over 3,000 electricity companies and thousands of others in the oil and natural gas sector.
+
+After the hack, Colonial disconnected laptops "out of an abundance of caution and to contain the threat," the Colonial spokesperson said, adding that the Office 365 cloud environment was not impacted and remained online.
+
+Employees could still do work within the cloud, according to the Hill aide, and were able to communicate on iPhones and iPads.
+
+Colonial told the Hill that the initial decision to shut off the pipeline was a risk-based decision for the company, the aide said.

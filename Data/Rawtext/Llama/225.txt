@@ -1,0 +1,19 @@
+Norsk Hydro Refuses to Pay Ransom, Fights Back Against Cyber Attack
+
+In a bold move, Norsk Hydro, a Norwegian renewable energy and aluminum manufacturing company, refused to pay the ransom demanded by hackers who launched a cyber attack on the company's network in 2019. Despite the attack crippling its network, the company opted to work with cybersecurity experts and manually handle operations to avoid paying the ransom.
+
+The attack, which occurred on the same day Hilde Merete Aasheim was appointed as CEO of Norsk Hydro, locked out users from over 3,000 servers and thousands of PCs, encrypting key areas of the IT network. "We were faced with a difficult decision, but we decided not to pay the ransom," Aasheim said in an interview. "We didn't want to support criminal activity and fuel the cybercrime economy."
+
+The company's refusal to pay the ransom led to significant operational disruptions, resulting in an estimated loss of $70 million. Production was maintained through manual processes, including pen and paper, for about three weeks. "It was a challenging time, but our team worked tirelessly to ensure that our operations continued," said Jo De Vliegher, CIO of Norsk Hydro.
+
+Hilde Merete Aasheim and Jo De Vliegher led the recovery efforts, with help from Microsoft and the Norwegian National Cyber Security Centre. "We worked closely with our partners to isolate the attack and prevent it from spreading further," De Vliegher explained. "It was a complex process, but we were determined to get our systems back up and running."
+
+The incident led to a major reevaluation of Norsk Hydro's cybersecurity measures and priorities. "We realized that we needed to invest more in our cybersecurity infrastructure to prevent such attacks in the future," Aasheim said. "It was a costly lesson, but one that we have learned from."
+
+The U.S. Cybersecurity & Infrastructure Security Agency (CISA) advises against paying ransoms, noting it fuels the criminal economy. "Paying ransoms only encourages cybercriminals to continue their illegal activities," said Eric Goldstein, an official at CISA. "It's important for organizations to have robust cybersecurity measures in place to prevent such attacks and to be prepared to respond quickly and effectively in the event of a breach."
+
+Norsk Hydro's decision not to pay the ransom has been praised by cybersecurity experts, who note that it sends a strong message to cybercriminals. "By refusing to pay the ransom, Norsk Hydro has shown that it will not be intimidated by cybercriminals," said Lars Jensen, a cybersecurity consultant. "It's a bold move that will likely deter future attacks."
+
+The attack on Norsk Hydro highlights the growing threat of ransomware attacks on businesses and organizations. "Ransomware attacks are becoming increasingly common and can have devastating consequences," said Jensen. "It's crucial for organizations to have robust cybersecurity measures in place to prevent such attacks and to be prepared to respond quickly and effectively in the event of a breach."
+
+In conclusion, Norsk Hydro's refusal to pay the ransom in the face of a cyber attack is a testament to the company's commitment to ethical business practices and its determination to protect its systems and data. The incident serves as a reminder to organizations of the importance of investing in robust cybersecurity measures and being prepared to respond to cyber attacks quickly and effectively.

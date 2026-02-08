@@ -1,0 +1,23 @@
+German Court Rules Facebook's Post Deletions Illegal
+
+BERLIN, July 29 – A top German court has ruled that Facebook acted illegally by taking down racist posts and blocking the author's account without notification or explanation.
+
+The Federal Court of Justice's verdict adds complexity to the debate on toxic discourse on social networks ahead of Germany's general election. The judgment is significant as the comments in question violated Facebook's community standards on hate speech, which is also banned under German law.
+
+The court declared Facebook's terms of service regarding post deletion and account blocking for community standards violations as "null and void." The ruling critiqued Facebook for not committing to inform users about post removal, account blocking reasons, or offering a right of appeal.
+
+"The court's decision is a clear signal that Facebook cannot simply delete posts or block accounts without providing users with a proper explanation and the opportunity to appeal," said a company spokesperson for Facebook.
+
+The specific post cited in the court ruling criticized German handling of "Islamist immigrants," alleging impunity for murder and rape. The post called for action from the Office for the Protection of the Constitution, Germany's main domestic security agency.
+
+The court's decision highlights the challenges faced by social media companies in balancing freedom of expression with the need to combat hate speech and other harmful content.
+
+"We have a zero-tolerance policy for hate speech on our platform," said the Facebook spokesperson. "We will continue to work with experts and law enforcement to effectively remove hate speech from our platform in Germany."
+
+The ruling comes as Google also sought judicial review of a new German law (NetzDG) this week. Google cited privacy concerns due to the law's provisions for data sharing with law enforcement.
+
+The German government has been criticized for its handling of hate speech on social media. In 2018, it passed the NetzDG law, which requires social media companies to remove illegal content within 24 hours or face fines.
+
+However, critics argue that the law is too broad and could lead to the removal of legitimate content. The court's ruling against Facebook could further complicate the government's efforts to regulate hate speech on social media.
+
+The verdict is expected to have significant implications for the upcoming German election, as social media platforms are expected to play a major role in the campaign. The ruling could make it more difficult for Facebook to remove hate speech and other harmful content from its platform, potentially leading to an increase in toxic discourse during the election.

@@ -1,0 +1,23 @@
+Cyberattack on Colonial Pipeline Causes Gas Shortages on East Coast
+
+CLEMMONS, N.C. (AP) – A cyberattack on Colonial Pipeline, which supplies gasoline to over a dozen U.S. states, has caused widespread shortages and delays at gas stations along the East Coast.
+
+According to Stephen Brich, Highways Commissioner of Virginia, around 70% of gas stations in North Carolina and about half in Virginia, South Carolina, and Georgia were without fuel. "This is a serious situation, and we're working closely with Colonial Pipeline and other state and federal agencies to address it," Brich said.
+
+The cyberattack, which involved ransomware from a group known as DarkSide, has been identified by U.S. officials as originating from Russia, although they do not believe the Russian government was behind it.
+
+Colonial Pipeline has restarted operations, but officials expect "several days" for fuel deliveries to normalize. In the meantime, the East Coast, which relies on the pipeline for 45% of its gasoline, has experienced delays rather than shortages.
+
+Gov. Roy Cooper of North Carolina urged residents to conserve fuel and avoid panic-buying. "We're working to get gasoline to stations as quickly as possible, but it's important to remember that this is a temporary situation," Cooper said.
+
+Virginia's highways commissioner, Stephen Brich, announced conservation strategies due to the pipeline shutdown effects. "We're asking people to carpool, use public transportation, or work from home if possible," Brich said.
+
+Virginia and North Carolina have declared states of emergency, while other governors have urged against hoarding. "We understand that people are concerned, but hoarding gasoline will only make the situation worse," said Dr. Chris Holstege, Medical Director at the Blue Ridge Poison Center at UVA Health.
+
+The gas shortage has affected various aspects of daily life, including emergency services and entertainment venues. Sydney Marshall, General Manager of South Georgia Motorsports Park and Orlando Speed World Dragway, said, "We're feeling the effects of the shortage, but we're doing our best to minimize the impact on our customers."
+
+As gas station supplies recover, officials expect it to take a couple of weeks for things to return to normal, assuming no further panic-buying. In the meantime, residents are being urged to remain patient and conserve fuel whenever possible.
+
+The cyberattack on Colonial Pipeline serves as a reminder of the vulnerability of critical infrastructure to cyber threats. "This is a wake-up call for all of us," said Brich. "We need to take steps to protect ourselves from these kinds of attacks and be prepared to respond when they happen."
+
+In conclusion, the cyberattack on Colonial Pipeline has caused significant disruption to the East Coast's gas supply, with widespread shortages and delays at gas stations. While the situation is expected to normalize in the coming days, officials are urging residents to conserve fuel and avoid panic-buying. The incident highlights the need for increased cybersecurity measures to protect critical infrastructure from cyber threats.

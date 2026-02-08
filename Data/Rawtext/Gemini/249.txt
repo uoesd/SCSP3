@@ -1,0 +1,39 @@
+Breakthrough COVID-19 Cases: Rare but Underscored by Importance of Vaccination
+
+Despite the remarkable effectiveness of COVID-19 vaccines in preventing severe illness, breakthrough infections among fully vaccinated individuals remain a concern. While the Centers for Disease Control and Prevention (CDC) tracks hospitalizations and deaths among the fully vaccinated, a comprehensive understanding of breakthrough infections requires a broader examination.
+
+A recent study, conducted by researchers at the Kaiser Family Foundation (KFF), delved into data from official state sources to provide a more comprehensive picture of breakthrough cases, hospitalizations, and deaths across the United States. The findings underscore the rarity of these events and reinforce the critical role of vaccination in mitigating the impact of COVID-19.
+
+Data Collection and Analysis
+
+The KFF study analyzed data from all 50 states and the District of Columbia, covering the period from January 2021 to March 2022. The data included information on breakthrough cases, hospitalizations, and deaths among fully vaccinated individuals.
+
+It is important to note that not all hospitalizations and deaths in fully vaccinated individuals are directly attributable to COVID-19. Some individuals may have been hospitalized or died from other causes while coincidentally testing positive for COVID-19.
+
+State-Level Reporting
+
+While all states report data on COVID-19 cases, hospitalizations, and deaths, only half of the states currently report data on breakthrough events. The frequency and detail of reporting vary significantly across states.
+
+Breakthrough Cases: Rare but Documented
+
+The KFF study found that breakthrough cases among fully vaccinated individuals are extremely rare. In the reporting states, the rates of breakthrough cases were below 1% of all COVID-19 cases.
+
+Hospitalizations and Deaths: Even Rarer
+
+The study also found that hospitalizations and deaths among fully vaccinated individuals are even rarer than breakthrough cases. In the reporting states, the rates of breakthrough hospitalizations were below 0.1% of all COVID-19 hospitalizations, and the rates of breakthrough deaths were below 0.01% of all COVID-19 deaths.
+
+Overwhelming Majority of Cases, Hospitalizations, and Deaths in Unvaccinated
+
+The KFF study highlights the stark contrast between the experience of vaccinated and unvaccinated individuals. More than 90% of COVID-19 cases, hospitalizations, and deaths occur among unvaccinated or not fully vaccinated individuals.
+
+Implications for Public Health
+
+The findings of the KFF study provide strong evidence of the effectiveness of COVID-19 vaccines in preventing severe disease. Breakthrough cases, hospitalizations, and deaths among the fully vaccinated are extremely rare.
+
+The study also underscores the importance of robust state-level data for monitoring vaccine effectiveness. Consistent and detailed reporting of breakthrough events can help public health officials identify patterns and trends, and tailor vaccination strategies accordingly.
+
+Conclusion
+
+The KFF study provides valuable insights into the occurrence of breakthrough COVID-19 cases, hospitalizations, and deaths in the United States. The findings reinforce the critical role of vaccination in protecting individuals from severe illness and reducing the overall burden of COVID-19.
+
+Continued monitoring and reporting of breakthrough events are essential for understanding the long-term effectiveness of COVID-19 vaccines and guiding public health policy.

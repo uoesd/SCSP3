@@ -1,0 +1,25 @@
+Biden Administration to Bolster Pipeline Cyber Defenses After Colonial Hack
+
+WASHINGTON, May 25 (Reuters) – The Biden administration is set to unveil measures to strengthen the cybersecurity of U.S. pipelines, following the crippling ransomware attack on the Colonial Pipeline that led to widespread fuel shortages.
+
+The Department of Homeland Security (DHS) announced on Tuesday that it will collaborate with pipeline companies to enhance their resilience to cyber threats. The Transportation Security Administration (TSA), a unit of DHS, is working with the Cybersecurity and Infrastructure Security Agency (CISA) on this effort.
+
+"We are taking a comprehensive approach to pipeline security, working closely with industry to identify and address vulnerabilities," said DHS Secretary Alejandro Mayorkas.
+
+Details of the specific actions will be released in the coming days, but they are expected to include mandatory cybersecurity standards, increased information sharing, and enhanced coordination between government and industry.
+
+The Colonial Pipeline hack, which forced the shutdown of the largest fuel pipeline in the United States, highlighted the nation's reliance on key pipelines and the potential consequences of cyberattacks on critical infrastructure.
+
+The Washington Post reported that DHS is preparing to issue the first mandatory cybersecurity regulations for pipelines. The proposed regulations would require pipeline companies to report cyber incidents and address any security shortcomings or face fines.
+
+The TSA has expanded its pipeline security staff from six to 34 positions since 2018, reflecting the growing concern about the vulnerability of pipelines to cyberattacks.
+
+Retail U.S. gasoline prices hit a seven-year high following the pipeline outage, although they have begun to decline since.
+
+DHS Secretary Mayorkas and other officials are considering using existing TSA powers to enforce new cybersecurity measures. The TSA has the authority to inspect pipelines and impose fines for violations of security regulations.
+
+The Biden administration's focus on pipeline cybersecurity comes amid a broader effort to strengthen the nation's critical infrastructure against cyber threats. In March, the White House issued an executive order on cybersecurity that called for improved information sharing, increased investment in research and development, and a more proactive approach to defending against cyberattacks.
+
+The administration is also working with Congress to pass legislation that would enhance the government's ability to respond to cyber incidents and impose sanctions on foreign actors responsible for cyberattacks.
+
+The Colonial Pipeline hack served as a wake-up call for the United States, highlighting the urgent need to strengthen the cybersecurity of critical infrastructure. The Biden administration's planned measures are a step in the right direction, but more needs to be done to protect the nation's pipelines and other vital infrastructure from cyber threats.

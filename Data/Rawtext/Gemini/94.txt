@@ -1,0 +1,33 @@
+Citibank's $900 Million Blunder: Court Rules Against Recovery
+
+In a stunning turn of events, a US District Court judge has ruled against Citibank's attempt to recover $500 million it mistakenly wired to Revlon's lenders. The incident, considered one of the biggest blunders in banking history, has sent shockwaves through the financial world.
+
+The Accidental Transfer
+
+On August 11, 2020, Citibank, acting as Revlon's loan agent, intended to wire $7.8 million in interest payments to the company's lenders. However, due to a clerical error, the bank mistakenly transferred $900 million instead.
+
+Lenders' Defense
+
+The lenders, represented by Benjamin Finestone, argued that they were entitled to keep the funds under New York's "discharge-for-value-defense." This defense allows beneficiaries to retain funds if they are entitled to them and unaware of the mistake.
+
+Court's Ruling
+
+In his ruling, Judge Jesse Furman found that the lenders had a reasonable belief that Citibank's transfer was a prepayment of the loan. He stated that it was "borderline irrational" to expect the lenders to assume Citibank had made such a mistake.
+
+"The lenders had no reason to believe that Citibank had made a mistake," Judge Furman wrote. "They were entitled to rely on the transfer as a prepayment of the loan."
+
+Internal Chats
+
+Internal chats among HPS employees, one of the lenders, revealed that they were initially unaware the transfer was a mistake. Finestone argued that these chats supported the lenders' claim that they had no knowledge of Citibank's error.
+
+Temporary Restraining Order
+
+Despite the court ruling, a temporary restraining order is currently in effect, preventing the lenders from accessing the funds pending a possible appeal. Citibank has indicated its intention to appeal the decision, arguing that it is entitled to recover the funds.
+
+Banking Risks
+
+The mishap highlights the risks and challenges digital money transfers pose in the modern financial system. Banks and other financial institutions must implement robust controls to prevent such errors from occurring.
+
+Conclusion
+
+The Citibank-Revlon case is a cautionary tale about the importance of accuracy and vigilance in financial transactions. The court's ruling has set a precedent that could make it more difficult for banks to recover funds mistakenly transferred. As digital money transfers become increasingly common, banks and other financial institutions must take steps to mitigate the risks of such errors.

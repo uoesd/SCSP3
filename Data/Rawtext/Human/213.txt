@@ -1,0 +1,21 @@
+US military's hacking unit publicly acknowledges taking offensive action to disrupt ransomware operations
+
+CNN — Cyber Command, the US military's hacking unit, has taken offensive action to disrupt cybercriminal groups that have launched ransomware attacks on US companies, a spokesperson for the command confirmed to CNN Sunday.
+
+The spokesperson declined to specify what actions the command had taken. But it's one of the first, unequivocal acknowledgements from Cyber Command since the Colonial Pipeline ransomware attack in May that the command has targeted criminal gangs that hold the computer systems of US businesses hostage.
+
+New comments by Gen. Paul Nakasone, head of Cyber Command and director of the National Security Agency, which the New York Times reported earlier Sunday, signal that the US military's computer operatives have been increasingly willing to hack criminals, and not just state actors, who pose a threat to US critical infrastructure.
+
+Security agencies across the US government have ramped up their pursuit of ransomware groups after hacks brought Colonial Pipeline, a major transporter of US fuel, and a major meat processor to a standstill earlier this year. CNN reported in June that the US government had taken offensive steps in response to ransomware, including compromising and surveilling cybercriminal networks, according to sources familiar with the situation.
+
+Nakasone said last month that the US government had "conducted a surge" against ransomware operators, including by trying to cut off the hackers' sources of funding.
+
+Nakasone reiterated that message in an interview with the New York Times this weekend.
+
+"Before, during and since, with a number of elements of our government, we have taken actions and we have imposed costs," Nakasone told the newspaper. "That's an important piece that we should always be mindful of."
+
+The US government counteroffensive against ransomware groups, many of which are based in Eastern Europe and Russia, has also included indicting alleged extortionists and sanctioning a cryptocurrency exchange accused of laundering money for the hackers.
+
+The White House has tried to pressure the Russian government into cracking down on cybercriminals operating from Russian soil. It remains to be seen whether that will happen – Moscow has often turned a blind eye to hackers who do not target Russian organizations, analysts say.
+
+President Joe Biden will hold a video call with Russian President Vladimir Putin on Tuesday. The two men will discuss cybersecurity, according to the White House, six months after Biden exhorted Putin to take action against hackers during a meeting in Geneva.

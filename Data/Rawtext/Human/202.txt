@@ -1,0 +1,23 @@
+Colonial Pipeline says temporary network disruption resolved
+
+May 28 (Reuters) - Colonial Pipeline, the largest fuel pipeline in the United States, on Friday said it had resolved a temporary network disruption, just weeks after a ransomware attack crippled fuel delivery for several days in the southeast region.
+
+Colonial earlier on Friday experienced a network issue, the company said, but restored service to its network. The issue was not associated with malware, the company said.
+
+The company had earlier said shippers were having problems entering and updating nominations for deliveries.
+
+The "system functionality has returned to normal," the company said.
+
+The reason for the network issues was not immediately clear.
+
+Colonial's shipping nomination system is operated by a third party, privately-held Transport4, or T4, which handles similar logistics for other pipeline companies.
+
+T4 on Friday said its application was working for all customers and carriers. It did not comment on Colonial's current network issue and said that data between T4 and Colonial was transacting normally.
+
+Friday's network problems are the second occurrence of such issues since the attack earlier in the month. Colonial is the largest fuel system in the United States, accounting for millions of barrels of daily deliveries to the U.S. East Coast and Southeast.
+
+Shortly after Colonial restored operations from the hack, it suffered a brief network outage that prevented customers from planning upcoming shipments on the line. At the time, Colonial said the disruption was caused by efforts by the company to harden its system, and was not the result of a reinfection of its network.
+
+The southeast United States is still recovering from the six-day line outage from earlier this month and the supply issues it caused in the region. Around 6,000 gas stations were still without fuel this week, according to tracking firm GasBuddy, down from a peak of more than 16,000.
+
+Almost 40% of gas stations in the capital, Washington, were without supplies on Thursday, GasBuddy said. More than 20% of stations in North Carolina, Georgia and South Carolina were also empty.

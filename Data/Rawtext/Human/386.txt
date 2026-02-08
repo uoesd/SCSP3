@@ -1,0 +1,17 @@
+With Facebook Shutting Down Its Facial Recognition, Will Other Companies Follow?
+
+Facebook will discontinue facial recognition of user photos this month.
+
+The move follows legal and government scrutiny and corporate image concerns, but the cat may be out of the bag for this technology, unless other companies follow suit.
+
+After more than a decade of use, Facebook announced that is is retiring its far-reaching facial recognition system. That will effectively delete facial recognition data and profiles for 1 billion users.
+
+The move follows investigations, regulatory problems, and a class-action lawsuit, along with the increasingly scrutinous public's opinions on facial recognition technology overall. Digital rights advocates say Facebook is striking a blow against invasive surveillance, but this may be too little too late from the enormous organization. It's also not clear where other companies will fall on the issue of facial recognition.
+
+The New York Times reported that Facebook will shut down its facial recognition system this month after all the regulatory headaches:
+
+"When the Federal Trade Commission fined Facebook a record $5 billion to settle privacy complaints in 2019, the facial recognition software was among the concerns. Last year, the company also agreed to pay $650 million to settle a class-action lawsuit in Illinois that accused Facebook of violating a state law that requires residents' consent to use their biometric information, including their 'face geometry.'"
+
+The move comes after a series of high profile problems for Facebook, including a major leak about the company's misinformation peddling via advertising and a subsequent series of congressional hearings and inquiries. About a third of users have facial recognition features turned on in their Facebook settings, which is used to alert them of new photos, to root out photos stolen by fake accounts, and to help caption photos for blind users. (Facebook's automatic captioning still works, it just won't include specific user names anymore.)
+
+Fight for the Future campaign director Caitlin Seeley George said in a statement that all facial recognition technology should be banned, making this a good step for Facebook. "From misidentifying Black and Brown people (which has already led to wrongful arrests) to making it impossible to move through our lives without being constantly surveilled, we cannot trust governments, law enforcement, or private companies with this kind of invasive surveillance," she said.

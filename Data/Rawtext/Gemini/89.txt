@@ -1,0 +1,21 @@
+Citibank's $900 Million Blunder: Court Rules Lenders Can Keep Half a Billion
+
+New York CNN Business – Citibank's colossal blunder, in which it mistakenly wired nearly $900 million to Revlon's lenders instead of the intended $8 million interest payment, has taken a dramatic turn. A US District Court judge has ruled that Citibank cannot recover the nearly half a billion dollars not returned by some of the lenders.
+
+The accidental transfer, which included $175 million to a hedge fund, has left Citibank with a gaping hole in its finances. Of the total amount, $500 million remains unrecovered from 10 investment advisory firms.
+
+New York law provides a "discharge-for-value-defense," which allows beneficiaries to keep money if they are entitled to it and unaware that it was sent accidentally. The lenders in this case argued that they believed the money was an intentional prepayment of a loan, aligning with the amounts Citibank owed them.
+
+The court found that the lenders' belief that the payment was intentional was justified, citing Citibank's sophistication as making a mistake seem improbable. Internal chats from HPS employees joking about the mistake were used as evidence that they were unaware the wiring was a mistake.
+
+"The court found that the lenders were entitled to rely on the apparent authority of Citibank's payment instructions," said Benjamin Finestone, who represented two lenders, Brigade and HPS Investment Partners. "They had no reason to believe that the payment was anything other than an intentional prepayment of the loan."
+
+A temporary restraining order keeps the lenders from utilizing the funds due to the potential for an appeal. Citigroup, Citibank's parent company, strongly disagrees with the decision and intends to appeal, aiming to recover the full amount transferred.
+
+"We believe the court erred in its decision and we intend to appeal," said a Citigroup spokesperson. "We are confident that we will ultimately recover the full amount of the mistaken payment."
+
+The pandemic has negatively impacted makeup brands such as Revlon, with its shares trading over 40% lower than a year ago. The company filed for Chapter 11 bankruptcy protection in June 2022, citing the impact of COVID-19 on its business.
+
+The mistaken payment has added to Citibank's woes, which include a recent $1.2 billion loss in its consumer banking division. The bank has also been fined billions of dollars in recent years for various regulatory violations.
+
+The court's decision is a significant setback for Citibank, which is now facing the prospect of losing hundreds of millions of dollars due to a simple mistake. The case highlights the importance of financial institutions having robust systems in place to prevent such errors from occurring.

@@ -1,0 +1,23 @@
+Microsoft says group behind SolarWinds hack now targeting government agencies, NGOs
+
+Nobelium, originating from Russia, is the same actor behind the attacks on SolarWinds customers in 2020, according to Microsoft.
+
+The comments come weeks after a May 7 ransomware attack on Colonial Pipeline shut the United States' largest fuel pipeline network for several days, disrupting the country's supply.
+
+"This wave of attacks targeted approximately 3,000 email accounts at more than 150 different organizations", Microsoft said on Thursday.
+
+While organisations in the United States received the largest share of attacks, targeted victims came from at least 24 countries, Microsoft said.
+
+At least a quarter of the targeted organisations were involved in international development, humanitarian issues and human rights work, Microsoft said in the blog.
+
+Nobelium launched this week's attacks by breaking into an email marketing account used by the United States Agency For International Development (USAID) and from there launching phishing attacks on many other organisations, Microsoft said.
+
+In statements issued Friday, the Department of Homeland Security and USAID both said they were aware of the hacking and were investigating.
+
+The hack of information technology company SolarWinds, which was identified in December, gave access to thousands of companies and government offices that used its products. Microsoft President Brad Smith described the attack as "the largest and most sophisticated attack the world has ever seen". read more
+
+This month, Russia's spy chief denied responsibility for the SolarWinds cyber attack but said he was "flattered" by the accusations from the United States and Britain that Russian foreign intelligence was behind such a sophisticated hack.
+
+The United States and Britain have blamed Russia's Foreign Intelligence Service (SVR), successor to the foreign spying operations of the KGB, for the hack which compromised nine U.S. federal agencies and hundreds of private sector companies.
+
+The attacks disclosed by Microsoft on Thursday appeared to be a continuation of multiple efforts to target government agencies involved in foreign policy as part of intelligence gathering efforts, Microsoft said.

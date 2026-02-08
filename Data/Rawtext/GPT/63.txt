@@ -1,0 +1,19 @@
+Amazon Employees Push for Parler Shutdown in Wake of Capitol Riot
+
+Amid rising tensions following the raid on the U.S. Capitol, a group of Amazon corporate employees has made a bold move, urging the tech giant to cut off cloud services to Parler, a platform popular among supporters of President Trump. This demand signals a significant stance against platforms hosting content promoting violence and comes in the wake of the violent incidents that shocked the nation.
+
+The group, Amazon Employees for Climate Justice (AECJ), has publicly called on Amazon Web Services (AWS) to cease providing cloud services to Parler until the platform eliminates posts that incite violence. This collective action by Amazon employees underlines the growing concern over the role of tech companies in moderating content and their responsibility towards ensuring a safer digital environment.
+
+In response, Amazon has issued a statement announcing the suspension of AWS services to Parler, citing violations of its policy against services being used for illegal or harmful purposes. This move could potentially take Parler offline unless the company quickly finds another cloud provider.
+
+Despite the reported suspension, Parler was still accessible to CNBC staff early Sunday morning, East Coast time, raising questions about the implementation and timing of Amazon's decision. The situation remains fluid, with further developments expected.
+
+Parler's CEO, John Matze, has vehemently lashed out against Big Tech's actions, claiming, "Amazon, Google, and Apple are working together to ensure they don't have competition." This accusation highlights the growing tension between Parler and the tech giants, who have faced their own pressures to regulate content on their platforms.
+
+Earlier, Google removed Parler from its Play Store, and Apple issued a warning of a potential removal from its App Store, actions that signal a coordinated effort to address concerns related to violent content and the safeguarding of public safety.
+
+Parler has positioned itself as a bastion of free speech, attracting a large following among individuals who feel marginalized by the more mainstream social media platforms. However, with content on Parler including violent threats and explicit calls for weapons at the upcoming presidential inauguration, the platform finds itself at the heart of a controversy concerning the limits of free speech and the responsibility of digital platforms.
+
+Amazon's AWS has long maintained policies against its services being used for illegal activities or to promote harm. This latest action against Parler is consistent with those policies and underscores the tech industry's ongoing dilemma in balancing free speech with the prevention of violence.
+
+The AECJ has previously been influential in pushing Amazon towards more progressive labor practices and aggressive climate change policies. Their current stand on Parler represents another chapter in their efforts to leverage their collective voice for broader social and corporate accountability.

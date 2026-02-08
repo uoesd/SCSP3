@@ -1,0 +1,19 @@
+Facebook cracks down on German anti-COVID restrictions group over 'social harm'
+
+Sept 16 (Reuters) - Facebook (FB.O) has removed a network of accounts linked to an anti-COVID restrictions movement in Germany as it announced a new crackdown on coordinated campaigns of real users that cause harm on and off its platforms.
+
+Reuters exclusively reported on Thursday that Facebook's security teams were expanding the tactics used to take down influence operations using fake accounts to do more wholesale shutdowns of coordinated groups of real-user accounts causing harm, through mass reporting or brigading.
+
+In a related change, Facebook has also been working for several months to use its tactics against "coordinated social harm," its head of security policy Nathaniel Gleicher said in a call with reporters on Thursday.
+
+He said these campaigns typically involve tightly-organized networks of real users who systematically violate its policies to cause harm, including away from Facebook, but do not violate the company's rules on influence operations using fake accounts or against dangerous organizations.
+
+The changes could have major significance for how the world's largest social media network handles organized political and social movements on its sites. In a recent report on influence operations, the company said a key trend it saw was the blurring between authentic public debate and manipulation by foreign and domestic campaigns. ( https://bit.ly/3tMMvav )
+
+How platforms should enforce against offline activities, which is often described vaguely in their rules, is also an area of debate which has gained attention in connection with violent events such as the U.S. Capitol riot. read more
+
+Querdenken is a movement of protesters who have railed against coronavirus restrictions in Germany. Facebook said the network operated by individuals associated with Querdenken used authentic and duplicate accounts to post and amplify harmful health misinformation, hate speech and incite violence across multiple internet services. Facebook also said the movement had been linked to off-platform physical violence and COVID related social harms. read more
+
+The Querdenken movement did not immediately respond to a Reuters request for comment.
+
+Facebook, which has been under scrutiny over its handling of anti-vaccine and COVIDw-19 misinformation which has proliferated online during the pandemic, said it was not banning all Querdenken content from its platforms.

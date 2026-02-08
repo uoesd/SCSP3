@@ -1,0 +1,19 @@
+Colonial Pipeline Network Disruption Resolved, Not Malware Related
+
+May 28 (Reuters) – Colonial Pipeline, the largest refined products pipeline in the United States, experienced a temporary network disruption on Saturday but has since resolved the issue.
+
+The company stated that the disruption was not related to malware, contrary to initial concerns. Instead, the issue stemmed from the company's shipping nomination system, which allows shippers to enter and update delivery nominations.
+
+"The issue has been resolved, and our network functionality has returned to normal," Colonial Pipeline said in a statement.
+
+The cause of the network issues was not specified. However, the shipping nomination system is operated by Transport4 (T4), a third-party company. T4 reported that its application was functioning normally for all customers and carriers.
+
+This incident follows a recent ransomware attack that significantly disrupted fuel delivery in the southeast U.S. The attack, which occurred on May 7, forced Colonial Pipeline to shut down its operations for several days.
+
+As a result of the earlier disruption, about 6,000 gas stations in the southeast were still without fuel as of Saturday. Gasoline prices have also risen to the highest in seven years, partly due to the hack and the onset of the Memorial Day weekend.
+
+Colonial Pipeline is working to restore full service to its customers and is urging motorists to avoid panic buying. The company emphasized that its pipelines are operating normally and that there is no shortage of fuel.
+
+"We appreciate the patience and understanding of our customers and the public during this time," Colonial Pipeline said.
+
+The company is continuing to investigate the cause of the network disruption and is working to prevent similar incidents in the future.

@@ -1,0 +1,23 @@
+Citibank's $500m Mispayment to Revlon Lenders Deemed Unrecoverable
+
+A federal court has ruled that Citibank cannot reclaim over $500 million mistakenly paid to Revlon lenders last year, marking a significant setback for the bank in its efforts to recover the funds.
+
+The error occurred on August 11, 2020, during a transaction intended to send $7.8 million in interest payments to Revlon's lenders. However, due to a user-interface error, a Wipro employee mistakenly set up the transaction to repay the entire $894 million principal.
+
+"We were supposed to be sending $7.8 million of interest payments, and instead, we sent $894 million," said Vincent Fratta, a senior manager at Citibank.
+
+The transaction was supposed to be subject to a "six-eyes" policy, involving a Wipro worker in India, a local manager, and Fratta. However, the error was not detected by any of the three individuals.
+
+The mistaken transfer repaid the entire loan principal to 315 creditors, several years earlier than the due date in 2023. Citibank immediately requested the return of the funds, but the lenders refused.
+
+"We believe that the lenders had reasonable grounds to consider the payment as intentional," said Judge Jesse Furman in his ruling. "Believing that Citibank made such a mistake is borderline irrational."
+
+Lawyers representing two of the lenders, Brigade and HPS Investment Partners, expressed satisfaction with the decision.
+
+"We are pleased with the court's decision, which confirms that the lenders were entitled to rely on the payment as valid," said Benjamin Finestone, representing Brigade and HPS.
+
+Citibank plans to appeal the decision, stating its intention to recover the mistakenly sent funds.
+
+"We believe that the court erred in its decision and that we are entitled to recover the funds that were mistakenly sent," said a Citibank spokesperson.
+
+The case has raised concerns about the use of third-party vendors in financial transactions and the potential for human error. It also highlights the importance of robust internal controls and oversight mechanisms to prevent such mistakes from occurring in the future.

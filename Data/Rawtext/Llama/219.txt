@@ -1,0 +1,21 @@
+SEC Investigates Companies Over SolarWinds Cyber-Breach Disclosure
+
+The US Securities and Exchange Commission (SEC) has launched an investigation into whether companies failed to disclose their involvement in the SolarWinds cyber-breach, which occurred in December 2020. The breach allowed hackers to access data from thousands of companies and government offices, affecting SolarWinds' share price.
+
+The SEC has sent investigative letters to public issuers and investment firms, requesting voluntary information on the effects of the hack and any potential disclosure failures. The regulator is focused on determining whether affected companies had lapses in internal controls and issues related to insider trading.
+
+"We are working closely with our customers to understand and remedy any issues arising from the attack," said a spokesperson for SolarWinds. "Our priority is to ensure the security and privacy of our customers' data."
+
+The SEC's investigation also assesses company policies on protecting customer information. US securities law mandates that companies must disclose material information, including cyber-breaches, that may affect share prices.
+
+The SEC's press office has declined to comment on the investigation. However, companies that respond to the SEC's letters with breach details may avoid enforcement actions for historical disclosure and control failures.
+
+The SolarWinds breach has been attributed to Russia's SVR, affecting US federal agencies and private sector companies. The US and UK have condemned the attack, calling it a serious violation of privacy and security.
+
+The SEC's investigation highlights the growing concern over cybersecurity and data privacy. As companies increasingly rely on technology, the risk of cyber-attacks and data breaches has become a major threat.
+
+In recent years, the SEC has stepped up its enforcement of cybersecurity regulations, issuing fines and penalties to companies that fail to disclose cyber-breaches or have inadequate cybersecurity measures in place.
+
+The investigation into the SolarWinds breach is just the latest example of the SEC's efforts to hold companies accountable for their cybersecurity practices. It serves as a warning to companies to take their cybersecurity responsibilities seriously and to be transparent about any breaches that occur.
+
+In conclusion, the SEC's investigation into the SolarWinds cyber-breach highlights the importance of cybersecurity and data privacy. Companies must take steps to protect their customers' data and be transparent about any breaches that occur. The SEC will continue to monitor companies' cybersecurity practices and take enforcement action when necessary.

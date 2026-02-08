@@ -1,0 +1,15 @@
+Facebook Outage: Military Raid Claim Debunked, Human Error to Blame
+
+The recent six-hour outage that affected Facebook, Instagram, and WhatsApp left many users scratching their heads and speculating about the cause. One claim that gained traction online suggested that the military had raided Facebook's servers, causing the disruption. However, this claim has been thoroughly debunked by Facebook officials and the Department of Defense.
+
+According to Facebook CEO Mark Zuckerberg, the outage was the worst the company had seen in years, affecting users globally. Restoration was delayed due to the outage also removing Facebook from the Domain Name System servers, hindering internal investigation and resolution tools.
+
+Santosh Janardhan, Facebook's Vice President of Infrastructure, explained that the outage was caused by human error during routine maintenance. An engineer issued a command that unintentionally disrupted Facebook's global data center connections. An audit tool that was supposed to prevent such an error failed to stop the erroneous command.
+
+Tom Parnell, a communications manager at Facebook, directly refuted the military raid claim, pointing to Janardhan's explanation. "There is no truth to the claim that the military raided our servers," Parnell said. "The outage was caused by a mistake made during routine maintenance, and we apologize for the inconvenience it caused our users."
+
+Stephon Rudd, a Facebook user, was among those affected by the outage. "I was trying to post a photo on Instagram, and it just wouldn't load," Rudd said. "I thought it was just my internet connection, but then I realized that Facebook and WhatsApp were down too. It was really frustrating."
+
+The Department of Defense was reached for comment, but the claim has been rated as false based on facts. "There is no truth to the claim that the military raided Facebook's servers," said a spokesperson for the Department of Defense. "We have no involvement in the outage, and we are not aware of any plans to seize Facebook's servers."
+
+In conclusion, the claim that the military raided Facebook's servers, causing the recent outage, has been thoroughly debunked by Facebook officials and the Department of Defense. The outage was caused by human error during routine maintenance, and Facebook has apologized for the inconvenience it caused its users. It is important to fact-check information before sharing it online to avoid spreading false information and to ensure that we are not contributing to the spread of misinformation.

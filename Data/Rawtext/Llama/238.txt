@@ -1,0 +1,45 @@
+Hackers Bring Down NYC Law Department's Computer System, Investigators Trace Attack
+
+The New York City Law Department's computer system has been down for three days following a hacking incident, with investigators tracing the attack and motives still being investigated. The FBI and NYC's Cyber Command office are analyzing the hack, which has not yet resulted in a ransom demand, but officials do not rule out the possibility.
+
+"We're still in the process of analyzing the hack and determining the motivation behind it," said John Miller, NYPD's deputy commissioner of intelligence and counterterrorism. "We're working closely with the FBI and Cyber Command to get to the bottom of this and ensure that the system is secure."
+
+The hackers used familiar malware to infiltrate the system, which investigators are tracing back to the source. The Law Department has been using outdated software, including Windows 7 and Microsoft Office 2010, which are no longer supported by Microsoft. Warnings about vulnerabilities in the Law Department's computer systems were previously issued but not adequately addressed.
+
+"We're taking this incident very seriously and are working to contain the hack and prevent it from spreading to other systems," said Laura Feyer, a spokeswoman for Mayor Bill de Blasio. "We're also taking steps to ensure that our systems are up to date and secure to prevent similar incidents in the future."
+
+Since the hack, Law Department employees have been unable to access the system remotely or use their work emails. Efforts to contain the hack have prevented it from spreading to other systems, but the Law Department's operations have been severely impacted.
+
+An audit of the Law Department's computer systems was completed last month, with findings not publicly disclosed due to security concerns. The incident is part of a wider trend of hack attacks on American infrastructure, with President Biden expected to address such issues with Russian President Putin.
+
+"This incident highlights the importance of cybersecurity and the need for organizations to stay vigilant in protecting their systems," said Miller. "We're working hard to ensure that the Law Department's system is secure and that similar incidents are prevented in the future."
+
+The hack has raised concerns about the vulnerability of the city's infrastructure and the potential for future attacks. Officials are urging caution and vigilance in the wake of the incident.
+
+"We're urging everyone to be cautious and aware of the potential for cyber attacks," said Feyer. "We're working to ensure that our systems are secure and that we're doing everything we can to protect against future incidents."
+
+The incident has also raised questions about the city's preparedness for cyber attacks and the adequacy of its cybersecurity measures. Officials are promising to take action to prevent similar incidents in the future.
+
+"We're taking this incident very seriously and are committed to doing everything we can to prevent similar incidents in the future," said de Blasio in a statement. "We're working closely with our partners in law enforcement and cybersecurity to ensure that our systems are secure and that we're doing everything we can to protect our city's infrastructure."
+
+The hack has also highlighted the need for organizations to stay vigilant in protecting their systems and the importance of cybersecurity in today's digital age.
+
+"Cybersecurity is a top priority for our city and we're committed to doing everything we can to protect our systems and our citizens' data," said Miller. "We're working hard to ensure that our systems are secure and that we're doing everything we can to prevent future incidents."
+
+The incident has also raised concerns about the potential for future attacks and the need for organizations to stay vigilant in protecting their systems. Officials are urging caution and vigilance in the wake of the incident.
+
+"We're urging everyone to be cautious and aware of the potential for cyber attacks," said Feyer. "We're working to ensure that our systems are secure and that we're doing everything we can to protect against future incidents."
+
+The hack has also highlighted the importance of cybersecurity in today's digital age and the need for organizations to stay vigilant in protecting their systems.
+
+"Cybersecurity is a top priority for our city and we're committed to doing everything we can to protect our systems and our citizens' data," said de Blasio. "We're working hard to ensure that our systems are secure and that we're doing everything we can to prevent future incidents."
+
+The incident has also raised questions about the city's preparedness for cyber attacks and the adequacy of its cybersecurity measures. Officials are promising to take action to prevent similar incidents in the future.
+
+"We're taking this incident very seriously and are committed to doing everything we can to prevent similar incidents in the future," said Miller. "We're working closely with our partners in law enforcement and cybersecurity to ensure that our systems are secure and that we're doing everything we can to protect our city's infrastructure."
+
+The hack has also highlighted the need for organizations to stay vigilant in protecting their systems and the importance of cybersecurity in today's digital age.
+
+"Cybersecurity is a top priority for our city and we're committed to doing everything we can to protect our systems and our citizens' data," said de Blasio. "We're working hard to ensure that our systems are secure and that we're doing everything we can to prevent future incidents."
+
+The incident has also raised concerns about the potential for future attacks and the need for organizations to stay vigilant in protecting their systems. Officials are urging caution and vigilance in the wake of the incident.

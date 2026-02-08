@@ -1,0 +1,21 @@
+The New Mandate: Strengthening Pipeline Cybersecurity in the Wake of Colonial Pipeline Attack
+
+In an unsettling revelation, the Colonial Pipeline, a crucial artery in the United States' fuel infrastructure, faced a significant ransomware attack without having undergone a recommended comprehensive cybersecurity review by the Transportation Security Administration (TSA). The attack, which forced the shutdown of the pipeline, led to widespread fuel shortages across the East Coast, highlighting the vulnerability of critical infrastructure to cyber threats.
+
+The incident has raised alarms over the cybersecurity preparedness of vital national infrastructure, especially as it was revealed that Colonial Pipeline had not participated in a TSA-initiated, voluntary, in-depth cybersecurity review. "Our venture into cybersecurity has been vigorous, although we had not engaged in the TSA's specific review before this incident," admitted Kevin Feeney, a spokesperson for Colonial Pipeline.
+
+In response to the growing threat, the Department of Homeland Security is shifting gears towards implementing mandatory rules for pipeline cybersecurity. This represents a major policy shift after decades of voluntary guidelines designed in partnership with the energy industry, which lacked penalties for non-compliance. Historically, the TSA has only conducted 23 comprehensive cybersecurity assessments, known as VADR (Validated Architecture Design Review), on pipeline companies as of the end of 2018.
+
+Homeland Security Secretary Alejandro Mayorkas underscored the necessity of this new direction. "The landscape of threats has evolved, and so must our strategies to defend against them. Voluntary guidelines are no longer sufficient in the face of determined cyber criminals," Mayorkas stated, highlighting the importance of adapting to new and emerging threats.
+
+Echoing this sentiment, Rep. Jim Langevin (D-R.I.), co-founder of the Congressional Cybersecurity Caucus, criticized the slow transition to mandatory cybersecurity measures. "For too long, critical infrastructure has remained dangerously vulnerable, resting on the hope that voluntary guidelines are sufficiently protective against sophisticated cyber attacks," Langevin pointed out.
+
+Industry experts weigh in on the importance of mandatory cybersecurity rules. Michael Chertoff, former Secretary of Homeland Security, emphasized that "the time to act is now. The safety and security of our nation's infrastructure cannot be left to voluntary measures alone." Meanwhile, Jack Fox, head of TSA's pipeline security program, and Gary Forman, director of Corporate Security at NiSource Inc., acknowledged the evolving cybersecurity landscape's demands for more stringent measures.
+
+Despite the previous reliance on voluntary compliance, influenced by industry resistance to regulation, the TSA is now poised to enforce mandatory rules. This change comes as a response to the increasing prevalence of ransomware attacks targeting critical infrastructure.
+
+Colonial Pipeline has since taken steps to bolster its cybersecurity posture, reportedly increasing its IT spending by about 50% since 2017. The company has also engaged independent firms for cybersecurity risk assessments in an effort to fortify its defenses against future attacks. "Investment in cybersecurity is a top priority for us," affirmed Feeney, reflecting on the lessons learned from the ransomware attack.
+
+The push for mandatory cybersecurity measures is reinforced by the advice of experts like Tim Conway, an industrial control systems cybersecurity instructor at the SANS Institute, who warns, "Voluntary guidelines are simply not enough in today's rapidly evolving threat landscape. We need enforceable standards to protect our critical infrastructure."
+
+The move towards enforceable cybersecurity standards for pipelines represents a pivotal moment in the nation's effort to safeguard critical infrastructure from increasingly sophisticated and audacious cyber attacks. It marks a significant departure from the past reliance on voluntary compliance and underscores the pressing need for robust cybersecurity defenses in a digital age fraught with threats.

@@ -1,0 +1,17 @@
+President Biden Announces COVID-19 Vaccine Mandates, with Legal Challenges Likely to Follow
+
+Yesterday, September 9, President Biden announced several initiatives regarding COVID-19 vaccine requirements for U.S. employers. This alert provides a brief overview of the content and timing of the principal initiatives, and previews certain objections likely to be raised in legal challenges that some governors and others have said they will file.
+
+OSHA rule requiring all employers with 100+ employees to ensure their workers are vaccinated or tested weekly, and to pay for vaccination time.
+
+The President announced that the Department of Labor's Occupational Safety and Health Administration (OSHA) is developing an Emergency Temporary Standard (ETS) that will require all employers with 100 or more employees to ensure that their workforce is fully vaccinated or to require any workers who remain unvaccinated to produce a negative test result at least weekly before coming to work. The rule—which is expected to issue within weeks—will require employers with more than 100 employees to provide paid time off for the time it takes for workers to get vaccinated and to recuperate if they experience serious side effects from the vaccination.
+
+OSHA ETS's are authorized by statute, which permits the Secretary of Labor to promulgate an ETS when he determines (1) "that employees are exposed to grave danger from exposure to substances or agents determined to be toxic or physically harmful or from new hazards," and (2) "that such emergency standard is necessary to protect employees from such danger."[1] An ETS may be in place for up to six months, at which point OSHA must issue a permanent standard that has been adopted through ordinary rulemaking processes.[2] This would be OSHA's second COVID ETS, following an ETS adopted in June that was limited to the health care sector.[3]
+
+OSHA likely does not plan a notice-and-comment process for the forthcoming rule, which is not required for an ETS. As a consequence, the standard's specific requirements likely will become known the day of publication, with an effective date shortly thereafter. Uncertainties that issuance of the rule should resolve include how it would apply to employees working at home, or to workers at remote locations without contact with other employees.
+
+The decision to adopt the rule as an "emergency" and "temporary" standard, without notice and comment, could be one focus of a legal challenge. A challenge may also target the rule's wage-payment requirement; wages are not a subject that OSHA ordinarily regulates, and the requirement arguably contrasts with Congress's decision to let the COVID-related paid leave programs established by the Families First Coronavirus Response Act expire after December 31, 2020. If the ETS requires vaccination for workers who recently had and recovered from COVID-19, that could be targeted also.
+
+Executive Orders requiring vaccinations for employees of federal contractors, and for all federal workers.
+
+In announcing the OSHA ETS, the President also issued separate Executive Orders regarding vaccination of employees of federal contractors, and regarding vaccination of federal workers.

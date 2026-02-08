@@ -1,0 +1,21 @@
+Cybersecurity Imperative: Military Logistics at Risk Amidst Growing Threats
+
+NATIONAL HARBOR, Md.: – The recent Colonial Pipeline hack, orchestrated by Russian-based hackers, has brought into sharp focus the vulnerability of critical infrastructure to cyber attacks. The incident, which led to a gas shortage, increased fuel prices, and a $5 million ransom, has served as a stark reminder of the potential consequences of such attacks.
+
+At the National Defense Transportation Association conference, Air Force Secretary Frank Kendall sounded the alarm about the growing threat of cyber attacks on US military logistics. "Our logistics and supply chain are vulnerable to cyber attacks," Kendall warned. "We need to take steps to improve our cybersecurity."
+
+Kendall's concerns were echoed by Air Force Gen. Jacqueline Van Ovost, head of US Transportation Command. "Cyber attacks are a real and growing threat to our military," Van Ovost said. "We need to be prepared to defend against these attacks."
+
+The Department of Defense relies heavily on commercial vendors for essential commodities, making it vulnerable to disruptions caused by cyber attacks. Kendall emphasized the potential devastation of cyber or kinetic attacks on military networks and infrastructure. "A cyber attack on our logistics system could have a devastating impact on our ability to fight and win wars," Kendall said.
+
+To mitigate these vulnerabilities, Kendall advocated for more funding to improve cybersecurity within the military's logistics and supply chain. He also stressed the need for weapon storage and hardened fuel storage infrastructure. "We need to invest in our logistics system to make it more resilient to cyber attacks," Kendall said.
+
+In addition to funding, Kendall emphasized the need to recruit talented employees and acquire more resilient transportation systems to counter cyber and kinetic attacks. "We need to recruit the best and brightest minds to work in our logistics system," Kendall said. "We also need to acquire more resilient transportation systems that can withstand cyber attacks."
+
+Nickolas Guertin, nominee for the director of operational test and evaluation (DOT&E), also highlighted the importance of cybersecurity testing. "We need to invest more resources in cybersecurity testing," Guertin said. "We also need to automate cybersecurity testing to make it more efficient."
+
+The DOT&E office is responsible for developing cybersecurity standards for military technology. However, the office faces challenges due to resource limitations and high demand. "We need more resources to meet the growing demand for cybersecurity testing," Guertin said.
+
+Guertin also recommended independent security assessments of cloud services purchased by the Defense Department from commercial vendors. "We need to make sure that the cloud services we use are secure," Guertin said. "We need to conduct independent security assessments of these services to ensure that they meet our security requirements."
+
+The growing threat of cyber attacks on military logistics is a serious concern that requires immediate attention. The Department of Defense must take steps to improve its cybersecurity posture and invest in more resilient transportation systems. By doing so, the military can ensure that it is prepared to defend against cyber attacks and maintain its ability to fight and win wars.

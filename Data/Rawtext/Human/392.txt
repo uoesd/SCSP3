@@ -1,0 +1,25 @@
+A Facebook engineer abused access to user data to track down a woman who had left their hotel room after they fought on vacation, new book says
+
+A Facebook engineer abused employee access to user data to track down a woman who had left him after they fought, a new book said.
+
+This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now.
+
+Between January 2014 and August 2015, the company fired 52 employees over exploiting user data for personal means, said an advance copy of "An Ugly Truth: Inside Facebook's Battle for Domination" that Insider obtained.
+
+The engineer, who is unnamed, tapped into the data to "confront" a woman with whom he had been vacationing in Europe after she left the hotel room they had been sharing, the book said. He was able to figure out her location at a different hotel.
+
+Another Facebook engineer used his employee access to dig up information on a woman with whom he had gone on a date after she stopped responding to his messages. In the company's systems, he had access to "years of private conversations with friends over Facebook messenger, events attended, photographs uploaded (including those she had deleted), and posts she had commented or clicked on," the book said. Through the Facebook app the woman had installed on her phone, the book said, the engineer was also able to see her location in real time.
+
+Facebook employees were granted user data access in order to "cut away the red tape that slowed down engineers," the book said.
+
+"There was nothing but the goodwill of the employees themselves to stop them from abusing their access to users' private information," wrote Sheera Frenkel and Cecilia Kang, the book's authors. They added that most of the employees who abused their employee privileges to access user data only looked up information, although a few didn't stop there.
+
+Most of the engineers who took advantage of access to user data were "men who looked up the Facebook profiles of women they were interested in," the book said.
+
+Facebook told Insider it fired employees found to have accessed user data for nonbusiness purposes.
+
+"We've always had zero tolerance for abuse and have fired every single employee ever found to be improperly accessing data," a spokesperson told Insider in a statement. "Since 2015, we've continued to strengthen our employee training, abuse detection, and prevention protocols. We're also continuing to reduce the need for engineers to access some types of data as they work to build and support our services."
+
+A problem that cropped up 'nearly every month'
+
+Mark Zuckerberg, Facebook's CEO, was first made aware of the problem in September 2015, when Alex Stamos, Facebook's chief security officer at the time, raised the issue with him. In a presentation to Zuckerberg and the company's top executives, Stamos said engineers had abused the access "nearly every month," the book said.

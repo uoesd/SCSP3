@@ -1,0 +1,17 @@
+Boosting America's Cybersecurity: DOE Proposes Major Budget Increase Amid Growing Threats
+
+WASHINGTON – The Department of Energy has requested a significant increase in its budget to bolster the nation's cybersecurity defenses, asking Congress for $201 million for fiscal 2022, a substantial rise from the $157 million allocated in 2021. This request comes at a critical time as the U.S. grapples with the consequences of several high-profile cyberattacks, underscoring the vulnerabilities in the country's digital and energy infrastructures.
+
+The proposed budget increase aims to enhance cybersecurity measures, specifically targeting the strengthening of the supply chain and technological infrastructure. Secretary of Energy Jennifer Granholm emphasized the urgency of this initiative, stating, "Upgrading software and hiring more cybersecurity professionals are crucial steps we need to take to defend our critical energy infrastructure."
+
+Granholm also highlighted the need for establishing cyber standards in the pipeline industry, an issue that was starkly brought to light following the disruptive Colonial Pipeline ransomware attack. "We have seen the chaos that can ensue from such vulnerabilities. It's time to enforce standards that will safeguard our energy supply chain," Granholm observed.
+
+In the wake of these incidents, the Biden administration is keen on improving collaboration between the private sector and the government on cybersecurity initiatives. Granholm critiqued the current state of affairs, suggesting that "the government might need more visibility into private sector systems to ensure the collective defense of our critical infrastructure."
+
+Amid these considerations, Brad Smith, President of Microsoft, echoed the urgency for public-private partnerships in cybersecurity. "Working hand in hand with the government is imperative. We need frameworks that facilitate information sharing and collective defense strategies," Smith said.
+
+Reflecting the broader concern for national cybersecurity, the federal civilian cybersecurity budget request for 2022 stands at $9.8 billion, marking a nearly 15% increase from 2021. The Pentagon's request for cybersecurity funding similarly underscores the growing emphasis on defense, with a budget request of $10.4 billion.
+
+These budgetary requests follow a series of ransomware attacks that have impacted Americans and disrupted services across the country. Highlighting the sophistication and global nature of such threats, the U.S. has officially blamed Russia's Foreign Intelligence Service for the SolarWinds cyberattack, a charge that Russia denies.
+
+As cyber threats become increasingly common and complex, the emphasis on bolstering America's cybersecurity has never been more acute. The proposed budget increases and the call for enhanced collaboration between the private sector and government represent crucial steps towards fortifying the nation against the evolving digital dangers.

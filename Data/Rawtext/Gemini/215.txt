@@ -1,0 +1,29 @@
+Colonial Pipeline Resumes Operations, Sparking Cybersecurity Debates
+
+Washington, D.C. - The Colonial Pipeline, a major fuel artery for the East Coast, resumed operations on Wednesday evening after a cyberattack forced its shutdown, leading to fuel shortages and panic buying. The process of returning the pipeline to normal operations is expected to take several days.
+
+The cyberattack, which was reported to the FBI and the Cybersecurity and Infrastructure Security Agency (CISA), has sparked debates in Congress over cybersecurity and the federal government's responsibility for protecting critical infrastructure.
+
+"This attack is a reminder that we need to strengthen our infrastructure against cyber threats," said Energy Secretary Jennifer Granholm. "We need to invest in new technologies and strategies to protect our critical energy infrastructure from these types of attacks."
+
+President Joe Biden issued an executive order on Wednesday to update the federal government's approach to cybersecurity. The order directs federal agencies to improve their cybersecurity posture, share information more effectively, and develop a national strategy for cybersecurity.
+
+"This executive order is a critical step towards strengthening our cybersecurity defenses," Biden said. "We need to make sure that our government and our critical infrastructure are protected from these types of attacks."
+
+The FBI has identified the criminal organization DarkSide as responsible for the attack. DarkSide is known for using ransomware, a type of malware that encrypts data and demands a ransom payment to decrypt it.
+
+"This attack is a serious threat to our national security," said Frank Pallone Jr. (D-N.J.), Chairman of the Energy and Commerce Committee. "We need to take action to protect our critical infrastructure from these types of attacks."
+
+Cathy McMorris Rodgers (R-Wash.), Ranking Member of the Energy and Commerce Committee, agreed that cybersecurity is a top priority.
+
+"We need to work together to develop a comprehensive cybersecurity strategy that protects our critical infrastructure and our national security," Rodgers said.
+
+Transportation Secretary Pete Buttigieg discussed the need for investment in resilient infrastructure as a national security issue.
+
+"This pipeline incident is a demonstration of the importance of the Biden administration's infrastructure proposal," Buttigieg said. "We need to invest in our infrastructure to make it more resilient to cyberattacks and other threats."
+
+The Federal Motor Carrier Safety Administration and other agencies are taking measures to mitigate the fuel supply crisis. The FMCSA has issued a temporary waiver of certain regulations to allow truck drivers to transport more fuel.
+
+Buttigieg said that the Biden administration is working with states and industry to address the fuel supply crisis.
+
+"We are doing everything we can to get fuel to where it needs to go," Buttigieg said. "We are working with states and industry to address the fuel supply crisis and to prevent disruptions to the economy."

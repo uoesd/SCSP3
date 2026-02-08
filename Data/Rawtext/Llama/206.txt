@@ -1,0 +1,19 @@
+Pipeline Cybersecurity Gets a Boost, But Challenges Persist
+
+In the aftermath of the Colonial Pipeline cyberattack in May, government and private stakeholders are working diligently to fortify the nation's oil and natural gas pipelines against cyber threats. Efforts to improve cybersecurity, however, face significant challenges, including expanding vulnerabilities, complex legacy networks, and the need for better visibility into operational technology systems.
+
+Kimberly Denbow, Managing Director of Security and Operations at the American Gas Association, acknowledges the urgency of the situation. "The Colonial Pipeline attack was a wake-up call for the industry. We need to do more to protect our infrastructure from cyber threats."
+
+To address these concerns, the Federal Energy Regulatory Commission (FERC) and other experts are advocating for minimum cybersecurity standards for pipeline operators. Melissa Ruiz, Spokesperson for Kinder Morgan, notes that while pipeline operators are willing to comply with guidelines such as those from the National Institute of Standards and Technology (NIST), they also seek more government protection against state-sponsored cyberattacks.
+
+Despite the willingness to comply, a significant portion of pipeline operators have been found to have inadequate cybersecurity practices, including insecure passwords and poor network segmentation. Legacy operational technology and increasing network connectivity have heightened vulnerabilities within pipeline systems.
+
+In response, the Biden administration has issued directives imposing minimum cybersecurity requirements on pipeline operators. The Transportation Security Administration (TSA) is also considering long-term rulemaking for pipeline cybersecurity, with more stakeholder involvement.
+
+FERC Commissioner Neil Chatterjee emphasizes the need for a collaborative approach. "We must work together to ensure the security of our nation's energy infrastructure. It's a complex and ongoing challenge, but one that we cannot afford to ignore."
+
+While progress is being made, the lack of current standards raises concerns about potential ineffective or burdensome regulations stemming from a hurried policy response. "We don't want to create regulations that are too onerous or difficult to implement," says Denbow. "We need to find a balance between security and operational efficiency."
+
+In the meantime, pipeline operators are taking steps to bolster their cybersecurity defenses. Kinder Morgan's Ruiz notes that her company has implemented a range of measures, including network segmentation, encryption, and enhanced access controls. "We take the threat of cyberattacks very seriously and are committed to doing everything we can to protect our systems," she says.
+
+As the government and private sector continue to work together to address the cybersecurity challenges facing the nation's pipeline infrastructure, one thing is clear: the stakes are high, and the clock is ticking. "The threat of cyberattacks is not going away," warns Denbow. "We must remain vigilant and proactive in our efforts to protect our critical energy infrastructure."

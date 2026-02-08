@@ -1,0 +1,23 @@
+Social Media Meltdown: Facebook, WhatsApp, Instagram Suffer Historic Outage
+
+On Monday, the world's largest social media platforms, Facebook, WhatsApp, and Instagram, experienced a massive six-hour outage that left 2.7 billion global users disconnected. The disruption began around 11:30 EST, sending users and tech leaders flocking to Twitter.
+
+"We're aware that some people are having trouble accessing our apps and products," Facebook CEO Mark Zuckerberg tweeted. "We're working to get things back to normal as quickly as possible."
+
+The outage was the largest ever recorded by Downdetector, a website that tracks internet outages. "This is the largest outage we've ever seen," said Downdetector's Tom Sanders. "It's affecting a huge number of people around the world."
+
+Signal, a private messaging app, saw a surge in new users during the outage, with an endorsement from Twitter CEO Jack Dorsey. "Signal is a great alternative to WhatsApp," Dorsey tweeted. "It's fast, secure, and doesn't track your data."
+
+"We're seeing a lot of new people joining Signal today," Signal CEO Moxie Marlinspike said in a tweet. "We're here to help you stay connected."
+
+The outage also prevented many Facebook employees from working, leading the company to liken it to a "snow day." "We're aware that many of our employees are having trouble accessing our internal tools and systems," Facebook said in a statement. "We're working to resolve the issue as quickly as possible."
+
+Facebook attributed the outage to a "faulty configuration change" and confirmed that no user data was compromised. "We're still investigating the cause of the outage, but we believe it was caused by a faulty configuration change," Zuckerberg said. "We're sorry for the disruption and inconvenience this has caused."
+
+Instagram head Adam Mosseri acknowledged the challenges faced during the outage. "We know that many of you rely on Instagram to stay connected with friends and family," Mosseri said. "We're working hard to get things back to normal as quickly as possible."
+
+Twitter became the primary platform for communication and jokes about the outage, with its official account participating. "Hello literally everyone," the Twitter account tweeted. "We're seeing a lot of you here today. Welcome!"
+
+The event highlighted the reliance on social platforms for communication and the competitive dynamics between these services. "This outage shows how dependent we've become on social media," said tech analyst Ben Thompson. "It also shows that there are other options out there, like Signal."
+
+As of Monday evening, Facebook, WhatsApp, and Instagram were slowly coming back online. "We're making progress on getting our systems back up and running," Zuckerberg said. "We'll continue to keep you updated as we learn more."

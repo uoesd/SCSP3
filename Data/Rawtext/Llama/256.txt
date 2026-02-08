@@ -1,0 +1,11 @@
+FDA Issues Emergency Use Authorization for Pfizer's Paxlovid, the First Oral Antiviral for COVID-19 Treatment
+
+The U.S. Food and Drug Administration (FDA) today issued an emergency use authorization (EUA) for Pfizer's Paxlovid (ritonavir-boosted nirmatrelvir) oral antiviral drug for the treatment of COVID-19. This authorization allows for the use of Paxlovid in adults and pediatric patients (12 years and older) who are at high risk of progressing to severe COVID-19, and should be prescribed and taken within five days of symptom onset.
+
+"The FDA's emergency use authorization of Paxlovid is a significant step forward in the fight against COVID-19," said Patrizia Cavazzoni, M.D., director of the FDA's Center for Drug Evaluation and Research. "This oral antiviral treatment has shown promise in reducing the severity of COVID-19 symptoms in high-risk patients, and we believe it has the potential to save lives."
+
+Paxlovid works by inhibiting a SARS-CoV-2 protein, preventing virus replication, with ritonavir prolonging its effect. The drug's authorization was based on a clinical trial showing it reduced hospitalization or death by 88% when taken early. Possible side effects include impaired taste, diarrhea, high blood pressure, and muscle aches. It's contraindicated with certain drugs due to potential serious interactions. Fact sheets for healthcare providers and patients/caregivers are required under the EUA.
+
+It's important to note that Paxlovid is not approved for pre-exposure or post-exposure prevention, nor for those already requiring hospitalization. Vaccination remains the primary defense against COVID-19, and the FDA continues to encourage all eligible individuals to get vaccinated.
+
+The FDA's EUA authority allows the agency to authorize the use of unapproved medical products or unapproved uses of approved medical products during public health emergencies. The EUA for Paxlovid was granted based on the severity of the COVID-19 pandemic and the potential of this drug to treat high-risk patients. The FDA will continue to monitor the safety and efficacy of Paxlovid and update the public as new information becomes available.

@@ -1,0 +1,17 @@
+Cyber Threats to Military Logistics: A Growing Concern
+
+NATIONAL HARBOR, Md.: – The recent Colonial Pipeline hack, which was caused by Russian-based hackers, served as a stark reminder of the vulnerability of the US military's logistics and supply chain to cyber attacks. The hack led to a gas shortage, increased fuel prices, and a $5 million ransom, highlighting the potential devastating impact of such attacks.
+
+Air Force Secretary Frank Kendall addressed the issue at the National Defense Transportation Association conference, emphasizing the growing threat of cyber attacks and the need for improved cybersecurity within the military's logistics and supply chain. "We are heavily dependent on commercial vendors for essential commodities, which makes us vulnerable to disruptions," Kendall said.
+
+Kendall's concerns were echoed by Air Force Gen. Jacqueline Van Ovost, head of US Transportation Command, who stressed the potential devastation of cyber or kinetic attacks on military networks and infrastructure. "We need to take a hard look at our logistics vulnerabilities and take steps to mitigate them," Van Ovost said.
+
+Kendall advocated for more funding to address these vulnerabilities, including the need for weapon storage and hardened fuel storage infrastructure. "We need to invest in systems that are resilient to cyber and kinetic attacks," Kendall said.
+
+The Pentagon also needs to recruit talented employees and acquire more resilient transportation systems to counter cyber and kinetic attacks. Nickolas Guertin, nominee for the director of operational test and evaluation (DOT&E), emphasized the need for more resources and automation for cybersecurity testing. "We need to ensure that our systems are secure and can withstand attacks," Guertin said.
+
+The DOT&E office, responsible for military technology cybersecurity standards, faces challenges due to resource limitations and high demand. Guertin recommended independent security assessments of cloud services purchased by the Defense Department from commercial vendors. "We need to make sure that our cloud services are secure and meet our standards," Guertin said.
+
+The Colonial Pipeline hack serves as a reminder that the US military's logistics and supply chain are vulnerable to cyber attacks. The Pentagon needs to take urgent steps to address these vulnerabilities and invest in systems that are resilient to cyber and kinetic attacks. With the increasing threat of cyber attacks, it is imperative that the military prioritizes cybersecurity and takes steps to protect its logistics and supply chain.
+
+In conclusion, the threat of cyber attacks on the US military's logistics and supply chain is real and growing. The Pentagon needs to take urgent steps to address these vulnerabilities and invest in systems that are resilient to cyber and kinetic attacks. With the increasing threat of cyber attacks, it is imperative that the military prioritizes cybersecurity and takes steps to protect its logistics and supply chain.

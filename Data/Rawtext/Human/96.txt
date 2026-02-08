@@ -1,0 +1,23 @@
+Citibank accidentally wired $500m back to lenders in user-interface super-gaffe – and judge says it can't be undone
+
+A judge has ruled that Citibank can't claw back more than $500m (£360m) it mistakenly paid out after outsourced staff and a senior manager made a nearly billion-dollar (£700m) user-interface blunder.
+
+The error occurred on August 11 last year, when Citibank was supposed to wire $7.8m (£5.6m) in interest payments to lenders who are propping up troubled cosmetics giant Revlon. But a worker at outsourcing mega-org Wipro accidentally checked the wrong combination of on-screen boxes, leading to the repayment of not only the interest but also the $894m (£640m) principal from the bank's funds.
+
+Citibank has a "six-eyes" policy on massive money transfers of this type. In the Revlon fiasco, a Wipro worker in India configured the transfer using software called Flexcube, his local manager approved it, and Vincent Fratta – a Citibank senior manager based in Delaware, USA – gave the final OK for the transfer of funds, all believing the settings were correct.
+
+Below is a screenshot of the transfer set up by the first Wipro worker. He should have ticked not just the principal field but also the front and fund fields, and set their values to the necessary clearing account number. By leaving those two boxes unchecked and values empty – and wrongly assuming just putting the account number in the principal field was a correct move – the entire principal of the loan, which was set to mature in 2023, was handed back to 315 creditors.
+
+Incomplete ... The Flexcube interface for the infamous transfer. Click to enlarge. Source: US courts system
+
+It wasn't until the next day that staff noticed the error, and sent out emails asking for the funds be returned – and hundreds of millions of dollars were. However, a group of 10 creditors refused to hand back their share the cash, amounting to more than $500m, leading Citibank to sue them in New York to recover the dosh.
+
+This week, the US federal district court judge presiding over that lawsuit sided with the lenders, saying [PDF] they had reasonable grounds to think that the transfer was legitimate and that they had legal grounds to keep their money.
+
+"The non-returning lenders believed, and were justified in believing, that the payments were intentional," Judge Jesse Furman ruled.
+
+"Indeed, to believe otherwise — to believe that Citibank, one of the most sophisticated financial institutions in the world, had made a mistake that had never happened before, to the tune of nearly $1bn — would have been borderline irrational."
+
+Since the amount sent back repaid the loaned amounts to the cent and no more, the judge ruled Citibank had no right to reclaim the money.
+
+"We are extremely pleased with Judge Furman's thoughtful, thorough and detailed decision," Benjamin Finestone, representing two lenders, Brigade and HPS Investment Partners, told CNN.

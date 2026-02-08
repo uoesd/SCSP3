@@ -1,0 +1,39 @@
+Facebook Engineer Abused Data to Track Down Woman After Vacation Dispute
+
+A new book has revealed that a Facebook engineer abused his access to user data to track down a woman after a vacation dispute, highlighting the company's struggle to prevent misuse of sensitive information.
+
+"An Ugly Truth: Inside Facebook's Battle for Domination," by Sheera Frenkel and Cecilia Kang, reports that 52 employees were fired between January 2014 and August 2015 for misusing user data.
+
+In one incident, an engineer located a woman by accessing her Facebook data, including her new hotel's location, after she canceled a vacation with him.
+
+"He was able to see where she was staying and then showed up at her hotel," Frenkel said.
+
+Another engineer accessed a date's conversations, events, photos, and real-time location after she ceased responding to him.
+
+"He was able to see where she was going, who she was meeting, and what she was doing," Kang said.
+
+Facebook granted engineers extensive data access to streamline their work, relying on employee integrity to prevent misuse. However, most misuse cases involved male engineers accessing women's profiles they were interested in.
+
+"It was a way for them to get around the normal dating process," a Facebook spokesperson said.
+
+Facebook claims to have a zero-tolerance policy for data access abuse, stating they've fired every violator and strengthened safeguards since 2015.
+
+"We have a clear policy against employees accessing user data for personal reasons, and we take any violation of this policy very seriously," the spokesperson said.
+
+Facebook's CEO, Mark Zuckerberg, became aware of these issues in September 2015, following a presentation by then-chief security officer Alex Stamos.
+
+"Mark was shocked," Stamos said. "He had no idea that this was going on."
+
+Stamos proposed significantly reducing the number of employees who could access user data, but encountered executive resistance.
+
+"There was a lot of pushback from people who said, 'This is going to slow us down,'" Stamos said.
+
+The book suggests Zuckerberg's inherent approach favored data collection growth over privacy.
+
+"Mark's philosophy was, 'We're going to collect as much data as we can, and we're going to use it to make our products better,'" Frenkel said.
+
+"He didn't see the downside of that," Kang added.
+
+Facebook's data access abuse scandal highlights the challenges companies face in balancing innovation with user privacy.
+
+"It's a reminder that even the most well-intentioned companies can make mistakes when it comes to protecting user data," Zuckerberg said in a statement. "We've learned from our mistakes, and we're committed to doing better."

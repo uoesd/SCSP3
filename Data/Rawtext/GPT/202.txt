@@ -1,0 +1,17 @@
+Colonial Pipeline Overcomes Temporary Network Disruption
+
+May 28 (Reuters) – Colonial Pipeline, a major fuel pipeline system in the United States, announced it had quickly resolved a brief network disruption, ensuring customers and shippers that the problem was unrelated to any cyber malware attack. This clarification comes after the pipeline operator experienced a significant ransomware attack earlier in the month that severely hampered fuel distribution across the southeast U.S.
+
+The recent network issue was specific to the company's system used by shippers to schedule fuel deliveries, known as the shipping nomination system. This disruption hindered the ability of shippers to input and modify delivery nominations, a crucial step in managing the flow of fuel through the pipeline system.
+
+Despite the temporary setback, Colonial Pipeline affirmed that its network's functionality had returned to normal, with the shipping nomination system issue being promptly addressed. The company, however, did not provide specific details regarding the cause of the network troubles.
+
+Transport4 (T4), the third-party company that operates the shipping nomination system on behalf of Colonial Pipeline, reported that its application was "functioning normally" for all customers and carriers. This statement was aimed at reassuring users about the stability and reliability of the service following the incident.
+
+This disruption follows closely on the heels of a much more severe ransomware attack on Colonial Pipeline's operations, which led to widespread fuel shortages and prompted the company to temporarily shut down its pipeline operations. The cyberattack was a significant blow to the fuel supply chain, affecting thousands of gas stations throughout the southeast, with approximately 6,000 stations still experiencing fuel outages.
+
+As a result of the cyberattack and the approaching Memorial Day weekend, a traditionally high-demand period for gasoline, prices at the pump surged to the highest levels seen in seven years. This spike in gasoline prices has added an additional layer of urgency to address cybersecurity and operational resilience within critical national infrastructure sectors.
+
+Colonial Pipeline's ability to swiftly resolve the recent network disruption indicates a heightened sense of preparedness and responsiveness within the company, likely a direct response to the vulnerabilities exposed by the ransomware attack. It also underscores the ongoing challenges faced by the energy sector in safeguarding against both cyber threats and other operational risks.
+
+The incident serves as a reminder of the importance of robust cybersecurity measures and the need for continuous vigilance and improvement of the technological systems that underpin the United States' critical infrastructure. As the country heads into the busy summer driving season, both consumers and industry stakeholders will be closely monitoring the resilience of the fuel supply chain against potential disruptions.

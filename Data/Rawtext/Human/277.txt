@@ -1,0 +1,21 @@
+Africa: tackle HIV and COVID-19 together
+
+Tulio de Oliveira is director of the Centre for Epidemic Response and Innovation, Stellenbosch University, Stellenbosch, South Africa, and of the KwaZulu-Natal Research Innovation and Sequencing Platform.
+
+Failure to get COVID-19 vaccines to nations with high rates of uncontrolled advanced HIV puts people living with that virus at even greater risk, and could drive the emergence of coronavirus variants.
+
+People in Mombasa, Kenya, hold empty boxes of antiretrovirals in an April protest over drug shortages caused by the COVID-19 pandemic.Credit: AP/Shutterstock
+
+As scientists and clinical practitioners working in hospitals and laboratories across South Africa, we've seen at first hand the devastation that COVID-19 has brought to the country. Many of our colleagues (including leading scientists and health-care professionals) have died. We have also seen how much harder it has become for people with HIV to get treatment and monitoring, which has meant more people being admitted to hospital with serious illnesses such as tuberculosis and cryptococcal meningitis.
+
+As the world shifts gear in the COVID-19 pandemic — from tackling the immediate crisis to a long-term public-health response — we urge governments, health ministries, researchers and other stakeholders worldwide to devote more of their resources and attention to the interactions between COVID-19 and HIV.
+
+Various studies from before the rollout of COVID-19 vaccines show that people with HIV are 30–50% more likely to die from COVID-19. What's more, a failure to tackle the pandemic with sufficient urgency in countries with high rates of uncontrolled advanced HIV could lead to the emergence of variants of the coronavirus SARS-CoV-2 that spread more easily between people or render the vaccines less effective. Conversely, both diseases could be curbed more effectively if they are tackled simultaneously, with public-health responses strengthened by the lessons learnt from both.
+
+Risk analysis
+
+In 2020, the World Health Organization (WHO) created a platform for standardized clinical data obtained from people with suspected or confirmed COVID-19. A preliminary analysis of these data from 37 countries (most of which come from South Africa) revealed that, controlling for other factors, people with HIV were 30% more likely to die from COVID-19 among those hospitalized with the disease1.
+
+In a more detailed analysis2 of hospitalized cases in South Africa, only people with HIV at an advanced stage were more likely to die from COVID-19. People in this group are severely immunocompromised: individuals have a blood count of fewer than 200 CD4 T cells per microlitre, compared with 500–1,500 cells per microlitre in people without HIV. (CD4 T cells are white blood cells crucial for fighting infection.) In a population-based analysis of around 3.5 million people from the Western Cape Province of South Africa (around 500,000 of whom were HIV-positive), people with HIV were twice as likely to die from COVID-193. But for those with uncontrolled or advanced HIV, the risk of dying from COVID‐19 was almost four times higher3.
+
+Other reports over the past year from various countries indicate that people with weakened immune systems can be infected with SARS-CoV-2 for several weeks or months. (By contrast, those who are otherwise healthy take, on average, around two weeks to clear an infection.) Such prolonged infections have mainly been documented in people receiving cancer chemotherapy and other immunosuppressive agents. But they have also been seen in people with advanced uncontrolled HIV.

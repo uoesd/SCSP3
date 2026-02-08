@@ -1,0 +1,19 @@
+Bose Hit by Ransomware, Exposing Personal Data of Six Former Employees
+
+Bose, a leading audio equipment manufacturer, has fallen victim to a ransomware attack that exposed the personal data of six former employees. The company detected the potential data exfiltration in late April, after the cyberattack occurred in March.
+
+The exposed data includes Social Security numbers and salary information of former employees based in New Hampshire. As of May 19, there was no evidence found of the exposed data being sold on the dark web. Despite this, the incident highlights the ongoing national issue with ransomware attacks affecting various sectors.
+
+Bose did not pay a ransom and has not disclosed the type of ransomware used. The company reported $3.6 billion in sales last year and assures no ongoing disruption to its business. Bose has worked to safely restore its systems with the help of cyber experts.
+
+In response to the incident, Bose is offering a year of free anti-fraud service to the affected individuals. This service will help protect the former employees from potential identity theft and fraud.
+
+Consumer advocates, however, urge for more protections for victims of data breaches. They argue that companies should take more responsibility in protecting personal data and provide better support to those affected by such incidents.
+
+The Bose ransomware attack is a reminder that no company is immune to cyber threats. It is essential for businesses to invest in robust cybersecurity measures to prevent and mitigate the impact of such attacks.
+
+In a statement, a Bose spokesperson said, "We take the security and privacy of our employees' personal information very seriously. We have taken steps to address the incident and are offering support to those affected."
+
+The incident serves as a warning to companies to stay vigilant in the face of increasing cyber threats. It is crucial for businesses to have incident response plans in place and to regularly update their cybersecurity measures to protect against evolving threats.
+
+In conclusion, the Bose ransomware attack highlights the importance of cybersecurity and the need for companies to take data protection seriously. While Bose has taken steps to address the incident, it is essential for companies to do more to protect their employees' and customers' personal data.

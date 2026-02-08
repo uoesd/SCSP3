@@ -1,0 +1,33 @@
+One Simple Misconfiguration. 2.9 Billion Users Down.
+
+A routine maintenance error severs Facebook's data centers from the Internet for over 6 hours
+
+On October 4, Facebook users suffered a complete outage affecting all apps including WhatsApp, Instagram, and Messenger for over 6 hours. Nearly 2.9 billion users were not only inconvenienced, but many also lost a crucial means of communication in regions where WhatsApp is the primary method for text messaging and voice calls.
+
+It was quickly discovered that the culprit was a faulty configuration change on Facebook's backbone routers that manage traffic between their data centers. A simple misconfiguration was propagated across their entire network that affected not only their users, but also impacted their own tools and systems, hindering Facebook's ability to diagnose and solve the problem.
+
+A more detailed account of the problem was later published by Facebook explaining the causes and how a routine maintenance task resulted in a complete and total service blackout. An incorrect command was sent to check capacity that inadvertently disabled Facebook's border gateway protocol (BGP) routers, effectively severing its datacenters from the internet. Adding to the problem was a bug in an audit tool that should have caught the mistake, but didn't, allowing it to be deployed live across their entire environment.
+
+With the BGP routers offline, Facebook wasn't broadcasting the routes to DNS servers on their network. DNS servers are crucial internet components that act as phonebooks, taking a domain name like www.facebook.com and translating it into an IP address. Facebook's network has its own DNS servers that maintain the IP addresses for all its domains that are shared globally across the Internet. When a user tried to access any of Facebook's domains during the outage, they were met with errors that there was no destination address to direct them to.
+
+Misconfigurations are a Top Reason for Outages
+
+" Through 2023, "99% of firewall breaches will be
+
+caused by misconfigurations, not firewalls."
+
+It's long been known that human error is a top cause of network and service outages. Complex environments amplify the likelihood that mistakes will be made and their effects will be more far-reaching. Through the next several years, Gartner says that misconfiguration errors will be responsible for 99% of all firewall security breaches.
+
+In a case like Facebook, the BGP routers were the critical point of failure to an otherwise healthy network. A small change to their configuration managed to sever their connections to the internet for hours.
+
+Security Policy Misconfigurations Can Be Worse
+
+Although disruptive, it's unlikely that any security event will result from Facebook's recent outage. However, that's not always the case. Time and again small changes have led to unintended security vulnerabilities, exposing organizations to the threat of attacks should they be found and exploited.
+
+→READ: Defining Firewall Change Management & Process Workflows
+
+Network security policy misconfigurations not only can lead to wide-scale outages, but also are one of the easiest ways to accidentally pave the way for devastating security breaches. The Capital One breach in 2019 was directly attributed to a misconfigured firewall that left one of their cloud servers vulnerable, allowing the hacker to access sensitive data for over 100 million customers.
+
+Identify, Eliminate and Protect with FireMon
+
+FireMon gives you visibility into high-risk policies and vulnerabilities lurking in your infrastructure and prevents you from creating new ones before policies are deployed. Real-time search, on-going security assessments, and automatic policy violation detection give you the tools you need to manage network security policies across your entire environment from on-premises data centers to the cloud.

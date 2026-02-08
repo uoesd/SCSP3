@@ -1,0 +1,21 @@
+Colonial Pipeline hit by brief network outage amid efforts to harden system
+
+NEW YORK, May 18 (Reuters) - Colonial Pipeline's (COLPI.UL)said its scheduling system was back online on Tuesday after a network outage earlier in the day prevented customers from planning upcoming shipments on the biggest U.S. fuel pipeline.
+
+The disruption was caused by efforts by the company to harden its system as it restored service following a week-long outage due to a cyberattack, Colonial said, and was not the result of a reinfection of its network.
+
+Last week's closure of the 5,500-mile (8,900-km) system was the most disruptive cyberattack on record, preventing millions of barrels of gasoline, diesel and jet fuel from flowing to the East Coast from the Gulf Coast.
+
+After the ransomware attack forced Colonial to shut its entire network, thousands of gas stations across the U.S. southeast ran out of fuel. Motorists fearing prolonged shortages raced to fill up their cars.
+
+Colonial has been using its shipper nomination system to schedule batches of fuel deliveries to bring flows back to normal.
+
+Colonial's shipping nomination system is operated by a third party, privately-held Transport4, or T4, which handles similar logistics for other pipeline companies. T4 did not comment on whether its systems for other pipelines were affected.
+
+Though Colonial's scheduling network was back online, it was still moving slowly, said a market source.
+
+As of Tuesday, more than 10,400 filling stations were still without fuel, according to tracking firm GasBuddy, down from more than 16,000 at the peak last week.
+
+In North Carolina, one of the hardest-hit states, gas outages dropped below 50% on Tuesday, GasBuddy said. South Carolina, Virginia and Georgia all also had outages below 50%.
+
+Just under 70% of gas stations in Washington, D.C., were still without fuel, down from around 90% over the weekend.

@@ -1,0 +1,21 @@
+JBS paid $11M in Bitcoin to resolve ransomware attack
+
+One of the biggest meat producers in the US paid $11 million to cybercriminals responsible for a ransomware attack that temporarily knocked out processing plants last week, the company said Wednesday.
+
+JBS USA made the payment to avoid further disruption to production and to limit the impact on restaurants, grocery stores and farmers, said Andre Nogueira, chief executive of the US division of Brazilian meat company JBS.
+
+"This was a very difficult decision to make for our company and for me personally," Nogueira said in a statement. "However, we felt this decision had to be made to prevent any potential risk for our customers."
+
+JBS' payment was made in Bitcoin, according to The Wall Street Journal, which reported the payment earlier Wednesday.
+
+Following the hack, JBS reportedly had to halt operations at its five largest beef plants in the US as well as some other facilities, prompting concerns about possible meat shortages. The five plants together reportedly process 22,500 head of cattle per day. Some plants in Australia were also reportedly impacted.
+
+The attack came just weeks after hackers targeted the Colonial Pipeline, one of the largest gas pipelines in the US, with a ransomware hack. The attack highlighted the vulnerability of the country's critical infrastructure, which has been the target of an increasing number of cyberattacks.
+
+JBS informed US officials that its servers in the US and Australia had been the victim of a ransomware attack likely launched by a criminal group based in Russia, White House Deputy Press Secretary Karine Jean-Pierre said earlier this month.
+
+"Preliminary investigation results confirm that no company, customer or employee data was compromised," JBS said in Wednesday's statement.
+
+The FBI is investigating the incident, and the White House is engaging with the Russian government on the matter. Biden is expected to raise the issue with Russian President Vladimir Putin during their June 16 summit.
+
+"Ransomware attacks against critical infrastructure are of an even higher order of magnitude of concern for us, whether that's about a pipeline or meat supply or a hospital system or other areas of critical infrastructure," White House Press Secretary Jen Psaki told reporters on Wednesday. "The president will talk to President Putin about our concerns on this front."

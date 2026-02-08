@@ -1,0 +1,33 @@
+Hackers Infiltrate D.C. Police Department's Computer Network, Post Hundreds of Internal Documents
+
+A group of hackers known as Babuk has infiltrated the computer network of the Washington, D.C. police department and posted hundreds of internal documents online, including daily intelligence briefing papers of the police chief and information on street crews and threats following the Jan. 6 Capitol attack.
+
+According to Babuk, the data dump came after breakdown of negotiations with District officials, who were demanding money in exchange for not releasing more data. The hackers claim to have posted all stolen files and shared their hacking tool with other groups.
+
+District officials have closed off Babuk's entry point but haven't commented on negotiations or confirmed the posted documents' authenticity. Cybersecurity experts caution that paying ransom doesn't guarantee safety from further demands or sale of stolen data.
+
+The stolen files range from a job applicant's résumé to lists of gang suspects and witnesses to crimes. D.C. Police Chief Robert J. Contee III assured affected individuals they would be contacted and offered guidance.
+
+Police union chairman Greggory Pemberton criticizes the District's handling of sensitive information and calls for an inspector general investigation. "We need to take a hard look at how we're protecting our information and make sure that we're doing everything we can to keep our officers and the public safe," he said.
+
+The release of gang files poses danger by potentially exposing suspects not under arrest, witnesses, and details on gang territories. "This is a serious breach that could put lives at risk," said Raj Samani, Chief Scientist and Cybersecurity Fellow at McAfee Corp. "It's important for law enforcement agencies to take measures to protect their data and prevent such incidents from happening in the future."
+
+Babuk's data dump includes a 21-page document detailing the police department's response to the Capitol attack, which killed five people and injured several others. The document includes information on the police department's communication with other law enforcement agencies and its efforts to secure the area.
+
+The hackers also released a 10-page list of gang suspects and witnesses, which includes names, addresses, and phone numbers. This has raised concerns about the safety of the individuals listed, as well as the potential for retaliation by gang members.
+
+In addition to the gang files, Babuk released a 27-page document containing information on the police department's intelligence gathering efforts. This includes details on how the department collects and analyzes information, as well as the sources it uses to gather intelligence.
+
+The breach has raised questions about the security of the police department's computer systems and the measures in place to protect sensitive information. "This incident highlights the need for law enforcement agencies to prioritize cybersecurity and take steps to protect their data," said Samani.
+
+The D.C. police department has not commented on the breach or confirmed the authenticity of the posted documents. However, Chief Contee III has assured the public that the department is taking the incident seriously and is working to mitigate the damage.
+
+In a statement, Contee said, "We are working closely with our federal partners to investigate this incident and ensure that the information that has been released does not pose a threat to the safety of our officers or the public."
+
+The breach has also raised concerns about the potential for future attacks on law enforcement agencies. "This incident serves as a reminder that law enforcement agencies are not immune to cyber attacks," said Samani. "It's important for them to take proactive measures to protect their data and prevent such incidents from happening in the future."
+
+In the meantime, the police department has set up a hotline for individuals who may have been affected by the breach. Affected individuals can call (202) 727-4357 for more information and guidance.
+
+The incident has also sparked a debate about the role of cybersecurity in law enforcement. "This breach highlights the need for law enforcement agencies to prioritize cybersecurity and take steps to protect their data," said Pemberton. "We need to make sure that we're doing everything we can to keep our officers and the public safe."
+
+As the investigation into the breach continues, it's clear that the incident has raised serious concerns about the security of sensitive information and the need for law enforcement agencies to prioritize cybersecurity. "This incident serves as a wake-up call for law enforcement agencies across the country," said Samani. "It's time for them to take cybersecurity seriously and take steps to protect their data."

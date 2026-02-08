@@ -1,0 +1,37 @@
+Colonial Pipeline ransomware attack highlights US vulnerability: Experts
+
+Many American companies have not kept pace with the security threat, they say.
+
+Millions of Americans on Thursday were still feeling the effects of the ransomware attack that led to the shutdown of one of the biggest gas pipelines on the East Coast.
+
+While Colonial Pipeline said operations were starting to return to normal, at gas stations that haven't run out of fuel in North Carolina and other southeastern states, drivers continued to wait in lines to fill up. And for the first time in seven years, the national gas price average reached $3 a gallon.
+
+The Colonial Pipeline ransomware incident highlights the huge fallout cyberattacks can have on the country's critical infrastructure and raises new questions about why the U.S. is so vulnerable to such crippling strikes.
+
+Experts say ransomware attacks, in particular, have been on the rise because of how easily they can be deployed, carried out by actors ranging from enemy nations to criminal gangs.
+
+"Cybersecurity is a problem because the cyber vulnerabilities can be exploited by very small groups with small amounts of funding, it is the ultimate asymmetric threat," Tom Bossert, homeland security adviser under President Donald Trump told ABC News.
+
+The FBI said Monday that ransomware from DarkSide, a criminal organization that operates in Eastern Europe, was responsible for the Colonial Pipeline network attack.
+
+While federal officials were still trying to determine whether a foreign nation could be involved, Russian intelligence has been known to cooperate with Eastern European cybercriminals in the past.
+
+Prevention, Bossert said, involves remembering human beings are behind the attacks.
+
+"We need better technical solutions on that as a group or part of a group of people trying to develop innovative solutions for better technology to prevent attacks, but there's got to be a government role in stopping the human beings that are doing the attacking," Bossert explained.
+
+Former Assistant Secretary for Homeland Security Elizabeth Neumann, an ABC News contributor, said companies and governments need to keep pace with the growing security threat.
+
+"There's a lot more we can be doing with our critical infrastructure," Neumann said. "More of these systems are being digitized. Things that used to be manually operated are now being operated by computers and that of course creates vulnerability. The infrastructure in of itself is very expensive. A lot of it is decades old ... because they are so underfunded, they tend to not update their IT very often."
+
+Neumann said the impact of future cyberattacks could be much more severe, particularly if a foreign adversary is involved.
+
+Another expert told ABC News that such a large-scale ransomware attack was only a matter of time, given the uptick and lack of cybersecurity coordination between private companies and the government, a key point in the executive order President Joe Biden signed Wednesday evening.
+
+"It was inevitable that we would reach a point where one of these attacks would have significant economic damage," Dmitri Alperovitch, the executive chairman at Silverado Policy Accelerator and a former CTO of CrowdStrike, said.
+
+Hackers can successfully infiltrate a system's computer network and deploy malicious software to effectively seize control, holding hostage files or data until a ransom is paid.
+
+"Many of these ransom operations are more about extortion than ransomware where they will steal data -- typically emails -- and threaten their release and try to embarrass companies and hopefully find -- from their perspective -- find something that these companies will really want to keep quiet, whether it's intellectual property or information on customers," Alperovitch said, "and that would increase the likelihood of actually getting ransom."
+
+The boom in ransomware, he said, coincides with the boom in cryptocurrency.

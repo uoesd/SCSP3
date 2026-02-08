@@ -1,0 +1,21 @@
+Fuel Frenzy: Cyberattack Leads to Gas Shortages Across Eastern U.S.
+
+CLEMMONS, N.C. (AP) – In a disruptive sequence of events, motorists in more than a dozen U.S. states were faced with empty fuel pumps, as many gas stations ran out of supply following a cyberattack on one of the nation's largest pipelines. The Colonial Pipeline, an essential fuel artery for the East Coast, was hit by a ransomware attack, causing significant concern regarding fuel availability and prompting various states to take emergency measures.
+
+The impact was most noticeable in North Carolina, where approximately 70% of gas stations reported being out of fuel. Similar conditions were observed in Virginia, South Carolina, and Georgia, with about half of the gas stations in these states also running dry. This shortage has generated long lines at gas stations, with many people anxiously waiting to fill their tanks amidst rising fears of a prolonged scarcity.
+
+U.S. officials have indicated that they do not believe the Russian government was involved in the attack. However, they suspect that the criminals operating the ransomware, known as DarkSide, are based in Russia. This has complicated the situation, highlighting the international implications of cyber security on domestic infrastructure.
+
+Colonial Pipeline has responded by restarting its operations, but it has cautioned that it anticipates "several days" for fuel distribution to return to normal. The pipeline is crucial, supplying about 45% of the gasoline consumed on the East Coast. Officials have sought to reassure the public, explaining that the region is experiencing delays rather than outright shortages.
+
+Despite these reassurances, panic-buying has aggravated the situation. Officials anticipate that it will take a couple of weeks for gas station supplies to fully recover, assuming that consumers refrain from excessive hoarding. In an effort to cope with the immediate consequences of the pipeline shutdown, Stephen Brich, Virginia's Highways Commissioner, announced, "We're employing strategies to conserve fuel, ensuring that our services remain unaffected during this period."
+
+The seriousness of the situation has led Virginia and North Carolina to declare states of emergency. Other governors in affected states have echoed this sentiment, calling on residents to avoid unnecessary panic-buying. Gov. Roy Cooper of North Carolina stated, "The supply of gas is not the issue here—it's panic buying that is causing shortages. We urge people not to hoard and only buy what they need."
+
+The ripple effects of the gas shortage have penetrated various aspects of daily life, affecting everything from emergency services to entertainment venues. Dr. Chris Holstege, Medical Director at the Blue Ridge Poison Center at UVA Health, expressed concern over some of the actions taken by the public amidst the panic, warning against unsafe practices such as storing gasoline in non-approved containers.
+
+Sydney Marshall, General Manager of South Georgia Motorsports Park and Orlando Speed World Dragway, highlighted another dimension of the crisis, noting the impact on events. "We've had to postpone races because participants couldn't find enough gas to make the trip. It's a situation we're monitoring closely as it evolves."
+
+The incident sheds light on the vulnerability of critical infrastructure to cyber threats and underscores the need for enhanced security measures. As the situation unfolds, authorities continue to work towards stabilizing fuel supplies, but the event has already left a lasting impression on the public's consciousness, serving as a stark reminder of the intricate web of dependencies that underpin modern life.
+
+Officials urge the public to stay informed through reliable sources, practice patience, and avoid contributing to the problem through panic-buying. As the East Coast navigates through the aftermath of the cyberattack on Colonial Pipeline, the lessons learned may well inform future policies and strategies to mitigate similar vulnerabilities, ensuring the resilience of essential services against evolving cyber threats.

@@ -1,0 +1,21 @@
+Amazon employees call for company to cut ties with Parler after deadly U.S. Capitol riot
+
+A group of Amazon corporate employees is calling on the company to stop providing cloud services to Parler, a social media app popular with Trump supporters.
+
+In a tweet on Saturday, employee advocacy group Amazon Employees for Climate Justice said Amazon Web Services should "deny Parler services until it removes posts inciting violence, including at the Presidential inauguration." AWS provides cloud services to Parler that host its website.
+
+By Saturday night, Amazon informed Parler it would no longer provide cloud services to the site, with the suspension taking effect on Sunday at 11:59 p.m. PT. The decision means that if Parler can't locate a new cloud provider by Sunday night, the site will go offline for users.
+
+Multiple news outlets reported that Amazon had already suspended Parler, but the site was still available to CNBC staff as of the early morning hours East Coast time.
+
+Representatives from Amazon and Parler didn't immediately respond to a request for comment.
+
+Parler founder and CEO John Matze lashed out in a post on his Parler account late Saturday night, saying that "We are the closest thing to competition Facebook or Twitter has seen in many years. I believe Amazon, Google, Apple worked together to try and ensure they don't have competition."
+
+Amazon is the latest tech giant to cut ties with Parler in the wake of the deadly U.S. Capitol riot earlier this week. Google on Friday removed Parler from its app store for Android users, Google Play Store. BuzzFeed News reported on Friday that Apple has threatened to pull Parler from its App Store.
+
+Parler, which launched in 2018, has emerged as a popular platform for President Trump's allies in the last year by billing itself as a free speech alternative to mainstream social media services like Twitter and Facebook .
+
+Screenshots of the Parler app viewed by CNBC show users posting references to firing squads, as well as calls to bring weapons to the presidential inauguration later this month. AWS' acceptable use policy states that it prohibits customers from using its services "for any illegal, harmful, fraudulent, infringing or offensive use."
+
+Amazon has previously cut ties with customers who violated its rules. In 2019, Amazon pulled the plug on a fundraising site used by Gab, a social media site that caters to conservatives, after it violated Amazon's policies on hateful content.

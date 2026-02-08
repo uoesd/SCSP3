@@ -1,0 +1,15 @@
+Fugue CEO Josh Stella Highlights Urgent Need for Cloud Security Following Facebook and Twitch Incidents
+
+FREDERICK, Md. – In the wake of recent high-profile cloud security incidents at Facebook and Twitch, Josh Stella, CEO and Co-founder of Fugue, is urging business and security leaders to take immediate action to protect their cloud environments.
+
+Stella notes that both the Facebook outage and Twitch breach were the result of cloud misconfigurations, leading to substantial losses. According to a recent report, 36% of companies have experienced a serious cloud security leak or breach due to misconfiguration in the past year.
+
+"Configuration, rather than the network, is now the main attack surface for cloud environments," warns Stella. "Misconfigurations in the cloud can lead to significant vulnerabilities and operational disruptions. Cloud environments are constantly changing, introducing risk with every modification."
+
+Hackers are taking advantage of these misconfigurations, using automation to find and exploit vulnerabilities for unauthorized access and data breaches. Stella emphasizes that business and security leaders must be aware of the current state of their cloud environments and vulnerabilities.
+
+To mitigate these risks, Stella recommends implementing preventive cloud security measures, such as Policy as Code. This approach ensures that cloud environments are configured correctly and consistently, reducing the likelihood of misconfigurations. Additionally, cultural and operational shifts toward security-focused practices in cloud management are essential for mitigating risks.
+
+"It's no longer enough to rely on manual processes and hope for the best," Stella stresses. "Businesses need to adopt a proactive approach to cloud security, leveraging automation and security-focused practices to stay ahead of the risks. The time to act is now."
+
+About Fugue Fugue is a cloud security company that helps organizations protect their cloud environments from misconfigurations and other security risks. Fugue's cloud security platform provides real-time visibility and automated remediation of security risks, ensuring compliance with security standards and best practices. For more information, visit fugue.io.

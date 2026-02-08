@@ -1,0 +1,29 @@
+Amazon Employees Demand Parler Suspension, Company Suspends AWS Services
+
+In the wake of the violent insurrection at the U.S. Capitol, Amazon corporate employees are urging the company to sever cloud services to Parler, a social media platform popular among President Trump's supporters.
+
+Amazon Employees for Climate Justice (AECJ), an employee group that has previously influenced Amazon's labor practices and climate change policies, has demanded that Amazon Web Services (AWS) deny services to Parler until it removes violent incitement posts.
+
+"We demand that Amazon Web Services immediately deny services to Parler until it removes all violent incitement posts and commits to a comprehensive moderation plan," AECJ said in a statement. "We cannot stand by while a platform that incites violence and hatred is allowed to operate on our infrastructure."
+
+Amazon responded to the demands by announcing the suspension of AWS services to Parler, potentially taking the site offline without a new cloud provider.
+
+"We have taken this action because Parler has not taken adequate measures to address the proliferation of violent content on its platform," Amazon said in a statement.
+
+Despite reports of suspension, Parler was accessible to CNBC staff early Sunday morning East Coast time.
+
+Parler's CEO, John Matze, claims that Amazon, Google, and Apple are colluding to eliminate competition.
+
+"They're trying to kill competition," Matze said. "They're trying to make sure that nobody can compete with them."
+
+Google removed Parler from its Play Store, and Apple threatened to remove it from its App Store unless it removes violent content.
+
+Parler is known as a free speech platform, but it has been criticized for allowing violent threats and calls for weapons at the presidential inauguration.
+
+Amazon's AWS has a policy against its services being used for illegal or harmful purposes.
+
+"We believe that Parler has violated our terms of service and we have taken action accordingly," Amazon said.
+
+AECJ has a history of influencing Amazon's policies. In 2019, the group successfully pressured Amazon to adopt a climate change policy.
+
+"We are proud of the role we have played in holding Amazon accountable to its values," AECJ said. "We will continue to use our voices to demand that Amazon does the right thing."

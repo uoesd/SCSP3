@@ -1,0 +1,31 @@
+Ransomware Onslaught: Attacks Surge Amidst Remote Work, Costing US Victims $350m
+
+The scourge of ransomware attacks has reached unprecedented heights, with victims in the United States alone shelling out nearly $350 million in 2020, a staggering 311% increase from the previous year. The alarming surge has prompted the FBI Director, Christopher Wray, to sound the alarm, stating that the volume of ransom paid has tripled over the past year.
+
+"The volume of ransom payments has tripled over the last year," Wray said. "The average ransom payment has also tripled, from about $11,000 to about $33,000."
+
+Experts attribute the surge in attacks to the widespread shift to remote working during the COVID-19 pandemic. This transition has created a more vulnerable landscape for cybercriminals to exploit, as employees are often working outside the safety of secure office networks.
+
+"Remote work has definitely increased the risk of ransomware attacks," said John Hammond, a cybersecurity researcher at Huntress. "Employees are using their personal devices, which may not be as secure as company-issued devices. They are also accessing company data from outside the office, which can create opportunities for attackers to gain access."
+
+Ransomware attacks involve hackers seizing data or systems from companies or governments and demanding payment for their return. The breach of a virtual private network (VPN) was attributed to one of the most consequential recent ransomware hacks on the Colonial Pipeline.
+
+"The Colonial Pipeline hack was a wake-up call for many organizations," said Israel Barak, Chief Information Security Officer at Cybereason. "It showed that even large, well-protected organizations are not immune to ransomware attacks."
+
+Corporate and government security measures are less effective when devices are used outside of controlled networks. This has made it easier for attackers to gain access to sensitive data and systems.
+
+"The traditional security perimeter is no longer effective," said Joseph Carson, Chief Security Scientist at Thycotic. "Attackers are now targeting remote workers and exploiting vulnerabilities in remote access technologies."
+
+The rise of cryptocurrency has also facilitated ransomware attacks by making payments easier and less traceable. Bitcoin and other cryptocurrencies allow attackers to receive payments anonymously, making it difficult for law enforcement to track them down.
+
+"Cryptocurrency has made it much easier for attackers to monetize ransomware attacks," said Rahul Telang, Professor of Information Systems at Carnegie Mellon. "It's a major challenge for law enforcement."
+
+The Biden administration has recognized the growing threat of ransomware attacks and has taken steps to address the issue. In May 2021, the administration issued a letter to corporate executives emphasizing the need for improved cybersecurity measures.
+
+"The private sector has a critical role to play in protecting our nation from cyber threats," said Anne Neuberger, Cybersecurity Adviser at the National Security Council. "We need to work together to improve our cybersecurity posture and make it more difficult for attackers to succeed."
+
+The House homeland security committee has also advanced multiple bills aimed at enhancing cybersecurity. These bills would provide funding for cybersecurity research, improve information sharing between the public and private sectors, and create new cybersecurity standards.
+
+"We need to take action now to address the growing threat of ransomware attacks," said Representative Bennie Thompson, Chairman of the House homeland security committee. "These bills would provide the resources and tools we need to protect our nation from cyber threats."
+
+The surge in ransomware attacks is a serious threat to businesses and governments alike. The shift to remote working, the rise of cryptocurrency, and the lack of effective security measures have created a perfect storm for cybercriminals. It is imperative that organizations take steps to improve their cybersecurity posture and protect themselves from these devastating attacks.

@@ -1,0 +1,17 @@
+Citi's $900 Million Mistake: The Cost of Poor User Experience Design
+
+In a stunning example of the consequences of poor user experience (UX) design, Citigroup recently mistakenly sent $900 million to a client's creditors instead of the intended $7.8 million. The error was caused by a badly designed user interface in the banking software, Flexcube, which led a judge to rule in favor of the creditors, citing "human error" and pointing to the software's instruction manual and Citi's "six eyes process."
+
+The incident highlights a design defect in Flexcube that led to the costly mistake, and underscores the broader issue of design debt, where poor UX design leads to costly errors over time. According to a recent report, improving employee UX design is a significant opportunity for businesses to reduce errors and enhance productivity. Currently, about half of design teams work on employee-facing software, a number that is expected to grow.
+
+Citi has invested heavily in consumer-facing UX, but it appears that the bank may have neglected employee-facing software like Flexcube. The error with Flexcube could prompt other software vendors to prioritize UX improvements to avoid similar consequences.
+
+Bad UX has led to other major mistakes in the past, such as the USS John McCain accident, the Hawaii missile test warning, and the Three Mile Island meltdown. Improving UX is crucial for better business results, including higher employee satisfaction, quicker training, increased market share, and avoidance of costly mistakes.
+
+The importance of UX design cannot be overstated. Well-designed software can streamline processes, reduce errors, and increase productivity. On the other hand, poorly designed software can lead to costly mistakes, damage to a company's reputation, and a loss of customer trust.
+
+In the case of Citi's $900 million mistake, the blame lies not only with the software's design but also with the bank's "six eyes process," which failed to catch the error before it was too late. The incident highlights the need for companies to prioritize UX design and to thoroughly test their software before deploying it.
+
+The consequences of poor UX design can be severe, as the Citi example demonstrates. Companies that neglect to invest in UX design do so at their own peril. Improving UX is not only a matter of avoiding costly mistakes but also of improving employee satisfaction and productivity, which can lead to increased market share and better business results.
+
+In conclusion, the $900 million mistake made by Citi is a stark reminder of the importance of UX design. Companies that prioritize UX design can avoid costly errors, improve employee satisfaction, and enhance productivity. The time to invest in UX design is now, before it's too late.

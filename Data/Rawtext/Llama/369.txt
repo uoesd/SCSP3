@@ -1,0 +1,17 @@
+Facebook's Outage Sends Social Media Users Flocking to Other Platforms
+
+In a rare occurrence, Facebook's suite of apps, including Instagram, WhatsApp, Messenger, and Facebook itself, experienced a six-hour outage on Monday, October 28. The outage, caused by a "faulty configuration change" to its backbone routers, according to a Facebook spokesperson, had users migrating to other social media platforms.
+
+Snapchat, in particular, saw a significant surge in usage during the outage. According to data from analytics firm Sensor Tower, Snapchat Android users spent 23% more time on the app compared to the previous week. This increase in engagement is likely a result of Facebook's outage, as users sought alternative platforms to connect with their friends and family.
+
+Telegram, another popular messaging app, also benefited from Facebook's outage. Pavel Durov, CEO of Telegram, took to Twitter to highlight the app's growth surge during the outage, stating that Telegram gained 70 million new users. This influx of new users represents about 10% of Telegram's total monthly active users.
+
+Despite Snapchat's popularity, Instagram remains the most used app by teens, according to a recent Piper Sandler survey. However, Snapchat is ranked as the favorite social media app among teens, indicating a shift in user preferences towards more ephemeral and privacy-focused platforms.
+
+The outage's impact on Facebook's user base is still unclear, but it comes at a time when the company is facing increased scrutiny over its handling of user data and privacy. The last significant surge in Telegram users was in January, connected to issues with WhatsApp, another Facebook-owned messaging app.
+
+In a statement, a Facebook spokesperson said, "We apologize for the inconvenience caused by today's outage. We are working to ensure that our apps are available and reliable for all users."
+
+The outage serves as a reminder of the interconnectedness of social media platforms and the impact that technical issues can have on user behavior. As Facebook works to resolve the issue, users may continue to explore alternative platforms, potentially leading to a shift in the social media landscape.
+
+In conclusion, Facebook's outage has had a significant impact on social media usage, with users migrating to other platforms such as Snapchat and Telegram. The surge in popularity for these apps highlights the demand for reliable and privacy-focused social media platforms, and Facebook will need to address these concerns to maintain its user base.

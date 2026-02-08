@@ -1,0 +1,17 @@
+FDA Issues Emergency Use Authorization for AstraZeneca's Evusheld for Pre-Exposure Prevention of COVID-19
+
+The U.S. Food and Drug Administration (FDA) has issued an emergency use authorization (EUA) for AstraZeneca's Evusheld, a combination of two monoclonal antibodies, tixagevimab and cilgavimab, for pre-exposure prevention of COVID-19 in certain individuals. This authorization allows for the use of Evusheld in adults and pediatric individuals 12 years of age and older weighing at least 40 kilograms (~88 pounds) who are not currently infected with SARS-CoV-2, not recently exposed to it, and either immunocompromised or having a history of severe adverse reactions to COVID-19 vaccines.
+
+According to Patrizia Cavazzoni, M.D., Director of the FDA's Center for Drug Evaluation and Research, "While vaccination remains the first line of defense against COVID-19, we recognize that there are certain individuals who may benefit from alternative prevention methods. The issuance of this EUA for Evusheld provides an additional tool in our efforts to combat the pandemic and protect public health."
+
+Evusheld is designed to provide protection against COVID-19 for a six-month period and is administered via two consecutive intramuscular injections. It is important to note that Evusheld is not a substitute for vaccination and FDA stresses that vaccination remains recommended for those eligible. The agency has authorized various COVID-19 vaccines, which have been shown to be safe and effective in preventing severe illness and hospitalization due to COVID-19.
+
+The monoclonal antibodies in Evusheld aim to block the virus by targeting the spike protein. The primary data for the EUA comes from the PROVENT clinical trial, which showed a 77% reduced risk of developing COVID-19 for Evusheld recipients over those receiving a placebo.
+
+Side effects of Evusheld include hypersensitivity reactions, bleeding at the injection site, headache, fatigue, cough, and in rare cases, serious cardiac adverse events. FDA advises healthcare providers to carefully evaluate patients before administering Evusheld, particularly those with a history of cardiovascular disease or risk factors for cardiac events.
+
+The EUA for Evusheld was issued based on the FDA's assessment of the totality of scientific evidence, including data from the PROVENT clinical trial and other supporting studies. The agency concluded that the known and potential benefits of Evusheld outweigh the known and potential risks for the authorized population.
+
+FDA continues to monitor the safety and efficacy of Evusheld and encourages healthcare providers to report any adverse events or suspected adverse reactions to the agency's MedWatch program.
+
+In conclusion, the issuance of the EUA for Evusheld provides an additional tool in the fight against COVID-19, particularly for those individuals who may not be able to receive vaccines or have a history of severe adverse reactions to them. However, FDA emphasizes that vaccination remains the most effective way to prevent severe illness and hospitalization due to COVID-19, and encourages eligible individuals to get vaccinated as soon as possible.

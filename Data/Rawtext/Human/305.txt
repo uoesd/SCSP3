@@ -1,0 +1,15 @@
+Suez Canal shutdown shows the vulnerability of the global economy to extreme events
+
+A critical global shipping node – Egypt's Suez Canal – was reopened on Monday, March 29, six days after being shut down when the 400-meter-long container ship Ever Given became lodged in the canal. A statement by the Suez Canal Authority initially blamed the incident on high winds and a sand storm that reduced visibility, but later said that strong winds were "not the only cause," and that an investigation was ongoing.
+
+There is no clear indication at this point that climate change played a role in the sandstorm that led to the ship's blocking the canal, but the incident raises intriguing questions that likely will prompt research into any correlation.
+
+The multi-day shutdown of one of the world's busiest shipping chokepoints underscores the vulnerability of the global food system and economy to disruptions. That vulnerability is playing on the stage of increasingly extreme weather, rising seas, and an increasingly just-in-time world of shipping.
+
+Figure 1. MODIS satellite image from March 23, 2021, the day of the grounding of the container ship Ever Given in the Suez Canal. A cold front over Egypt was causing a widespread dust storm that affected the Red Sea, Suez Canal, and waters of the Mediterranean Sea. (Image credit: NASA Worldview)
+
+Meteorology of the event
+
+The high winds and sand storm that contributed to the grounding incident were caused by a cold front trailing to the south of a low-pressure system centered near southern Turkey.
+
+As the cold front swept eastwards across Egypt on March 23, powerful winds of 25-30 knots (29-35 mph) blew along the axis of the Red Sea from the south-southeast, into the southern end of the Suez Canal, as seen in the 6 UTC analysis from the GFS model (Figure 2). The Ever Given became stuck at 05:40 UTC that day. According to the GFS analysis, a sharp wind shift, with winds blowing out of the southwest to west, was present near the spot where the Ever Given blocked the canal, about five miles north of its connection with the Red Sea.

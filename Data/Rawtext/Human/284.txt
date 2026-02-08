@@ -1,0 +1,17 @@
+How effective is a single vaccine dose against Covid-19?
+
+"People are very keen on at the moment on that graph in the Pfizer paper in the New England Journal of Medicine where they show that there must be some kind of de facto benefit as early as something like day 14," says Altmann. "It's the one where the curve for the placebo group and the vaccine group completely diverge, and cases start taking off in the placebo group. But obviously that's not measuring an immune response directly – it's using quite a crude measure of how many people have been infected." Altmann explains that he wouldn't advise anyone to consider themself safe 14 days after their first dose of the vaccine. "The graph is just a way of saying 'something is happening'," he says.
+
+In a more recent development, an Israeli academic who coordinated the country's Covid-19 response – Professor Nachman Ash – has claimed that a single dose of the vaccine is not as effective as Pfizer originally estimated. However, the comments have been widely criticised.
+
+There are a number of reasons that it is inappropriate to compare the research, which was conducted by the health organisation Clalit, with the Pfizer study. For one, the Israeli study found that a single dose of the vaccine reduced the number of people testing positive for the virus, i.e. being infected, by 33%, while the Pfizer paper suggested that it would prevent 52% from developing symptoms – they looked at two different things.
+
+In addition, the data from Clalit has not been made available, or peer-reviewed. It also involved examining the impact of the vaccine just two weeks after people had received it – considered too early to see an immune response – rather than three, as in the Pfizer study. Finally, the research was not a clinical trial, but rather an observational study, which means the results should be viewed with caution.
+
+Oxford-AstraZeneca
+
+For the Oxford-AstraZeneca vaccine, things are a bit different. In a paper published in January, the authors explain that the vaccine offers protection of 64.1% after at least one standard dose. This compares to 70.4% if you've had two full doses, or – oddly – 90% in people who have had one half dose followed by one full dose.
+
+A month later, AstraZeneca revealed the results of a first analysis of their phase III trial data in a press release. Starting from 22 days after the first dose, the vaccine provided 70% protection against mild or moderate illness and 100% against severe disease, hospitalisation and death.
+
+Because the phase three trial included two gaps between the first and the second dose – including one of six weeks and a longer one of 12 weeks – it's possible to say with more certainty that the first dose can continue to provide some protection for at least a few months before the booster shot.

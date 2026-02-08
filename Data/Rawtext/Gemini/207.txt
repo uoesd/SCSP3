@@ -1,0 +1,43 @@
+Colonial Pipeline Shutdown's Impact on Gas Prices Overstated, KU Study Finds
+
+LAWRENCE – The Colonial Pipeline shutdown, caused by a ransomware attack by Russia-linked cybercriminals, led to a significantly smaller increase in gas prices than initially reported, according to a new study by University of Kansas researchers.
+
+The Colonial Pipeline, the largest fuel pipeline in the U.S., was shut down for six days in May 2021, causing widespread panic and long lines at gas stations. However, a study by Associate Professor of Economics Tsvetan Tsvetanov and doctoral student Srishti Slaria found that the shutdown's impact on gas prices was only a 4-cents-per-gallon increase in average gasoline prices in affected areas.
+
+"Our study shows that the impact of the Colonial Pipeline shutdown on gasoline prices was much less than what was initially reported," Tsvetanov said. "This is important because it shows that the U.S. economy is more resilient to cyberattacks than we thought."
+
+The study used daily regular gasoline price data at the city level and employed a difference-in-differences approach to isolate the impact of the shutdown from other factors that could have affected gas prices, such as the COVID-19 pandemic.
+
+"We found that the shutdown led to a statistically significant increase in gasoline prices in affected areas," Slaria said. "However, the magnitude of the increase was much smaller than what was initially reported."
+
+The Colonial Pipeline can carry 3 million barrels of fuel per day between Texas and New York, serving as a crucial supply for the East Coast and the Southeast. The shutdown caused a temporary disruption in the supply of gasoline to these areas, which led to higher prices.
+
+However, the researchers found that the demand for gasoline in the U.S. is "inelastic," meaning that consumption doesn't change significantly even as prices rise. This means that the shutdown had a relatively small impact on overall gasoline consumption.
+
+"Our study highlights the importance of using rigorous economic analysis to assess the impact of cyberattacks," Tsvetanov said. "By using a difference-in-differences approach, we were able to isolate the impact of the shutdown from other factors that could have affected gas prices."
+
+The study is Tsvetanov's first foray into economic research involving cybercrime, highlighting the growing threat of cyberattacks.
+
+"Cyberattacks are a major threat to the U.S. economy," Tsvetanov said. "Our study shows that it is important to understand the economic impact of these attacks in order to develop effective policies to mitigate their effects."
+
+Colonial paid a $4.4 million ransom in Bitcoin to the hackers, but the Justice Department later recovered $2.3 million of it.
+
+Tsvetanov's work aims to raise awareness about the intersection of cybersecurity and economics in the energy sector.
+
+"The Colonial Pipeline shutdown is a wake-up call for the energy industry," Tsvetanov said. "We need to be better prepared for cyberattacks and develop strategies to mitigate their impact."
+
+Methodology:
+
+The study used daily regular gasoline price data at the city level from GasBuddy. The researchers employed a difference-in-differences approach to isolate the impact of the shutdown from other factors that could have affected gas prices, such as the COVID-19 pandemic.
+
+Limitations:
+
+The study is limited by the availability of data. The researchers were only able to collect data on gasoline prices in cities that have GasBuddy stations. Additionally, the study does not account for the impact of the shutdown on other types of fuel, such as diesel or jet fuel.
+
+Implications:
+
+The study's findings have implications for policymakers and businesses. Policymakers should consider developing policies to mitigate the impact of cyberattacks on the energy sector. Businesses should invest in cybersecurity measures to protect themselves from cyberattacks.
+
+Future Research:
+
+The researchers plan to conduct further research on the economic impact of cyberattacks. They are particularly interested in studying the impact of cyberattacks on other sectors of the economy, such as the financial sector or the healthcare sector.

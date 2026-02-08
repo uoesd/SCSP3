@@ -1,0 +1,19 @@
+German Court Rules Against Facebook in Hate Speech Case
+
+BERLIN, July 29 – In a landmark decision, Germany's Federal Court of Justice ruled that Facebook acted illegally by taking down racist posts and blocking the author's account without notification or explanation. The verdict adds complexity to the debate on toxic discourse on social networks ahead of Germany's general election.
+
+The court declared Facebook's terms of service regarding post deletion and account blocking for community standards violations as "null and void." The judgment is significant as the comments in question violated Facebook's community standards on hate speech, which is also banned under German law.
+
+The court criticized Facebook for not committing to inform users about post removal, account blocking reasons, or offering a right of appeal. "Facebook's practice of simply deleting posts and blocking accounts without explanation or notification is not transparent and does not respect the rights of users," the court said in a statement.
+
+In response, Facebook stated it would review the judgment to continue effectively removing hate speech in Germany. "We take our responsibility to protect our community from hate speech seriously, and we will continue to work with German authorities to ensure that our platform is a safe and welcoming place for all users," a company spokesperson said.
+
+The specific post cited in the court ruling criticized German handling of "Islamist immigrants," alleging impunity for murder and rape. The post called for action from the Office for the Protection of the Constitution, Germany's main domestic security agency.
+
+The court's decision comes as Google also sought judicial review of a new German law (NetzDG) this week, citing privacy concerns due to the law's provisions for data sharing with law enforcement. The law, which came into effect on January 1, requires social media companies to remove hate speech and other illegal content within 24 hours of it being reported.
+
+Facebook's zero-tolerance policy for hate speech has been a focal point of debate in Germany, with some critics accusing the company of censorship and others praising its efforts to combat toxic discourse. The court's ruling highlights the challenges social media companies face in balancing free speech with the need to protect users from harmful content.
+
+The company spokesperson emphasized Facebook's commitment to removing hate speech, saying, "We are committed to working with German authorities to ensure that our platform is a safe and welcoming place for all users, and we will continue to invest in technology and resources to help us achieve this goal."
+
+The court's decision is a significant development in the ongoing debate over hate speech and social media regulation in Germany. As the country prepares for its general election, the role of social media in shaping public discourse is likely to remain a contentious issue.

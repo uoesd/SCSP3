@@ -1,0 +1,19 @@
+Russian Spy Group Behind Recent Cyber Attacks, SolarWinds Hack
+
+Washington, D.C. - A Russian state-sponsored hacking group known as Nobelium is responsible for recent cyber attacks that targeted thousands of email accounts worldwide, according to U.S. officials. The group was also behind the massive SolarWinds hack in 2020.
+
+The recent attacks, which began in May, targeted about 3,000 email accounts across more than 150 organizations worldwide. The targets predominantly included organizations in the United States and those involved in international development, humanitarian, and human rights work.
+
+The attacks were initiated through an email marketing account of the United States Agency For International Development (USAID). The hackers sent phishing emails to targeted individuals, tricking them into clicking on a link that installed malware on their computers.
+
+Both the Department of Homeland Security and USAID are investigating the hacking incidents. The SolarWinds hack, discovered in December, impacted thousands of companies and government offices globally. Microsoft President Brad Smith called the SolarWinds hack "the largest and most sophisticated attack the world has ever seen."
+
+Russia's spy chief, Sergei Naryshkin, denied responsibility for the SolarWinds cyber attack but was "flattered" by the accusations from the US and Britain. The US and Britain have blamed Russia's Foreign Intelligence Service (SVR) for the SolarWinds hack.
+
+Microsoft indicates the attacks seem to be part of intelligence collection efforts targeted at government agencies involved in foreign policy. The attacks have raised concerns about the security of government networks and the ability of foreign governments to interfere in U.S. affairs.
+
+The Biden administration has taken steps to strengthen cybersecurity in the wake of the SolarWinds hack. In May, President Biden signed an executive order on cybersecurity that aims to improve the security of federal networks and critical infrastructure.
+
+The administration has also imposed sanctions on Russia for its involvement in the SolarWinds hack. The sanctions target six Russian individuals and three entities believed to be involved in the attack.
+
+The recent cyber attacks underscore the ongoing threat posed by state-sponsored hacking groups. The Biden administration is facing pressure to take further action to deter future attacks and protect U.S. interests.

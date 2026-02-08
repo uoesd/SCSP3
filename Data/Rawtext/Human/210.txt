@@ -1,0 +1,15 @@
+Colonial Pipeline Hack Connected to Password Leak of 8.4 Billion Accounts; Attackers Got in via an Old VPN Account
+
+A new password leak, the largest to date, contains over 8.4 billion credentials among which may have been the account used to get into Colonial Pipeline's network.
+
+Rather than a breach involving new and previously unpublished information, the "RockYou2021" password leak appears to be a "combination file" compilation that draws together passwords from prior data breaches. The total amount of login credentials (8,459,060,239 unique entries) it contains is almost double the amount of estimated internet users in the world, meaning that there are likely duplicate accounts as well as possible new connections between compromised usernames and related email addresses. It is unclear if the Colonial Pipeline hackers obtained the login that they used to breach the network from this leak specifically, but the compromised VPN password was found in one of the collections of dark web password leaks that comprises RockYou2021.
+
+Password leak brings together many prior major breaches, makes "brute force" and fraud attempts easier
+
+The 100GB "RockYou2021" TXT file was leaked to a dark web forum. Its 8.4 billion passwords are 6-20 characters long, with non-ASCII characters and white spaces removed. While security researchers are still poring through the contents, it is safe to assume that it combines credentials found in prior unrelated password leaks.
+
+The name is a reference to the RockYou password leak of 2009, at the time the largest of its type. Hackers were able to breach the servers of the now-defunct RockYou social network service, accessing some 32 million usernames and passwords that were dumped in a text file named "rockyou2021.txt".
+
+While the new password leak likely contains little (if anything) in the way of new compromised accounts, it serves as a convenience tool for threat actors to try things like "brute force" and "spray and pray" login attacks. Saumitra Das, CTO and Cofounder, Blue Hexagon, added: "Any password leaks of large volumes are always alarming to hear and should be taken seriously; our own investigation of this report has shown that quite a large number of accounts passwords are recycled from previous breaches and not necessarily active."
+
+The information is very likely to be put to use in spam and phishing campaigns. It outstrips the largest prior combination file of this type, the Compilation of Many Breaches (COMB), which contained 3.2 billion leaked passwords.

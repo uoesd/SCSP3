@@ -1,0 +1,41 @@
+REvil Ransomware Group Servers Hit by Hacking Technique It Uses to Compromise Targets
+
+REvil, the ransomware group that hacked the U.S. Colonial Pipeline this past May, was itself hacked and shut down by a multinational cyber operation, according to Reuters.
+
+The Russia-based organization was reportedly hacked using the same technique that they had used to bring down the pipeline.
+
+Officials from the Federal Bureau of Investigation (FBI) worked alongside investigative arms from multiple other countries to bring down REvil as well as a number of other cybercrime groups.
+
+Also involved in shutting down the group's servers was the U.S. Cyber Command, a division of the U.S. Department of Defense (DOD) that investigates cybercrimes.
+
+On a recent internet forum post, one of the leaders of REvil, known only as 0_neday, wrote that "the server was compromised, and they were looking for me."
+
+"Good luck, everyone; I'm off," 0_neday continued.
+
+The group's main spokesperson, who simply went by Unknown, reportedly vanished from the internet in July after a number of REvil's websites went offline.
+
+The shutdown by the government used a loophole in the ransomware's backup computer system, which allowed law enforcement agencies to access at least some of REvil's servers. They were then able to shut down the servers from the inside.
+
+"REvil...restored the infrastructure from the backups under the assumption that they had not been compromised," said Oleg Skulkin, an official at the Russian security company Group-IB. "Ironically, the gang's own favorite tactic of compromising the backups was turned against them."
+
+Reuters described REvil as "one of the worst of dozens of ransomware gangs that work with hackers to penetrate and paralyze companies around the world."
+
+The hacking of the Colonial Pipeline by REvil and another ransomware group, DarkSide, led to massive gasoline shortages and caused President Joe Biden to declare a state of emergency in 17 states.
+
+The pipeline ended up being under siege for six days. This caused panic buying of fuel across numerous states, and The Washington Post reported that the average gallon of gas rose to its highest price since 2014.
+
+An energy official told Politico at the time that it was the "most significant, successful attack on energy infrastructure we know of in the United States."
+
+The pipeline was eventually restored, but only after the pipeline's owner, Colonial Pipeline Company, sent REvil and DarkSide $4.4 million.
+
+REvil made headlines again in July when it hacked into software management company Kaseya, allowing the group to access the personal information of hundreds of the company's clients.
+
+They demanded a large ransom from Kaseya as well. The FBI, however, was able to use a secret decryption key that allowed Kaseya customers to recover their stolen files.
+
+The White House National Security Council told Reuters that they were "undertaking a whole of government ransomware effort, including disruption of ransomware infrastructure and actors," but declined to comment specifically on the REvil operation.
+
+The FBI also declined to comment on the investigation.
+
+Cyberattacks have been elevated to a more serious level in recent months after U.S. Deputy Attorney General Lisa Monaco determined that "ransomware attacks on critical infrastructure should be treated as a national security issue akin to terrorism."
+
+Newsweek contacted the U.S. Cyber Command for comment.

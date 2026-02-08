@@ -1,0 +1,23 @@
+Twitter Admits Algorithm Bias Towards Right-Wing Politicians and News Outlets
+
+In a startling admission, Twitter has acknowledged that its algorithm amplifies more tweets from right-wing politicians and news outlets than from left-wing sources. The revelation came after a study examining tweets from elected officials in seven countries and political content from U.S. news organizations like Fox News, the New York Times, and BuzzFeed.
+
+According to the study, in six out of seven countries, right-leaning tweets were more amplified, with Canada and the UK showing significant discrepancies. The research also found that Twitter's algorithmic "Home" timeline led to more amplification of political tweets than the chronological timeline.
+
+Rumman Chowdhury, Director of Software Engineering at Twitter, stated that it is unclear why the algorithm produced these results and suggested that the algorithm might need changes. "We want to understand why this is happening and what we can do to make sure our algorithm is fair and impartial," Chowdhury said.
+
+Luca Belli, a researcher at Twitter, emphasized the need for further analysis to understand and possibly adjust the algorithm. "We want to make sure that our platform is a place where all voices can be heard and where everyone has an equal chance to be amplified," Belli said.
+
+In response to the study's findings, Twitter plans to make its research available to external researchers and is preparing to allow broader access to its data. This move is seen as putting pressure on Facebook to also share research, especially in light of recent controversies.
+
+Twitter aims to balance privacy and accountability in its approach to algorithmic transparency. The company's machine-learning ethics, transparency, and accountability team is finalizing plans for regular data sharing with external sources.
+
+Chowdhury emphasized that Twitter is committed to ensuring that its platform is fair and impartial. "We want to make sure that our algorithm is not biased towards any particular political ideology or group," Chowdhury said.
+
+Belli added that the company takes its responsibility to ensure the integrity of its platform seriously. "We want to make sure that our platform is a place where people can come to find accurate information and have meaningful conversations," Belli said.
+
+The study's findings have sparked calls for greater transparency and accountability in the tech industry. Critics argue that social media platforms have too much power to shape public discourse and that they must do more to ensure that their algorithms are fair and impartial.
+
+In response to these concerns, Twitter has committed to working with external researchers and experts to better understand its algorithm and how it can be improved. The company has also pledged to provide more information to users about how its algorithm works and how it makes decisions about what content to amplify.
+
+The controversy surrounding Twitter's algorithm highlights the ongoing debate about the role of technology in shaping public discourse. As social media platforms continue to play an increasingly important role in our lives, it is essential that they are transparent and accountable in their operations. Twitter's move to share its research with external researchers is a positive step towards greater transparency and accountability in the tech industry.

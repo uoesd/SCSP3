@@ -1,0 +1,19 @@
+DOE Seeks $201 Million for Cybersecurity, Citing Pipeline Attack
+
+WASHINGTON – The Department of Energy (DOE) is requesting $201 million from Congress for cybersecurity in its fiscal 2022 budget, a 28% increase from the $157 million allocated in 2021. The additional funding is intended to bolster cybersecurity efforts, address supply chain and technology infrastructure gaps, and hire more cybersecurity professionals.
+
+"We need to upgrade our software, we need to hire more cybersecurity professionals, and we need to work with our partners in the private sector to make sure that we are doing everything we can to protect our critical infrastructure," said Secretary of Energy Jennifer Granholm.
+
+Granholm highlighted the need for cybersecurity standards in the pipeline industry, as evidenced by the recent ransomware attack on the Colonial Pipeline. "We don't have cyber standards in the pipeline industry. We have to have them," she said.
+
+The Biden administration is considering ways to improve collaboration between the private sector and the government on cybersecurity. "We need to work with the private sector to make sure that we are sharing information and that we are working together to develop new technologies and solutions," Granholm said.
+
+Granholm criticized the current state of cybersecurity, suggesting that the government may need more visibility into private sector systems. "We need to have more visibility into what's happening in the private sector," she said. "We need to know what kind of threats they're facing, and we need to be able to help them respond to those threats."
+
+The federal civilian cybersecurity budget request for 2022 is $9.8 billion, a nearly 15% increase from 2021. The Pentagon's cybersecurity budget request for 2022 is $10.4 billion.
+
+The increased funding requests come in the wake of a series of ransomware attacks that have affected Americans and disrupted services. In May, the Colonial Pipeline was shut down for several days after a ransomware attack. In December, the SolarWinds cyberattack compromised the networks of multiple federal agencies and private companies.
+
+The U.S. has officially blamed Russia's Foreign Intelligence Service for the SolarWinds cyberattack, which Russia denies.
+
+"The SolarWinds attack was a wake-up call for the nation," said Brad Smith, President of Microsoft. "It showed us that our critical infrastructure is vulnerable to cyberattacks, and that we need to do more to protect it."

@@ -1,0 +1,31 @@
+US issues $10m bounty in hunt for DarkSide hackers – DW – 11
+
+The State Department has announced a reward for information about leaders of the cybercrime group DarkSide, which targeted a major US oil pipeline.
+
+The US on Thursday announced a $10 million (€8.6 million) reward for information to help find leaders of the high-profile ransomware group DarkSide.
+
+It's the latest effort at stopping cyber-extortion attacks by the group, which Washington blames for a major oil pipeline shutdown in May.
+
+What is the State Department offering?
+
+In addition to the bounty on the leaders, the State Department is also offering up to $5 million for information that arrests or convicts anyone, in any country, attempting to participate in a DarkSide ransomware incident.
+
+"In offering this reward, the United States demonstrates its commitment to protecting ransomware victims around the world from exploitation by cybercriminals," the State Department said in a statement
+
+The FBI has said DarkSide is based in Russia and that it is responsible for a cyberattack in May that targeted the Colonial Pipeline.
+
+The closure caused causing a days-long shutdown that caused a rise in gas prices and fuel shortages in parts of the southeastern US.
+
+Cybercrimes on the increase
+
+Colonial Pipeline said it paid nearly $5 million in Bitcoin to the hackers to regain access to its systems. In June, the US Justice Department was able to recover some $2.3 million of that ransom.
+
+The world's largest meat processor JBS said in June that it had paid $11 million after a hack by a Russian group known as REvil.
+
+New data this month shows that US authorities received reports of some $590 million in ransomware-related payments in the first half of 2021 alone.
+
+The figure is also 42% percent higher than the amount divulged for all of 2020, the US Treasury report said.
+
+It is believed that the true cost could run into billions.
+
+Ransomware cyber-extortion works by hackers involved breaking into a company or institution's network often via phishing or other scams.

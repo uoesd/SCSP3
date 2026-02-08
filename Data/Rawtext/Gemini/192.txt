@@ -1,0 +1,37 @@
+Colonial Pipeline CEO Defends Ransom Payment, Admits Cybersecurity Lapses
+
+NEW YORK, June 8 (Reuters) – Colonial Pipeline CEO Joseph Blount testified before U.S. senators on Tuesday, acknowledging cybersecurity lapses that led to a ransomware attack that disrupted fuel supplies last month.
+
+Blount told the Senate Homeland Security and Governmental Affairs Committee that hackers gained access to the company's network by stealing a single password for a legacy virtual private network (VPN) system that lacked multifactor authentication.
+
+"We have to do a better job of protecting ourselves," Blount said. "We have to invest more in cybersecurity."
+
+The attack, part of a broader pattern of cyberattacks on U.S. infrastructure, has spurred discussions on improving cybersecurity readiness. Senators expressed concern about Colonial's lack of a ransomware prevention plan and questioned the decision to pay the ransom.
+
+"I'm concerned that paying the ransom has set a precedent that will encourage more attacks," said Senator Rob Portman (R-Ohio).
+
+Blount defended the ransom payment decision, saying it was a necessary action to protect the company's customers and the public.
+
+"We made the decision to pay the ransom because we believed it was the best way to get our systems back online quickly and safely," Blount said.
+
+Colonial Pipeline has invested over $200 million in its IT systems over the past five years, but Blount did not provide details on cybersecurity spending.
+
+The FBI attributed the hack to a group called DarkSide, and there were suggestions that Colonial did not consult the U.S. government sufficiently before paying the ransom.
+
+"I'm concerned that Colonial did not consult with the U.S. government before paying the ransom," said Senator Gary Peters (D-Mich.). "This could have compromised our national security."
+
+Blount said that Colonial did consult with the FBI, but he acknowledged that the company could have done more to communicate with the government.
+
+The Justice Department recovered some of the ransom paid in cryptocurrency, but due to fluctuating bitcoin value, the recovery fell short of the total paid.
+
+"We are increasing our focus on tracking digital currency transactions related to ransomware," said Deputy Attorney General Lisa Monaco. "This is a growing national security concern."
+
+The Colonial Pipeline attack has highlighted the need for better cybersecurity practices, particularly in critical infrastructure sectors.
+
+"This attack is a wake-up call for all of us," said Senator Maggie Hassan (D-N.H.). "We need to do more to protect our critical infrastructure from cyberattacks."
+
+Blount said that Colonial is committed to improving its cybersecurity posture.
+
+"We are taking this attack very seriously," Blount said. "We are working with the FBI and other government agencies to investigate the attack and improve our cybersecurity defenses."
+
+The Senate Homeland Security and Governmental Affairs Committee is continuing its investigation into the Colonial Pipeline attack.

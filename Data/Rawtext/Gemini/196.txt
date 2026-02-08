@@ -1,0 +1,31 @@
+Colonial Pipeline CEO Admits $4.4 Million Ransom Payment in Cyberattack Aftermath
+
+Washington CNN – Colonial Pipeline CEO Joseph Blount has publicly acknowledged that the company paid a $4.4 million ransom to hackers following a debilitating cyberattack that disrupted fuel supplies in the southeastern United States.
+
+"This was a highly controversial decision that we made," Blount said in a statement. "We made the decision to pay the ransom because we felt that it was the best way to get our systems back online and get product flowing as quickly as possible."
+
+The admission marks the first time Colonial Pipeline has confirmed that a ransom was paid, despite facing intense scrutiny from lawmakers and the public. The company had previously declined to comment on the matter, citing an ongoing investigation by the Federal Bureau of Investigation (FBI).
+
+The ransomware attack, which occurred on May 7, prompted the shutdown of Colonial Pipeline's operations, causing significant gasoline disruptions in states including Georgia, North Carolina, and Virginia. The company's decision to pay the ransom has drawn criticism from some quarters, including members of Congress.
+
+"Colonial Pipeline's decision to pay the ransom was a mistake," said Democratic Reps. Carolyn Maloney of New York, Chairwoman of the House Oversight and Reform Committee, and Bennie Thompson of Mississippi, Chairman of the Homeland Security Committee. "It sets a dangerous precedent and encourages future attacks."
+
+Colonial Pipeline has maintained that it had no direct contact with the ransomware threat actors and that it is unclear who negotiated the payment. The company also revealed that it hired FireEye Mandiant, a cybersecurity firm, to assist with the incident response after discovering the breach.
+
+The FBI has confirmed that DarkSide ransomware was responsible for the attack, with speculation that the affiliate responsible was likely Russian. President Biden has also suggested that there is strong reason to believe that the cybercriminals are in Russia.
+
+"We have reason to believe that the ransomware actors are located in Russia," Biden said at a press conference. "We are working with our partners to hold them accountable."
+
+The Colonial Pipeline incident has sparked a debate about the need for mandatory reporting of cyberattacks by private entities to the government. Federal officials are discussing potential legislation that would require companies to report such incidents within a certain timeframe.
+
+Energy Secretary Jennifer Granholm indicated support for legislation requiring minimum standards for critical energy infrastructure companies. "We need to make sure that our critical infrastructure is protected from these kinds of attacks," Granholm said.
+
+In the wake of the attack, Colonial Pipeline has taken steps to enhance its cybersecurity measures. The company has implemented multi-factor authentication, increased monitoring of its systems, and hired additional cybersecurity personnel.
+
+"We are committed to doing everything we can to prevent this from happening again," said Marie Mouchet, Colonial Pipeline's CIO. "We are working with the FBI and other law enforcement agencies to bring the perpetrators of this attack to justice."
+
+The FBI's investigation into the Colonial Pipeline attack is ongoing. Deputy Assistant Attorney General Adam Hickey said that the Justice Department is "committed to holding accountable those responsible for this attack."
+
+"We will use every tool at our disposal to disrupt the activities of ransomware actors and protect our critical infrastructure," Hickey said.
+
+FBI Deputy Assistant Director Tonya Ugoretz emphasized the importance of public-private partnerships in combating cyber threats. "We need the private sector to be our partners in this fight," Ugoretz said. "We need them to share information about threats and vulnerabilities so that we can work together to protect our nation."

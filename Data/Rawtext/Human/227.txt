@@ -1,0 +1,23 @@
+Ransomware is a national security threat and a big business — and it's wreaking havoc
+
+The hacker ring's ransom note appeared on the company's computer screens this past Monday. "Your computers and servers are encrypted, backups are deleted," it said. "We use strong encryption algorithms, so you cannot decrypt your data." Tech is not your friend. We are. Sign up for The Tech Friend newsletter. ArrowRight But, the extortionists said, "you can restore everything by purchasing a special program from us — universal decryptor." This program, the message said, "will restore all your network."
+
+The price: $1.2 million.
+
+They also had stolen 1 terabyte — the equivalent of 6.5 million document pages — of the company's sensitive data. If the firm did not pay to decrypt it, the data would be "automatically published" online, the hackers said, according to the note, which was shared with The Washington Post by the firm that helped the victim deal with the attack.
+
+On Wednesday, the company paid $850,000, according to Austin Berglas, the former head of the cyber branch in the FBI's New York field office who is now global head of professional services for the cyber security firm BlueVoyant.
+
+"In this case," he said, "they had no option." If they didn't pay, he said, "they would go out of business."
+
+The firm's dilemma is faced by thousands of companies, schools, governments, and other entities around the world every year. Most incidents go unreported. Anecdotally, according to companies that help victims hit by ransomware attacks, more than half pay some form of ransom — estimated last year to average about $312,000, according to Palo Alto Networks, another cybersecurity company that deals regularly with ransomware attacks. Some experts suspect that amount is low.
+
+The attack that led Colonial Pipeline to shut down its 5,500-mile pipeline, causing fuel shortages throughout the southeastern United States, underscored that the ballooning ransomware wave isn't just about money. Targeting the private businesses that run much of the economy also threatens national security.
+
+President Biden on Thursday announced that the U.S. government had "strong reason to believe" the criminals behind the attack lived in Russia, though he said he did not believe the Russian government had directed the assault. Nonetheless, he warned Moscow about the need to "take decisive action" against them. The Justice Department, he said, would step up prosecutions of ransomware hackers and the government will "pursue a measure to disrupt their ability to operate."
+
+Shortly after Biden's comments, DarkSide, the hacker ring behind the Colonial strike, told its criminal partners that it had lost control of its computer servers and was shutting down. Some experts and U.S. officials warned this could be an "exit scam," to pretend they were leaving the business only to reappear at a later date under a different name. In any case, it is unlikely to end the risk from ransomware attacks.
+
+One thing is certain. DarkSide had a profitable quarter. The ring collected $14 million in ransoms for all of 2020 and raked in $46 million in just the first three months of this year, according to an analysis by Chainalysis.
+
+Colonial told U.S. officials it was not planning to pay ransom, according to three people familiar with the matter, but one person later said the company changed course. The Washington Post previously reported that the company had no plan to pay a ransom. Industry analysts, based on circumstantial evidence in an online ledger that tracks cryptocurrency payments, say they believe Colonial made a $5 million payment. Colonial has declined to say. Both the FBI and Mandiant, the cybersecurity company assisting Colonial, also declined to comment.

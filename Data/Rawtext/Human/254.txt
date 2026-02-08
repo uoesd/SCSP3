@@ -1,0 +1,15 @@
+Investigational AstraZeneca vaccine prevents COVID-19
+
+Results from a large clinical trial in the United States and South America indicate that AstraZeneca's COVID-19 vaccine, AZD1222, is well-tolerated and protects against symptomatic COVID-19 disease, including severe disease or hospitalization. The independent Data and Safety Monitoring Board (DSMB) overseeing the trial identified no safety concerns related to the vaccine. The United Kingdom-based global biopharmaceutical company AstraZeneca developed the vaccine and led the trial as regulatory sponsor.
+
+The National Institute of Allergy and Infectious Diseases (NIAID), part of the National Institutes of Health, and the Biomedical Advanced Research and Development Authority (BARDA), part of the U.S. Department of Health and Human Services' Office of the Assistant Secretary for Preparedness and Response, provided funding support for the trial through the federal COVID-19 response.
+
+The placebo-controlled trial began in August 2020. The analysis is based on results from 32,449 adult volunteer participants enrolled across 88 sites in the United States, Chile and Peru. One participant received a placebo for every two participants who received AZD1222, resulting in approximately 20,000 people receiving the investigational vaccine. The vaccine was administered as two doses of 5 x1010 viral particles four weeks apart.
+
+AZD1222 demonstrated statistically significant vaccine efficacy of 78.9% in preventing symptomatic COVID-19 and 100% efficacy in preventing severe or critical disease and hospitalization. In participants 65 years and older, who comprised 20% of the trial population, vaccine efficacy against symptomatic COVID-19 was 79.9%.
+
+The DSMB conducted a review of thrombotic events (blood clots) and cerebral venous sinus thrombosis (CVST) among participants and found no increased risk of these conditions in vaccinated participants.
+
+Approximately 79% of participants were white, 22% were Hispanic, 8% were Black or African American, 4% were Native American, including American Indian/Alaska Native participants residing in the U.S., and 4% were Asian. Vaccine efficacy was consistent across ethnicity. Approximately 60% of participants of any age had underlying health conditions associated with an increased risk of developing severe COVID-19, such as diabetes, severe obesity or cardiac disease.
+
+Authorization and guidelines for use of the vaccine in the United States will be determined by the Food and Drug Administration and Centers for Disease Control and Prevention after thorough review of the data by independent advisory committees. Today's results build on data from multiple clinical trials of AZD1222 conducted worldwide. The World Health Organization has recommended use of the vaccine for prevention of COVID-19 in adults and it is currently available for use in more than 70 countries. The European Commission has granted a conditional marketing authorization for the vaccine in the European Union.

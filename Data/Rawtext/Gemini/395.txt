@@ -1,0 +1,21 @@
+Signal's Attempt to Expose Facebook's Data Practices Met with Ad Account Shutdown
+
+In a bold move to highlight Facebook's extensive data collection practices, encrypted messaging app Signal attempted to purchase Instagram ads showcasing the personal information the social media giant uses for ad targeting. However, Facebook allegedly responded by shutting down Signal's advertising account.
+
+In a blog post published on Wednesday, Signal detailed its efforts to run ads on Instagram that would display the specific personal information Facebook uses to target users with ads. These ads were intended to raise awareness about the opaque nature of Facebook's data usage and its potential implications for user privacy.
+
+"We wanted to show people exactly what Facebook knows about them, and how they use that information to target them with ads," Signal CEO Moxie Marlinspike wrote in the blog post.
+
+Signal provided examples of the types of ads it wanted to run, including one that displayed a user's name, age, location, interests, and even their relationship status. Another ad showed a user's browsing history, including the websites they had visited and the products they had searched for.
+
+Marlinspike also tweeted an additional ad example, emphasizing the highly detailed targeting capabilities of Facebook's advertising platform. The ad showed a user's political affiliation, religious views, and even their sexual orientation.
+
+Facebook's alleged shutdown of Signal's advertising account is not an isolated incident. In the past, Facebook has removed ads critical of the company, including those from Sen. Elizabeth Warren.
+
+Facebook's ad business, which relies heavily on data tracking, is a major source of revenue for the company. In 2021, Facebook generated over $114 billion in advertising revenue, accounting for the vast majority of its total revenue.
+
+However, Facebook has expressed concerns about Apple's recent privacy updates, which limit the ability of apps to track users across websites and apps. These updates could potentially impact Facebook's ad business, as they make it more difficult for the company to target users with personalized ads.
+
+The controversy surrounding Signal's ad campaign and Facebook's alleged response highlights the ongoing debate over personal data sharing. The WhatsApp terms of service changes, which sparked widespread backlash, brought this issue to the forefront.
+
+Signal's attempt to expose Facebook's data collection practices is a reminder of the importance of transparency and user control over personal data. As technology continues to evolve, it is crucial to have open and informed discussions about the ethical implications of data collection and usage.

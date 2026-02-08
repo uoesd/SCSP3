@@ -1,0 +1,43 @@
+Pipeline Cybersecurity: A Race Against Evolving Threats
+
+The nation's critical oil and natural gas pipelines have become a prime target for cyberattacks, prompting a concerted effort by government and private stakeholders to fortify their defenses against threats targeting operational technology (OT). The May 2021 cyberattack on Colonial Pipeline, which disrupted fuel supplies along the East Coast, underscored the urgency of enhancing cybersecurity measures for this vital infrastructure.
+
+Challenges in Securing Pipelines
+
+Improving cybersecurity for pipelines poses significant challenges. The expanding attack surface, complex legacy networks, and limited visibility into OT systems make it difficult to detect and respond to threats effectively.
+
+"The attack surface for pipelines is growing rapidly due to the increasing use of digital technologies and the convergence of IT and OT systems," said Kimberly Denbow, Managing Director of Security and Operations at the American Gas Association. "This makes it more challenging to protect against cyberattacks."
+
+Legacy Systems and Visibility
+
+Legacy OT systems, which often lack modern security features, are particularly vulnerable to cyberattacks. Additionally, the lack of visibility into these systems makes it difficult for operators to monitor for suspicious activity and respond to incidents quickly.
+
+"Many pipeline operators have legacy systems that were not designed with cybersecurity in mind," said Melissa Ruiz, Spokesperson for Kinder Morgan. "This makes it challenging to implement modern security controls and maintain visibility into the network."
+
+Minimum Cybersecurity Standards
+
+Experts and regulators, including the Federal Energy Regulatory Commission (FERC), advocate for minimum cybersecurity standards to ensure a baseline level of protection for pipelines. However, the lack of current standards raises concerns about potential ineffective or burdensome regulations stemming from a hurried policy response.
+
+"Minimum cybersecurity standards are essential to ensure that all pipeline operators are taking the necessary steps to protect their systems," said Denbow. "However, it is important that these standards are developed carefully and in consultation with industry stakeholders to avoid unintended consequences."
+
+Pipeline Operators' Perspective
+
+Pipeline operators express willingness to comply with guidelines such as those from the National Institute of Standards and Technology (NIST) but seek more government protection against state-sponsored cyberattacks.
+
+"We are committed to implementing strong cybersecurity measures to protect our pipelines," said Ruiz. "However, we also need the government to take a more active role in protecting critical infrastructure from cyberattacks, including providing threat intelligence and assistance with incident response."
+
+Government Initiatives
+
+The Biden administration has issued directives imposing minimum cybersecurity requirements on pipeline operators. The Transportation Security Administration (TSA) is considering long-term rulemaking for pipeline cybersecurity, with more stakeholder involvement.
+
+"The government recognizes the importance of securing our nation's pipelines from cyberattacks," said a TSA spokesperson. "We are working with industry stakeholders to develop effective and practical cybersecurity regulations."
+
+Inadequate Cybersecurity Practices
+
+A significant portion of pipeline operators have been found to have inadequate cybersecurity practices, including insecure passwords and poor network segmentation. Legacy OT systems and increasing network connectivity have heightened vulnerabilities within pipeline systems.
+
+"Many pipeline operators have not kept pace with the evolving cybersecurity threat landscape," said a FERC spokesperson. "This has resulted in significant vulnerabilities that could be exploited by cybercriminals."
+
+Conclusion
+
+The race to fortify pipeline cybersecurity is ongoing, with government and private stakeholders working together to address the challenges posed by expanding vulnerabilities, legacy systems, and limited visibility. Minimum cybersecurity standards are essential, but they must be developed carefully to avoid unintended consequences. Pipeline operators are willing to comply with guidelines but seek more government protection against state-sponsored cyberattacks. The Biden administration and TSA are taking steps to enhance pipeline cybersecurity, but long-term solutions require sustained collaboration and investment.

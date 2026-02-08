@@ -1,0 +1,19 @@
+Outage Hits Facebook, Instagram, Messenger, and WhatsApp
+
+A widespread outage affected Meta's suite of social media platforms, including Facebook, Instagram, Messenger, and WhatsApp, on Tuesday, leaving many users unable to access the services. The outage began around 2 p.m. ET, according to DownDetector.com, a website that tracks online outages.
+
+Users took to Twitter to report issues with the platforms, making #instagramdown a trending topic. Some users also poked fun at Meta CEO Mark Zuckerberg during the outage.
+
+Meta acknowledged the problem, stating that work was underway to resolve the issues. The company confirmed that the outage affected Messenger, Workplace Chat, and Instagram DMs.
+
+Services were largely restored by approximately 6 p.m. ET. Meta apologized for the inconvenience, confirming the issue was fixed by 7:20 p.m. ET.
+
+This outage follows one of the longest in the company's history, which occurred a month prior. The incident comes amid ongoing fallout from whistleblower Frances Haugen's leaked documents.
+
+The outage had a significant impact on users, many of whom rely on the platforms for communication and business. Some users reported being unable to access their Instagram DMs, while others were unable to send messages on Messenger.
+
+This is not the first time Meta has experienced an outage. In recent years, the company has faced several high-profile outages, including a 24-hour outage in March 2022.
+
+Meta has not yet provided a cause for the outage. The company has faced criticism in the past for its handling of outages, with some users calling for more transparency and communication during such incidents.
+
+Despite the outage, Meta's platforms remain some of the most widely used in the world, with billions of active users. The company continues to work on improving the reliability and security of its services.

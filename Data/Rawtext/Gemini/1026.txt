@@ -1,0 +1,17 @@
+Texas Winter Freeze: Power Outages Stemmed from Inadequate Winterization
+
+HOUSTON, Texas (KTRK) – A preliminary report by the Federal Energy Regulatory Commission (FERC) has revealed that the widespread power outages during the February 2021 winter freeze in Texas were primarily caused by freezing or insufficient winterizing of generators.
+
+The report found that 44% of the outage issues were due to freezing, while 31% were attributed to natural gas fuel shortages. Most natural gas production and processing facilities were not protected from load shedding, resulting in a decline in supply.
+
+"The freezing temperatures caused equipment to fail, leading to cascading outages across the state," said Daniel Cohan, Associate Professor of Environmental Engineering at Rice University. "The lack of winterization measures exacerbated the situation."
+
+FERC has issued 28 recommendations to prevent similar occurrences in the future, focusing on winterizing equipment and conducting annual winterization training. A similar report was issued in 2011, but most recommendations were not implemented by power providers.
+
+"It's crucial that these new recommendations are followed to avoid a repeat of this crisis," said Ramanan Krishnamoorti, Chief Energy Officer at the University of Houston. "We need to ensure that our energy infrastructure is resilient to extreme weather events."
+
+The report highlights the need for economic incentives to encourage energy producers to enhance reliability. ERCOT, the operator of the Texas power grid, is working with the Public Utility Commission (PUC) to implement legislated mandates and improve grid reliability.
+
+"The PUC has a responsibility to ensure that the grid is reliable and resilient," said Cohan. "They need to hold energy providers accountable for meeting these new standards."
+
+The full FERC report and recommendations are available on their website.

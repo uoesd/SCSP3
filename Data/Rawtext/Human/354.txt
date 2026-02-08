@@ -1,0 +1,25 @@
+Fact check: Facebook outage caused by human error, not a military raid
+
+The claim: The military raided Facebook and took its servers
+
+The recent six-hour outage on Facebook, Instagram and WhatsApp left many users wondering what happened, some claiming it had been a hack. But one false theory, in particular, has gained traction online.
+
+A Facebook post shared Oct. 4, the day of the outage, claims the military raided a Facebook facility and seized Facebook's servers.
+
+"Hours later everything just comes back on but moving slow?" reads the text, which was shared more than 600 times in four days. "I have a guess. The military raided FB for the servers, took them, and left. When FB regained access to the facility they had to switch to the backup servers, which took a few hours to rebuild. Now we're seeing FB back online... but who's really in control over it now? Something a LOT BIGGER just happened today, people."
+
+Similar versions of the post have also accumulated hundreds of shares and reactions in just a few days.
+
+Facebook and the platforms the tech company owns, including WhatsApp and Instagram, stopped working around midday Eastern Time on Oct. 4 and were out of commission for users around the world until about 5:40 p.m. that same day. At that time, some users were able to access the platforms again, though some functions remained unavailable.
+
+The outage was the worst the company has seen in years, Facebook CEO Mark Zuckerberg said in a post the day after.
+
+However, the outage was not caused by a military raid. It was just human error, the company said.
+
+Fact check: Viral video falsely claims to show a man fleeing from COVID-19 vaccination
+
+Stephon Rudd, the Facebook user who posted the claim, told USA TODAY in a message that was his "guess" of what happened, but he "never once said it was a fact, although it could be." He offered no evidence to support his claim.
+
+Outage caused by a technical error
+
+The day after the outage, when the various social media platforms were back to normal, Facebook employees involved in the process of repairing the problem shined a light on what had happened.

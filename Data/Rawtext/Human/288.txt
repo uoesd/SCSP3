@@ -1,0 +1,17 @@
+Interim statement on booster doses for COVID-19 vaccination
+
+WHO SAGE has updated its recommendation on booster doses since the publication of this statement. Please refer to revised SAGE Prioritization Roadmap for the latest recommendations.
+
+The World Health Organization, with the support of the Strategic Advisory Group of Experts (SAGE) on Immunization and its COVID-19 Vaccines Working Group, continues to review the emerging evidence on the need for and timing of a booster dose for the currently available COVID-19 vaccines which have received Emergency Use Listing (EUL). This statement reflects the current understanding of vaccine performance and supply as presented to SAGE on 7 December 2021. It summarizes and contextualizes current evidence on booster vaccination. In recent weeks the SARS-CoV2 Omicron variant has emerged. Data are currently insufficient to assess the impact of this new variant of concern on vaccine effectiveness, in particular against severe disease. The statements and conclusions in this document will therefore be updated as data become available.
+
+Definitions:
+
+The following definitions and terminology are used by WHO throughout its policy recommendations on COVID-19 vaccination. This note focuses only on booster doses.
+
+Booster doses are administered to a vaccinated population that has completed a primary vaccination series (currently one or two doses of EUL COVID-19 vaccine depending on the product) when, with time, the immunity and clinical protection has fallen below a rate deemed sufficient in that population. The objective of a booster dose is to restore vaccine effectiveness from that deemed no longer sufficient.
+
+are administered to a vaccinated population that has completed a primary vaccination series (currently one or two doses of EUL COVID-19 vaccine depending on the product) when, with time, the immunity and clinical protection has fallen below a rate deemed sufficient in that population. The objective of a booster dose is to restore vaccine effectiveness from that deemed no longer sufficient. Additional doses of a vaccine may be needed as part of an extended primary series for target populations where the immune response rate following the standard primary series is deemed insufficient. The objective of an additional dose in the primary series is to enhance the immune response to establish a sufficient level of effectiveness against disease. In particular, immunocompromised individuals often fail to mount a protective immune response after a standard primary series, but also older adults may respond poorly to a standard primary series with some vaccines (1).
+
+Global context
+
+The Director-General of WHO has called for a moratorium on booster vaccination for healthy adults until the end of 2021 to counter the persisting and profound inequity in global vaccine access (2). While many countries are far from reaching the 40% coverage target by the end of 2021, other countries have vaccinated well beyond this threshold, already reaching children and implementing extensive booster vaccination programmes. At the time of release of this statement, globally about 20% of COVID-19 vaccine doses, daily, are used for booster or additional dose vaccination.

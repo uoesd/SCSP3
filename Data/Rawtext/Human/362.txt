@@ -1,0 +1,17 @@
+Facebook's outage also hit its AR and VR gadgets, making them temporarily half-blind
+
+Midway through Facebook's full-day outage on Tuesday, I realized I needed to try getting into VR. I saw a few joke tweets suggesting people were trapped in the metaverse, and I thought to myself... what happens to an Oculus Quest when Facebook is down? Would Facebook's new camera-studded sunglasses still work? With Facebook's focus increasingly turned to a virtual and augmented reality-driven future of work and communication, amid all sorts of already-shaky problems with its platform, it's a question you might be having too.
+
+The answer is: a weird and unfortunate mix. My Oculus headset still started up, and it still brought up a familiar virtual living room and showed me the list of apps I had installed. But Facebook's services underneath were gone. No app store. No avatars. No Facebook friends. Even the app icon graphics weren't loading.
+
+But I could start games I had downloaded, no problem. I booted up Walkabout Mini Golf and played a hole or two; I even connected to randomly play with someone else online. I loaded Microsoft's Altspace VR and found a meditation class midsession, avatars floating around like everything was just fine.
+
+The Oculus Quest 2, which requires a Facebook login to work, is sort of half in and half out of Facebook's cloud universe. A lot of the Quest is an Android-based piece of hardware that downloads apps and works like a game console. But what happens when Facebook's always-connected ties extend even further through the Oculus OS, when Facebook's dream of a metaverse layer of software becomes possibly the replacement to apps as we know them now? What happens when Facebook finally makes the cloud-connected, AI-driven AR glasses it is on a clear trajectory to deliver this decade?
+
+I put Facebook's newest Ray-Ban smart glasses on my face next -- the photo-taking, audio-connected sunglasses released last month -- but I didn't get very far. The Facebook-connected app on my phone, which is the only place the glasses can download its photos and videos to, wouldn't log in. I was locked out. I was also locked out of my photos.
+
+To be clear: App- and cloud-connected devices and services (and the inherent problems) aren't unique to Facebook. Try using a PlayStation 5 or Xbox Series X when the PlayStation Network or Xbox Live are down. Some parts work, others don't. Try using Netflix or Disney Plus during an outage. So many services we use are cloud-based now. We're used to putting our lives somewhere else; always-on wearables are no different. Some parts will work, no doubt, and others won't. Facebook's glasses don't need to be online to take photos and video -- but they need that phone app to share them.
+
+There are plenty of sci-fi books that have imagined a coming apocalypse of half-collapsed infrastructures: Tim Maughan's Infinite Detail is a great starting point. In that book, a rebel community in the UK has decided to take down a grid of smart tech, which causes the world to reboot and learn to live without the familiar shrouds of assisted tech.
+
+Every time there's a power outage or cellular networks go down, we rediscover this feeling and wonder about our reliance on Google, on phones, on all our social networks. The future of AR and VR doesn't necessarily need to feel this way: Lots of existing hardware can use on-device processing to handle VR graphics or AR effects, so they'll work even when there's no online connection. That needs to remain the case.

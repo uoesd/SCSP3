@@ -1,0 +1,17 @@
+Ransomware forced Bose systems offline, exposed personal data of 6 former employees
+
+A ransomware intrusion of the computer networks of Bose in March forced some of the electronic giant's IT systems offline and exposed the personal information of a handful of former employees, the company said in a breach notification letter.
+
+Seven weeks into an investigation of the incident, in late April, Bose discovered that hackers had accessed and "potentially exfiltrated" files containing the Social Security numbers and salary information of six former Bose employees based in New Hampshire, according to the statement.
+
+Bose could not confirm whether the data was exfiltrated, the company said in a May 19 letter posted to the New Hampshire attorney general's website. Neither private sector experts nor the FBI have found evidence of the data being sold on the dark web, the letter said.
+
+The incident is a reminder that while, high profile ransomware attacks like the one on Colonial Pipeline are impossible to miss, some breaches of major corporations will go unnoticed until the victim reports them. The hack comes amid a broader national reckoning with ransomware attacks that have touched just about every sector and led the departments of Homeland Security and Justice to launch new efforts to combat cybercriminals.
+
+Bose, which makes headphones and other sound systems, reported $3.6 billion in sales last year. A Bose spokesperson said the company did not make a ransom payment. The spokesperson did not address questions on what type of ransomware was involved, or whether the company has an estimate on how much the incident will cost.
+
+"There is no ongoing disruption to our business, and we are focused on providing our customers with the great products and experiences they have come to expect from Bose," the company spokesperson said. "We know how important it is to safeguard the information entrusted to us, and we remain committed to defending against cyber threats."
+
+Bose said it "carefully, and methodically, worked with its cyber experts to bring its systems back online in a safe manner."
+
+The company is offering people affected by the breach a year of free anti-fraud service — an offer that breached companies routinely make to victims. Consumer advocates have called on breached organizations to offer victims more protections.

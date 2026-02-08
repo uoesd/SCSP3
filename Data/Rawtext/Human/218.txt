@@ -1,0 +1,33 @@
+Age of the cyber-attack: US struggles to curb rise of digital destabilization
+
+It's been 40 years since Lisa Donnan has queued for gas. But last month the cybersecurity expert found herself joining the long lines of cars across the east coast of the US looking for fuel after the latest in a series of cyber-attacks had shut down the pipeline that provides fuel to 45% of the region.
+
+"The last time I did that was in the Iran crisis," she said. "My dad had to wait with me."
+
+The hack of the Colonial Pipeline was just one of a series of cyber-attacks that have hit the US and elsewhere recently. Hackers have taken down JBS, the world's largest meat processor, disrupting the global meat market, closed schools in Iowa and hit hospitals in Ireland in what experts say is a dangerous escalation of a crime wave that has swelled from the small-scale blackmail operations of a few years ago to major assaults that threaten the livelihoods – and potentially lives – of millions.
+
+Many of the recent attacks have been sourced to operations in Russia and US officials say that Russia's responsibility for ransomware attacks carried out from its territory would be a central issue when Joe Biden meets Vladimir Putin in Geneva next Wednesday.
+
+"One of the things that President Biden will make clear to President Putin, when he sees him, is that states cannot be in the business of harboring those who are engaged in these kinds of attacks," the secretary of state, Tony Blinken, told Congress this week.
+
+Eric Green, the senior director for Russia and central Asia in the national security council, said that one of the expected outcomes from the Geneva summit was a routine dialogue between senior US and Russian officials aimed at bringing greater stability and predictability to the relationship. One of the issues in the dialogue would be ransomware attacks.
+
+"When we talk about strategic stability cyber will also certainly be on the agenda," Green said in a recent discussion organised by the Centre for a New American Security. "The recent ransomware attacks remind us that the cyber domain is prone to misperceptions and that there are dangerous escalation risks."
+
+US officials say America will be pushing for Nato to expand its involvement in cyberdefence at the alliance summit in Brussels. But the unanswered question is how to respond to ransomware attacks by criminal groups for whom their host countries deny responsibility.
+
+"Putin will deny interfering in US politics or conducting cyber-attacks, asserting that Washington has no proof, while rejecting the legitimacy of US concerns about what happens within Russia," said Steven Pifer, former deputy assistant secretary of state for European and Eurasian affairs and now a senior fellow at the Brookings Institution.
+
+"Biden should not waste time arguing. He should aim instead to ensure that Putin has a clear understanding of what conduct is out of bounds."
+
+The pressure for Biden to act is rising. There has been a 62% increase in ransomware globally since 2019, and 158% spike in North America, according to the 2021 SonicWall Cyber Threat Report. Alongside that rise, the nature of the crimes and their targets are also changing.
+
+"We are seeing more attacks, more sophisticated attacks, bigger attacks and the scary thing is we are seeing them more on supply chains," said Donnan. "It used to be about financial exfiltration, stealing money, and reputational damage. It's now in a life-threatening environment. That is a dramatic change."
+
+Now a partner at the cybersecurity private equity investor Option3Ventures, Donnan says she doesn't expect to see any let-up in attacks. Nation states including Russia, China and North Korea are getting more ambitious in their attacks and the criminal enterprises that operate under their wings are getting more brazen.
+
+"The landscape is ripe and ready for attack from a perfect storm of hackers, nation states and the average cybercriminal," she said.
+
+Part of the recent surge is down to the pandemic, which has helped the hackers by accelerating the digitization of business and giving them more access points as people and businesses have moved to work remotely.
+
+On top of that there has been an explosion in software development, much of which was not built with security in mind from the beginning, said Donnan. "We still have a culture of get to market, be first. We are designing code without security in mind," she said.

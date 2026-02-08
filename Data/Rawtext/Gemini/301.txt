@@ -1,0 +1,37 @@
+Landmark Study Confirms Safety, Effectiveness of COVID-19 Vaccines in Real-World Setting
+
+Boston, MA - Recent clinical trials have demonstrated the remarkable effectiveness and safety of COVID-19 vaccines, and now, a groundbreaking study published in The New England Journal of Medicine provides compelling real-world evidence to support these findings.
+
+The study, conducted by researchers from Clalit Research Institute, Harvard Medical School (HMS), and the Harvard T.H. Chan School of Public Health, analyzed data from nearly 2 million individuals in Israel, offering a comprehensive assessment of the safety and effectiveness of the Pfizer/BioNTech BNT162b2 mRNA vaccine in a large-scale, real-world setting.
+
+"This study provides robust evidence of the safety and effectiveness of the Pfizer/BioNTech vaccine in a real-world setting, which is critical for addressing vaccine hesitancy and building public trust," said Ben Reis, HMS assistant professor of pediatrics, director of the predictive medicine group, and Computational Health Informatics Program at Boston Children's.
+
+Safety Profile: Rare Adverse Events, Myocarditis Risk Outweighed by COVID-19 Infection
+
+The study found that the Pfizer/BioNTech vaccine was associated with few adverse events, with myocarditis (inflammation of the heart muscle) being the most common. The rate of myocarditis was 2.7 excess cases per 100,000 vaccinated people, primarily occurring within the first week after the second dose and more frequently in young males.
+
+However, the researchers emphasized that the risk of myocarditis and other serious conditions was significantly higher among unvaccinated individuals infected with SARS-CoV-2, the virus that causes COVID-19.
+
+"The risk of myocarditis is much lower with vaccination than with natural infection," said Ran Balicer, director of the Clalit Research Institute, Chief Innovation Officer for Clalit, and chairman of Israel's National Expert Advisory Team on COVID-19 response. "The benefits of vaccination far outweigh the risks."
+
+Effectiveness: Substantial Protection Against Infection, Hospitalization, and Death
+
+The study also confirmed the high effectiveness of the Pfizer/BioNTech vaccine in preventing COVID-19 infection, hospitalization, and death. The vaccine was found to be 95% effective in preventing symptomatic COVID-19, 98% effective in preventing hospitalization, and 99% effective in preventing death.
+
+These findings are consistent with the results of the Pfizer/BioNTech phase 3 randomized clinical trial, which demonstrated 95% efficacy in preventing symptomatic COVID-19.
+
+Parallel Analysis: Assessing a Range of Potential Adverse Events
+
+In a parallel analysis, the researchers assessed 25 potential adverse events in vaccinated versus unvaccinated individuals. While most events were not associated with vaccination, a few were moderately associated, including lymph node swelling, appendicitis, and reactivation of herpes zoster. However, these events were rare.
+
+Implications for Vaccine Hesitancy and Public Health
+
+The findings of this study are expected to have a significant impact on vaccine hesitancy issues by providing comprehensive safety information.
+
+"This study offers reassurance about the safety of mRNA vaccines and highlights the higher risks of 'natural' coronavirus morbidity," said Balicer. "It should help people make informed decisions about vaccination."
+
+Reis added, "This study complements the findings from the Pfizer/BioNTech phase 3 clinical trial and provides further evidence of the safety and effectiveness of COVID-19 vaccines. It is a valuable contribution to the scientific literature and should help build public trust in vaccines."
+
+Conclusion
+
+The study published in The New England Journal of Medicine provides compelling real-world evidence of the safety and effectiveness of the Pfizer/BioNTech BNT162b2 mRNA vaccine. The findings reinforce the importance of vaccination in protecting individuals and communities from COVID-19 and should help address vaccine hesitancy issues.

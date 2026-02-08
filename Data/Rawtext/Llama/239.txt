@@ -1,0 +1,27 @@
+Biden's Cybersecurity Order: A "Dramatic Game Change" for Government and Consumers
+
+In a move hailed as a "dramatic game change" by former Cybersecurity and Infrastructure Security Agency (CISA) chief Christopher Krebs, President Biden has issued an executive order aimed at enhancing the federal government's cybersecurity. The order directs the Commerce Department to create new standards for software vendors supplying the federal government, a move that could have a cascading effect on products sold to American customers.
+
+Krebs, who was fired by former President Trump in November after debunking Trump's false election fraud claims, praised the executive order, saying it has the potential to improve security for both government and consumer software products.
+
+"This executive order is a dramatic game change," Krebs said in an interview. "It's a fundamental shift in how we approach cybersecurity, not just for the federal government but for the entire software industry."
+
+The executive order comes at a time when cyberattacks, particularly ransomware attacks, have become increasingly common and sophisticated. The recent ransomware attack on Colonial Pipeline, which involved paying a ransom, highlights the profitability of such attacks and the need for stronger cybersecurity measures.
+
+Krebs noted that the cybercriminal gang DarkSide, primarily composed of Russians, was responsible for the Colonial Pipeline attack. He also pointed out the possible link between ransomware groups and Russian intelligence, emphasizing the need for both presidential and congressional action to fortify the nation's cyber infrastructure.
+
+"Ransomware has become a major concern, and it's not going away anytime soon," Krebs said. "We need to take a comprehensive approach to cybersecurity, and that includes both the public and private sectors."
+
+The SolarWinds hack, which exposed sensitive information from several government agencies and private companies, is another example of the need for stronger cybersecurity practices. Krebs stressed the importance of learning from such incidents and taking steps to prevent them in the future.
+
+"The SolarWinds hack was a wake-up call for all of us," Krebs said. "We need to take a hard look at our cybersecurity practices and make sure we're doing everything we can to protect ourselves from these types of attacks."
+
+Krebs also emphasized the need for businesses to enhance their cybersecurity practices, noting that many companies are still not doing enough to protect themselves from cyber threats.
+
+"Cybersecurity is not just a government problem; it's a private sector problem as well," Krebs said. "Businesses need to take responsibility for their own cybersecurity and work with the government to ensure that we're all doing everything we can to protect ourselves from these types of attacks."
+
+The executive order is a step in the right direction, according to Krebs, who believes that it will not only improve cybersecurity for the federal government but also have a cascading effect on products sold to American customers.
+
+"This executive order is a game changer because it sets a new standard for software vendors supplying the federal government," Krebs said. "It's a signal to the industry that we need to take cybersecurity seriously, and it will have a ripple effect on products sold to consumers as well."
+
+In conclusion, President Biden's executive order aimed at enhancing federal government cybersecurity is a significant step in the right direction, according to former CISA chief Christopher Krebs. The order's potential to improve security for both government and consumer software products, combined with the need for both presidential and congressional action, makes it a "dramatic game change" in the fight against cyber threats.

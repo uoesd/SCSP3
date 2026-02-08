@@ -1,0 +1,23 @@
+Norsk Hydro Stands Firm Against Hackers: A Tale of Resilience in the Face of Cyber Adversity
+
+In March 2019, Norsk Hydro, a leading Norwegian conglomerate known for its strides in renewable energy and aluminum production, fell victim to a crippling ransomware attack. Unlike many who succumb to the demands of cybercriminals, Norsk Hydro chose a path less traveled. The company, under the fresh leadership of CEO Hilde Merete Aasheim, appointed the very day of the attack, stood firm, refusing to pay the ransom demanded by hackers.
+
+The sinister cyberattack that unfolded on this pivotal day in the company's history locked users out of more than 3,000 servers and thousands of personal computers. It left key areas of Norsk Hydro's sprawling IT network encrypted and inaccessible, thrusting the organization into operational chaos.
+
+"We were faced with a stark choice; to pay the criminals or work diligently to restore our systems on our own terms. We chose the latter," explained CEO Hilde Merete Aasheim. The decision was emblematic of the company's ethical stance and dedication to corporate integrity, even in the face of severe adversities.
+
+To counter the constraints imposed by the cyber onslaught, Norsk Hydro collaborated closely with leading cybersecurity experts. Under Aasheim's directive and the tactical guidance of Jo De Vliegher, the company's Chief Information Officer (CIO), Hydro embarked on a journey to reclaim their systems. "We had to revert to manual processes, even pen and paper in some instances, to keep our operations running," recounted De Vliegher.
+
+Despite maintaining production, the company was unable to escape the financial repercussions unscathed. The estimated loss due to the attack hovered around the $70 million mark. It was a stark reminder of the tangible impact of cyber threats on modern businesses.
+
+The recovery process, spearheaded by Aasheim and De Vliegher, saw Norsk Hydro meticulously working its way back to operational normalcy with significant assistance from the likes of Microsoft and the Norwegian National Cyber Security Centre. Over a grueling three-week period, Hydro leveraged every resource at its disposal to work around the constraints imposed by the attack, relying heavily on manual processes to sustain production lines.
+
+Reflecting on the ordeal, Aasheim remarked, "It was a test of our resilience, and while it was an incredibly challenging time, it forced us to reevaluate and strengthen our cybersecurity posture. We emerged stronger."
+
+This pivotal event led to a profound reevaluation of Norsk Hydro's cybersecurity measures and priorities. In the wake of the attack, the company has cemented cybersecurity as a cornerstone of its operational strategy, ensuring such vulnerabilities can be mitigated as much as possible in the future.
+
+Echoing the sentiments of resilience and the importance of cybersecurity preparedness, Eric Goldstein, an official at the U.S. Cybersecurity & Infrastructure Security Agency (CISA), advised, "Paying ransoms not only encourages criminal activities but also does not guarantee the restoration of access to encrypted files. Companies should focus on strengthening their cyber defenses and resilience to counter such threats."
+
+The stance taken by Norsk Hydro against the ransomware attack has set a compelling precedent for businesses worldwide, highlighting the importance of readiness, resilience, and the ethical ramifications of yielding to cybercriminals' demands.
+
+As cyber threats continue to evolve, companies like Norsk Hydro serve as beacons of resilience, demonstrating the power of principled leadership and the imperative of robust cybersecurity measures in safeguarding the future of global industries.

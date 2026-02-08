@@ -1,0 +1,34 @@
+COVID-19 Vaccines for Children: WHO Statement on Prioritization and Considerations
+
+The World Health Organization (WHO) recognizes the importance of protecting children from COVID-19 and supports the development and evaluation of safe and effective vaccines for this population. As several COVID-19 vaccines receive emergency use authorization for use in children in different countries, WHO provides this statement to guide decision-making and address key considerations related to the prioritization and use of COVID-19 vaccines in children.
+
+Current Status of COVID-19 Vaccines for Children
+
+Several COVID-19 vaccines have been authorized for use in children in different countries, including:
+
+  • Pfizer-BioNTech vaccine: Authorized for use in children aged 5 years and older in the United States, Canada, and the European Union.
+  • Moderna vaccine: Authorized for use in children aged 6 years and older in the United States.
+  • Sinovac vaccine: Authorized for use in children aged 3 years and older in China.
+  • Sinopharm vaccine: Authorized for use in children aged 3 years and older in China.
+
+Prioritization of Vaccination
+
+WHO prioritizes the vaccination of individuals at highest risk of severe COVID-19, including older persons and those with comorbidities. Children and adolescents generally experience milder symptoms of COVID-19 compared to adults, and the greatest burden of severe disease and mortality remains among older age groups.
+
+Considerations for Vaccination in Children
+
+While children and adolescents generally experience milder symptoms of COVID-19, there are several factors to consider when making decisions about vaccination in this population:
+
+  • Risk of Severe Disease: Although rare, children and adolescents can experience severe COVID-19, particularly those with underlying medical conditions. Risk factors for severe COVID-19 in children include older age, obesity, and preexisting conditions such as asthma, diabetes, and heart disease.
+  • Long COVID-19: Some children and adolescents may experience persistent symptoms of COVID-19, known as "long COVID-19," even after the initial infection has resolved. Symptoms of long COVID-19 can include fatigue, shortness of breath, cognitive difficulties, and muscle pain.
+  • PIMS-TS/MIS-C: A rare but serious condition called pediatric inflammatory multisystem syndrome temporally associated with SARS-CoV-2 (PIMS-TS/MIS-C) can occur in children and adolescents after COVID-19 infection. PIMS-TS/MIS-C involves inflammation of multiple organs, including the heart, lungs, kidneys, and gastrointestinal tract.
+  • Impact on Transmission: Studies on the role of children and adolescents in COVID-19 transmission have produced mixed results. Some studies suggest that younger children may be less infectious than adolescents and adults, while other studies have found no significant difference in transmission rates between children and adults.
+  • Socio-economic Impact: The COVID-19 pandemic and response measures have had a significant socio-economic impact on children and adolescents, including disruptions to education, social activities, and mental health. Vaccination can help mitigate these impacts by reducing the risk of infection and transmission.
+
+Evidence from Low- and Middle-Income Countries
+
+Evidence suggests that there may be a larger impact of paediatric COVID-19 related fatality in low to middle income countries. This may be due to factors such as limited access to healthcare, underlying health conditions, and malnutrition.
+
+Conclusion
+
+WHO supports the development and evaluation of safe and effective COVID-19 vaccines for children and adolescents. The decision to vaccinate children should be based on a careful assessment of the risks and benefits, taking into account factors such as the local epidemiology, vaccine availability, and individual risk factors. WHO continues to monitor the evidence and provide guidance on the use of COVID-19 vaccines in children and adolescents.

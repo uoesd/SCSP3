@@ -1,0 +1,29 @@
+First came the ransomware attacks, now come the lawsuits
+
+Listen 5 min Share Comment on this story Comment Add to your saved stories Save
+
+Eddie Darwich and his wife, Abeer, had been running the EZ Mart fuel station on Castle Hayne Road in Wilmington, N.C., for 11 years the day the gas dried up. At first Darwich was skeptical of the other gas station owners who were calling him with news of a strange computer hack attack on Colonial Pipeline, the company that ran the network of fuel pipes serving much of the East Coast. The pipeline had been shut down, and panicked drivers were buying extra fuel, leading to a run on gas supplies.
+
+"I didn't believe it," he said in a recent phone interview. "There's no way in hell something like this would happen in the United States."
+
+But it was true. On May 12, five days after an employee in Colonial's control room discovered the hack, Darwich's pumps ran dry. He desperately called his supplier, who told him the only thing he could do was wait. Darwich wasn't the only one who needed gas: Thousands of stations in a dozen states were in the same bind.
+
+"For more than a month I did not see my customers," he said. "It hurt a lot."
+
+Now he's suing Colonial Pipeline over those lost sales, accusing it of lax security. He and his lawyers are hoping to also represent the hundreds of other small gas stations that were hurt by the hack. It's just one of several class-action lawsuits that are popping up in the wake of high-profile ransomware attacks.
+
+Another lawsuit filed against Colonial in Georgia in May seeks damages for consumers who had to pay higher gas prices. A third is in the works, with law firm Chimicles Schwartz Kriner & Donaldson-Smith LLP pursuing a similar effort.
+
+And Colonial isn't the only company being sued. San Diego-based hospital system Scripps Health is facing class-action lawsuits stemming from a ransomware attack in April.
+
+Cybersecurity lapses at major companies have led to class-action lawsuits and settlements in the hundreds of millions of dollars. Retailer Target paid $10 million to consumers and $39 million to banks after hackers broke into its systems and stole personal information in 2013. Home Depot brokered a similar settlement with shoppers who had their credit card information stolen from the home improvement store's computers.
+
+But ransomware attacks have the potential to affect people in ways that go far beyond having their personal information stolen and sold online.
+
+Ransomware hackers deploy software that locks the owner of the targeted computer system out of their machines, and demands a cryptocurrency payment in return for handing back control.
+
+In a world where everything runs on computers, these attacks can cause havoc. Hospitals have had to postpone surgeries. In Southern Maryland, Leonardtown was hit by the sprawling Kaseya IT software hack and lost 17 of its 19 computers, forcing it to stop billing residents for electricity and blocking paychecks from going out to town employees. And in the case of Colonial Pipeline, hundreds of gas stations were shut down, leading to huge lines of cars waiting for what little fuel remained.
+
+The rise in lawsuits may mean companies and organizations that are hacked are no longer just on the hook for reimbursing people who had their data stolen. They could now be liable for all kinds of damages that go well beyond a heightened risk of identity theft or credit card fraud.
+
+"This is an extremely developing and increasing area," said John Yanchunis, a veteran class-action lawyer with Morgan & Morgan who worked on data breach lawsuits against Yahoo, Equifax and Target. His firm is involved in the lawsuit against Colonial that seeks to represent gas station owners.

@@ -1,0 +1,17 @@
+NIH Launches Clinical Trial to Evaluate Mixed Booster COVID-19 Vaccine Regimens
+
+The National Institutes of Health (NIH) has begun a Phase 1/2 clinical trial to assess the safety and immunogenicity of mixed booster COVID-19 vaccine regimens. The trial, led and funded by the National Institute of Allergy and Infectious Diseases (NIAID), part of the NIH, is being conducted through the Infectious Diseases Clinical Research Consortium.
+
+According to Anthony S. Fauci, M.D., Director of the NIAID, "We are preparing for the possibility of booster shots due to waning immunity and virus evolution. This trial will help us determine the safety and effectiveness of mixed vaccine schedules, which could inform public health policy if booster doses become necessary."
+
+The trial will enroll 150 participants who previously received one of the three COVID-19 vaccines granted Emergency Use Authorization (EUA) by the Food and Drug Administration (FDA). These participants will receive a booster dose of the Moderna vaccine. Additionally, the trial includes separate cohorts for individuals who are initially unvaccinated, who will receive the two-dose Moderna vaccine regimen.
+
+Robert L. Atmar, M.D., Principal Investigator at Baylor College of Medicine, noted, "The adaptive design of the trial allows for the introduction of new arms as additional vaccines receive EUA or variant vaccines become available. This will enable us to efficiently evaluate various vaccine combinations and stay ahead of the evolving virus."
+
+Kirsten E. Lyke, M.D., Principal Investigator at the University of Maryland, College Park, added, "Participants will be followed for a year post-vaccination for safety monitoring, side effects, and immune response evaluations. This will provide valuable insights into the long-term effects of mixed vaccine regimens."
+
+Initial results from the trial are expected in late summer 2021. The trial information is available on clinicaltrials.gov under identifier NCT04889209.
+
+As the primary federal agency for medical research in the United States, the NIH focuses on infectious, immune-mediated diseases, and other illnesses. The NIH's mission is to seek fundamental knowledge about the nature and behavior of living systems and to apply that knowledge to enhance health, lengthen life, and reduce illness and disability.
+
+For more information about the NIH and its research, visit https://www.nih.gov/.

@@ -1,0 +1,21 @@
+Department of Energy asks Congress for $201 million to bolster cybersecurity in wake of attacks
+
+WASHINGTON – The Department of Energy is asking Congress for $201 million in its budget request for the fiscal 2022 to address digital vulnerabilities after a steady uptick in sweeping cyberattacks.
+
+The $201 million request, up from $157 million in 2021, will help bolster the federal agency's cybersecurity efforts and address any "gaps" in the supply chain and tech infrastructure.
+
+Secretary of Energy Jennifer Granholm told the Senate Armed Services Committee on Thursday that the department also needs the funding to upgrade software, hire more cybersecurity professionals and to develop new cyber policies and standards.
+
+"As we have seen, the Colonial Pipeline incident made it clear that the fact that we do not have cyber standards on pipelines like we do on the electricity sector, that suggests a major hole," Granholm said referencing a sweeping ransomware attack on the nation's largest gasoline pipeline.
+
+"I will say that it is clear that there are gaps, not so much in our ability internally to respond but in our ability to see what is happening in the private sector," she said, adding that the Biden administration was reviewing methods in which the private sector could better collaborate with the government on the heels of cyberattacks.
+
+"What is not acceptable is the status quo," Granholm said, adding that one option could be "to allow the government to have some visibility into the system since the public relies upon their system."
+
+The Biden administration is asking Congress for $9.8 billion for federal civilian cybersecurity in 2022, nearly a 15% increase over 2021. The Pentagon is requesting $10.4 billion in 2022 for its cybersecurity budget request.
+
+The increased investment in cybersecurity follows a steady drumbeat of ransomware attacks that have directly impacted Americans and hampered logistics and services in the United States.
+
+In April, Washington formally held Russia's Foreign Intelligence Service responsible for carrying out the SolarWinds cyberattack. Microsoft President Brad Smith described the assault as "the largest and most sophisticated attack the world has ever seen." Microsoft's systems were also infected with malicious software.
+
+The Russian government denies all allegations that it was behind the SolarWinds hack.

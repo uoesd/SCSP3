@@ -1,0 +1,15 @@
+The Suez Canal boat lives on in Microsoft Flight Sim, thanks to the work of modders
+
+For a few days last week, the world felt a bit brighter thanks to the work of one boat. After getting caught up in high winds, the Evergreen Marine Corporation's Ever Given wedged itself rather firmly in the Suez Canal, disrupting an estimated 12 per cent of global trade in the process (via The Guardian). Not so funny for the captain or the hundreds of ships waiting in line to get through the canal, perhaps.
+
+Still, it gave many of us a good chuckle, and the boat has at last been freed - opening up the canal and world trade once more. Yet the infamous boat now lives on in digital form, as Microsoft Flight Simulator modders have been hard at work adding it to the game.
+
+Microsoft Flight Simulator - United Kingdom & Ireland World Update Microsoft Flight Simulator - United Kingdom & Ireland World Update
+
+Made by FlyBoyRez1 (and inspired by the work of Zepingouin35), the Suez Traffic Jam mod does exactly what it says on the tin... which is plonk a big old boat in the middle of the canal. Traffic will also appear around the boat from both sides, and you'll find some boats parked in the Suez Gulf. Several tug boats will try to free the ship (in vain), and you can also recreate that digger meme thanks to the inclusion of a pair of excavators.
+
+Naturally, as soon as something appears in Microsoft Flight Sim, players try to land a plane on it - and YouTuber Bill4LE has already attempted to do so. Unfortunately it seems you simply fly through the ship when attempting to land, but the video still provides a nice look at the mod and sheer scale of the boat:
+
+To install this mod for yourself, simply head over to the mod page on Flight Sim.io to download it. You'll also need a couple of prerequisite mods, including Global AI Ship Traffic by Henrik Nielsen, and Dave's Crooked Library for the digger. Which is essential, in my book.
+
+From browsing Reddit over the last few days, however, it seems Microsoft Flight Sim isn't the only game to have been blessed with the big old boat. Someone appears to have created a version of it in Rust, while another modder has made an old-world version of the Ever Given in Valheim. Time to get the ores out.

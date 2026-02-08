@@ -1,0 +1,37 @@
+AstraZeneca's COVID-19 Vaccine Shows Promising Efficacy and Safety in Large-Scale Trial
+
+Bethesda, Md., March 23, 2023 - The National Institutes of Health (NIH) today announced the results of a large-scale clinical trial showing that AstraZeneca's COVID-19 vaccine, AZD1222, is highly effective in preventing symptomatic COVID-19 and severe disease.
+
+The trial, funded by the National Institute of Allergy and Infectious Diseases (NIAID) and the Biomedical Advanced Research and Development Authority (BARDA), involved 32,449 adult volunteers across the United States, Chile, and Peru. Approximately 20,000 participants received the vaccine, while the remaining received a placebo.
+
+"The results of this trial are very encouraging and provide further evidence that AZD1222 is a safe and effective vaccine against COVID-19," said Ann R. Falsey, M.D., Professor of Medicine at the University of Rochester School of Medicine in New York. "The vaccine's high efficacy and favorable safety profile make it a valuable tool in our fight against this pandemic."
+
+The trial demonstrated that AZD1222 was 78.9% effective in preventing symptomatic COVID-19 and 100% effective in preventing severe disease or hospitalization. The vaccine was well-tolerated, with no safety concerns identified by the independent Data and Safety Monitoring Board.
+
+"These results are particularly important for older adults and those with underlying medical conditions, who are at higher risk of severe COVID-19," said Magdalena E. Sobieszczyk, M.D., Associate Professor of Medicine at Columbia University Medical Center in New York. "The vaccine's efficacy was consistent across ethnicity and in participants 65 years and older."
+
+Importantly, the trial found no increased risk of thrombotic events or cerebral venous sinus thrombosis among vaccinated participants. This finding aligns with the World Health Organization's (WHO) recommendation for the use of AZD1222, which is currently available in over 70 countries.
+
+AZD1222 uses a non-replicating chimpanzee adenovirus to deliver the genetic code of the SARS-CoV-2 spike protein to human cells. This triggers an immune response that protects against future infection with the virus.
+
+The clinical trial was conducted by the COVID-19 Prevention Network (CoVPN), a research network established by NIAID to accelerate the development and evaluation of COVID-19 vaccines and treatments. Participants will be followed for about two years after their second injection for further study.
+
+"These results are a testament to the hard work and dedication of the researchers, volunteers, and healthcare workers involved in this trial," said NIAID Director Anthony S. Fauci, M.D. "The availability of safe and effective vaccines is critical to ending the COVID-19 pandemic and saving lives."
+
+The NIH is committed to continuing its support of COVID-19 vaccine research and development. The agency is working with partners around the world to ensure that everyone has access to these life-saving vaccines.
+
+About the National Institutes of Health (NIH):
+
+The NIH is the primary federal agency conducting and supporting basic, clinical, and translational medical research, and is investigating the causes, treatments, and cures for both common and rare diseases. For more information about the NIH and its programs, visit www.nih.gov.
+
+About the National Institute of Allergy and Infectious Diseases (NIAID):
+
+NIAID conducts and supports research—at NIH, throughout the United States, and worldwide—to study the causes of infectious and immune-mediated diseases, and to develop better means of preventing, diagnosing, and treating these illnesses. News releases, fact sheets, and other NIAID-related materials are available on the NIAID website at www.niaid.nih.gov.
+
+About the Biomedical Advanced Research and Development Authority (BARDA):
+
+BARDA provides a critical link between the discovery of new medical products and their availability to the American public. BARDA invests in the advanced research, development, and manufacturing of medical countermeasures against chemical, biological, radiological, and nuclear threats, as well as pandemic influenza and emerging infectious diseases. For more information about BARDA, visit www.medicalcountermeasures.gov.
+
+About the COVID-19 Prevention Network (CoVPN):
+
+The CoVPN is a research network established by NIAID to accelerate the development and evaluation of COVID-19 vaccines and treatments. The network brings together researchers from academia, industry, and government to conduct large-scale clinical trials and observational studies. For more information about the CoVPN, visit www.covid19preventionnetwork.org.

@@ -1,0 +1,27 @@
+REvil, Notorious Ransomware Group, Hacked and Deactivated in Multinational Cyber Operation
+
+In a significant victory against cybercrime, REvil, the ransomware group responsible for the crippling attack on the U.S. Colonial Pipeline, has been hacked and deactivated by a multinational cyber operation.
+
+The operation, involving the FBI, investigative arms from multiple countries, and the U.S. Cyber Command, exploited a loophole in REvil's backup system, mirroring the technique the group used to compromise its targets.
+
+"We were able to use their own tools against them," said a senior U.S. official who spoke on condition of anonymity.
+
+REvil's leader, known as 0_neday, acknowledged the server compromise in an internet forum post. "Our backups were compromised," he wrote. "We are working on restoring them."
+
+The shutdown maneuver involved law enforcement agencies accessing and disabling REvil's servers from the inside. "We were able to get inside their network and take control of their servers," said the U.S. official.
+
+Oleg Skulkin, an official from the Russian security company Group-IB, commented on the irony of REvil's tactics being used against them. "It's like a thief getting robbed," he said.
+
+REvil's main spokesperson, known as Unknown, disappeared from the internet in July, fueling speculation that the group was facing internal turmoil.
+
+The Colonial Pipeline hack by REvil and DarkSide, another ransomware group, caused significant fuel shortages and led to a state of emergency being declared across 17 states. The attack highlighted the growing threat posed by ransomware to critical infrastructure.
+
+Following the pipeline hack, REvil attacked software management company Kaseya, demanding a large ransom. The U.S. government has since ramped up efforts to treat ransomware attacks on critical infrastructure as national security threats.
+
+"Ransomware attacks are a threat to our national security," said FBI Director Christopher Wray. "We will continue to work with our partners to disrupt and dismantle these criminal groups."
+
+The multinational cyber operation against REvil is a significant step in the fight against ransomware. It demonstrates the willingness of law enforcement agencies to collaborate and use innovative techniques to combat cybercrime.
+
+"This operation shows that we are not going to tolerate ransomware attacks," said the U.S. official. "We will continue to pursue these criminals and hold them accountable."
+
+The shutdown of REvil is a major setback for the ransomware industry. It sends a clear message that law enforcement agencies are committed to protecting critical infrastructure and holding cybercriminals responsible for their actions.

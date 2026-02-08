@@ -1,0 +1,19 @@
+Ransomware Attack on Colonial Pipeline Exposes Vulnerability of US Infrastructure
+
+The recent ransomware attack on the Colonial Pipeline has sent shockwaves throughout the nation, highlighting the vulnerability of the United States' critical infrastructure to cyber threats. The attack, which was carried out by the Eastern European criminal organization DarkSide, resulted in gas shortages and high fuel prices, with the national gas price average reaching $3 a gallon.
+
+According to Tom Bossert, Homeland Security Adviser under President Donald Trump, "The Colonial Pipeline attack is a stark reminder of the real and present danger that cyber threats pose to our nation's critical infrastructure."
+
+Experts warn that ransomware attacks are on the rise, with Dmitri Alperovitch, Executive Chairman of Silverado Policy Accelerator and former CTO of CrowdStrike, stating, "Ransomware attacks have become increasingly popular because they are easy to deploy and can be carried out by a range of actors, from enemy nations to criminal gangs."
+
+Elizabeth Neumann, former Assistant Secretary for Homeland Security and ABC News Contributor, emphasizes the importance of prevention, saying, "We need to take a proactive approach to cybersecurity, rather than just reacting to attacks after they happen."
+
+In response to the growing threat of cyberattacks, President Joe Biden signed an executive order aimed at increasing cybersecurity coordination between private companies and the government. The order emphasizes the need for a governmental role in combatting cyber attackers.
+
+Jim Langevin, a Rhode Island Democrat and founding member of the U.S. Cyberspace Solarium Commission, stresses the urgency of the situation, stating, "The rise of ransomware attacks coincides with the development of cryptocurrency, which facilitates anonymous ransom transactions. We need to take action now to protect against future attacks, which could have even more severe consequences, especially if foreign adversaries are involved."
+
+Brandon Wales, Acting Director of the Cybersecurity and Infrastructure Security Agency (CISA), highlights a technology and cybersecurity deficit, stating, "We need to modernize our infrastructure to protect against the growing threat of cyberattacks. Public-private partnerships and better funding for cybersecurity are essential to preventing future attacks."
+
+The Colonial Pipeline attack has made it clear that the United States is not immune to cyber threats. As Alperovitch notes, "The attack on the Colonial Pipeline is a wake-up call for the nation. We need to take cybersecurity seriously and invest in the necessary resources to protect our critical infrastructure."
+
+In conclusion, the ransomware attack on the Colonial Pipeline has exposed the vulnerability of the United States' critical infrastructure to cyber threats. The attack highlights the need for a proactive approach to cybersecurity, increased coordination between private companies and the government, and modernization of infrastructure to protect against future attacks. As Langevin notes, "The threat of cyberattacks is not going away. We need to take action now to protect our nation's critical infrastructure."

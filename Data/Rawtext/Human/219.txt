@@ -1,0 +1,27 @@
+US SEC probing clients of SolarWinds over cyber-breach: Report
+
+SEC is concerned some listed firms may not have disclosed the cyber-hacks in December, in breach of law, Reuters said.
+
+The US Securities and Exchange Commission (SEC) has opened a probe into last year's SolarWinds cyber-breach, focusing on whether some companies failed to disclose that they had been affected by the unprecedented hack, Reuters reported citing two persons familiar with the investigation.
+
+The SEC sent investigative letters late last week to a number of public issuers and investment firms seeking voluntary information on whether they had been victims of the hack and failed to disclose it, said the persons on Monday, speaking under the condition of anonymity to discuss confidential investigations.
+
+The agency is also seeking information on whether public companies that had been victims had experienced a lapse of internal controls, and related information on insider trading.
+
+The agency is also looking at the policies at certain companies to assess whether they are designed to protect customer information, one of the people said.
+
+The SEC's press office declined to comment.
+
+A spokesperson for SolarWinds, which provides a range of IT software, networks and systems, said in a statement: "Our top priority since learning of this unprecedented attack by a foreign government has been working closely with our customers to understand what occurred and remedy any issues."
+
+The company was also "collaborating with government agencies in a transparent way," the statement said.
+
+US securities law requires companies to disclose material information that could affect their share prices, including cyber-breaches, although cybersecurity disclosure failures are still relatively new enforcement territory for the SEC.
+
+In December, US regulators found that a breach by a foreign actor of SolarWinds' software gave hackers access to data of thousands of companies and government offices that used its products. News of the hack sent SolarWinds' share price tumbling, while cybersecurity stocks rallied.
+
+The United States and United Kingdom have blamed Russia's Foreign Intelligence Service (SVR), successor to the foreign spying operations of the KGB, for the hack, which compromised nine US federal agencies and hundreds of US private sector companies.
+
+If the issuers and investment firms respond to the letters by disclosing details about the breaches, they would not be subject to enforcement actions related to historical failures, including internal accounting control failures, the people said.
+
+While the letters are focused on the SolarWinds breach, the SEC may develop future policies on the impact of cybersecurity issues on the markets and on investors, the people said.

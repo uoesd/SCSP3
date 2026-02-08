@@ -1,0 +1,23 @@
+NYC Law Department's Computer System Crippled by Hacking Incident
+
+New York City's Law Department has been reeling from a crippling hacking incident that has left its computer systems inoperable for nearly three days, severely disrupting the agency's operations.
+
+The hack, which was first detected on Monday, has prompted an investigation by the FBI and New York City's Cyber Command office. The motives behind the attack are still under investigation, but officials have not ruled out the possibility of a ransom demand.
+
+"We are still trying to determine the full extent of the damage," said John Miller, NYPD's deputy commissioner of intelligence and counterterrorism. "But we are working around the clock to restore the system and minimize the impact on the Law Department's operations."
+
+Investigators have identified the malware used in the hack as a familiar strain, and they are currently tracing it back to the hackers. However, the Law Department's use of outdated software, including Windows 7 and Microsoft Office 2010, which are no longer supported by Microsoft, has raised concerns about the agency's vulnerability to cyberattacks.
+
+"The Law Department has been warned about the vulnerabilities in their computer systems, but they have not taken adequate steps to address them," said Laura Feyer, a spokeswoman for Mayor Bill de Blasio. "This incident is a wake-up call for the city to invest in cybersecurity and protect our critical infrastructure."
+
+Since the hack, Law Department employees have been unable to access the system remotely or use their work emails. The agency has been forced to rely on manual processes and paper records, which has significantly slowed down its operations.
+
+"This hack has had a major impact on our ability to provide legal services to the city," said a Law Department spokesperson. "We are working hard to restore the system as quickly as possible, but we do not have a timeline for when that will happen."
+
+Efforts to contain the hack have prevented it from spreading to other city systems, but the Law Department's operations have been severely impacted. The incident has also raised concerns about the security of other city agencies and critical infrastructure.
+
+"This is part of a wider trend of hack attacks on American infrastructure," said Miller. "We are working closely with the FBI and other law enforcement agencies to investigate this incident and prevent future attacks."
+
+President Biden is expected to address the issue of hack attacks on American infrastructure with Russian President Vladimir Putin during their upcoming summit. The United States has accused Russia of being behind a number of recent cyberattacks, including the SolarWinds hack that compromised several federal agencies and Fortune 500 companies.
+
+The Law Department's hack is a reminder of the growing threat of cyberattacks and the need for organizations to invest in cybersecurity measures. The incident is also a wake-up call for the city to address the vulnerabilities in its critical infrastructure and protect its data from malicious actors.

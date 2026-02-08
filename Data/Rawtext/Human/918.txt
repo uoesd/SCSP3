@@ -1,0 +1,45 @@
+Tom Brady winning 7 Super Bowls is as improbable as you winning the lottery
+
+Tom Brady's greatness has been dissected by millions of people, in millions of different ways. The average football fan, by now, knows the improbable tale, of a skinny kid from Michigan drafted 199th overall who became the greatest NFL player ever.
+
+But all the analysis, and glowing stories, and drooling commentators fail to capture just how improbable Brady's accomplishments are. Set aside his sixth-round status for a second. What is the probability that a given drafted player would go on to win seven Super Bowls?
+
+After Brady won Ring No. 7 on Sunday night, Yahoo Sports set out to answer that question. We asked sports statistics professors, a major sports data analysis firm and others far smarter than us. We settled on an overly theoretical answer: The odds of a given player winning seven-plus Super Bowls are about the same as your odds of winning the Powerball jackpot if you bought five or six lottery tickets.
+
+The observed probability is 1 in 26,683. That's the number of professional football players in Pro Football Reference's database. And only one of them has now won seven championships.
+
+But the classical, theoretical probability?
+
+Roughly 1 in 51.8 million. Or 0.0000019%. Or 19 in a billion.
+
+The math behind Tom Brady's improbability
+
+How'd we calculate that? We started by narrowing the question: Put yourself back in April 2000. Exactly 254 players are about to be picked in the NFL draft. If you were to randomly select one of those players, without knowing anything about how his life would transpire, what is the probability that player would win seven-plus Super Bowls?
+
+To answer, we pulled data on career length from Pro Football Reference. We made the (overly simplistic) assumption that an average player's Super Bowl odds in a given season are 1/32. And we asked stats whiz Vince Jansen to build a model that would tell us the likelihood of a random player winning at least seven rings.
+
+The model showed that the theoretical probability of winning at least one Super Bowl was 15.38%. But at least seven? 0.0000019%.
+
+The actual math is ridiculously complex – think equations with 80-plus characters. But multiple statistics professors confirmed its validity to Yahoo Sports. Thomas Severini, a statistics professor at Northwestern University, suggested framing the results with a different question: How many players would need to be drafted for there to be a 50% chance of one winning at least seven Super Bowls?
+
+The answer, he says, is roughly 36 million.
+
+And three experts – including Severini and Mark Glickman, a statistics professor at Harvard – independently came up with another mind-blowing number: Even if you were to guarantee that the randomly selected player would have a 21-year NFL career, the theoretical probability of that player winning seven-plus Super Bowls is 1 in 435,119 – or 2.3 in a million.
+
+In other words, an average NFL player who spent 21 seasons in the league would have a 0.00023% chance of doing what Tom Brady has done.
+
+What if we specify 'quarterback'?
+
+The first caveat to those minuscule probabilities is that they wouldn't be quite as small once we know that the random player is a quarterback. QB careers last longer than the average player's. They're more likely to yield several Super Bowls.
+
+"If it's not a quarterback, it's not gonna happen," says Abraham Wyner, a stats professor at the University of Pennsylvania's Wharton School of Business.
+
+So we made a second set of calculations. Rather than use the 2000 draft class as our sample for career-length data, we used all QBs drafted from 1985-2004. The probability that one of them would win seven or more Super Bowls?
+
+Roughly 1 in 12.8 million. Or 0.0000078%. Or 78 in a billion.
+
+So, four times more likely – but still ridiculously improbable.
+
+The one major caveat
+
+The more important caveat is that the assumption mentioned above – that the player's Super Bowl odds in a given season are 1/32 – isn't a realistic one.

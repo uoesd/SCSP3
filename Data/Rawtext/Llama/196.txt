@@ -1,0 +1,21 @@
+Colonial Pipeline CEO admits to $4.4 million ransom payment after cyberattack
+
+Washington CNN – In a stunning admission, Colonial Pipeline CEO Joseph Blount revealed that the company paid a $4.4 million ransom to cybercriminals who launched a devastating ransomware attack on the company's systems. The attack prompted the shutdown of pipeline operations, causing significant gasoline disruptions in the southeastern United States.
+
+Blount called the decision to pay the ransom a "highly controversial" one, but maintained that it was necessary to ensure the safe and efficient restoration of the company's systems. "We were faced with a very difficult decision," Blount said in a statement. "We decided to pay the ransom, but it was not an easy decision."
+
+The ransomware attack, which was confirmed by the FBI to be the work of the DarkSide ransomware group, is believed to have originated from Russia. President Biden suggested that there is strong reason to believe that the cybercriminals are in Russia, and Democratic Reps. Carolyn Maloney of New York and Bennie Thompson of Mississippi have called for greater cooperation between the US and Russian governments to address the issue.
+
+Colonial Pipeline had no direct contact with the ransomware threat actors, and it is unclear who negotiated the payment. The company faced criticism from Congress for refusing to share details about the ransom during a briefing. "We understand that there are a lot of questions about the ransom, and we want to assure everyone that we are cooperating fully with the FBI and other authorities," Blount said.
+
+The attack on Colonial Pipeline has sparked a renewed push for legislation that would require private entities to report cyberattacks to the government. Energy Secretary Jennifer Granholm indicated support for legislation requiring minimum standards for critical energy infrastructure companies. "We need to make sure that our critical infrastructure is protected from these kinds of attacks," Granholm said.
+
+Marie Mouchet, CIO of Colonial Pipeline, said that the company took immediate action to contain the attack after discovering it. "We disconnected certain systems and hired FireEye Mandiant for incident response," Mouchet said. "We are working closely with the FBI and other authorities to ensure that our systems are secure."
+
+Adam Hickey, Deputy Assistant Attorney General, said that the Department of Justice is taking the attack very seriously. "We are working closely with our international partners to address the issue of ransomware attacks," Hickey said. "We will do everything in our power to bring those responsible to justice."
+
+Tonya Ugoretz, FBI Deputy Assistant Director, confirmed that the DarkSide ransomware was responsible for the attack. "We are working closely with our partners in the private sector to address the threat posed by ransomware," Ugoretz said. "We urge all companies to take steps to protect themselves from these kinds of attacks."
+
+In the wake of the attack, Colonial Pipeline has vowed to take steps to improve its cybersecurity measures. "We are committed to protecting our systems and ensuring the safe and efficient operation of our pipeline," Blount said. "We will do everything in our power to prevent another attack like this from happening."
+
+The attack on Colonial Pipeline has highlighted the vulnerability of critical infrastructure to cyberattacks. As the US government and private sector continue to grapple with the issue, one thing is clear: the threat of ransomware is not going away anytime soon.

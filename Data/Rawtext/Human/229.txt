@@ -1,0 +1,41 @@
+Fact check: Posts draw misleading comparison between Colonial Pipeline hack and unfounded election fraud claims
+
+The claim: Colonial Pipeline hack proves election infrastructure could have been hacked
+
+Communities along the East Coast continue to face gas shortages after the Colonial Pipeline Co. fell victim to a cybersecurity attack.
+
+Social media users are using the breach to resurrect unfounded claims about election fraud.
+
+"If you can hack a pipeline, you can hack a voting machine," claims a May 10 post.
+
+Other accounts posted memes with the same claim. Examples of those posts are visible here and here.
+
+Fact check: NRA claim overstates Biden's remarks on gun control
+
+These posts draw a misleading comparison between the Colonial Pipeline hack and unfounded allegations about hacked voting systems in the November 2020 election. Investigations around election infrastructure have repeatedly found no evidence of such interference in November.
+
+USA TODAY reached out to the posters for comment.
+
+Colonial Pipeline IT was hacked
+
+When Colonial Pipeline announced it had been hacked on May 7, the company said a ransomware attack affected its information technology systems.
+
+Ransomware attacks are cybercrimes that typically involve hackers encrypting important data, making it inaccessible until the target pays a high ransom in digital currency. These cyberattacks usually target corporations, but several hospitals have been victimized by ransomware attacks over the past year as well.
+
+"In response to the cybersecurity attack on our system, we proactively took certain systems offline to contain the threat, which temporarily halted all pipeline operations, and affected some of our IT systems," the company wrote in a May 10 statement. "To restore service, we must work to ensure that each of these systems can be brought back online safely."
+
+An FBI investigation found software from the cybercrime group DarkSide, which has been under investigation since October, was responsible for the attack. DarkSide typically develops and sells ransomware software that other criminals use to carry out attacks, CNBC reported.
+
+Kevin Feeney, a spokesperson for Colonial Pipeline, said the company had "best-practices" prior to the attack, "such as maintaining stringent segmentation between our (informational technology) and (operational technology) environments, as well as our policies that have for years blocked connection between (operational technology) and the internet."
+
+Fact check: False QAnon-related conspiracy theory claims Arizona ballots are secretly watermarked
+
+Several company statements have detailed Colonial's efforts to manually operate some lateral pipelines during the outage.
+
+Elections security expert dismisses the comparison
+
+Posts connecting the pipeline hack to voting machines build on the widespread — and baseless — claims of fraud from the 2020 election.
+
+An expert from the nonprofit Center for Democracy & Technology told USA TODAY this connection is misleading.
+
+"The Colonial Pipeline attack does not, in any way, indicate that U.S. voting systems are vulnerable on a large scale, " wrote Will Adler, senior technologist for elections and democracy at CDT.

@@ -1,0 +1,15 @@
+Biden Issues Memorandum to Boost Critical Infrastructure Cybersecurity
+
+WASHINGTON – In an effort to strengthen the nation's critical infrastructure against the growing threat of cyberattacks, President Joe Biden has issued a national security memorandum aimed at improving cybersecurity standards in critical infrastructure. The memorandum, which was released on Tuesday, seeks to encourage the voluntary adoption of improved cybersecurity measures by infrastructure owners and operators.
+
+According to a senior administration official, the memorandum is designed to address the "patchwork" of sector-specific statutes that currently govern cybersecurity in critical infrastructure. "We need a more coherent approach to cybersecurity, and that's exactly what this memorandum provides," the official said.
+
+The memorandum focuses specifically on industrial control systems (ICS) and operational technologies (OT), which are crucial for the functionality of infrastructure. These systems are increasingly vulnerable to cyberattacks, which can have serious consequences for national security, public safety, and the economy.
+
+The initiative comes in response to the increasing threat and potential consequences of cyberattacks on critical infrastructure. The administration has noted that around 80% to 90% of critical infrastructure is privately owned, which complicates government efforts to protect it. The memorandum emphasizes a "whole-of-nation" approach and seeks to improve cyber information sharing between the private sector and government.
+
+The memorandum is part of the administration's broader strategy to improve national cybersecurity. In recent months, the administration has issued several executive orders and initiatives targeting ransomware and infrastructure security. The administration is exploring both voluntary and mandatory options for improving cybersecurity in the face of urgent threats.
+
+The senior administration official noted that the memorandum is just one of various measures by the administration to address the issue. "We're taking a comprehensive approach to cybersecurity, and this memorandum is an important step in that effort," the official said.
+
+Overall, the memorandum represents a significant step forward in the administration's efforts to strengthen critical infrastructure cybersecurity. By encouraging the voluntary adoption of improved cybersecurity standards and fostering better information sharing between the private sector and government, the administration hopes to reduce the risk of devastating cyberattacks on the nation's critical infrastructure.

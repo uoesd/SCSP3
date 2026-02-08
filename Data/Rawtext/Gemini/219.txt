@@ -1,0 +1,25 @@
+SEC Probes Companies' Disclosure Failures in SolarWinds Breach
+
+The United States Securities and Exchange Commission (SEC) has launched an investigation into whether companies failed to adequately disclose their involvement in the SolarWinds cyber-breach, which affected thousands of organizations worldwide.
+
+The SEC has sent investigative letters to public issuers and investment firms, requesting voluntary information on the impact of the hack and any potential disclosure failures. The probe focuses on whether affected companies had lapses in internal controls, issues related to insider trading, and policies for protecting customer information.
+
+"The SEC's Division of Enforcement is investigating whether public companies that were affected by the SolarWinds breach failed to disclose material information to investors in a timely manner," said a spokesperson for the agency.
+
+The SEC's press office declined to comment further on the investigation.
+
+SolarWinds, the software company at the heart of the breach, stated that its priority is to work closely with customers to understand and remedy any issues arising from the attack.
+
+"We are committed to transparency and are cooperating fully with the SEC's investigation," said a SolarWinds spokesperson.
+
+US securities law mandates that companies must disclose material information, including cyber-breaches, that may affect share prices. The SolarWinds breach in December allowed hackers to access data from thousands of companies and government offices, significantly impacting SolarWinds' share price.
+
+The US and UK have attributed the hack to Russia's SVR, which targeted US federal agencies and private sector companies.
+
+Companies that respond to the SEC's letters with details of the breach may avoid enforcement actions for historical disclosure and control failures. However, the SEC may still pursue actions against companies that fail to cooperate or provide inaccurate information.
+
+The investigation highlights the growing importance of cybersecurity and the need for companies to have robust internal controls to protect against cyber-attacks. The SolarWinds breach has raised concerns about the adequacy of current disclosure requirements and the SEC's ability to enforce them effectively.
+
+Experts believe that the SEC's investigation could lead to new guidance or regulations on cybersecurity disclosure. It could also result in enforcement actions against companies that fail to meet their disclosure obligations.
+
+The SEC's investigation is ongoing, and it is unclear when it will be completed. However, the probe is a significant step in addressing the fallout from the SolarWinds breach and ensuring that companies are held accountable for their cybersecurity practices and disclosure failures.

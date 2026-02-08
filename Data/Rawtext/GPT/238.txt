@@ -1,0 +1,19 @@
+New York City Law Department Reels from Devastating Cyber Attack
+
+The New York City Law Department, a cornerstone of municipal legal affairs, is currently grappling with a severe disruption to its operations following a cyber attack that has effectively paralyzed its computer systems for the past three days. The attack, now under intensive investigation by the FBI and NYC's Cyber Command, has thrown the department into disarray, with motives and potential culprits still under scrutiny.
+
+According to John Miller, NYPD's deputy commissioner of intelligence and counterterrorism, while the hackers responsible for the breach have yet to demand a ransom, the possibility remains on the table. "We're dealing with a fluid situation and are considering all angles. Our main focus is to understand the full scope of this incident," Miller stated.
+
+Investigators have identified the malware used in the attack, noting its familiarity which they hope will lead them back to the hackers responsible. "We have seen this type of malware before, and we're actively tracing its origin to understand the perpetrators' motives," added Miller.
+
+The compromise of the Law Department's system is partially attributed to its use of severely outdated software, including Windows 7 and Microsoft Office 2010, both of which have not been supported by Microsoft with security updates for years. Despite repeated warnings about the vulnerabilities this posed, sufficient upgrades and security improvements have not been implemented.
+
+Consequently, Law Department employees have been unable to access the system remotely or utilize their work email accounts since the hack occurred. Laura Feyer, a spokeswoman for Mayor de Blasio, lamented the situation, saying, "The safety and security of our technological infrastructure are of utmost priority. We're working tirelessly to restore the affected systems and services."
+
+Efforts to contain the spread of the hack have so far been successful, preventing it from impacting other city systems. However, the Law Department's operations have suffered significantly, with critical functions stalled until further notice.
+
+An audit completed last month on the Law Department's computer systems highlighted numerous security concerns, though specific findings were kept confidential due to security implications. "We're reviewing the audit's recommendations closely as part of our response to this attack," Feyer noted.
+
+This incident is a stark reminder of the increasing risk of cyber attacks on American infrastructure, fitting into a broader pattern of such assaults across the country. With President Biden slated to discuss cybersecurity issues with Russian President Vladimir Putin, the incident underscores the urgency of strengthening our defenses against these digital threats.
+
+As the city scrambles to recover from this cyber onslaught, questions about preparedness, response, and long-term security measures loom large. The New York City Law Department's ordeal serves as a somber example of the vulnerabilities facing our nation's vital institutions in the digital age.

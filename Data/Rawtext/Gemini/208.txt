@@ -1,0 +1,23 @@
+US Offers $10 Million Reward for DarkSide Cybercrime Group Leaders
+
+DW - 11 – The US State Department has announced a $10 million reward for information on the leaders of the cybercrime group DarkSide. An additional reward of up to $5 million is offered for information leading to the arrest or conviction of anyone involved in DarkSide ransomware incidents.
+
+This initiative is part of the US's efforts to combat the increasing trend of cyber-extortion attacks. DarkSide is blamed by the US for a major cyberattack on the Colonial Pipeline in May, leading to a shutdown that resulted in increased gas prices and fuel shortages in the southeastern US.
+
+The FBI identifies DarkSide as a Russia-based group. Colonial Pipeline paid nearly $5 million in Bitcoin to the hackers, with the US Justice Department later recovering about $2.3 million.
+
+The world's largest meat processor, JBS, also reported paying $11 million in ransom to another Russian group, REvil. US authorities reported $590 million in ransomware-related payments in the first half of 2021, a 42% increase over the entire year of 2020.
+
+Ransomware cyber-extortion involves breaking into a network, encrypting data, and demanding cryptocurrency for decryption keys. The victims are often forced to pay the ransom to regain access to their data, as the encryption is typically very strong.
+
+The US government has been increasingly vocal in its condemnation of ransomware attacks, and has taken steps to disrupt the activities of cybercrime groups. In June, the US Treasury Department sanctioned several cryptocurrency exchanges that were used by DarkSide to launder its profits.
+
+The State Department's reward offer is a significant step in the US's efforts to combat cybercrime. It is hoped that the reward will lead to the identification and arrest of the leaders of DarkSide, and help to disrupt the group's activities.
+
+The US government is also working with other countries to combat cybercrime. In July, the US and Russia agreed to establish a working group on cybersecurity, which will focus on addressing the threat of ransomware attacks.
+
+The FBI has also issued a warning to businesses about the threat of ransomware attacks, and has urged them to take steps to protect their networks. The FBI recommends that businesses use strong passwords, keep their software up to date, and back up their data regularly.
+
+Businesses should also be aware of the signs of a ransomware attack, such as unusual activity on their network, or the appearance of unfamiliar files or programs. If a business believes that it has been the victim of a ransomware attack, it should immediately contact the FBI.
+
+The US government is committed to combating the threat of cybercrime, and is working with other countries to disrupt the activities of cybercrime groups. The State Department's reward offer is a significant step in the US's efforts to combat cybercrime, and it is hoped that the reward will lead to the identification and arrest of the leaders of DarkSide.

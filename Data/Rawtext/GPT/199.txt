@@ -1,0 +1,11 @@
+Colonial Pipeline's Scheduling System Briefly Down Due to Hardening Efforts
+
+NEW YORK, May 18 – The scheduling system of Colonial Pipeline, a major fuel pipeline system, briefly experienced a network outage but was successfully brought back online on Tuesday. According to the company, this disruption was not the result of a new cyberattack but rather due to efforts aimed at hardening the system against future attacks. This comes after a recent cyber incident led to a week-long shutdown of its 5,500-mile pipeline, creating severe fuel supply disruptions across the United States.
+
+The cyberattack, which occurred earlier this month, resulted in widespread fuel shortages, with thousands of gas stations in the U.S. southeast running out of fuel. In response to this incident, Colonial Pipeline has been actively working to normalize fuel deliveries. The deliveries are managed through its shipping nomination system, which is operated by the third-party company, Transport4 (T4). T4, however, has declined to comment on this recent incident.
+
+Despite the system being restored, it was reported to be operating slower than normal, potentially affecting the speed of fuel distribution. Nonetheless, there has been a noted improvement in fuel availability with over 10,400 filling stations still without fuel as of Tuesday, a significant recovery from the peak of over 16,000 stations.
+
+Fuel outages continued to persist in several states, including North Carolina, South Carolina, Virginia, and Georgia, yet the situation improved, with outages dropping below 50%. Patrick De Haan from GasBuddy expressed optimism, anticipating that the number of stations without gasoline would fall below 10,000 by Tuesday's end.
+
+This incident highlights the vulnerabilities in critical infrastructure to cyber threats and the ongoing efforts by companies to strengthen their systems against such risks. The swift action by Colonial Pipeline to secure its scheduling system and to minimize disruptions underscores the importance of cybersecurity in maintaining the stability of essential services.

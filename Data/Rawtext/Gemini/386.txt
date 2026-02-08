@@ -1,0 +1,25 @@
+Facebook Abandons Facial Recognition Amidst Privacy Concerns
+
+In a significant move, Facebook has announced the discontinuation of its facial recognition system, affecting approximately 1 billion users worldwide. The decision comes after years of legal and regulatory scrutiny, including a $5 billion fine from the Federal Trade Commission (FTC) and a $650 million class-action lawsuit in Illinois.
+
+"We're winding down facial recognition on Facebook," said Jerome Pesenti, vice president of artificial intelligence at Facebook's parent company, Meta. "This change will represent one of the largest shifts in facial recognition usage in the industry."
+
+Approximately one-third of Facebook users had facial recognition features enabled, allowing the platform to automatically identify and tag individuals in photos and videos. However, this technology has raised concerns about privacy and accuracy.
+
+"Facial recognition technology is inherently biased and inaccurate, and it has been used to target and surveil marginalized communities," said Caitlin Seeley George, Campaign Director at Fight for the Future. "This is a victory for privacy and a step towards ending the harmful use of this technology."
+
+Facebook's database of identified photos is one of the largest in the world, and users will now have to manually tag photos going forward. Meta, Facebook's parent company, is pivoting towards a new public image amidst these changes, emphasizing privacy and transparency.
+
+"We're committed to building a more privacy-focused future," said Pesenti. "We believe that people should have control over their own data and that technology should be used to empower people, not to exploit them."
+
+The move by Facebook follows a growing trend of cities and states passing laws limiting the use of facial recognition software. Several U.S. cities, including San Francisco and Portland, have banned the use of facial recognition by law enforcement.
+
+Tech companies like IBM and Amazon have also distanced themselves from facial recognition. IBM has stopped selling its facial recognition software, and Amazon has placed a moratorium on police use of its facial recognition technology.
+
+Criticism of facial recognition technology extends beyond Facebook and other tech companies. Governments around the world have also been criticized for using facial recognition technology in ways that violate privacy rights.
+
+"Facial recognition technology is a threat to our privacy and our freedom," said George. "We need to ban all facial recognition technology, not just the one used by Facebook."
+
+Apple's Face ID, a facial recognition system used to unlock iPhones and iPads, includes safeguards to prevent misuse. Users can opt for a PIN instead of Face ID if they are concerned about privacy.
+
+The discontinuation of Facebook's facial recognition system is a significant step towards addressing privacy concerns associated with this technology. However, advocates argue that more needs to be done to protect individuals from the potential harms of facial recognition.

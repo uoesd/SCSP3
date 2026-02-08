@@ -1,0 +1,19 @@
+WHO Designates B.1.1.529 Variant as Omicron, a Variant of Concern
+
+The World Health Organization (WHO) has designated the SARS-CoV-2 variant B.1.1.529 as a Variant of Concern (VOC), naming it Omicron. This decision was made based on evidence presented to the Technical Advisory Group on SARS-CoV-2 Virus Evolution (TAG-VE) on 26 November 2021.
+
+The B.1.1.529 variant was first reported by South Africa to WHO on 24 November 2021, with the first known infection dating back to 9 November 2021. Preliminary evidence suggests that this variant may pose an increased risk of reinfection, and cases are increasing in almost all provinces in South Africa.
+
+The Omicron variant has a large number of mutations, which has raised concerns about its potential impact on the effectiveness of existing COVID-19 diagnostics, treatments, and vaccines. However, current SARS-CoV-2 PCR diagnostics can detect this variant, and the S gene target failure in one PCR test can serve as a marker for this variant.
+
+Based on the evidence presented to TAG-VE, it was advised that B.1.1.529 should be designated as a VOC, and WHO has communicated this designation to its member states. WHO will continue to update on new findings related to this variant.
+
+Countries are requested to enhance surveillance, sequencing, and reporting of cases associated with VOC infection. This includes increased testing and sequencing of cases, as well as reporting of cases and outbreaks associated with the Omicron variant.
+
+Individuals are reminded to continue adhering to public health measures, such as wearing masks, maintaining social distancing, and practicing good hygiene. Additionally, getting vaccinated remains a crucial step in protecting against COVID-19, including the Omicron variant.
+
+It is important to note that the definitions for SARS-CoV-2 Variant of Interest (VOI) and Variant of Concern (VOC) have been reiterated. A VOI is a variant that has the potential to impact the effectiveness of COVID-19 diagnostics, treatments, or vaccines, while a VOC is a variant that has been shown to have a significant impact on transmission, severity, or the effectiveness of COVID-19 diagnostics, treatments, or vaccines.
+
+WHO will continue to monitor the situation closely and provide updates as new information becomes available. It is crucial for countries to continue their efforts in combating COVID-19 and protecting their populations from the spread of the virus.
+
+In conclusion, the designation of the B.1.1.529 variant as Omicron, a Variant of Concern, highlights the need for continued vigilance and cooperation in the fight against COVID-19. WHO urges countries to continue their efforts in enhancing surveillance, sequencing, and reporting, as well as promoting public health measures and vaccination. Together, we can protect ourselves and our communities from the spread of the virus.

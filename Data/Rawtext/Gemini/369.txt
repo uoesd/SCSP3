@@ -1,0 +1,17 @@
+Social Media Exodus: Users Flock to Rivals Amid Facebook Outage
+
+During Facebook's unprecedented six-hour outage on Monday, social media users flocked to alternative platforms, seeking refuge from the tech giant's service disruption.
+
+Snapchat, a popular messaging and photo-sharing app, saw a significant surge in activity. Android users spent 23% more time on the app compared to the previous week, according to data from App Annie.
+
+Telegram, a secure messaging service, also experienced a massive influx of new users. The app gained an astonishing 70 million new signups during the outage, according to its CEO, Pavel Durov.
+
+"Telegram reached 500 million active users today," Durov announced on his Telegram channel. "This is a significant milestone for us and we are proud to have reached it."
+
+Snapchat's popularity among teens was evident in the Piper Sandler survey, which ranked it as the favorite social media app for this demographic. However, Instagram remains the most used app by teens, despite Snapchat's popularity.
+
+Telegram's surge in new users during the outage was particularly notable, as it amounted to about 10% of its total monthly active users. The last significant surge in Telegram users occurred in January, when WhatsApp experienced technical issues.
+
+Facebook's outage, which affected its entire suite of apps including Instagram, WhatsApp, Messenger, and Facebook itself, was caused by a "faulty configuration change" to its backbone routers.
+
+The outage highlighted the reliance on social media platforms for communication and connection, and the potential impact of service disruptions on users' daily lives. As Facebook works to restore full functionality, it remains to be seen whether the exodus to rival platforms will have a lasting impact on the social media landscape.

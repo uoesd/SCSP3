@@ -1,0 +1,39 @@
+Facebook Cracks Down on Surveillance-for-Hire Industry, Bans Israeli Firm Cognyte
+
+In a major blow to the surveillance-for-hire industry, Facebook has banned the Israeli cyber intelligence firm Cognyte and related accounts for targeting journalists and politicians worldwide. The move comes after a six-month investigation by the social media giant, which identified a network of companies involved in illicit surveillance operations.
+
+Cognyte's Nasdaq Debut and Facebook's Investigation
+
+Cognyte, led by CEO Elad Sharon, had recently celebrated its first trading day on Nasdaq, boasting of its annual revenues exceeding $200 million, a global workforce of over 1,000 employees, and a diverse client base that includes the U.S. Department of Justice. However, Facebook's investigation has cast a shadow over the company's success.
+
+"We have banned Cognyte and related accounts for engaging in coordinated inauthentic behavior on our platform," said Nathaniel Gleicher, Head of Security Policy at Facebook. "These accounts were used to target journalists and politicians in an attempt to manipulate public opinion."
+
+Global Network of Surveillance Firms
+
+Facebook's investigation uncovered a global network of six firms and one unnamed Chinese entity involved in the surveillance-for-hire industry, primarily based in Israel. These entities employed social media to gather intelligence, often by creating fake accounts and manipulating targets to compromise their devices.
+
+"We identified approximately 1,500 accounts linked to these operations and have taken them down," Gleicher added. "We have also notified around 50,000 people in 100 countries that they were targeted by these operations."
+
+Named Entities and Their Tactics
+
+Among the entities named in Facebook's report are Cobwebs Technologies, Black Cube, and Bluehawk CI, all Israeli firms; BellTroX from India; and Cytrox from North Macedonia. The unnamed Chinese entity was involved in surveilling minority groups in China's Xinjiang region, using advanced techniques like facial recognition software.
+
+"These companies are selling surveillance tools to repressive regimes that are using them to target dissenters and vulnerable individuals," Gleicher said. "This is a serious threat to human rights and democracy."
+
+Cognyte's Response and Black Cube's Statement
+
+Cognyte CEO Elad Sharon expressed disappointment with Facebook's decision, stating, "We believe that our activities are fully compliant with applicable laws and regulations."
+
+Black Cube, another Israeli firm named in the report, denied engaging in hacking or phishing. "We operate in full compliance with local laws and regulations in all our operations," a company spokesperson said.
+
+Citizen Lab's Report on Cytrox
+
+Facebook's actions were complemented by a report from the Citizen Lab, a research group at the University of Toronto, which detailed the activities of Cytrox, a North Macedonian firm involved in the surveillance-for-hire industry.
+
+"Cytrox's Predator spyware is a powerful tool that can be used to target and harass political opponents, journalists, and human rights activists," said Bill Marczak, a security researcher at Citizen Lab. "This report highlights the pervasive risks of mercenary spyware in political repression."
+
+Conclusion
+
+Facebook's crackdown on the surveillance-for-hire industry is a significant step towards protecting users from illicit surveillance and manipulation. The investigation has exposed a global network of companies that are exploiting social media platforms to target individuals for political or financial gain.
+
+As the world grapples with the increasing use of surveillance technologies, it is crucial to hold accountable those who misuse these tools to undermine human rights and democratic values.

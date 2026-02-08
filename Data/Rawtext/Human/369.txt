@@ -1,0 +1,17 @@
+Snapchat and Telegram usage spiked while Facebook was down
+
+Social media users flocked to other apps during Facebook's six-hour outage on Monday.
+
+This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now.
+
+Snapchat users on Android devices spent about 23% more time on the app on Monday compared with the same day the week before, according to Sensor Tower data shared with Bloomberg. And Telegram, an encrypted messaging app similar to Facebook-owned WhatsApp, gained 70 million new users during the outage, according to the platform's CEO Pavel Durov.
+
+Snapchat took the top ranking of teens' favorite social media apps according to Piper Sandler's "Taking Stock With Teens" survey. Of the 10,000 teens surveyed, 35% of teens named Snapchat as their favorite social media app, followed by TikTok at 30% and Instagram at 22%. However, Instagram is still the social media app most used by teens, with 81% of respondents saying they use the app at all. Snapchat clocked in slightly lower, with 77% saying they use it.
+
+Telegram has about 500 million monthly active users, meaning the number of signups on Monday was equal to about 10% of the app's existing user base, The Verge reported. The last time Telegram had a similar surge was in January, when Facebook reported problems with WhatsApp, according to the publication.
+
+"The daily growth rate of Telegram exceeded the norm by an order of magnitude, and we welcomed over 70 million refugees from other platforms in one day," Durov wrote in a message on Telegram on Monday. He said that the app's newest users from the US might have experienced some delays on the platform due to the sudden influx of downloaders.
+
+Durov added, "We won't fail you when others will," an apparent nod to Facebook's technical troubles that day.
+
+Facebook's suite of apps and services, including Instagram, WhatsApp, Messenger, and Facebook itself, went offline for hours on Monday. In a blog post, the company explained the outage was caused by a "faulty configuration change" to its "backbone routers."

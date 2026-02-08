@@ -1,0 +1,35 @@
+How the Colonial Pipeline hack is part of a growing ransomware trend in the US
+
+The wider American public was afforded an unwanted glimpse into the wild west world of ransomware this week, after a cyber-attack crippled Colonial Pipeline, causing fuel shortages across the eastern seaboard and states of emergency to be declared in four states.
+
+But experts warn that ransomware attacks – which are part-ransom, part-blackmail, part-invocation of squatters' rights – are becoming more frequent, while the mostly Russia-based hackers are growing more sophisticated with their methods.
+
+They have hit solar power firms, federal and local government agencies, water treatment plants and even police departments across the US. As the nation's eyes were focused on the pipeline attack this week, another hacker group was busy targeting Washington DC police – striking at law enforcement in the American capital.
+
+But it was the pipeline attack that had the most impact, emerging from the dark web and sending tens of thousands of Americans to panic-buy gas for their cars. The 5,500 mile-long pipeline, which carries 45% of the east coast's fuel supplies, announced on Saturday that it had been forced to shut down after attackers used the internet to seize control of the fuel-pumping operation.
+
+On Wednesday, Colonial Pipeline said it had "initiated the restart" of operations, reportedly after paying a $5m ransom fee. But that didn't stop hours-long lines continuing to form at gas stations in the south-east US, as fuel began to dry up and the price of gas hit its highest point in years.
+
+A group of cybercriminals called Darkside has taken responsibility for the ransomware attack, which works by hacking into a company, or government's, network, and scrambling the data. The hacker then posts a note in the system demanding payment. If the organization pays up, the hacker hands back control.
+
+"The analogy would be I break into your house, and once I get access to your house, I change all of the locks, and lock you out of your own house," said Eric Cole, author of the book Cyber Crisis and founder of the Secure Anchor cybersecurity company.
+
+"And then I say: 'Hey, unless you give me money, I'm not going to give you the keys to your house.'"
+
+The Colonial Pipeline debacle is merely the latest in a spate of ransomware attacks, which include the targeting of a water treatment plant in Florida, and the Texas-based SolarWinds IT company.
+
+US police forces have also been a focus. The Babuk group, another Russian cyber gang, is currently holding up the Washington DC police department, threatening to release stolen data unless law enforcement cough up an unspecified amount of money.
+
+The Presque Isle police department was attacked in April, police in Azusa were hit in March, while the city of Baltimore suffered a costly attack in 2019.
+
+As the number of attacks rise, Darkside has become one of the more prominent groups, and Cole said it has managed to "commercialize cybercrime".
+
+"They've been in operation for over three years, they started around 2018, and they typically focus on lower end ransoms," he said. "The average Darkside attack would ask for anywhere from $80,000 to $100,000 ransom, and they would typically do eight to 10 of these attacks a month, so they were bringing in about $12m a year.
+
+"But we've noticed in the last couple of months they ​started targeting and going after bigger organizations. Colonial really shows their change in business model – where now instead of going after 12 small entities they go after one big one."
+
+The Washington Post reported that 26 government agencies have been hit by ransomware since the beginning of the year. The number of private companies targeted is difficult to calculate, given no company wants to reveal to the world, and to other would-be attackers, that they will pay up if compromised, but it's likely the number of reported attacks are just the "tip of the iceberg", one expert said.
+
+In most cases, organizations have little option but to pay the ransom. After the city of Baltimore was attacked in May 2019, it decided not to pay the ransom of 13 bitcoins, which at the time came to roughly $91,000. It was a noble move, but not a financially successful one – Baltimore ended up spending more than $18m on recovery.
+
+The FBI and other security experts say Darkside is made up of a group of criminals based in Russia, but little is known beyond that.

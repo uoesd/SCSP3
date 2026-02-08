@@ -1,0 +1,29 @@
+How One Company Refused to Let Its Cyberattackers Win
+
+As the threat of ransomware grows, companies have felt pressed to pay massive amounts to hackers holding systems hostage. One business decided not to give in to their attackers' demands.
+
+Cyberattacks like the recent global attack that impacted multiple companies over the Fourth of July weekend, this spring's disruptive attack on Colonial Pipeline and 2017's infamous WannaCry virus are only growing in frequency and cost. The last five years especially has shown a marked increase, with attackers holding information and digital architecture hostage while demanding greater and greater ransoms.
+
+In 2021, major critical infrastructure systems have become a favorite target of hacker organizations. The early May attack on Colonial Pipeline, a major oil provider on the East Coast, not only showed how brittle corporate cybersecurity standards can be, but also that integral businesses can potentially be extorted into paying ransoms. Colonial Pipeline paid the attackers $4.4 million (with much of it recovered by the U.S. government) and the incident led to widespread gas shortages.
+
+But if a company can be hacked once, it stands to reason that they can be hacked again.
+
+When Norsk Hydro, a Norwegian renewable energy and aluminum manufacturing company, recently faced a ransomware attack, they handled it in a different way. They refused to pay the ransom, and took up the task of removing the virus from the equation altogether.
+
+In March of 2019, on the day Hilde Merete Aasheim was appointed Norsk Hydro CEO, she faced a predictable day full of meetings and media interviews. The last thing she expected was a wake up call at 4 a.m. Exhausted, she answered the phone and heard what she assumed was a practical joke on the other end.
+
+"That's normally not when you get a phone call," says Aasheim, who was quickly informed that day of the attack. She said her colleague on the other end of the line told her: "We are under a severe cyber attack, you have to come to work. This is not a drill."
+
+The attack against Norsk Hydro (which produces enough energy in Norway for 900,000 homes per year) affected the company's global network of over 3,000 servers and thousands more PCs, locking everyone out and encrypting key areas of the company's IT network.
+
+Without the decryption key, (which the hackers may or may not provide after a ransomware payment) that data is virtually inaccessible. But even regaining access left Norsk Hydro with a compromised system, one receptive to another attack. The company decided it would not pay the ransom, instead opting to reach out to cybersecurity experts. "There was never the option to pay any ransom," says Aasheim, who suspected the attackers would only come back for more.
+
+Meanwhile the attack's virus crippled the company's network and stalled production in all of its manufacturing facilities. Norsk Hydro made the decision to shut down access to the network, and switch over to manual operation of its most critical systems, warning employees to stay off their devices. Next came shutting down the company's own internal network to prevent propagation of the virus.
+
+While the benefit of a downed network means easier identification of a malicious virus (as suspicious activity is more prominent), the ramifications were costly. How do you run a manufacturing company without computers, even for more than a single day? They had to figure out how to handle it for weeks.
+
+"It was a very special situation for many weeks before we sort of had our hands around it...and could start to identify what was really compromised," says Aasheim. Printed order forms, sticky notes on doors and black computer screens, hours of manual labor and extensive bookkeeping helped keep the most essential orders fulfilled. Norsk Hydro relied on pen and paper to track its manufacturing and finances for about three weeks until computer access could be restored, only partially, and for mission-critical work.
+
+"We didn't have any orders, we didn't have anything in the computers," says Aasheim. Manufacturing plants had to operate without computer assistance, a difficult task when making precision aluminum components and dealing with smelters that reach 960 degrees celsius.
+
+"That's quite a scary situation if you don't have, let's say, data to guide you how to operate," says Aasheim. By asking former Hydro employees and retirees familiar with the paper-based method of manufacturing to pitch in, the production facilities were able to continue to fulfill simpler orders from clients using a combination of both expertise and the few physically printed order forms and procedures for certain parts.

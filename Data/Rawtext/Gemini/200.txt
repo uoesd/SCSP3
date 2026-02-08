@@ -1,0 +1,15 @@
+DarkSide Ransomware: A Sophisticated and Ruthless Cybercriminal Enterprise
+
+DarkSide, a notorious ransomware group that emerged in August 2020, has employed a sophisticated "ransomware-as-a-service" model, partnering with affiliates to launch targeted attacks on organizations worldwide. The group's modus operandi involves "double extortion" tactics, where they steal sensitive data before encrypting files, significantly increasing the pressure on victims to pay ransoms.
+
+According to Christopher Ballod, Associate Managing Director for Cyber Risk at Kroll, DarkSide's attacks are characterized by a "quick attack window" and ransom demands on the high end, typically exceeding $5 million. The group's ability to infiltrate and swiftly move within target networks is attributed to their use of advanced techniques like "zero-day exploits."
+
+DarkSide's targeting strategy involves careful financial analysis and information gathering from corporate emails. They investigate victims' cyber insurance policies to tailor ransom demands, exploiting the financial constraints of organizations. "They're very sophisticated in their approach," said Phil Wittmann, an attorney at Stone Pigman Walther Wittmann.
+
+The group's tactics extend beyond encryption and data theft. They have threatened to share stolen information with short-sellers if publicly traded companies refuse to pay ransoms. DarkSide also lists its victims on the dark web, showcasing the confidential data they have acquired.
+
+Despite their shutdown in May 2021, DarkSide's affiliates have expressed dissatisfaction on a forum, claiming that the group had not paid them their share of ransoms. Michael Walshe Jr., Chair of the Management Committee at Stone Pigman Walther Wittmann, noted that "the affiliates were complaining that DarkSide was not paying them their cut."
+
+Seven of Tantleff's clients paid ransoms ranging from $1.25 million to $6 million after negotiations from higher initial demands. The group's ability to demand such high ransoms highlights the significant financial impact of ransomware attacks on organizations.
+
+DarkSide's sophisticated tactics and ruthless approach have made them a formidable threat in the cybersecurity landscape. Their use of "ransomware-as-a-service" and "double extortion" tactics has raised the stakes for organizations, emphasizing the need for robust cybersecurity measures and comprehensive incident response plans.

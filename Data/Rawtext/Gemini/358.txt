@@ -1,0 +1,13 @@
+Facebook's Blackout Exposes Monopolistic Power, AOC Warns
+
+During Facebook's massive blackout, Rep. Alexandria Ocasio-Cortez (AOC) seized the opportunity to criticize the tech giant's monopolistic behavior. "Facebook's outage is a reminder of its unchecked power and the danger it poses to our democracy and free society," AOC tweeted.
+
+AOC highlighted Facebook's history of acquiring or destroying competitors, such as WhatsApp and Instagram. "Facebook has a long history of buying or crushing any potential competitors," she said. "This is not just about convenience; it's about the erosion of our democracy."
+
+José Caparroso, editor of Forbes, emphasized the significant impact of the blackout in Latin America, where WhatsApp is widely used. "The outage has shown how dependent we have become on Facebook's services," Caparroso said. "Even with alternatives like Viber, the outage has underscored the tech giant's influence."
+
+Facebook is currently facing an antitrust lawsuit by the Federal Trade Commission, which alleges that the company has violated antitrust laws by maintaining a monopoly in the social media market. Facebook has defended itself, claiming that it has not violated any antitrust laws. A judge's decision in the case is expected by mid-November.
+
+The outage, which began Monday at noon, was likely due to an issue with Facebook's Domain Name System (DNS). The DNS is responsible for translating domain names into IP addresses, which are necessary for computers to connect to websites.
+
+The outage had a significant impact on Facebook's users, as well as on the company's finances. Mark Zuckerberg's personal wealth dropped by $6 billion due to the outage, reducing his fortune to around the GDP of Angola.

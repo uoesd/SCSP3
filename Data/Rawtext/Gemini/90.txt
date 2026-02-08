@@ -1,0 +1,19 @@
+Citigroup Loses Bid to Recover $500 Million Erroneous Wire Transfer
+
+New York-based Citigroup has failed in its attempt to retrieve over $500 million it mistakenly wired to Revlon lenders in August 2020. U.S. District Judge Jesse Furman ruled against the bank, allowing the recipients to retain the funds.
+
+The ruling stems from a specific exception in New York law regarding mistaken wire transfers. The law states that recipients can keep funds if they discharged valid debts and were unaware of the error.
+
+"The recipients of the mistaken wire transfer were not unjustly enriched," Judge Furman wrote in his decision. "They discharged valid debts owed to them by Revlon, and they did so without knowledge that the wire transfer was in error."
+
+Citigroup had intended to send an interest payment of approximately $7.8 million, but instead wired $893 million. Some lenders returned part of the overpayment, but the incident sparked multiple lawsuits.
+
+"We strongly disagree with the court's decision and intend to appeal," a Citi spokesperson said.
+
+Despite the setback, Citigroup shares rose 0.7% following the news of the court ruling.
+
+The wire transfer mistake has drawn regulatory scrutiny over Citigroup's internal practices. In October, the bank was fined $400 million for risk management, data governance, and internal controls deficiencies.
+
+"The court recognized the unprecedented nature and unlikelihood of this type of banking error," Judge Furman said in his ruling. "The court also recognized that Citigroup had taken steps to prevent such an error from occurring again."
+
+The decision is a significant victory for the lenders who received the mistaken wire transfer. It also highlights the importance of having clear laws governing mistaken wire transfers.

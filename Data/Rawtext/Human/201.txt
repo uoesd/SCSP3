@@ -1,0 +1,31 @@
+Colonial Pipeline Hack Shows Peril Of Ignoring Military Cyber Vulnerabilities: Kendall
+
+NATIONAL HARBOR, Md.: The Colonial Pipeline hack should serve as a wake up call for the US military, which needs to move quickly to protect its logistics enterprise from cyber attacks, two top defense officials said today.
+
+In May, Russian-based hackers breached Colonial Pipeline's networks, causing a gas shortage, skyrocketing fuel prices and ultimately costing the company $5 million in ransom money — and all those hackers needed was one password, said Air Force Secretary Frank Kendall, who spoke at the National Defense Transportation Association conference Monday.
+
+"This is just the tip of the iceberg. If we don't protect our data, it is wide open for our competitors to steal or manipulate and to disrupt our military operations," he said.
+
+Kendall is not the only defense official concerned with the department's vulnerability to cyber attacks.
+
+On Tuesday, Air Force Gen. Jacqueline Van Ovost pointed to the Colonial Pipeline hack as an example of the "growing threat" of cyber attacks and said cybersecurity would be one of her top priorities as the new head of US Transportation Command.
+
+"If you can imagine a cyber criminal ... can cause fuel prices to rise, what could a persistent threat — a persistent and very capable threat — do to our systems?" she asked the audience at NDTA.
+
+While the ransomware attack on Colonial Pipeline did not directly assault military networks or other infrastructure, the event raised questions about the safety of networks used by commercial companies that form a key part of the Defense Department's logistics backbone.
+
+The department relies on commercial vendors for gas, jet fuel, and the transportation of goods and people — all critical commodities for TRANSCOM, which uses military assets to move troops and supplies but also contracts directly with industry for additional airlift, sea freight transportation and other delivery services.
+
+Any disruption to the department's commercial vendors or its supply chain — or more widely, to the military's own infrastructure — could be devastating in a war, Kendall said.
+
+"Our adversaries can be assumed to be able to disrupt our networks right now, because we have not sufficiently guarded against an attack," Kendall said. "Fewer than half of trucking and logistics companies even have a chief information security officer. What does that mean for our supply chain?"
+
+Before being sworn in as Air Force secretary, Kendall spoke with the House Armed Services Committee's task force on supply chain resilience and tried to convey the importance of ensuring the security of the defense industrial base and logistics enterprise, he said.
+
+"Peacetime supply chain disruptions and shortages were a problem certainly, but a manageable one," he said. "Wartime disruptions and shortages, on the other hand, could be much more problematic and in fact decisive."
+
+The Pentagon will need more funding in order to help mitigate current logistics vulnerabilities, Kendall said. Specifically, the military needs more weapons storage facilities and hardened fuel storage infrastructure, and it also needs to ensure that the commercial transportation industry can recruit talented employees.
+
+"We must also acquire more resilient transportation systems of systems," he said. "We know our current capabilities are vulnerable to cyber and kinetic attacks. We must address that harsh reality by incorporating the certainties of offensive cyber and kinetic attacks into our military requirements and into our acquisition plans."
+
+The Pentagon's nominee for director of operational test and evaluation (DOT&E) also signaled on Tuesday that the department may need to do more to ensure its own weapons and equipment can stand up to cyber attacks.

@@ -1,0 +1,17 @@
+Millions of people rely on Facebook to get online. The outage left them stranded.
+
+But this crucial question would go unanswered for hours, after all Facebook's services—including Facebook.com, WhatsApp, Messenger, and Instagram—suddenly became unavailable from around 11:40 a.m. US Eastern time. The outage was due to changes to Facebook's backbone routers, the firm said in a blog post. Those changes meant that traffic was not being handled properly by the Domain Name System (DNS), a tool that directs traffic and tracks addresses across the internet. In total, Facebook's apps and sites were down for almost six hours.
+
+For many internet users in the United States, the outage was a minor annoyance. But for the millions of people around the world who rely on Facebook's products to access the internet, including Afghans that already feel abandoned by the international community's withdrawal in mid-August, the sudden downtime was far more serious.
+
+For much of the world, Facebook has become "synonymous with the internet," says Sarah Aoun, vice president for security at the Open Technology Fund, a US nonprofit that supports technology projects like the private browser Tor and encrypted message service Signal. That made the outage the equivalent of nothing less than "a big infrastructure collapse," she says.
+
+The outage also came at an inauspicious time for Facebook. On Sunday, just hours before the outage, the CBS television program 60 Minutes aired a highly anticipated interview with a Facebook whistleblower, Frances Haugen, who has leaked a number of documents suggesting the firm knew that its products were bad for teen girls, among other revelations. She is due to testify before the US Senate later today. Facebook is also fighting an antitrust investigation in the US that could force it to sell Instagram and WhatsApp.
+
+Facebook's internet
+
+More than 3.5 billion people around the world use Facebook's suite of social networks and apps, including Facebook.com, Messenger app, Instagram, and WhatsApp, among others. The country with the largest population of Facebook users is India, with an estimated 340 million users. (The United States, by contrast, has an estimated 200 million users.)
+
+This was by design. For years, Facebook has been working to expand internet access in the developing world—which would also expand its own user base. The company has explored the use of satellites, drones, and radio-linked wireless networks. It has partnered with local telecommunication firms to improve physical internet infrastructure.
+
+In 2013 Facebook launched Internet.org, an initiative that allowed users to access Facebook, and certain other websites, without incurring any data charges. This was part of Mark Zuckerberg's grand plan to get the world online by providing internet access to the 85% of the world (at the time) that had access to cellular data.

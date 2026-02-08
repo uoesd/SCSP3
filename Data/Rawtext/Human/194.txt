@@ -1,0 +1,25 @@
+Colonial Pipeline attack: Everything you need to know
+
+As a group known to double-extort victims, Colonial Pipeline could be the next company to face the threat of the leak of data unless they give in to blackmail and pay the attackers. It may be, however, that DarkSide could choose not to pursue this usual tactic due to the aforementioned "social" problems caused by the ransomware.
+
+Bloomberg says that during the attack, over 100GB in corporate data was stolen in just two hours.
+
+As of May 11, Colonial Pipeline has not been added to the DarkSide leak site.
+
+On May 13, Bloomberg reported that the company paid a ransom demand of close to $5 million in return for a decryption key.
+
+This appears to be one of the largest and most successful cyberattacks on a critical component of a country's infrastructure to date -- but it is not the first.
+
+In February, a cyberattacker attempted to add dangerous levels of a chemical to a city in Florida's drinking water system, and back in 2016, the city of Kieve, in Ukraine, lost all power for an hour due to Industroyer malware.
+
+If the prospect of fuel shortages, the invoking of emergency powers, and the briefing of a president is anything to go by, we may see a more urgent review of cybersecurity procedures and practices in the US soon -- and perhaps the implementation of severe punitive actions to companies that do not maintain a strong security posture.
+
+However, cyberthreats continue to evolve and, either way, this is unlikely to be the last time we see such severe social disruption caused by cyberattackers just in it for the money.
+
+"This incident is not the first and will definitely not be the last, as US critical infrastructure spans across an entire continent and relies on engineers in remote places to log in and perform maintenance when needed," Bitdefender commented. "It is common for ransomware operators to probe networks for such points of entry or even to buy phished credentials to remote desktop instances that they can use to mount an attack. Critical infrastructure is becoming increasingly appealing to ransomware operators -- particularly those who are involved in Ransomware-as-a-Service schemes."
+
+The order includes a shift to multi-factor authentication, data encryption both at rest and in transit, a zero-trust security model, and improvements in endpoint protection and incident response.
+
+A Cybersecurity Safety Review Board will also be established.
+
+"Incremental improvements will not give us the security we need; instead, the federal government needs to make bold changes and significant investments in order to defend the vital institutions that underpin the American way of life," the order reads.

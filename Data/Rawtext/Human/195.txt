@@ -1,0 +1,15 @@
+U.S. to boost pipeline cyber protections in wake of Colonial hack
+
+WASHINGTON, May 25 (Reuters) - The Biden administration is working with pipeline companies to strengthen protections against cyberattacks following the Colonial Pipeline hack, with announcements of actions planned in coming days, the Department of Homeland Security (DHS) said on Tuesday.
+
+A ransomware attack forced Colonial Pipeline, which runs from Texas to New Jersey, to shut much of its network for several days this month, leaving thousands of gas stations across the U.S. Southeast without fuel. Motorists fearing prolonged shortages raced to fill their tanks as the outage laid bare the nation's reliance on a few key pipelines for fuel needs. read more
+
+The Transportation Security Administration (TSA), a unit of the DHS, "is coordinating with companies in the pipeline sector to ensure they are taking all necessary steps to increase their resilience to cyber threats and secure their systems," the agency said.
+
+The TSA is collaborating with another branch of DHS, the Cybersecurity and Infrastructure Security Agency. DHS said it will release more details "in the days ahead," without providing particulars.
+
+The closure of the 5,500-mile (8,900-km) system was the most disruptive cyberattack on record, preventing millions of barrels of gasoline, diesel and jet fuel from flowing to the East Coast from the Gulf Coast.
+
+The Washington Post reported that DHS is preparing to issue its first mandatory cybersecurity regulations on pipelines, citing senior officials.
+
+In the past TSA has provided voluntary guidelines on cybersecurity for pipelines. The agency only had six full-time employees in its pipeline security branch through 2018, which limited reviews of cybersecurity practices, a General Accountability Office report said in 2019. The TSA said this month it has since expanded that staff to 34 positions. read more

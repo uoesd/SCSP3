@@ -1,0 +1,21 @@
+Ransomware Attacks Surge in the US, with Payments Tripling in 2020
+
+The number of ransomware attacks in the United States has seen a significant increase in 2020, with victims paying out nearly $350 million, a 311% increase from the previous year. This is according to a recent statement made by FBI Director, Christopher Wray.
+
+Wray stated that the volume of ransom paid in ransomware attacks has tripled over the last year, highlighting the growing threat posed by these types of cyberattacks. Ransomware involves hackers seizing data or systems from companies or governments and demanding payment for their return.
+
+Experts have linked the surge in ransomware attacks to the shift to remote working during the pandemic. With employees working outside the safety of office networks, they are more vulnerable to cyber threats. John Hammond, a cybersecurity researcher at Huntress, noted that remote working poses more risks as employees are outside the safety of office networks.
+
+One of the most consequential recent ransomware hacks was on the Colonial Pipeline, which was attributed to a breach of a virtual private network (VPN). Israel Barak, Chief Information Security Officer at Cybereason, pointed out that corporate and government security measures are less effective when devices are used outside of controlled networks.
+
+The rise of cryptocurrency has also facilitated ransomware attacks, making payments easier and less traceable. Joseph Carson, Chief Security Scientist at Thycotic, emphasized that cryptocurrency has made it easier for attackers to receive payments without being caught.
+
+In response to the growing threat of ransomware attacks, the Biden administration issued a letter to corporate executives emphasizing the need for improved cybersecurity measures. The letter highlighted the importance of implementing robust cybersecurity protocols to protect against ransomware attacks.
+
+The House homeland security committee has also advanced multiple bills aimed at enhancing cybersecurity. Rahul Telang, Professor of Information Systems at Carnegie Mellon, noted that the bills aim to improve cybersecurity preparedness and response, which is critical in the face of increasing ransomware attacks.
+
+Anne Neuberger, Cybersecurity Adviser at the National Security Council, stressed that cybersecurity is a shared responsibility and that everyone has a role to play in protecting against ransomware attacks. She emphasized the need for individuals and organizations to take proactive measures to protect themselves.
+
+In light of the surge in ransomware attacks, it is essential for individuals and organizations to take measures to protect themselves. This includes implementing robust cybersecurity protocols, regularly backing up data, and training employees on how to identify and respond to ransomware attacks.
+
+In conclusion, the surge in ransomware attacks in the US is a pressing concern, with payments tripling in 2020. The shift to remote working during the pandemic has made employees more vulnerable to cyber threats, and the rise of cryptocurrency has facilitated ransomware attacks. It is crucial for individuals and organizations to take proactive measures to protect themselves against these types of cyberattacks.

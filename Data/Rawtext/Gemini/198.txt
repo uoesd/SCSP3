@@ -1,0 +1,29 @@
+Biden Issues National Security Memorandum to Bolster Critical Infrastructure Cybersecurity
+
+WASHINGTON – President Joe Biden has issued a national security memorandum aimed at strengthening cybersecurity in critical infrastructure, a move that seeks to address the growing threat of cyberattacks on the nation's vital systems.
+
+The memorandum, released on Wednesday, outlines a comprehensive strategy to improve cybersecurity in critical infrastructure sectors, including energy, water, transportation, and healthcare. It encourages voluntary adoption of improved cybersecurity standards by infrastructure owners and operators, addressing the current patchwork of sector-specific statutes and aiming for more coherent cybersecurity measures.
+
+"This memorandum is a critical step forward in our efforts to protect our nation's critical infrastructure from cyber threats," said a senior administration official. "It provides a comprehensive framework for improving cybersecurity in these sectors and will help us to better prepare for and respond to cyberattacks."
+
+The memorandum specifically focuses on industrial control systems (ICS) and operational technologies (OT), which are crucial for the functionality of critical infrastructure. These systems are often vulnerable to cyberattacks, and their compromise could have devastating consequences.
+
+"The increasing threat of cyberattacks on critical infrastructure is a serious concern," said the official. "These attacks can disrupt essential services, damage our economy, and even threaten our national security."
+
+The memorandum emphasizes a "whole-of-nation" approach to improving cybersecurity in critical infrastructure, seeking to improve cyber information sharing between the private sector and government. This collaboration is crucial, as around 80% to 90% of critical infrastructure is privately owned, complicating government efforts to protect it.
+
+"We need to work together with the private sector to improve cybersecurity in critical infrastructure," said the official. "This memorandum will help us to do that by providing a framework for collaboration and information sharing."
+
+The memorandum follows a slew of high-profile cyberattacks on critical infrastructure in recent years, including the Colonial Pipeline ransomware attack in 2021 and the SolarWinds supply chain attack in 2020. These attacks have highlighted the urgent need to improve cybersecurity in these sectors.
+
+"The cyber threat landscape is constantly evolving," said the official. "We need to be constantly adapting our cybersecurity measures to stay ahead of our adversaries."
+
+The memorandum is part of the Biden administration's broader strategy to improve national cybersecurity. The administration has already issued several executive orders and initiatives targeting ransomware and infrastructure security.
+
+"Improving cybersecurity is a top priority for this administration," said the official. "This memorandum is one of several steps we are taking to protect our nation from cyber threats."
+
+The administration is exploring both voluntary and mandatory options for improving cybersecurity in critical infrastructure. The memorandum emphasizes the importance of voluntary adoption of improved cybersecurity standards, but it also leaves open the possibility of mandatory measures if necessary.
+
+"We believe that a voluntary approach is the best way to improve cybersecurity in critical infrastructure," said the official. "However, we will not hesitate to take mandatory measures if necessary to protect our national security."
+
+The memorandum is a significant step forward in the effort to improve cybersecurity in critical infrastructure. It provides a comprehensive framework for collaboration between the government and the private sector, and it sets out a clear path for improving cybersecurity in these vital sectors.

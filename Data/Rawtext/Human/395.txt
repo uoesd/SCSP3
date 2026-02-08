@@ -1,0 +1,29 @@
+Signal said Facebook shut down its advertising account after the privacy-focused messaging app tried to buy Instagram ads showing how the social media giant collects data
+
+Signal said it tried to buy Instagram ads that would show users how Facebook targets them.
+
+The ads would display personal information about users that Facebook uses when targeting ads.
+
+But Signal said Facebook responded by shutting its account down.
+
+Facebook blocked ads that Signal wanted to buy that would show Instagram users the data that Facebook collects from them, according to the encrypted messaging company.
+
+In a blog post entitled "The Instagram ads Facebook won't show you," Signal said the likes of Facebook are driven to collect people's data to sell, and the company wanted to showcase how that technology works. So it tried to buy "multi-variant targeted" ads on Instagram "designed to show you the personal data that Facebook collects about you and sells access to." Facebook responded by shutting down Signal's account, the blog post said.
+
+"Being transparent about how ads use people's data is apparently enough to get banned; in Facebook's world, the only acceptable usage is to hide what you're doing from your audience," the company wrote in its post.
+
+Signal posted examples of what the ads would look like on its blog. One reads: "You got this ad because you're a newlywed pilates instructor and you're cartoon crazy. This ad used your location to see you're in La Jolla. You're into parenting blogs and thinking about LGBTQ adoption."
+
+CEO Moxie Marlinspike tweeted another example that shows how a user could be targeted with ads based on their job, location, dietary preferences, and fitness interests.
+
+Signal and Facebook did not immediately respond to Insider's requests for comment.
+
+Facebook has taken down ads critical of the company before. In 2019, Democratic Sen. Elizabeth Warren, who was running for office at the time, ran ads that laid out her plan to split up Facebook as well as other big tech companies. Facebook said it blocked the ads because they violated its rules around using the company's corporate logo but eventually reinstated them.
+
+Facebook's ad business relies upon data tracking to inform its algorithm that decides which ads to put in front of online users, and it's lucrative: It bolstered the social media giant's Q1 revenue to $26.17 billion, up 48% from this time last year. The company attributed the rise to an increase in the average price per ad as well as the number of ad impressions.
+
+Facebook has been vocal about its ad business being at risk thanks to a new privacy update that Apple has rolled out. The latest iOS update includes the company's "App Tracking Transparency" feature that forces app developers to ask for permission to collect and track users' data. Facebook has argued that the new feature will hurt small businesses that rely on personalized ads.
+
+Facebook's WhatsApp also announced a controversial change to its terms of service earlier this year that would have forced users to share personal data with its parent company. WhatsApp said the move was to let businesses store chats using Facebook's infrastructure.
+
+Critics, including Tesla CEO Elon Musk, suggested that users switch to using Signal or Telegram.

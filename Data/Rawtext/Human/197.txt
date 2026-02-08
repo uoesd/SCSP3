@@ -1,0 +1,39 @@
+Colonial hack exposed government's light-touch oversight of pipeline cybersecurity
+
+Three times over the past year, Colonial Pipeline and the Transportation Security Administration discussed scheduling a voluntary, in-depth cybersecurity review — an assessment the federal agency began doing in late 2018 to strengthen the digital defenses of oil and natural gas pipeline companies, according to a company official and an industry official familiar with the matter.
+
+But no such review of Colonial's systems has occurred, according to a Colonial spokesman. And the pipeline company has previously told federal officials it wants to first complete a headquarters move to a new building — probably in November — though the spokesman, Kevin Feeney, said on Friday that it may allow a review sooner.
+
+It's unknown whether the government-run cybersecurity assessment would have helped Colonial avert the ransomware attack that locked up some of its computer systems this month — and led the company to shut down its entire pipeline, leaving large swaths of the East Coast with fuel shortages.
+
+But a range of current and former officials and cybersecurity experts say the company's ability to avoid a government review underscores how a voluntary, arms-length approach by federal officials over nearly two decades has left key elements of the nation's critical infrastructure at risk.
+
+"I'm very concerned whenever I see a lack of urgency given the potential threats we face," said Rep. Jim Langevin (D-R.I.), co-founder of the Congressional Cybersecurity Caucus. "You're leaving so many areas exposed by not having a review — and addressing at least the vulnerabilities that you can identify."
+
+Now, in the attack's wake, the Department of Homeland Security, which houses the TSA, is reversing course, scrapping two decades of a voluntary regime for pipeline cybersecurity and moving for the first time to mandatory rules.
+
+But a review of the TSA's history since it was handed oversight of pipeline security in 2001 shows a government culture of closely partnering with energy giants and industry trade groups in setting guidelines that were voluntary. No penalty resulted for a failure to obey them.
+
+Until the validated architecture design review debuted in December 2018, the TSA had never done a detailed cybersecurity assessment of pipelines. The VADR, as it's called, was what the TSA asked Colonial to do last year. Twenty-three have occurred this year alone — despite the pandemic.
+
+"The cybersecurity landscape is constantly evolving and we must adapt to address new and emerging threats," Homeland Security Secretary Alejandro Mayorkas said in a statement. "The recent ransomware attack on a major petroleum pipeline demonstrates that the cybersecurity of pipeline systems is critical to our homeland security."
+
+Colonial spokesman Feeney said that over the past four years, the company has hired "four leading independent firms" to conduct "comprehensive cybersecurity risk assessments to bolster the company's overarching security and information governance program."
+
+As a result, he said, the company has boosted total information technology spending by about 50 percent since 2017.
+
+The DHS shift in regulatory approach comes as ransomware attacks, in which hackers demand a fee to unlock computers whose data has been encrypted, are spreading from hospitals, universities and municipalities to industrial sectors out of a sense that these critical infrastructure companies will be more willing to pay to regain control of their systems. And it follows the intelligence community's public warning in 2019 that nation states had the ability to launch cyberattacks that could disrupt "a natural gas pipeline" for days to weeks.
+
+"The lesson, particularly in recent months, is that we need to step up the incentives for the critical infrastructure to strengthen cybersecurity," said Michael Chertoff, who served as secretary of homeland security in the George W. Bush administration. "Positive incentives are important, but sometimes you need to be mandatory."
+
+Voluntary vs. mandatory
+
+The TSA was created in the wake of the Sept. 11, 2001, terrorist attacks to safeguard aviation, but pipelines — seen as a mode of transportation — were moved under its jurisdiction, too. And for the first half of its existence, physical security was the focus.
+
+Personnel at the TSA's pipeline security program ensured that fences around pipeline facilities were high enough to keep out intruders. The threat of cyber-hacking was not a front-burner issue.
+
+But by 2010, things had changed.
+
+Increasingly, energy, oil and gas and pipeline systems were operated by automated systems that checked temperatures, pressures and flows.
+
+And concerns about cyberattacks grew — including at pipelines.

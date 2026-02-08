@@ -1,0 +1,19 @@
+Federal Officials Label Russia a 'Safe Haven' for Criminal Cyber Actors
+
+In the wake of the Colonial Pipeline hack, federal officials have labeled Russia a "safe haven" for criminal cyber actors. This designation comes as officials suspect that the group behind the hack, DarkSide, may have disappeared but could reemerge under a new name. Assistant Attorney General John Demers highlighted the "increased blending of the threat" due to nation states not combating hackers within their borders.
+
+Speaking at a cybersecurity conference, Demers emphasized the challenge posed by criminal hackers harbored by countries like Russia and China. "We're seeing an increased blending of the threat, where nation-state actors are using criminal actors as proxies, and criminal actors are using nation-state tools and techniques," he said.
+
+President Biden addressed the issue of Russia's lack of action against hacking from its territory, but did not directly blame the Russian government for the Colonial hack. The forthcoming Biden-Putin summit on June 16 is expected to address multiple tensions, including cybersecurity.
+
+Lior Div, CEO of cybersecurity firm Cybereason, differentiated DarkSide's capabilities from those of nation-state actors like the SolarWinds hackers. "DarkSide is a criminal organization that's motivated by financial gain, whereas nation-state actors are motivated by geopolitical interests," he said.
+
+Federal officials emphasize the national security threat of ransomware attacks on critical infrastructure and the need for companies to have robust protection and recovery plans. Paying ransoms in cyberattacks is not recommended, as it can encourage further attacks and fund criminal activity.
+
+Acting Director of the National Counterintelligence and Security Center Michael Orlando warned of a growing cyber threat from nation state actors and criminal groups. "We're seeing an increase in the number of actors that are using cyber means to achieve their goals, and that includes both nation-state actors and criminal actors," he said.
+
+Officials also raised concerns about ransomware attacks potentially previewing or testing nation state capabilities in cyber warfare. "We're seeing an increase in the use of ransomware as a means of disrupting critical infrastructure, and that's a concern because it could be a precursor to other types of attacks," Orlando said.
+
+The Colonial Pipeline hack has highlighted the need for industry and government collaboration to secure infrastructure. Cybersecurity firms like Cybereason are working with government agencies to share intelligence and coordinate responses to cyber threats.
+
+In conclusion, the labeling of Russia as a "safe haven" for criminal cyber actors highlights the complex nature of the cyber threat landscape. The blending of nation-state and criminal actors poses a significant challenge to cybersecurity efforts, and the forthcoming Biden-Putin summit is expected to address these issues. The Colonial Pipeline hack serves as a reminder of the importance of robust protection and recovery plans, as well as the need for industry and government collaboration to secure critical infrastructure.

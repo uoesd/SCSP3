@@ -1,0 +1,19 @@
+New Study Reveals Limited Impact of Colonial Pipeline Shutdown on Gas Prices
+
+LAWRENCE – A recent study co-authored by Associate Professor Tsvetan Tsvetanov and doctoral student Srishti Slaria at the University of Kansas has found that the shutdown of the Colonial Pipeline due to a ransomware attack had a less significant impact on gas prices than previously reported. The study, which assessed the impact on gasoline prices, found that the shutdown led to a mere 4-cents-per-gallon increase in average gasoline prices in affected areas.
+
+The Colonial Pipeline, the largest fuel pipeline in the United States, was shut down for six days in May due to a ransomware attack by Russia-linked cybercriminals. The pipeline can carry 3 million barrels of fuel per day between Texas and New York, serving as a crucial supply for the East Coast and the Southeast.
+
+Tsvetanov and Slaria's study used daily regular gasoline price data at the city level and employed a difference-in-differences approach to assess the impact of the shutdown on gas prices. According to Tsvetanov, "The shutdown had a limited impact on gas prices because the demand for gasoline in the U.S. is inelastic, meaning consumption doesn't change significantly even as prices rise."
+
+The study is Tsvetanov's first foray into economic research involving cybercrime, highlighting the growing threat of cyberattacks. "Cybersecurity is becoming an increasingly important issue in the energy sector, and our work aims to raise awareness about the intersection of cybersecurity and economics," Tsvetanov said.
+
+Colonial paid a $4.4 million ransom in Bitcoin to the hackers, but the Justice Department later recovered $2.3 million of it. The incident highlights the vulnerability of critical infrastructure to cyberattacks and the need for better cybersecurity measures.
+
+Srishti Slaria, a doctoral student at the University of Kansas, noted that "The study shows that even though the shutdown had a limited impact on gas prices, it's still important to take measures to prevent and mitigate the effects of cyberattacks on critical infrastructure."
+
+Tsvetanov's work aims to raise awareness about the intersection of cybersecurity and economics in the energy sector. "As our reliance on technology grows, so does our vulnerability to cyberattacks. It's crucial that we take steps to protect our critical infrastructure from these threats," he said.
+
+The study's findings have important implications for policymakers and industry leaders. "Our study shows that even though the impact of the shutdown was limited, it's still important to take measures to prevent and mitigate the effects of cyberattacks on critical infrastructure," Tsvetanov said.
+
+In conclusion, the study co-authored by Tsvetan Tsvetanov and Srishti Slaria reveals that the shutdown of the Colonial Pipeline had a limited impact on gas prices. The study highlights the growing threat of cyberattacks on critical infrastructure and the need for better cybersecurity measures. The findings have important implications for policymakers and industry leaders, emphasizing the importance of protecting our critical infrastructure from cyber threats.

@@ -1,0 +1,23 @@
+Coronavirus (COVID-19) Update: FDA Takes Additional Actions on the Use of a Booster Dose for COVID-19 Vaccines
+
+Today, the U.S. Food and Drug Administration took action to expand the use of a booster dose for COVID-19 vaccines in eligible populations. The agency is amending the emergency use authorizations (EUA) for COVID-19 vaccines to allow for the use of a single booster dose as follows:
+
+The use of a single booster dose of the Moderna COVID-19 Vaccine that may be administered at least 6 months after completion of the primary series to individuals: 65 years of age and older 18 through 64 years of age at high risk of severe COVID-19 18 through 64 years of age with frequent institutional or occupational exposure to SARS-CoV-2
+
+The use of a single booster dose of the Janssen (Johnson and Johnson) COVID-19 Vaccine may be administered at least 2 months after completion of the single-dose primary regimen to individuals 18 years of age and older.
+
+The use of each of the available COVID-19 vaccines as a heterologous (or "mix and match") booster dose in eligible individuals following completion of primary vaccination with a different available COVID-19 vaccine.
+
+To clarify that a single booster dose of the Pfizer-BioNTech COVID-19 Vaccine may be administered at least 6 months after completion of the primary series to individuals 18 through 64 years of age with frequent institutional or occupational exposure to SARS-CoV-2.
+
+"Today's actions demonstrate our commitment to public health in proactively fighting against the COVID-19 pandemic," said Acting FDA Commissioner Janet Woodcock, M.D. "As the pandemic continues to impact the country, science has shown that vaccination continues to be the safest and most effective way to prevent COVID-19, including the most serious consequences of the disease, such as hospitalization and death. The available data suggest waning immunity in some populations who are fully vaccinated. The availability of these authorized boosters is important for continued protection against COVID-19 disease."
+
+"The amendments to the emergency use authorizations to include a single booster dose in eligible populations are based on the available data and information and follows the input from the members of our advisory committee who were supportive of the use of a booster dose of these vaccines in eligible populations," said Peter Marks, M.D., Ph.D., director of the FDA's Center for Biologics Evaluation and Research. "We are also taking action today to include the use of mix and match boosters to address this public health need. We will work to accrue additional data as quickly as possible to further assess the benefits and risks of the use of booster doses in additional populations and plan to update the healthcare community and public with our determination in the coming weeks."
+
+Authorization of Moderna COVID-19 Vaccine Booster Dose
+
+To support the authorization for emergency use of a single booster dose of the Moderna COVID-19 Vaccine, the FDA analyzed immune response data from 149 participants 18 years of age and older from the original clinical studies who received a booster dose at least 6 months after their second dose and compared it to the immune responses of 1,055 study participants after completing their two-dose series. The antibody response of the 149 participants against SARS-CoV-2 virus 29 days after a booster dose of the vaccine demonstrated a booster response.
+
+The FDA also evaluated an additional analysis from Moderna comparing the rates of COVID-19 accrued during the Delta variant surge during July and August 2021, which suggest that there is a waning of vaccine effectiveness over time.
+
+Safety was evaluated in 171 participants 18 years of age and older who were followed for an average of approximately six months. The most commonly reported side effects by the clinical trial participants who received the booster dose of the vaccine were pain at the injection site, tiredness, headache, muscle and/or joint pain, chills, swollen lymph nodes in same arm as the injection, nausea and vomiting, and fever. Of note, swollen lymph nodes in the underarm were observed more frequently following the booster dose than after the primary two-dose series.

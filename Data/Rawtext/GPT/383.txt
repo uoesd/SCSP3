@@ -1,0 +1,13 @@
+Facebook's Outage Costs the Company $60 Million in Revenue, Shares Fall
+
+In a significant disruption that started around 8:30 a.m. PT/11:30 a.m. ET on Monday, Facebook experienced a massive outage that not only left users worldwide unable to access their accounts but also led to a substantial financial hit for the company. Reports estimate the social media giant lost at least $60 million in revenue due to the downtime, highlighting the vast scale of its daily operations and financial transactions.
+
+The figure, estimated by Fortune and Snopes using data from Facebook's second-quarter earnings report, underscores the immense impact of even a few hours of interruption on Facebook's finances. The company, which boasts billions of users globally, brings in approximately $319.6 million in revenue per day, illustrating the significant loss incurred during the outage.
+
+The financial repercussions of the outage are particularly noteworthy given Facebook's heavy reliance on its advertising business as its primary revenue source. This dependence makes the platform particularly vulnerable to disruptions, with every minute of downtime translating into a significant loss of advertising revenue. The extent of the impact was acknowledged by Facebook, which stated that its teams were diligently working to restore services as swiftly as possible.
+
+Service began to trickle back to users by approximately 3:30 p.m. PT/6:30 p.m. ET on the same day, a relief to millions who rely on the platform for personal and professional communication. Facebook issued an apology for the inconvenience caused by the outage and expressed gratitude for users' patience as the company worked to resolve the issue.
+
+The outage had broader implications on the market as well. Following the service disruption, shares of Facebook tumbled nearly 5%, a blow not only to the company's market valuation but also to CEO Mark Zuckerberg's net worth and ranking among the world's billionaires. Furthermore, the incident triggered a selloff in social media stocks more broadly, with shares of Twitter and Snap also experiencing downturns.
+
+This event serves as a stark reminder of the vulnerabilities inherent in digital platforms and the cascading effects that technical issues can have on financial markets, company revenues, and the global economy at large. As Facebook continues to analyze and prevent future outages, the incident highlights the need for robust infrastructure and swift response mechanisms to mitigate financial losses and maintain user trust.

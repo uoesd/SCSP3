@@ -1,0 +1,17 @@
+US recovers most of ransom paid after Colonial Pipeline hack
+
+WASHINGTON (AP) — The Justice Department has recovered most of a multimillion-dollar ransom payment made to hackers after a cyberattack that caused the operator of the nation's largest fuel pipeline to halt its operations last month, officials said Monday.
+
+The operation to seize cryptocurrency paid to the Russia-based hacker group is the first of its kind to be undertaken by a specialized ransomware task force created by the Biden administration Justice Department. It reflects a rare victory in the fight against ransomware as U.S. officials scramble to confront a rapidly accelerating threat targeting critical industries around the world.
+
+"By going after the entire ecosystem that fuels ransomware and digital extortion attacks — including criminal proceeds in the form of digital currency — we will continue to use all of our resources to increase the cost and consequences of ransomware and other cyber-based attacks," Deputy Attorney General Lisa Monaco said at a news conference announcing the operation.
+
+Georgia-based Colonial Pipeline, which supplies roughly half the fuel consumed on the East Coast, temporarily shut down its operations on May 7 after a gang of cybercriminals using the DarkSide ransomware variant broke into the company's computer system. The ransomware variant used by DarkSide, which has been the subject of an FBI investigation since last year, is one of more than 100 that law enforcement officials are now scrutinizing, said FBI Deputy Director Paul Abbate.
+
+Colonial officials have said they took their pipeline system offline before the attack could spread to its operating system, and decided soon after to pay ransom of 75 bitcoin — then valued at roughly $4.4 million — in hopes of bringing itself back online as soon as it could. The company's president and chief executive, Joseph Blount, is set to testify before congressional panels this week.
+
+In a statement Monday, Blount said he was grateful for the FBI's efforts and said holding hackers accountable and disrupting their activities "is the best way to deter and defend against future attacks of this nature.
+
+"The private sector also has an equally important role to play and we must continue to take cyber threats seriously and invest accordingly to harden our defenses," he added.
+
+Cryptocurrency is favored by cybercriminals because it enables direct online payments regardless of geographical location, but in this case, the FBI was able to identify a virtual currency wallet used by the hackers and recovered the proceeds from there, said the FBI's Abbate. The Justice Department did not provide details about how the FBI had obtained a "key" for the specific bitcoin address, but said law enforcement had been able to track multiple transfers of the cryptocurrency.

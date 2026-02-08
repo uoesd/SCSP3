@@ -1,0 +1,19 @@
+Why Facebook Outage and Twitch Breach Matter to Business Leaders
+
+FREDERICK, Md.--(BUSINESS WIRE)--In brief video explainers and commentary, Josh Stella, co-founder and CEO of Fugue, a cloud security SaaS company, talks to business and security leaders about why outages and breaches like the recent Facebook and Twitch incidents keep happening, how cloud configuration is the new attack surface, and how companies need to move from a defensive to a preventive posture to secure their cloud infrastructure.
+
+This month, Facebook and Twitch both suffered serious damage at their own hands, and every executive needs to understand what happened and how these types of incidents are preventable.
+
+At Facebook, a network configuration change took the service down for hours — and WhatsApp and Instagram along with it — resulting in tens of millions in lost revenue and millions of users unable to access these services.
+
+At Twitch, an interactive live streaming service owned by Amazon, a server misconfiguration gave a hacker access to a trove of sensitive data, including information on users and source code for yet-to-be-released applications, which the hacker posted on the internet.
+
+In the past year alone, 36% of companies suffered a serious cloud security leak or breach due to cloud misconfiguration, according to The State of Cloud Security 2021 Report.
+
+We've seen enterprise cloud customers fall victim to their own preventable configuration mistakes many times before. What's notable here is that Facebook and Twitch are essentially customers of their own cloud platforms. When you consider how much complexity the cloud providers have pushed to their customers, these incidents keep happening — not because people are bad at cloud security but because it's really hard to get good at it. Let's explore that.
+
+Why Cloud Risk Is Configuration Risk
+
+The cloud attack surface is configuration, not the network. Configuration is essentially how you've designed and built your infrastructure. The word "configuration" can feel like a small detail, but in the cloud, configuration is a big deal. A mistake here can create vulnerabilities and break applications. A single misconfiguration can have a huge blast radius in terms of system downtime or a data breach — and the resulting loss of revenue and customer trust.
+
+Take a car, for example. A car has an engine, a transmission, wheels, etc. All of these components have configurations, some of which are related to safety and regulated by law. People and machines inspected the configurations of the car before it rolled off the line, which the owner may have changed over time. A safety inspector flags configuration violations because bad configuration can cause a breakdown or an accident.

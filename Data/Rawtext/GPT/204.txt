@@ -1,0 +1,15 @@
+Major Meat Processor JBS USA Pays $11 Million in Bitcoin Ransom After Cyberattack
+
+In a startling revelation shaking the core of the US critical infrastructure, JBS USA, a leading global food company, confirmed paying a hefty $11 million ransom in Bitcoin to cybercriminals. This payment was a move to secure the company's data and bring an end to the disruption caused by a ransomware attack that temporarily halted its meat processing operations across the US, raising concerns about national food supply stability.
+
+Andre Nogueira, CEO of JBS USA, commented on the decision stating, "It was very painful to pay the criminals, but we did it for the sake of protecting our customers." He further emphasized that the company took this step to avoid any further disruption in their operations and to ensure the protection of their data. "We didn't want to take any risk when it came to safeguarding our data," Nogueira added.
+
+The cyberattack, which became public last week, forced JBS to shut down its processing plants across the United States, casting a shadow over US meat production and spotlighting the vulnerability of the nation's critical infrastructure to such breaches. The servers of JBS in both the US and Australia were targeted in a sophisticated ransomware attack, with speculation pointing towards a criminal organization based in Russia as the orchestrator.
+
+Fortunately, JBS reported that there was no evidence to suggest that any company, customer, or employee data had been compromised in the attack. Nevertheless, the incident has drawn the attention of the FBI, highlighting the seriousness of the breach and the threat it poses to national security.
+
+Amidst rising concerns over such cyberattacks, the White House has been actively engaging with the Russian government. Deputy Press Secretary Karine Jean-Pierre mentioned, "The White House is dealing directly with the Russian government on this matter and delivering the message that responsible states do not harbor ransomware criminals."
+
+Press Secretary Jen Psaki echoed this sentiment, adding that President Biden plans to discuss the broader issue of cyberattacks with Russian President Vladimir Putin. "The President is committed to discussing the implications of ransomware attacks and seeking a resolution to the increase in cybercriminal activities," Psaki stated.
+
+This attack on JBS trailed a similar cybersecurity breach targeting the Colonial Pipeline, magnifying concerns over the susceptibility of vital US infrastructures to such malign activities. The repeated incidents underscore the imperative need for enhanced cybersecurity measures to protect the nation's critical sectors from potential threats.

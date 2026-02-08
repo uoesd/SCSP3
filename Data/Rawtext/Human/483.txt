@@ -1,0 +1,29 @@
+Insight: Why Hurricane Ida crippled the New Orleans power grid
+
+Sept 4 (Reuters) - Hurricane Ida's 150-mph winds crippled a Louisiana electric grid already vulnerable from aging transmission lines, electricity bottlenecks and $2 billion worth of damage caused by three hurricanes that hit last year.
+
+Ida's landfall on Sunday left a wake of destruction and suffering. More than 1 million customers were without electricity immediately after the storm - a hardship that, for some, could last weeks.
+
+Entergy Corp (ETR.N) the largest Louisiana utility, is facing tough questions on whether it had done enough to harden the electric system, which lost eight major transmission lines delivering power to the New Orleans metropolitan area.
+
+Entergy was in the midst of upgrades throughout its system after Hurricane Laura in 2020. From 2017 to 2019, Entergy's Louisiana subsidiary spent about $1.2 billion on numerous projects to improve its transmission system.
+
+A pivotal question now for Entergy and its consumers is how well those capital improvements survived the hurricane's wrath compared to the company's older infrastructure. Entergy declined to detail the age of the eight New Orleans-area transmission lines that failed.
+
+"The reason the lights are out is not because we aren't building a resilient system," said Rod West, Entergy's group president of utility operations. "The lights are out because Mother Nature is still the undisputed, undefeated heavyweight champion of the world."
+
+Hurricane Laura in southwest Louisiana highlighted how Entergy operates a transmission network with two different design standards for resisting wind damage. Transmission lines and infrastructure built in recent years are rated to withstand 140-mph winds, and in some cases up to 150 mph gusts, according to Entergy disclosures with Louisiana utility regulators.
+
+But large sections of Entergy's Louisiana network were designed to withstand wind speeds far below what Ida delivered. About one-sixth of Entergy Louisiana's transmission system, covering about 900 miles, consists of 69-kilovolt lines, the majority of which are only rated at 95 mph, according to Entergy disclosures to regulators.
+
+The 1970s-era design standard, which was used in building part of the network that feeds New Orleans, is a holdover from when Gulf States Utilities operated the transmission system, according to Entergy disclosures to Louisiana regulators.
+
+Many structures on the legacy system were destroyed last year during Hurricane Laura, according to testimony submitted by Entergy executives this year to the Louisiana Public Service Commission. The company has asked regulators to approve more than $500 million to repair and rebuild damaged transmission lines from 2020 hurricanes, a cost that would be shouldered by ratepayers in their monthly electric bills.
+
+Three years after Entergy merged with Gulf States in 1994, the company implemented a more robust design for the transmission network that met or exceeded the National Electrical Safety Code (NESC) standard. But the network still includes lines built to the older, lower standard because they complied with NESC codes at the time they were constructed.
+
+That leaves the network more vulnerable to outages, said Praveen Malhotra, an engineer and expert on catastrophe risk who has studied hurricane effects on transmission systems.
+
+"The whole system is only as strong as the weakest link," Malhotra said.
+
+Entergy said in a statement that much of the damage from Ida was related to the high winds, causing several lines to become detached from their structures. The eight transmission tie lines that were rendered inoperable are vital because they connect the integrated transmission system in the greater New Orleans area to the larger national grid.

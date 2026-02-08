@@ -1,0 +1,25 @@
+Cyber Command Takes Offensive Action Against Ransomware Attacks
+
+CNN – Washington D.C. – In a significant shift in strategy, the US military's hacking unit, Cyber Command, has taken offensive action to disrupt ransomware attacks targeting US companies, a move that marks one of the first clear acknowledgments of targeting cybercriminal groups since the Colonial Pipeline ransomware attack in May.
+
+The specific actions taken by Cyber Command were not disclosed, but Gen. Paul Nakasone, head of Cyber Command and director of the National Security Agency (NSA), indicated a shift towards hacking criminal groups, not just state actors.
+
+"We're not just focused on state actors anymore," Nakasone said in a recent interview. "We're also focused on these criminal groups that are doing ransomware attacks."
+
+The move comes as US security agencies have increased their efforts against ransomware groups following significant attacks on the Colonial Pipeline and a major meat processor. According to Nakasone, a "surge" against ransomware operators aimed at cutting off their funding has been conducted.
+
+The US government's counteroffensive includes indicting extortionists and sanctioning a cryptocurrency exchange for laundering money for hackers. The White House is also pushing the Russian government to act against cybercriminals based in Russia.
+
+President Biden is set to discuss cybersecurity in an upcoming video call with Russian President Vladimir Putin, a focus that follows Biden urging Putin to tackle hacker activities during a meeting in Geneva six months ago.
+
+The increased efforts against ransomware groups come as the US government faces growing pressure to address the threat of cyberattacks. Ransomware attacks have become increasingly common and sophisticated, with hackers often demanding large sums of money in exchange for unlocking encrypted data.
+
+In recent months, the US has seen a number of high-profile ransomware attacks, including the attack on the Colonial Pipeline, which disrupted the supply of gasoline and other fuels along the East Coast. The attack on meat processor JBS USA also had significant consequences, with the company forced to shut down its operations in several states.
+
+The US government has long been concerned about the threat of cyberattacks, and the recent surge in ransomware attacks has only heightened those concerns. In addition to the efforts of Cyber Command, other US agencies, such as the FBI and the Department of Homeland Security, are also working to combat the threat.
+
+The use of offensive tactics by Cyber Command marks a significant shift in the US government's approach to cybersecurity. Previously, the focus has been on defensive measures, such as protecting networks and systems from attack. However, with the increasing threat of ransomware and other types of cyberattacks, the US government is now taking a more aggressive approach, using offensive tactics to disrupt and deter cybercriminals.
+
+The move has been welcomed by cybersecurity experts, who say that a more aggressive approach is needed to combat the growing threat of cyberattacks. However, some have also raised concerns about the potential risks and unintended consequences of offensive cyber operations.
+
+Overall, the US government's increased efforts against ransomware groups, including the use of offensive tactics by Cyber Command, mark a significant shift in the country's approach to cybersecurity. As the threat of cyberattacks continues to evolve, it remains to be seen how effective these efforts will be in protecting US companies and citizens from the threat of cybercrime.

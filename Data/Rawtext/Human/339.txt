@@ -1,0 +1,19 @@
+How Shippers Will Have to Pay for the Suez Canal Blockage
+
+The grounding of the Evergreen Line containership Ever Given in the Suez Canal in March created a massive legal and insurance dispute that could take months, if not years, to resolve. In this conversation with SupplyChainBrain Editor-in-Chief Bob Bowman, Joe Klobus, claims and insurance manager with global freight forwarder OEC Group, discusses how the incident brought to light the concept of general average, a centuries-old law that requires shippers to share the losses from such an event.
+
+SCB: What is general average?
+
+Klobus: In short, it's the equitable sharing of a loss between the vessel owners and cargo interests. When the vessel encounters a peril that fits within the York Antwerp Rules, the vessel owners are able to declare general average, which would spread that loss across the cargo interests.
+
+SCB: In what kind of situations has this previously been invoked?
+
+Klobus: General average is often invoked for vessel fires or containers going overboard as a sacrifice. However, it's not commonly known that it doesn't apply to just that limited scope of events. It can also apply to salvage, to towing expenses, and for seeking refuge in a port or harbor. It's much broader than people typically know.
+
+SCB: So in a hypothetical situation where the carrier is found to be at fault, it couldn't invoke general average?
+
+Klobus: That's not true. If the carrier is at fault for a situation and it fits within the realm of the York Antwerp Rules, it can declare general average. And, generally speaking, the carriers aren't responsible when they do declare general average. Of course, this can lead to lengthy litigation, but the law generally supports their stance.
+
+SCB: Is Evergreen invoking it in the Suez incident?
+
+Klobus: It's actually the owners of the vessel who invoked general average — Shoei Kisen Kaisha Ltd.

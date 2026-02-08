@@ -1,0 +1,17 @@
+Facebook Outage Disrupts Internet Access for Millions Worldwide
+
+On October 4, 2021, Facebook, WhatsApp, Messenger, and Instagram experienced a global outage that lasted nearly six hours. The disruption, which began around 11:40 a.m. US Eastern time, affected millions of users worldwide who rely on these services for internet access.
+
+The outage was caused by changes to the backbone routers that coordinate traffic between Facebook's data centers. The issue stemmed from the Domain Name System (DNS), which translates website names into IP addresses.
+
+"This was a major disruption that affected people all over the world," said Sarah Aoun, Vice President for Security at the Open Technology Fund. "For many people, Facebook is synonymous with the internet, so this outage was akin to a large infrastructure collapse."
+
+The outage was particularly disruptive for users in developing countries, where Facebook is often the primary means of accessing the internet. In India, which has the highest number of Facebook users worldwide, the outage left millions of people without access to essential services such as banking and healthcare.
+
+The outage occurred shortly after a whistleblower interview critical of Facebook aired on CBS's 60 Minutes. The whistleblower, Frances Haugen, accused Facebook of prioritizing profits over user safety and well-being.
+
+Facebook is currently under an antitrust investigation in the US, and the outage has raised concerns about the company's dominance in the social media market. Over 3.5 billion people use Facebook's services worldwide, giving the company an unprecedented level of control over online communication.
+
+Facebook has initiatives like Internet.org aimed at expanding internet access globally without incurring data charges. However, critics argue that these initiatives are designed to increase Facebook's user base and entrench its monopoly.
+
+The outage has highlighted the importance of internet access for billions of people around the world. It has also raised questions about the role of social media companies in providing this access and the potential consequences of their dominance.

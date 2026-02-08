@@ -1,0 +1,19 @@
+Meta Services Hit by Widespread Outage, Affecting Millions of Users
+
+Social media giant Meta experienced a major outage on Wednesday, affecting its flagship platforms Facebook, Instagram, Messenger, and WhatsApp. The outage began around 2 p.m. ET, according to DownDetector.com, a website that tracks online outages.
+
+Users began reporting problems accessing the services, with many unable to send or receive messages, post updates, or view content. Meta acknowledged the issue on its Twitter account, stating that it was "working to resolve the issue as quickly as possible."
+
+The outage also affected Messenger, Workplace Chat, and Instagram DMs, making it difficult for users to communicate with friends, family, and colleagues. By approximately 6 p.m. ET, services were largely restored, with Meta confirming that the issue had been fixed by 7:20 p.m. ET.
+
+"We apologize for the inconvenience and appreciate your patience," Meta said in a statement.
+
+This outage follows one of the longest in the company's history, which occurred a month prior. That outage lasted for over six hours and affected millions of users worldwide. The incident comes amid ongoing fallout from whistleblower Frances Haugen's leaked documents, which have raised concerns about the company's practices and algorithms.
+
+During the outage, social media users took to Twitter to discuss the issue, making #instagramdown a trending topic. Some users also poked fun at Meta CEO Mark Zuckerberg, with one user tweeting, "Mark Zuckerberg is probably having a meltdown right now."
+
+The outage highlights the reliance on social media platforms in today's society. For many people, these platforms are essential for staying connected with loved ones, sharing information, and conducting business. When these services go down, it can have a significant impact on our daily lives.
+
+Meta has not yet disclosed the cause of the outage, but it is likely that it was caused by a technical issue. The company has a history of experiencing outages, but the recent frequency and duration of these incidents have raised concerns about the stability of its platforms.
+
+As Meta continues to grow and expand its services, it is crucial that it invests in infrastructure and security measures to prevent future outages. The company must also be transparent with users about the causes of these incidents and take steps to mitigate their impact.

@@ -1,0 +1,17 @@
+Cybersecurity Funding Gets a Boost in DOE's Fiscal 2022 Budget Request
+
+WASHINGTON – The Department of Energy (DOE) has requested $201 million from Congress for cybersecurity in its fiscal 2022 budget, a significant increase from the $157 million allocated in 2021. The additional funding aims to enhance cybersecurity efforts, address supply chain and technology infrastructure gaps, and upgrade software and hire more cybersecurity professionals.
+
+In an interview with CNBC, Secretary of Energy Jennifer Granholm emphasized the need for improved cybersecurity measures, citing the recent ransomware attack on Colonial Pipeline, which highlighted the absence of cyber standards in the pipeline industry. "We need to upgrade our software, we need to hire more cybersecurity professionals, and we need to make sure that we have the ability to detect and respond to cyber threats in real-time," Granholm said.
+
+Granholm also criticized the current state of private sector collaboration with the government on cybersecurity, suggesting that the government may need more visibility into private sector systems. "We need to have a better way of sharing information between the private sector and the government, so that we can prevent these kinds of attacks from happening in the first place," she said.
+
+The Biden administration is reportedly considering ways to improve private sector collaboration on cybersecurity. Brad Smith, President of Microsoft, expressed support for this effort, stating that "the private sector and the government need to work together to address the cyber threat."
+
+The DOE's request for increased cybersecurity funding is part of a broader effort by the Biden administration to bolster the nation's cybersecurity defenses. The federal civilian cybersecurity budget request for 2022 is $9.8 billion, a nearly 15% increase from 2021, while the Pentagon's cybersecurity budget request for 2022 is $10.4 billion.
+
+The increased focus on cybersecurity comes in response to a series of high-profile ransomware attacks affecting Americans and disrupting services. The U.S. government has officially blamed Russia's Foreign Intelligence Service for the SolarWinds cyberattack, which Russia denies.
+
+In light of these threats, Granholm emphasized the need for a comprehensive approach to cybersecurity. "We can't just focus on one aspect of cybersecurity, we need to look at it holistically," she said. "We need to make sure that we're protecting our critical infrastructure, our networks, and our data from cyber threats."
+
+The DOE's request for increased cybersecurity funding is a step in the right direction, but it's clear that more needs to be done to address the growing cyber threat. As Granholm noted, "Cybersecurity is a constantly evolving threat, and we need to stay ahead of the curve to protect our nation's security and prosperity."

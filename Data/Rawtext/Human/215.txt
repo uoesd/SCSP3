@@ -1,0 +1,27 @@
+Colonial restarts pipeline amid debate over federal role
+
+The Colonial Pipeline, which had been offline since late last week due to a cyberattack that sparked worries of fuel shortages, started coming back online Wednesday evening, its operator said.
+
+The restart began around 5 p.m. EDT, though the process to return the pipeline to normal operations will take "several days," the company said.
+
+Closure of full use of the pipeline touched off debates in Congress over cybersecurity and led to confusion over which federal agency is primarily responsible to address hacks against public works projects like pipelines. Biden administration officials used the breach as an example of the need to shore up defenses against the hacking of energy hardware.
+
+"It certainly is a reminder that we need to take a hard look at how we need to harden our necessary infrastructure, and that includes cyber threats," Energy Secretary Jennifer Granholm said Tuesday.
+
+President Joe Biden issued an executive order Wednesday to update the federal government's approach to cybersecurity. Among several steps, the order directs the heads of federal agencies to develop plans for cloud computing, calls for an assessment of federal information technology-contracting policies and moves to establish a "cyber safety" review board at the Department of Homeland Security.
+
+Before Colonial announced the restart, Reps. Frank Pallone Jr., D-N.J., and Cathy McMorris Rodgers, R-Wash., the chairman and ranking member of the Energy and Commerce Committee, which has jurisdiction over pipelines, said Deputy Energy Secretary David Turk had briefed committee members on the hack.
+
+"DOE is the right agency to be coordinating this government-wide effort," they said in a joint statement, encouraging support of a bipartisan bill from Reps. Fred Upton, R-Mich., and Bobby L. Rush, D-Ill., to defend against cyberattacks.
+
+"It would directly help DOE respond to physical and cyber threats to our pipeline and LNG facilities, like in the case of Colonial," their statement about the bill said. "This attack and ongoing outage simply underscore the vulnerabilities we have highlighted, and how crucial it is that Congress act to enhance DOE's cybersecurity authorities so that an incident like this does not happen again."
+
+Colonial first reported the hack to the FBI rather than the Cybersecurity and Infrastructure Security Agency that is charged with guarding against cyberattacks on equipment like pipelines, the head of the agency told the Senate on Tuesday. The FBI then notified CISA.
+
+The FBI said a crime organization called DarkSide carried out the attack. Colonial shut down full operations Friday after learning of the attack, it announced Saturday. Arteries and offshoots of the main pipeline have remained running.
+
+Buttigieg pitch
+
+Transportation Secretary Pete Buttigieg on Wednesday characterized fuel shortages caused by the ransomware attack on the Colonial Pipeline system as evidence of the need for aggressive investment in the nation's infrastructure.
+
+Buttigieg said the attack was "a wake-up call" for the country to get serious about the systems that keep it running.

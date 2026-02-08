@@ -1,0 +1,35 @@
+Facebook Outage: Military Raid Claim Debunked
+
+On October 4, 2021, Facebook, Instagram, and WhatsApp experienced a global outage that lasted for approximately six hours. The outage affected billions of users worldwide, causing widespread disruption and speculation. One of the most prevalent rumors circulating online was that the outage was caused by a military raid that seized Facebook's servers. However, Facebook has since debunked this claim, attributing the outage to human error during routine maintenance.
+
+The Outage
+
+The outage began at approximately 11:40 a.m. ET on October 4. Users were unable to access Facebook, Instagram, or WhatsApp, with many reporting error messages or being unable to connect to the services. The outage affected users in all regions of the world, including the United States, Europe, and Asia.
+
+Facebook CEO Mark Zuckerberg described the outage as the worst the company had seen in years. "This is a major outage that is affecting people all over the world," Zuckerberg said in a statement. "We are working to get things back up and running as quickly as possible."
+
+The Cause
+
+Facebook has attributed the outage to human error during routine maintenance. According to Santosh Janardhan, Facebook's vice president of infrastructure, an engineer issued a command that unintentionally disrupted Facebook's global data center connections.
+
+"During one of our routine maintenance operations, a command was issued with the intention to assess the availability of our global backbone network," Janardhan said in a statement. "This command had the unintended consequence of disrupting all communication pathways between our data centers, effectively disconnecting them from the rest of the world."
+
+An audit tool that was supposed to prevent such an error failed to stop the erroneous command. This led to a cascade of events that ultimately resulted in the outage.
+
+The Restoration
+
+Restoring Facebook's services was a complex and time-consuming process. The outage also removed Facebook from the Domain Name System (DNS) servers, which hindered internal investigation and resolution tools. Engineers had to manually restart systems at data centers, a process lengthened by security measures.
+
+"The root cause of this outage was a faulty configuration change," Janardhan said. "We have identified the issue and are working on a fix. We expect to have all services restored as soon as possible."
+
+The Military Raid Claim
+
+One of the most prevalent rumors circulating online was that the outage was caused by a military raid that seized Facebook's servers. This claim was quickly debunked by Facebook, which pointed to the explanation by Janardhan.
+
+"There is no evidence to support the claim that a military raid caused the outage," said Tom Parnell, a communications manager at Facebook. "The outage was caused by human error during routine maintenance."
+
+The Department of Defense was reached for comment, but the claim has been rated as false based on facts.
+
+Conclusion
+
+The Facebook outage on October 4 was a major event that affected billions of users worldwide. The outage was caused by human error during routine maintenance, and there is no evidence to support the claim that it was caused by a military raid. Facebook has since restored its services and is working to prevent similar outages from happening in the future.

@@ -1,0 +1,13 @@
+German Court Rules Facebook's Handling of Hate Speech Posts Illegal
+
+BERLIN, July 29 – In a landmark ruling, Germany's Federal Court of Justice has declared that Facebook's practice of removing racist posts and blocking the accounts of the authors without any notification or explanation is illegal. This decision comes at a critical time, stirring the ongoing debate over how to manage toxic discourse on social networks as Germany approaches its general election.
+
+The court's judgment is particularly significant given that the comments at the center of this case were found to violate Facebook's community standards against hate speech, which aligns with what German law also prohibits. Despite this alignment, the court has deemed Facebook's terms of service regarding the deletion of posts and blocking of accounts for violations of community standards as "null and void".
+
+The ruling criticized Facebook for its failure to commit to informing users about the reasons for post removal or account blocking, nor providing a mechanism for appeal. This judgment has prompted Facebook to reassess its approach to moderating content that violates its policies. In response to the court's decision, a company spokesperson stated, "We will review the judgment to ensure that we can continue to effectively fight hate speech in Germany."
+
+The spokesperson further emphasized the company's stance, declaring, "We have a zero-tolerance policy for hate speech and are committed to removing it from our platform".
+
+The specific post that was cited in the court's ruling was critical of Germany's approach to managing "Islamist immigrants", claiming they were granted impunity for crimes including murder and rape, and called for intervention from the Office for the Protection of the Constitution, Germany's principal domestic security agency.
+
+This judicial scrutiny coincides with Google's request for a review of a new German law, known as NetzDG, earlier this week. Google's legal challenge stems from privacy concerns linked to the law's requirements for sharing data with law enforcement agencies, further complicating the balancing act between regulating online speech and protecting individual freedoms in Germany.

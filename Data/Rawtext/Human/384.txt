@@ -1,0 +1,29 @@
+Facebook removed more than 20 million posts for COVID-19 misinformation
+
+Facebook and its photo-service Instagram took down more than 20 million pieces of content containing COVID-19 misinformation between the start of the pandemic and June but couldn't say how prevalent these types of false claims are on the platforms.
+
+The social network measures the prevalence of other types of content such as hate speech and adult nudity because it gives the company a sense of what offensive posts Facebook missed. Providing this metric for COVID-19 misinformation, the company said, is more complex.
+
+"When it comes to COVID, though, things are evolving even more quickly so it does make prevalence even more difficult to define and measure," said Guy Rosen, Facebook's vice president of integrity, during a press conference on Wednesday.
+
+The action came about a month after the White House singled out Facebook in saying that about a dozen people were responsible for creating 65% of the vaccine misinformation on social media platforms -- all of whom remained active on the social networking giant.
+
+Despite the action against "disinformation dozen," the White House continued to criticize Facebook's response to misinformation.
+
+"In the middle of a pandemic, being honest and transparent about the work that needs to be done to protect public health is absolutely vital, but Facebook still refuses to be straightforward about how much misinformation is circulating -- and being actively promoted -- on their platform," a White House spokesperson told CNN Business on Wednesday.
+
+Facebook didn't immediately respond to a request for comment on the spokesperson's remarks.
+
+Politicians, including US President Joe Biden, and advocacy groups have criticized social networks for failing to effectively combat the spread of COVID-19 and vaccine misinformation. Facebook partners with fact-checkers, directs people to authoritative information and labels misinformation. But researchers have questioned how effective those measures are in curbing the spread of false claims online.
+
+"There will always be examples of things we missed and, with a scale of our enforcement, there will be examples of things that we take down by mistake," Rosen said. "There is no perfect here."
+
+Facebook said it has more than 65 criteria for false claims about COVID-19 and vaccines that would prompt it to remove posts from its platforms. The company has added to this list, including false claims that COVID-19 vaccines cause Alzheimer's and that being around vaccinated people could cause secondary side effects to others.
+
+The social network said it removed more 3,000 accounts, pages and groups for violating its rules against COVID-19 and vaccines. It has also displayed warnings on more than 190 million pieces of COVID-related content on Facebook that fact-checkers rated, and it displays these posts lower in people's News Feeds.
+
+Facebook, which partnered with Carnegie-Mellon University and the University of Maryland on a COVID-19 survey, said that vaccine hesitancy for people in the US on Facebook has declined by 50%. Vaccine acceptance increased by 35% in France, 25% in Indonesia and 20% in Nigeria, the social network said.
+
+The company also shared new data including what domains, links, pages and posts were the most widely viewed in the US on Facebook between April and June. Facebook counts a view when content appears on the News Feed, so the metric differs from engagement. The social network owns data analytics tool CrowdTangle, but executives have reportedly raised concerns about data that shows high engagement with right-wing sites.
+
+"The narrative that has emerged is quite simply wrong," Rosen said, noting that CrowdTangle includes data about interactions from a limited set of certain pages, groups and accounts.

@@ -1,0 +1,15 @@
+Hackers post hundreds of pages of purported internal D.C. police documents
+
+Hackers who infiltrated the D.C. police department's computer network have posted a trove of purported department documents, including some containing information related to street crews and others with raw intelligence on threats following the Jan. 6 attack on the U.S. Capitol. Fast, informative and written just for locals. Get The 7 DMV newsletter in your inbox every weekday morning. ArrowRight The overnight data dump by the group called Babuk apparently came after negotiations with District officials broke down. The group, which made its theft of documents known last month, had already made public some internal files dealing with job candidates.
+
+The group repeatedly threatened to release more data if its demands for money were not met. Among files made public on Thursday are more than three dozen of the police chief's daily intelligence briefing papers, which are among the most recently dated documents.
+
+"We publish the full data of the police department," the group's latest posting reads. In broken syntax, the group indicated that the District made some monetary offer, "but the amount turned out to be too small." It added, "There is no way back you had very many chances."
+
+District officials on Thursday declined to comment on any negotiations with the group and have not confirmed the authenticity of the posted documents. City officials previously said they have closed off Babuk's entry point into the police computer system.
+
+Babuk insinuated that it has posted all the stolen files, titling its missive: "PD last part (all data)." There is no way to verify independently whether that claim is true. Babuk also claimed to have given the tool it used to break into the police computer to other groups.
+
+Cybersecurity experts say that instead of crippling a computer system, such as hackers did Friday to the Colonial Pipeline, shutting down one of the nation's biggest fuel pipelines, Babuk stole data and held it hostage. The experts warn that paying the ransom provides no guarantee that the hackers will not make new demands or sell the data elsewhere.
+
+It appears the files were chosen at random — a job applicant's résumé, a map of the locations of sex crimes, PowerPoint presentations on how to dig deep into social media, the use of facial recognition software and "street interview tactics."

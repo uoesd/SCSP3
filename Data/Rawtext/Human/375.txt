@@ -1,0 +1,35 @@
+What is BGP, and what role did it play in Facebook's massive outage
+
+On Monday, Facebook was completely knocked offline, taking Instagram and WhatsApp (not to mention a few other websites) down with it. Many have been quick to say that the incident had to do with BGP, or Border Gateway Protocol, citing sources from inside Facebook, traffic analysis, and the gut instinct that "it's always DNS or BGP." Facebook is back up and has since released an explanation detailing how BGP was just a part of its woes (and saying that it more or less worked as intended), but this all raises the question:
+
+What is BGP?
+
+At a very basic level, BGP is one of the systems that the internet uses to get your traffic to where it needs to go as quickly as possible. Because there are tons of different internet service providers, backbone routers, and servers responsible for your data making it to, say, Facebook, there's a ton of different routes your packets could end up taking. BGP's job is to show them the way and make sure it's the best route.
+
+I've heard BGP described as a system of post offices, an air traffic controller, and more, but I think my favorite explanation was one that likened it to a map. Imagine BGP as a bunch of people making and updating maps that show you how to get to YouTube or Facebook.
+
+BGP is like a map telling your computer whose bridges it has to cross to get to Facebook
+
+When it comes to BGP, the internet is broken up into big networks, known as autonomous systems. You can sort of imagine them as island nations — they're networks that are controlled by a single entity, which could be an ISP, like Comcast, a company, like Facebook, or some other big organization like a government or major university. It would be extremely difficult to build bridges connecting every island to all the others, so BGP is what's responsible for telling you which islands (or autonomous systems) you have to go through to get to your destination.
+
+Since the internet is always changing, the maps need to be updated — you don't want your ISP to lead you down an old road that no longer goes to Google. Because it'd be a massive undertaking to map the entire internet all the time, autonomous systems share their maps. They'll occasionally talk to their island neighbors to see and copy any updates they've made to their maps.
+
+Turn left into the river
+
+Using maps as a framework, it's easy to imagine how things can go wrong. Back when consumers first got access to GPS, there were always jokes about it having you drive off a cliff or into the middle of the desert. The same thing can happen with BGP — if someone makes a mistake, it can end up leading traffic somewhere it's not supposed to go, which will cause problems. If it isn't caught, that mistake will end up on everyone's map. There are other ways this can go wrong, but we'll get to those in a bit.
+
+Yeah, yeah, maps. Give me an example.
+
+Of course! This is massively simplified, but imagine you want to connect to an imaginary tech news website called Convergence. Convergence uses the ISP NetSend, and you use DecadeConnect. In this example, DecadeConnect and NetSend can't talk directly to each other, but your ISP can talk to Border Communications, which can talk to Form, which can talk to NetSend. If that's the only route, then BGP would make sure that you and Convergence could communicate through it. But if alternatively, both DecadeConnect and NetSend were connected to ThirdLevel, BGP would likely choose to route your traffic through it, as it's a shorter hop.
+
+Okay, so BGP is like maps that detail all the fastest ways from you to a website?
+
+Right! Unfortunately, it can get even more complicated because the shortest doesn't always equal best. There are plenty of reasons why a routing algorithm would choose one path over another — cost can be a factor as well, with some networks charging others if they want to include them in their routes.
+
+Mapping unchanging roads is hard; imagine mapping the internet
+
+Also, maps are super tricky! I discovered this just recently trying to plan a trip where roads existed on one map and not another or were different between maps. One road even had three different names across three maps. If it's that hard to pin down for a "town" that has all of five roads, imagine what it's like trying to connect the entire internet together. Real roads don't change that often, but websites can move from one country to another or change, add, or subtract service providers, and the internet just has to deal with it.
+
+I remember something like this from my algorithms and data structures class — trying to build algos to find the shortest route.
+
+I'll take your word on that. I dropped out as soon as I heard about graphs.

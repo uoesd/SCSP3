@@ -1,0 +1,15 @@
+Cyber Attacks on Critical Infrastructure: A Growing Threat to National Security
+
+The recent ransomware attack on the Colonial Pipeline, a major U.S. fuel pipeline, has highlighted the vulnerability of the country's critical infrastructure to cyber threats. The attack, which was carried out by hackers operating from Russia, is part of a growing trend of cyber-attacks targeting companies, federal agencies, and municipalities in the U.S.
+
+According to Glenn Gerstell, a recent former NSA general counsel, "the cyber threat is one of the most significant threats to our national security." However, despite the gravity of the threat, the U.S. government has limited direct protection against cyber threats, particularly when it comes to privately owned critical infrastructure.
+
+Eighty-five percent of American critical infrastructure is privately owned, leaving it vulnerable to cyber-attacks. While federal agencies like the NSA, FBI, and DHS play roles in cyber-defense, there is no single agency tasked with protecting the public from hackers. This lack of centralized responsibility has led to legislative gaps in cyber-defense, as highlighted by the failure of a bill to establish security standards for critical infrastructure in the Senate in 2012.
+
+Experts agree that more government-corporation collaboration and information sharing is needed to improve cyber-defense. This includes the establishment of industry-wide security standards and the creation of a framework for companies to report cyber-attacks without fear of liability.
+
+Legislation is also needed to protect companies from liability when disclosing hacks, encouraging them to report incidents promptly. However, companies that are negligent in protecting customer data or critical infrastructure should face liability.
+
+The Biden administration's $2.3 trillion infrastructure plan includes funds to address critical infrastructure vulnerabilities, which is a step in the right direction. However, more needs to be done to address the growing threat of cyber-attacks, particularly as the proliferation of 5G and IoT devices increases the importance of robust cyber-defense to prevent economic disruptions.
+
+In conclusion, the recent ransomware attack on the Colonial Pipeline is a stark reminder of the need for improved cyber-defense measures to protect critical infrastructure. The U.S. government must take a more active role in protecting private companies and infrastructure from cyber threats, and legislation is needed to encourage collaboration and information sharing between government and industry. By taking these steps, the U.S. can better protect its national security and prevent economic disruptions caused by cyber-attacks.

@@ -1,0 +1,25 @@
+Federal Government Sues Facebook—Again—After Court Struck Down First Lawsuit
+
+The Federal Trade Commission (FTC) filed an amended complaint against Facebook Thursday alleging the social media giant is a monopoly that has violated federal antitrust rules, after the court previously struck down the FTC's first complaint against Facebook in June for not providing sufficient evidence to back up its case.
+
+Key Facts
+
+The FTC took aim at Facebook's alleged "anticompetitive conduct and unfair methods of competition" in its lawsuit, claiming the social media company went on an "anticompetitive spending spree" with its acquisition of competitors like Instagram and WhatsApp and imposed allegedly "anticompetitive restrictions" on app developers that used Facebook to keep them from threatening Facebook's dominance. The FTC first sued Facebook in December 2020 over its allegedly anticompetitive practices, along with 48 state attorneys general who filed their own separate lawsuit. Both lawsuits were struck down in federal court in June, and while the states' lawsuit was struck down in its entirety—the judge ruled it had been brought too late—the FTC's lawsuit was dismissed "without prejudice," clearing the way for the federal government to file it again. U.S. District Judge James E. Boasberg dismissed the FTC's case because he said their arguments for why Facebook is a monopoly were "light on specific factual allegations," writing the lawsuit was "legally insufficient and must therefore be dismissed" even as the judge acknowledged he "does not agree with all of Facebook's contentions here." The FTC said in a statement it believes the 80-page amended complaint adequately addresses those issues, adding "additional data and evidence" and "detailed statistics" about Facebook's allegedly monopolistic behavior. Facebook said in a statement Thursday it's "unfortunate...the FTC has chosen to continue this meritless lawsuit," arguing there was "no valid claim" to say "Facebook was a monopolist" when the case was first dismissed "and that has not changed."
+
+Crucial Quote
+
+"Facebook's course of conduct has eliminated nascent rivals and extinguished the possibility that such rivals' independent existence might allow other internet platforms to overcome the substantial barriers to entry that protect Facebook's monopoly position," the complaint states. "In doing so, Facebook deprives personal social networking users in the United States of the benefits of competition, including increased choice, quality, and innovation."
+
+Chief Critic
+
+"The FTC's claims are an effort to rewrite antitrust laws and upend settled expectations of merger review, declaring to the business community that no sale is ever final," Facebook said in a statement Thursday. "We fight to win people's time and attention every day, and we will continue vigorously defending our company."
+
+Tangent
+
+Facebook has sought to have new FTC chair Lina Khan recused from the agency's antitrust lawsuit based on her past history of criticizing Facebook and alleging it practices anticompetitive behavior. The Wall Street Journal reports the FTC has rebuffed their request and Khan has not recused herself from the lawsuit, noting the agency voted to refile the lawsuit in a 3-2 vote with Khan "participating in the deliberations and supporting the new complaint."
+
+What To Watch For
+
+The FTC lawsuit could result in major consequences for Facebook should the court ultimately rule in the government's favor. The agency asks the court to declare Facebook in violation of federal law and take action to "restore the competition that would exist" if Facebook hadn't undertaken allegedly anticompetitive practices. This could be by breaking up Facebook, as the lawsuit calls for the "divestiture or reconstruction of businesses" like Instagram and WhatsApp that would make them separate entities.
+
+Key Background

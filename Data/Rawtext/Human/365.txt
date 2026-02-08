@@ -1,0 +1,19 @@
+On Facebook Outage Day, Signal vs Instagram Snowballs. It Happened On Twitter
+
+Facebook, WhatsApp and Instagram all faced outages on Monday
+
+Facebook suffered a six-hour outage on Monday that spanned its WhatsApp messenger and photo-sharing platform Instagram, shutting out many of its 2.7 billion global users. Reports of outages and disruptions began pouring in at about 11:30 EST on Monday - but Facebook's loss turned into gain for other platforms. With Facebook, Instagram and WhatsApp all facing disruptions, Twitter is where all the action was on Monday. From Instagram head Adam Mosseri to Twitter CEO Jack Dorsey, everyone flocked to the microblogging platform as the Facebook-owned services shut out its users.
+
+Signal, the private messaging app endorsed by Edward Snowden, saw millions of people signing up as WhatsApp faced a prolonged downtime, according to Bloomberg. Millions of new users joined the app on Monday, Signal announced on Twitter. The messaging service also received an endorsement from Twitter CEO Jack Dorsey. Responding to a tweet from Edward Snowden urging people to switch to Signal from WhatsApp, Mr Dorsey quipped: "Signal is WhatsUp."
+
+Downdetector, a service that monitors reports of outages, said the Facebook service outage is the largest it has ever seen. The outage prompted an apology from Facebook chief Mark Zuckerberg and a slew of memes and jokes on Twitter, with the official account of the microblogging platform itself joined the meme-fest.
+
+"Sorry for the disruption today -- I know how much you rely on our services to stay connected with the people you care about," Mark Zuckerberg said on Tuesday as services began returning online. "Facebook, Instagram, WhatsApp and Messenger are coming back online now," he said in his post.
+
+Meanwhile, Instagram head Adam Mosseri confirmed that it was a tough day at work as millions of users failed to access the photo and video sharing platform.
+
+When one Twitter user suggested "Instagram should stay offline forever", Mr Mosseri responded: "Them fighting words... but it does feel like a snow day."
+
+Several Facebook employees told New York Times technology reporter Ryan Mac that they were unable to work due to the outage. "No one can do any work. Several people I've talked to said this is the equivalent of a 'snow day' at the company," the reporter tweeted.
+
+Facebook blamed its October 4 outage on a "faulty configuration change".

@@ -1,0 +1,45 @@
+Outage highlights how vital Facebook has become worldwide
+
+For small businesses, the outages meant hundreds or thousands of dollars in lost revenue
+
+The six-hour outage at Facebook, Instagram and Whatsapp was a headache for many casual users but far more serious for the millions of people worldwide who rely on the social media sites to run their businesses or communicate with relatives, fellow parents, teachers or neighbors.
+
+When all three services went dark Monday, it was a stark reminder of the power and reach of Facebook, which owns the photo-sharing and messaging apps.
+
+Around the world, the breakdown at WhatsApp left many at a loss. In Brazil, the messaging service is by far the most widely used app in the country, installed on 99% of smartphones, according to tech pollster Mobile Time.
+
+WhatsApp has become essential in Brazil to communicate with friends and family, as well as for a variety of other tasks, such as ordering food. Offices, various services and even the courts had trouble making appointments, and phone lines became overwhelmed.
+
+Hundreds of thousands of Haitians in their homeland and abroad fretted over the WhatsApp outage.
+
+Many of the country's more than 11 million people depend it to alert one another about gang violence in particular neighborhoods or to talk to relatives in the U.S. about money transfers and other important matters. Haitian migrants traveling to the U.S. rely on it to find each other or share key information such as safe places to sleep.
+
+Nelzy Mireille, a 35-year-old unemployed woman who depends on money sent from relatives abroad, said she stopped at a repair shop in the capital of Port-au-Prince because she thought her phone was malfunctioning.
+
+"I was waiting on confirmation on a money transfer from my cousin," she said. "I was so frustrated."
+
+"I was not able to hear from my love," complained 28-year-old Wilkens Bourgogne, referring to his partner, who was in the neighboring Dominican Republic, buying goods to bring back to Haiti. He said he was concerned about her safety because of the violence in their homeland.
+
+"Insecurity makes everyone worry," he said.
+
+In rebel-held Syria, where the telecommunication infrastructure has been disrupted by war, residents and emergency workers rely mostly on internet communication.
+
+Naser AlMuhawish, a Turkey-based Syrian doctor who monitors coronavirus cases in rebel-held territory in Syria, said WhatsApp is the main communication method used with over 500 workers in the field.
+
+They switched to Skype, but WhatsApp works better when internet service is shaky, he said. If there had been an emergency such as shelling that he needed to warn field workers about, there could have been major problems, he said.
+
+"Luckily this didn't happen yesterday during the outage," he said.
+
+But hospitals treating COVID-19 patients in the region were thrown into panic. They lost contact with oxygen suppliers who have no fixed location and are normally reached via WhatsApp. One hospital sent staff member searching for oxygen at nearly two dozen facilities, said Dr. Fadi Hakim of the Syrian American Medical Society.
+
+In Lima, Peru, the breakdown complicated dental technician Mary Mejia's job. Like most Peruvian medical workers, she uses WhatsApp for a multitude of tasks, including scheduling appointments and ordering crowns.
+
+"Sometimes the doctor will be working on a patient and I need to contact a technician for job," she said. "To have to step away and make a phone call? It trips us up. We've become so accustomed to this tool."
+
+Millions of Africans use WhatsApp for all their voice calls, so "people felt they were cut off from the world," said Mark Tinka, a Ugandan who heads engineering at SEACOM, a South Africa-based internet infrastructure company.
+
+Many Africans also use WhatsApp to connect with relatives in other countries. Tinka's stepdaughter lives in Caldwell, Idaho, and lost her father on Sunday, but could not speak with her family back in Dar Es Salaam, Tanzania, to arrange travel for the funeral.
+
+"It's amazing just how little folks understand the impact of three or four content companies on the utility of the Internet," Tinka said.
+
+Facebook said the outage was due to an internal error related to a "configuration change" but gave no details.

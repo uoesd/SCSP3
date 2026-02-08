@@ -1,0 +1,23 @@
+Norsk Hydro's Resilience: Defying Ransomware in the Face of Adversity
+
+In the annals of cybersecurity, the ransomware attack on Norsk Hydro stands as a testament to resilience and unwavering determination. On March 19, 2019, the Norwegian renewable energy and aluminum manufacturing giant faced a crippling attack that locked out users from over 3,000 servers and thousands of PCs, encrypting key areas of its IT network. The attack, which occurred on the same day Hilde Merete Aasheim was appointed as CEO, sent shockwaves through the company and the industry at large.
+
+Refusing to Pay the Ransom
+
+Despite the severity of the attack, Norsk Hydro took a bold stance: it refused to pay the ransom demanded by the hackers. CEO Hilde Merete Aasheim declared, "We will not give in to blackmail. We will not pay the ransom." This decision was a testament to the company's commitment to cybersecurity and its refusal to fuel the criminal economy.
+
+Manual Operations and Significant Disruptions
+
+The attack caused significant operational disruptions, leading to an estimated loss of $70 million. Production was maintained through manual processes, including pen and paper, for about three weeks. CIO Jo De Vliegher described the situation as "a huge challenge," but emphasized that "we managed to keep our operations going."
+
+Recovery Efforts and Cybersecurity Reevaluation
+
+Hilde Merete Aasheim and Jo De Vliegher led the recovery efforts, with help from Microsoft and the Norwegian National Cyber Security Centre. The incident led to a major reevaluation of Norsk Hydro's cybersecurity measures and priorities. Aasheim stated, "We have learned a lot from this incident. We have strengthened our cybersecurity measures and we are now better prepared to handle future attacks."
+
+U.S. Cybersecurity & Infrastructure Security Agency's Perspective
+
+The U.S. Cybersecurity & Infrastructure Security Agency (CISA) advises against paying ransoms, noting that it fuels the criminal economy. Eric Goldstein, an official at CISA, emphasized, "Paying ransoms only encourages criminals to continue their attacks. It is important to invest in strong cybersecurity measures and to have a plan in place to respond to incidents."
+
+Conclusion
+
+Norsk Hydro's refusal to pay the ransom and its subsequent recovery efforts serve as a model for organizations facing ransomware attacks. By prioritizing cybersecurity, investing in recovery plans, and refusing to succumb to blackmail, companies can mitigate the impact of these malicious attacks and protect their operations. The incident underscores the critical importance of cybersecurity in today's digital world and the need for organizations to be prepared to respond to and recover from cyber threats.

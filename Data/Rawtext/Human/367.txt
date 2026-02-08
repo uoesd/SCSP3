@@ -1,0 +1,23 @@
+Facebook shut down German research on Instagram algorithm, researchers say
+
+Researchers at AlgorithmWatch say they were forced to abandon their research project monitoring the Instagram algorithm after legal threats from Facebook. The Berlin-based project went public with the conflict in a post published Friday morning, citing the platform's recent ban of the NYU Ad Observatory.
+
+"There are probably more cases of bullying that we do not know about," the post reads. "We hope that by coming forward, more organizations will speak up about their experiences."
+
+"the company cannot be trusted"
+
+Launched in March 2020, AlgorithmWatch provided a browser plug-in that would allow users to collect data from their Instagram feeds, providing insight into how the platform prioritizes pictures and videos. The project published findings regularly, showing that the algorithm encouraged photos that showed bare skin and that photos showing faces are ranked higher than screenshots of text. Facebook disputed the methodology but did not otherwise take action against AlgorithmWatch for the first year of the project.
+
+In May, researchers say Facebook asked to meet with the project leaders and accused them of violating the platform's terms of service. Another objection was that the project violated the GDPR, since it collected data from users who had not consented to participate.
+
+"We only collected data related to content that Facebook displayed to the volunteers who installed the add-on," the researchers say in their defense. "In other words, users of the plug-in where only accessing their own feed, and sharing it with us for research purposes."
+
+Still, the researchers ultimately chose to shut down the project, believing they would face legal action from the company if it continued.
+
+Reached for comment, a Facebook representative confirmed the meeting, but denied threatening to sue the project, saying the company was open to find privacy-preserving ways to continue the research.
+
+"We had concerns with their practices, which is why we contacted them multiple times so they could come into compliance with our terms and continue their research, as we routinely do with other research groups when we identify similar concerns," the representative said. "We intend to keep working with independent researchers, but in ways that don't put people's data or privacy at risk."
+
+The social nature of the Facebook platforms makes it difficult to isolate any single user: even when a user opts in, their feed is necessarily made out of other people's content, who likely have not consented to participate in the research. Facebook has been particularly sensitive about research projects since the Cambridge Analytica scandal, which saw academic research data ultimately used for commercial and political manipulation.
+
+Still, the broader pattern is a troubling one. The algorithms that manage news feeds on Facebook and Instagram are immensely powerful but poorly understood, and Facebook's policies make it difficult to study them objectively. The NYU Ad Observatory, which tracked political advertising on the platform, saw its researchers banned earlier this month amid accusations of data scraping. In November, the company made similar legal threats against a browser called Friendly, which let users reorder their feeds chronologically. CrowdTangle, another popular tool for Facebook research, was acquired by the company in 2016.

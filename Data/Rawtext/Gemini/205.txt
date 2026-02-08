@@ -1,0 +1,39 @@
+Colonial Pipeline Ransom Highlights Cybersecurity Vulnerabilities and the Need for Robust Protections
+
+In the wake of the Colonial Pipeline cyber-ransom attack, experts are raising concerns about the vulnerability of critical infrastructure and the need for robust cybersecurity measures. The attack, perpetrated by DarkSide hackers, resulted in a temporary shutdown of the pipeline, disrupting fuel supplies and causing widespread panic.
+
+Negligible Ransom, Substantial Impact
+
+While the hackers demanded a $5 million ransom, experts argue that this amount is negligible compared to the potential damage and Colonial's financial capabilities. "The ransom is a drop in the bucket for a company like Colonial," said Jonathan Reiber, Head of Cybersecurity Strategy at AttackIQ. "They have significant assets and income, and they've paid substantial dividends to their owners, including the Koch family."
+
+Affordable Cybersecurity Investments
+
+There is a consensus among cybersecurity experts that investments in cybersecurity are affordable for companies like Colonial Pipeline. "Cybersecurity is not a luxury," said Mark Ostrowski, Head of Engineering at CheckPoint. "It's a necessity, and it's something that companies should be investing in heavily."
+
+Critical Infrastructure Vulnerabilities
+
+Recent incidents, including the Colonial Pipeline attack, highlight the vulnerability of critical infrastructure to cyber threats. "Our critical infrastructure is increasingly interconnected and interdependent," said James Reynolds, Chief Product Officer at SecureAge. "This makes it more vulnerable to cyberattacks, and the consequences of these attacks can be devastating."
+
+Evolving Cyber Threats
+
+Cyber threats are constantly evolving, and companies need to be prepared for new and emerging threats. "The threat landscape is constantly changing," said Jennifer Bisceglie, CEO and Founder of Interos. "Companies need to be proactive in their cybersecurity measures and regularly assess their vulnerabilities."
+
+Zero-Trust Architecture
+
+The shift to remote work has increased cybersecurity challenges, making "zero-trust" architecture essential. "Zero-trust architecture assumes that no one is trustworthy," said Robert Cattanach, Partner at Dorsey & Whitney Law Firm. "It requires companies to verify the identity of every user and device before granting access to resources."
+
+Mandatory Cybersecurity Standards
+
+Calls for mandatory cybersecurity standards for critical infrastructure have emerged, with suggestions for federal oversight. "The government needs to play a role in ensuring that critical infrastructure is protected from cyberattacks," said Richard Glick, Commissioner of the Federal Energy Regulatory Commission.
+
+Biden Administration's Response
+
+The Biden Administration has taken steps to improve cybersecurity, including an executive order for stricter standards and disclosure. "The executive order is a good first step," said Jonathan Reiber. "But more needs to be done to ensure that critical infrastructure is protected."
+
+Proactive Cybersecurity Measures
+
+Experts stress the importance of proactive cybersecurity measures for critical infrastructure. "Companies need to be proactive in their cybersecurity measures," said Mark Ostrowski. "They need to regularly assess their vulnerabilities and implement appropriate security controls."
+
+Conclusion
+
+The Colonial Pipeline cyber-ransom attack is a wake-up call for companies and governments alike. Critical infrastructure is increasingly vulnerable to cyber threats, and robust cybersecurity measures are essential to protect against these threats. Companies need to invest in cybersecurity, implement zero-trust architecture, and support mandatory cybersecurity standards. The government also has a role to play in ensuring that critical infrastructure is protected. By taking these steps, we can reduce the risk of future cyberattacks and protect our critical infrastructure from disruption.

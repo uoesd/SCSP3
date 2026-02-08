@@ -1,0 +1,25 @@
+Asleep on Duty – The Colonial Gas Pipeline Hack Exposes Massive Holes in America's Cybersecurity
+
+The Colonial Pipeline is the largest pipeline system for refined oil products in the U.S. It's 5,500 miles long and can carry three million barrels of fuel per day between Texas and New York.
+
+Or, at least, it could before it was attacked by criminal hackers operating on Russian soil, under the protection of the Russian government.
+
+Start a Homeland Security degree at American Military University.
+
+It seems like every week there is an alert that some company, federal agency, or municipality is the newest victim of a cyber-attack originating from one of America's near-peer adversaries.
+
+Does this mean that American cyber dominance is over?
+
+Not exactly.
+
+There is a path forward if the federal government and the corporate world can find novel ways to cooperate in the face of this growing threat.
+
+Some shocking statistics
+
+Coming on the heels of the SolarWinds attack, which represented a new scale of nation-state aggression in cyber warfare, the ransomware attack on the Colonial Pipeline is shaping up to be the most impactful hack against U.S. critical infrastructure in history.
+
+Shockingly, eighty-five percent of American critical infrastructure is owned by private companies, yet the U.S. government leaves it to private enterprise to protect itself.
+
+According to NBC News, the National Security Agency (NSA) collects intelligence about cyberattacks, the FBI investigates them after they happen and the Department of Homeland Security (DHS) tries to protect government computers. But no federal agency oversees defending the American public against hackers, be they criminals or intelligence agencies.
+
+"No one would ever think the private sector is responsible for defending itself against North Korean missiles," said Glenn Gerstell, a recent former NSA general counsel. "And yet the private sector is expected to defend itself against foreign cyber maliciousness."

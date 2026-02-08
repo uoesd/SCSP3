@@ -1,0 +1,17 @@
+WhatsApp Outage Exposes Its Pivotal Role in the Global South
+
+The widespread outage of Facebook on Monday sent shockwaves around the globe, but the impact was particularly severe in countries like Brazil due to the unavailability of WhatsApp. For millions in the Global South, where high SMS and cellular data costs are bypassed through the app, WhatsApp isn't merely a convenience—it's a lifeline.
+
+In regions such as Brazil, India, Kenya, South Africa, Nigeria, Argentina, Malaysia, and Colombia, WhatsApp has become so ingrained in daily life that its role transcends that of a mere messaging platform. It is considered akin to a public utility, its sudden absence disrupting everything from small local economies to governmental operations. "WhatsApp has embedded itself into every aspect of our lives," explains David Nemer, a Professor at the University of Virginia. "Its outage revealed just how significant it is, not just for individual communication, but for our broader societal functioning."
+
+Since Facebook's acquisition of WhatsApp for $21.8 billion, the service has seen its user base more than quadruple. This growth has only heightened the world's dependency on Facebook's suite of products, raising concerns about the concentration of digital power. Similarly controversial has been Facebook's Free Basics program, which, though designed to expand internet access, faced backlash for fostering a monopolized market, especially within these vulnerable regions.
+
+Critics have leveled accusations of 'digital colonialism' against Facebook, asserting that through practices like zero-rating, the company encourages a more closed web from which it can extract valuable data. Gabriel Pereira, a Doctoral Fellow at Aarhus University, pointed out, "This forms a new type of digital ecosystem that erodes the open internet and consolidates Facebook's, especially WhatsApp's, position of power."
+
+WhatsApp's importance in the digital and economic life in the Global South was further magnified during Monday's platform downtime. In Brazil and India, WhatsApp has expanded its services to include in-app financial transactions, integrating even deeper into the fabric of daily life. For many businesses and individuals, the disruption was not just inconvenient but financially damaging.
+
+Business owner Daniella Goulart shared her struggle, saying, "Without WhatsApp, our operations grind to a halt. It is not just about messaging; it's about business transactions, customer service, and communication. This outage was a stark reminder of how dependent we have become."
+
+Other messaging platforms available in Brazil and similar countries simply cannot compete with the cultural and economic power of WhatsApp. The outage underscored the platform's unparalleled role and the lack of viable alternatives.
+
+This extraordinary dependency on WhatsApp, and by extension Facebook, has attracted the attention of lawmakers and regulators around the globe. Discussions regarding antitrust actions and the potential regulation of WhatsApp as a public utility are gaining momentum. As societies worldwide consider the implications of this digital concentration, Monday's outage serves as a critical reminder of the power wielded by WhatsApp and the need for a diversified and open digital marketplace.

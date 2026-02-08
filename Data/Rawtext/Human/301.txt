@@ -1,0 +1,39 @@
+COVID-19 Vaccine Safety
+
+Over the past year, results from a series of clinical trials have demonstrated the efficacy and safety of COVID-19 vaccines in preventing serious illness, hospitalizations, and deaths.
+
+Yet, with sporadic reports of rare adverse events, one question has remained unanswered: Just how safe are COVID-19 vaccines in the real world, outside of clinical trials?
+
+Get more HMS news here
+
+Now, a study published Aug. 25 in The New England Journal of Medicine by researchers from Clalit Research Institute in Israel, Harvard Medical School, and the Harvard T.H. Chan School of Public Health answers that question.
+
+The research, which assessed the safety of the Pfizer/BioNTech BNT162b2 mRNA vaccine, is based on analysis of data from nearly 2 million individuals in Israel and represents one of the largest real-world assessments of COVID-19 vaccine safety to date.
+
+The findings, the researchers said, affirm the overall safety of the vaccine and underscore that the risk of adverse consequences from actual infection with SARS-CoV-2 far outweighs potential vaccine risks.
+
+The study involved two analyses: A comparison of adverse events between vaccinated and unvaccinated individuals, and between unvaccinated people infected with SARS-CoV-2 and unvaccinated noninfected people.
+
+The study showed that few adverse events were associated with the vaccine. Myocarditis, or inflammation of the heart muscle, the most serious of them, was rare, with a rate of 2.7 excess cases per 100,000 vaccinated people. This means that for every 100,000 individuals, 2.7 more cases of myocarditis occurred than would be expected, the researchers said.
+
+By contrast, the risk of myocarditis was notably higher among infected but unvaccinated individuals, occurring at a rate of 11 excess cases per 100,000 people.
+
+Coronavirus infection—but not vaccination—was also associated with greatly increased risk of pericarditis (an inflammation of the area around the heart), heart arrhythmias, heart attacks, strokes, pulmonary embolism, deep-vein thrombosis, acute kidney damage, among others.
+
+Vaccine hesitancy
+
+"To date, one of the main drivers of vaccine hesitancy has been a lack of information regarding potential side effects of the vaccine," said study co-author Ben Reis, HMS assistant professor of pediatrics at Boston Children's Hospital and director of the predictive medicine group in the Computational Health Informatics Program at Boston Children's.
+
+"This careful epidemiological study provides reliable information on vaccine safety, which we hope will be helpful to those who have not yet decided about vaccination," Reis said.
+
+"Those who have hesitated until now to get vaccinated due to concerns about very rare side effects, such as myocarditis, should be aware that the risks for this very same side effect are actually higher among unvaccinated infected individuals," Reis said.
+
+The results are based on records from Clalit Health Services in Israel, one of the world's largest integrated health record databases. The analysis is the largest peer-reviewed evaluation of the safety of a COVID-19 vaccine in a nationwide mass-vaccination setting.
+
+"The extensive nationwide rollout of Israel's COVID-19 vaccination campaign provided the Clalit Research Institute with a unique opportunity to assess, through its rich and comprehensive digital datasets, the safety of the vaccine in a real-world setting, without needing to rely on individual-driven active reporting of side effects" said study senior author Ran Balicer, director of the Clalit Research Institute and Chief Innovation Officer for Clalit.
+
+"These results show convincingly that this mRNA vaccine is very safe and that the alternative of 'natural' morbidity caused by the coronavirus puts a person at significant, higher, and much more common risk of serious adverse events," Balicer said.
+
+The results of this real-world study confirm, complement, and build on the previously reported findings of the Pfizer/BioNTech phase 3 randomized clinical trial, which involved 21,720 individuals, the researchers noted.
+
+The comprehensive nature of this new analysis and the sheer volume of data involved offer a more detailed assessment of the vaccine's safety across a wider range of adverse events.

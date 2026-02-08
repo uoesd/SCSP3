@@ -1,0 +1,21 @@
+Amazon Employees Urge Company to Cut Ties with Parler After U.S. Capitol Riot
+
+Amazon corporate employees are urging the company to sever its cloud services to Parler, a social media platform popular among President Trump's supporters, following the violent U.S. Capitol riot on January 6. The employees, who are part of a group called Amazon Employees for Climate Justice (AECJ), demand that Amazon Web Services (AWS) deny services to Parler until it removes posts that incite violence.
+
+In response to the demands, Amazon announced the suspension of AWS services to Parler, which could potentially take the site offline without a new cloud provider. Despite reports of the suspension, Parler was still accessible to CNBC staff early Sunday morning East Coast time.
+
+Parler's CEO, John Matze, claims that Amazon, Google, and Apple are colluding to eliminate competition. Google removed Parler from its Play Store, and Apple threatened to remove it from its App Store. Matze believes that the tech giants are trying to silence conservative voices.
+
+However, content on Parler includes violent threats and calls for weapons at the presidential inauguration, which violates Amazon's AWS policy against using its services for illegal or harmful purposes. AECJ, the employee group, has previously influenced Amazon's labor practices and climate change policies.
+
+"We cannot stand idly by and allow our technology to be used to promote hate and violence," said an Amazon spokesperson in a statement. "We take our responsibility to protect our customers and the broader community seriously, and we will continue to work with law enforcement and other stakeholders to ensure that our services are not used to promote harmful or illegal activities."
+
+The suspension of AWS services to Parler comes at a time when big tech companies are facing increased scrutiny for their role in moderating online content. While some argue that tech companies have a responsibility to protect their users from harmful content, others argue that they are censoring free speech.
+
+John Matze believes that Amazon's decision to suspend AWS services to Parler is a politically motivated move to silence conservative voices. "Amazon, Google, and Apple are all working together to eliminate competition and silence conservative voices," Matze said in a statement. "We will not be silenced."
+
+Despite the backlash, Amazon stands by its decision to suspend AWS services to Parler. "We will continue to work with law enforcement and other stakeholders to ensure that our services are not used to promote harmful or illegal activities," said an Amazon spokesperson.
+
+The controversy surrounding Parler highlights the challenges that tech companies face in balancing free speech with the need to protect their users from harmful content. As the debate continues, it remains to be seen how tech companies will navigate these complex issues in the future.
+
+In conclusion, Amazon's decision to suspend AWS services to Parler has sparked a heated debate about free speech and the role of tech companies in moderating online content. While some argue that tech companies have a responsibility to protect their users from harmful content, others argue that they are censoring free speech. As the controversy continues to unfold, it remains to be seen how tech companies will navigate these complex issues in the future.

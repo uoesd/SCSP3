@@ -1,0 +1,15 @@
+Twitter admits bias in algorithm for rightwing politicians and news outlets
+
+Twitter has admitted it amplifies more tweets from rightwing politicians and news outlets than content from leftwing sources.
+
+The social media platform examined tweets from elected officials in seven countries – the UK, US, Canada, France, Germany, Spain and Japan. It also studied whether political content from news organisations was amplified on Twitter, focusing primarily on US news sources such as Fox News, the New York Times and BuzzFeed.
+
+The study compared Twitter's "Home" timeline – the default way its 200 million users are served tweets, in which an algorithm tailors what users see – with the traditional chronological timeline where the most recent tweets are ranked first.
+
+The research found that in six out of seven countries, apart from Germany, tweets from rightwing politicians received more amplification from the algorithm than those from the left; right-leaning news organisations were more amplified than those on the left; and generally politicians' tweets were more amplified by an algorithmic timeline than by the chronological timeline.
+
+According to a 27-page research document, Twitter found a "statistically significant difference favouring the political right wing" in all the countries except Germany. Under the research, a value of 0% meant tweets reached the same number of users on the algorithm-tailored timeline as on its chronological counterpart, whereas a value of 100% meant tweets achieved double the reach. On this basis, the most powerful discrepancy between right and left was in Canada (Liberals 43%; Conservatives 167%), followed by the UK (Labour 112%; Conservatives 176%). Even excluding top government officials, the results were similar, the document said.
+
+Twitter said it wasn't clear why its Home timeline produced these results and indicated that it may now need to change its algorithm. A blog post by Rumman Chowdhury, Twitter's director of software engineering, and Luca Belli, a Twitter researcher, said the findings could be "problematic" and that more study needed to be done. The post acknowledged that it was concerning if certain tweets received preferential treatment not as a result of the way in which users interacted, but because of the inbuilt way the algorithm works.
+
+"Algorithmic amplification is problematic if there is preferential treatment as a function of how the algorithm is constructed versus the interactions people have with it. Further root cause analysis is required in order to determine what, if any, changes are required to reduce adverse impacts by our Home timeline algorithm," the post said.

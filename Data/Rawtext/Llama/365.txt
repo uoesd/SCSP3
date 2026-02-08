@@ -1,0 +1,21 @@
+Facebook, WhatsApp, Instagram Outage: 2.7 Billion Users Affected, Twitter Benefits
+
+In a rare and unprecedented event, Facebook, WhatsApp, and Instagram experienced a six-hour outage on Monday, leaving 2.7 billion global users unable to access their accounts. The outage began around 11:30 EST and prompted users and tech leaders to flock to Twitter, which became the primary platform for communication and jokes about the outage.
+
+"We're aware that some people are currently having trouble accessing Facebook, Instagram, and WhatsApp," Facebook CEO Mark Zuckerberg said in a statement. "We're working to get things back to normal as quickly as possible."
+
+Adam Mosseri, head of Instagram, acknowledged the challenges faced during the outage, saying, "We know this is frustrating for our users, and we're working to resolve the issue as soon as possible."
+
+The outage prevented many Facebook employees from working, with some likening it to a "snow day" for the company. However, the outage also highlighted the reliance on social platforms for communication and the competitive dynamics between these services.
+
+Twitter CEO Jack Dorsey was among those who capitalized on the outage, endorsing private messaging app Signal and welcoming new users. Signal gained millions of new users during the outage, with many citing concerns about data privacy and security.
+
+Downdetector, a website that tracks outages, called the Facebook outage the largest it has ever seen. The outage affected users across the globe, with some reporting issues with logging in, posting, and accessing certain features.
+
+Facebook later attributed the outage to a "faulty configuration change" and confirmed that no user data was compromised. "We're sorry for the inconvenience and appreciate your patience as we work to resolve the issue," Zuckerberg said.
+
+As services began to come back online, Mosseri thanked users for their patience and acknowledged the challenges faced by the company. "We know we let you down, and we're working to make sure this doesn't happen again," he said.
+
+The outage highlighted the interconnectedness of social platforms and the reliance on these services for communication. It also underscored the competitive dynamics between platforms, with Twitter emerging as a key beneficiary of the outage.
+
+In the end, the outage served as a reminder of the importance of social media in our lives and the need for reliable and secure communication services. As Facebook, WhatsApp, and Instagram return to normal, users can only hope that these services will continue to evolve and improve to meet their needs.

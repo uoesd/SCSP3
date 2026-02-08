@@ -1,0 +1,23 @@
+Colonial Pipeline Restores Network After Temporary Disruption
+
+May 28 (Reuters) – Colonial Pipeline, the largest fuel pipeline in the United States, has resolved a temporary network disruption that affected its shipping nomination system, the company said in a statement on Thursday.
+
+The disruption, which was not related to malware, according to the company, affected shippers' ability to enter and update delivery nominations. However, Colonial Pipeline's network functionality has now returned to normal, the company said.
+
+The cause of the network issues was not specified. The shipping nomination system is operated by Transport4 (T4), a third-party company. T4 reported that its application was functioning normally for all customers and carriers.
+
+This incident follows a recent ransomware attack that significantly disrupted fuel delivery in the southeast U.S. The attack, which was discovered on May 7, affected Colonial Pipeline's computer systems and led to a shutdown of its pipeline operations.
+
+As a result of the earlier disruption, about 6,000 gas stations in the southeast were still without fuel as of Thursday, according to data from the U.S. Energy Information Administration. Gasoline prices have risen to the highest in seven years, partly due to the hack and the onset of the Memorial Day weekend.
+
+Colonial Pipeline's pipeline system transports more than 100 million gallons of gasoline, diesel fuel, and jet fuel per day from refineries in the Gulf Coast to markets across the southern and eastern United States. The pipeline is a critical part of the country's fuel infrastructure, and any disruption to its operations can have a significant impact on fuel supplies and prices.
+
+The company has not provided any details on the nature of the network disruption or how it was resolved. Colonial Pipeline has said it is working with law enforcement and cybersecurity experts to investigate the ransomware attack and prevent future incidents.
+
+In the meantime, the company has taken steps to mitigate the impact of the disruption, including implementing additional security measures and increasing staffing levels to manage the nomination process manually.
+
+The incident highlights the vulnerability of critical infrastructure to cyber threats and the need for robust security measures to protect against such threats. It also underscores the importance of having contingency plans in place to mitigate the impact of any disruptions.
+
+Colonial Pipeline's quick resolution of the network disruption is a positive sign, but the company and the industry as a whole must remain vigilant in the face of an increasing number of cyber threats.
+
+In conclusion, while the temporary network disruption at Colonial Pipeline has been resolved, the incident serves as a reminder of the importance of cybersecurity and the need for critical infrastructure operators to be prepared for any potential disruptions.

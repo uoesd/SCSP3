@@ -1,0 +1,7 @@
+Facebook Cracks Down on Israeli 'Surveillance for Hire' Operations
+
+Leaders of the Israeli cyber intelligence firm Cognyte this February celebrated their first day of trading on Nasdaq by ringing the stock exchange's opening bell. In remarks beamed across a giant screen in New York's Times Square, CEO Elad Sharon celebrated his company's success, including nearly half a billion dollars in annual revenues, 2,000 employees around the world, and 1,000 clients in 100 countries — including the U.S. Department of Justice. Sharon also touted Cognyte's virtue, claiming it provided governments and businesses the tools they need to fight terrorism and stop crime. "Our analytics software empowers our customers to save lives," Sharon said.
+
+But on Thursday, banned Cognyte from its platform as it released the results of a six-month investigation by the social media giant's security researchers. According to the report, Cognyte's customers have targeted journalists and politicians around the world. Some of those clients were located in countries with dubious records on human rights such as Colombia, Kenya, Mexico, Thailand, and Indonesia. Also Thursday, Facebook took down about 100 Facebook and Instagram accounts linked to Cognyte.
+
+Beyond Cognyte, the Facebook report took aim at five other firms and one unnamed Chinese entity that are part of what social media giant calls the "surveillance for hire" industry. Israel, where four of the six named companies were founded, appears to be a hub of the global industry.

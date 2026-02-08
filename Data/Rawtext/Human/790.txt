@@ -1,0 +1,37 @@
+Third Stimulus Check Calculator: How Much Will Your Stimulus Check Be?
+
+Editorial Note: We earn a commission from partner links on Forbes Advisor. Commissions do not affect our editors' opinions or evaluations.
+
+Most eligible Americans have received their third stimulus checks but if you're still waiting, it may be on its way.
+
+The IRS has sent more than 163 million stimulus payments since March. The most recent batch of payments, paid out on April 28, includes "plus-up payments," which are sent to people who received stimulus payments from the IRS based on their 2019 tax returns but are now eligible for a larger payment based on their 2020 returns.
+
+The income limits and phase-outs where you won't receive a check have changed for this round, so we've created this calculator to help you estimate the amount you and your family might receive.
+
+Calculator Methodology
+
+We made the following assumptions based on the American Rescue Plan Act of 2021:
+
+That the maximum "top-up" stimulus payment for adult and child dependents under the age of 17 is $1,400.
+
+That adult dependents, who were left out of previous rounds of stimulus checks, will receive up to $1,400.
+
+The phase-out applies to the full check total for a household. Phaseouts decrease proportionally by the dollar from the cutoff where you would receive the full check and the cutoff where checks were reduced to zero.
+
+If your income is at the following amounts or higher, you won't receive a stimulus payment, even if you have dependents:
+
+Single filers: $80,000
+
+Married filing jointly: $160,000
+
+Head of household: $120,000
+
+Frequently Asked Questions (FAQs) About the Third Stimulus Checks
+
+Is the American Rescue Plan Act of 2021 Law? Yes. President Joe Biden signed the bill into law on March 11. How Much Will Each Person Receive? Up to $1,400 for qualifying individuals
+
+$2,800 for qualifying couples who file a joint tax return
+
+$1,400 for each child dependent under the age of 17
+
+$1,400 for each qualifying adult dependent If you're a single filer, your payment is reduced if your adjusted gross income (AGI) is above $75,000. For married couples filing jointly, the phaseout begins at an AGI of $150,000. If you file as head of household, the reductions begin at $112,500 (if you are single, widowed or divorced and claim a child as a dependent, you probably have been filing as head of household). Payments will phase out completely at the following income levels: $80,000 AGI for single taxpayers

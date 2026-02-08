@@ -1,0 +1,21 @@
+Facebook's Legal Threats Halt Instagram Algorithm Research
+
+Berlin, Germany - AlgorithmWatch, a Berlin-based research organization, has been forced to halt its Instagram algorithm research project due to legal threats from Facebook. The project involved a browser plug-in that allowed users to share data from their Instagram feeds to analyze the platform's algorithm behaviors.
+
+AlgorithmWatch's findings suggested that Instagram's algorithm favored images showing bare skin and faces over other content types. Facebook initially disputed the project's methodology but did not take action. However, in May, the social media giant accused AlgorithmWatch of violating the platform's terms of service and the General Data Protection Regulation (GDPR) for collecting non-consented user data.
+
+"We believe that AlgorithmWatch's data collection practices violated our terms of service and GDPR," a Facebook representative said. "We contacted AlgorithmWatch to discuss their compliance with our policies and to request that they stop collecting data from our platform."
+
+AlgorithmWatch defended its data collection practices, arguing that it had obtained informed consent from users and that the data was anonymized. However, to avoid potential legal action, the organization shut down the project.
+
+"We are disappointed that we had to halt our research," said AlgorithmWatch co-founder Matthias Spielkamp. "We believe that our work is important for understanding how social media algorithms work and for holding platforms accountable for their impact on society."
+
+Facebook confirmed that it had contacted AlgorithmWatch about compliance but denied threatening legal action. "We did not threaten AlgorithmWatch with legal action," the Facebook representative said. "We simply asked them to stop collecting data from our platform."
+
+Facebook emphasized its willingness to work with researchers in privacy-preserving ways. "We are committed to supporting independent research on our platform," the representative said. "We have a number of programs in place to help researchers access our data in a way that protects user privacy."
+
+The conflict between AlgorithmWatch and Facebook highlights the difficulty of researching social media algorithms due to privacy concerns and platform policies. Researchers often rely on data collected from users to analyze algorithm behaviors, but platforms are increasingly restricting access to this data.
+
+AlgorithmWatch criticized Facebook's research data offerings as untrustworthy, continuing concerns of transparency and accountability. "Facebook's own research data is not reliable," Spielkamp said. "They have a vested interest in presenting their algorithms in a positive light."
+
+The halt of AlgorithmWatch's Instagram research project is a setback for transparency and accountability in social media. It remains to be seen whether Facebook will be willing to work with researchers in a way that allows for independent scrutiny of its algorithms.

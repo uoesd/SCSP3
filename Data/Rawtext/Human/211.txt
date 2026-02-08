@@ -1,0 +1,27 @@
+Cyberattacks are the "perfect weapon," energy exec says amid Colonial Pipeline hack fallout
+
+Colonial Pipeline shutdown: What you need to know, impact on gas prices
+
+The massive hack of Colonial Pipeline by a Russian-based criminal group has rattled the United States national security sphere and spurred financial concerns as millions of Americans rush to their local gas pump — and there's probably more coming, a top energy executive warns.
+
+"This is a story about the rise in cyber attacks. I mean, it's the perfect weapon, as David Sanger says, it's a short-of-war weapon," Helima Croft, a member of the National Petroleum Council and the Global Head of Commodity Strategy at RBC Capital Markets, said on "CBS This Morning" Wednesday. "We are talking about an energy story this week. The question is will we be talking about, you know, the electricity supply, will we be talking about the water supply. So I think, again, this is a story about energy this week, about gas lines, but the cyber story and story of cyberattacks is not going to go away."
+
+Colonial Pipeline, which supplies about 45% of the East Coast's total fuel, was hit by hacker group DarkSide Friday, forcing it to shut down operations.
+
+"You have a number of state actors, non-state actors being able to use this technology to wreak havoc on critical infrastructure across the world," she said.
+
+While a large part of the system is back online and more is expected to be restarted by the end of the week, gas prices in several states have spiked to a nearly seven-year high and according to Gas Buddy, about 1,800 stations across the U.S. are out of fuel.
+
+Croft expects prices to stay elevated until the company announces it is fully back online — but low prices this season are unlikely.
+
+"We've had this recovery from COVID. People are driving again. People are getting on planes again. But certainly the spike that we've seen that has been driven by this cyberattack, we think that will be mitigated soon," she said.
+
+Experts say the shortages are primarily because of panic buying and people hoarding gasoline.
+
+The last major cyberattack to hit the U.S. was in early 2020, when hackers believed to be linked to Russian intelligence infiltrated the Texas-based company SolarWinds. The attack sent malicious code that infected more than 18,000 private and government users of SolarWinds' software.
+
+The problem, Croft said, is that 85% of "critical American infrastructure" is privately owned. Those companies are not required to disclose all cyberattacks.
+
+"They only have to do so, for example, if social security numbers are compromised," she said. "The federal government is really trying to work with these companies to provide more information about what is actually happening, and really trying to work with these companies to bolster their cyber defenses."
+
+She said ransomware hacks cost American companies $20 billion last year.

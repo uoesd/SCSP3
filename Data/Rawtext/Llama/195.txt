@@ -1,0 +1,21 @@
+Biden Administration to Strengthen Pipeline Cyber Protections After Colonial Hack
+
+WASHINGTON, May 25 (Reuters) – In the wake of the Colonial Pipeline hack, which forced a shutdown and caused widespread fuel shortages, the Biden administration is planning to strengthen cyber protections for pipelines. The Department of Homeland Security (DHS) has announced its collaboration with pipeline companies to increase resilience to cyber threats, with the Transportation Security Administration (TSA), a DHS unit, working closely with the Cybersecurity and Infrastructure Security Agency (CISA) on this effort.
+
+According to sources familiar with the matter, the DHS is preparing to issue the first mandatory cybersecurity regulations for pipelines. The proposed regulations will require pipeline companies to report cyber incidents and address any security shortcomings or face fines. The TSA has already expanded its pipeline security staff from six to 34 positions since 2018, demonstrating the growing concern over the vulnerability of the nation's pipelines to cyber threats.
+
+The Colonial Pipeline hack, which occurred earlier this month, highlighted the nation's reliance on key pipelines and the potential for devastating disruptions. Retail U.S. gasoline prices hit a seven-year high following the outage, although they have begun to decline since. In response to the incident, DHS Secretary Alejandro Mayorkas and other officials are considering using existing TSA powers to enforce new cybersecurity measures.
+
+The Biden administration's efforts to strengthen pipeline cyber protections come as the U.S. government increasingly recognizes the importance of protecting critical infrastructure from cyber threats. In recent years, there have been several high-profile cyber attacks on pipelines, including a 2017 attack on the Wolf Creek nuclear power plant in Kansas.
+
+The DHS's forthcoming regulations are expected to provide more details on the specific actions that pipeline companies will be required to take to enhance their cybersecurity. These actions may include implementing stronger password policies, segmenting networks to limit the spread of malware, and increasing employee training to recognize and respond to cyber threats.
+
+The TSA's expanded pipeline security staff will play a critical role in ensuring compliance with the new regulations. The agency has already been working closely with pipeline companies to identify and address vulnerabilities, and the additional staff will allow for more thorough and frequent assessments.
+
+While the proposed regulations are a step in the right direction, some experts argue that more needs to be done to protect pipelines from cyber threats. For example, some have called for the implementation of stricter security standards, such as those used in the financial sector. Others have suggested that pipeline companies should be required to invest a certain percentage of their revenue in cybersecurity measures.
+
+In any case, the Biden administration's efforts to strengthen pipeline cyber protections are a welcome development in the wake of the Colonial Pipeline hack. As the nation's reliance on pipelines continues to grow, it is essential that the government and private sector work together to protect these critical assets from cyber threats.
+
+In the coming days, the DHS is expected to release more details on the specific actions that pipeline companies will be required to take to enhance their cybersecurity. The TSA will also continue to work closely with pipeline companies to ensure compliance with the new regulations and to address any security shortcomings.
+
+As the U.S. government continues to grapple with the challenges of protecting critical infrastructure from cyber threats, the Biden administration's efforts to strengthen pipeline cyber protections are a promising step forward. By taking a proactive approach to cybersecurity, the government and private sector can work together to prevent devastating disruptions and protect the nation's critical assets.

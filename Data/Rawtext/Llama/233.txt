@@ -1,0 +1,21 @@
+Colonial Pipeline Cyberattack Raises Questions About Industry Resilience
+
+The recent cyberattack on the Colonial Pipeline Co. system has sparked concerns about the resilience of critical infrastructure in the face of increasing cyber threats. The attack, which prompted a shutdown of the pipeline's operations, highlights the vulnerability of industrial control systems and the need for better cybersecurity measures to protect against ransomware and other cyber threats.
+
+According to Nicholas Friedman, National Managing Partner and Governance, Risk and Compliance Strategist at Templar Shield Inc., "The attack on Colonial Pipeline is a stark reminder of the fragility of our critical infrastructure and the need for better cybersecurity measures to protect against ransomware and other cyber threats."
+
+The Colonial Pipeline cyberattack has had a significant impact on the fuel supply on the East Coast, causing government action and uncertainty in fuel prices and supplies. As a result, there is a growing concern about the potential for future attacks and the ability of companies to respond effectively.
+
+Anne Neuberger, Deputy National Security Advisor for Cyber and Emerging Technologies, U.S. Government, emphasized the importance of preventing ransomware from moving from IT to operational technology (OT) systems. "We need to ensure that our critical infrastructure is protected from cyber threats, and that means implementing better cybersecurity measures to prevent ransomware from spreading to OT systems," she said.
+
+Industry experts agree that better visibility and defense-in-depth strategies are needed to respond more precisely to cyberattacks. Alex Bagwell, Vice President for Industrial Sales at Tripwire Inc., noted that "Companies need to have better visibility into their systems and networks to quickly identify and respond to cyber threats."
+
+Leo Simonovich, Vice President and Global Head of Industrial Cyber and Digital Security at Siemens Energy AG, added that "A defense-in-depth approach is essential for protecting industrial control systems from cyber threats. This includes implementing multiple protection layers, network segmentation, and regular security assessments."
+
+The Colonial cyberattack has also raised questions about the company's visibility into its systems and whether it could have taken a more targeted approach to the shutdown. Barbara Rembiesa, President and CEO of the International Association of IT Asset Managers, noted that "Companies need to have a comprehensive approach to cybersecurity, including detailed asset inventories and business impact analysis, to ensure resilience."
+
+Johan Vermij, Research Analyst specializing in the internet of things at 451 Research, pointed out that securing OT systems poses challenges due to their initial design and maintenance requirements. "OT systems were not designed with security in mind, making it difficult to implement security measures without disrupting operations," he said.
+
+Despite the challenges, there is a growing recognition of the need for more flexible policies and additional pipeline infrastructure for redundancy. According to Friedman, "We need to have more flexible policies and infrastructure in place to respond to cyberattacks and ensure the resilience of our critical infrastructure."
+
+In conclusion, the Colonial Pipeline cyberattack serves as a reminder of the need for better cybersecurity measures to protect critical infrastructure from ransomware and other cyber threats. Implementing better visibility and defense-in-depth strategies, securing OT systems, and having more flexible policies and infrastructure in place are essential for ensuring resilience in the face of increasing cyber threats.

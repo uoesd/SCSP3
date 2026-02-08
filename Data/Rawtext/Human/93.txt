@@ -1,0 +1,21 @@
+The Lessons From Citibank's Mistaken $900 Million Transfer
+
+I read this story about Citibank's mistaken transfer—which cost it about half a billion dollars—a while back, and the sheer improbability of the mistake struck me. How could a banking giant make a blunder of such staggering magnitude despite multiple checks and balances? So what exactly went wrong here?
+
+I recently circled back to that story and realized that it was, unsurprisingly, more complicated than it had sounded at first blush. Nevertheless, as software developers and software users, I suspected we could learn quite a bit from this expensive mistake along with our customers.
+
+I want to unpack a few of those lessons—but first, let's review what happened.
+
+ICYMI: What Happened in the Citibank Wire Transfer Case
+
+The bare-bones version of the story goes like this: Citibank, acting as the administrative agent for Revlon's loan, meant to process $7.8 million in interest payments to Revlon's lenders. However, Citibank's software system required that it set up and execute what was, in effect, a "dummy" transaction to process the interest payment. Citibank would create a transfer of the entire outstanding balance, including both principal and interest, into an internally held "wash account." Citibank's staff had to check not just one clearly labeled box but also two other boxes with cryptic and confusing labels to direct the funds to the internal account. Because they only checked the one box, the money, totaling about $900 billion, didn't go to the wash account—it was wired straight to the creditors. (A rather large oops!)
+
+Citibank realized its error within 24 hours and asked the lenders to return the mistakenly transferred money. Some did, but several lenders refused due to a strange quirk of New York law: the "discharge-for-value" exception. This defense applies when someone receives a payment that is, in fact, owed to them. That recipient can keep mistakenly sent funds so long as
+
+the recipient did not fraudulently induce the payment and
+
+the recipient did not realize at the time of receipt that the money was sent by mistake.
+
+Citibank filed a lawsuit to recover the unreturned funds, which totaled about $500 million. Most of the facts in the litigation were simple. First, Revlon did owe its creditors, though the total amount was not due until 2023. Second, the payments the lenders received were correct payoff amounts, down to the penny. Third, the lenders—who weren't even expecting payments—did nothing to induce the payoff. So the only real question for the court was whether the lenders immediately realized that Citibank made a mistake when it sent the payments.
+
+...the only real question for the court was whether the lenders immediately realized that Citibank made a mistake when it sent the payments.

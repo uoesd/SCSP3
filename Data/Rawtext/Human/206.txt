@@ -1,0 +1,21 @@
+Pipeline operators face huge challenge preventing repeat of Colonial hack
+
+Government and private stakeholders are seeking to secure millions of miles of oil and natural gas pipelines against cyber intrusions as attackers increasingly target the operational technology that controls energy infrastructure.
+
+Seven months after a cyberattack shut down a major artery of gasoline supply in the U.S., the future of national pipeline cybersecurity remains largely unresolved, as government and industry grapple with hurdles to securing the nation's fuel backbone.
+
+Protecting the nation's pipelines will require addressing complex challenges presented by expanding vulnerabilities and evolving cyberthreats. The industry needs to gain greater visibility across a vast network of operational technology, or OT, and to establish next-generation information-sharing platforms, according to experts.
+
+Improving visibility into OT — the hardware and software that control infrastructure — would allow pipeline operators to respond to cyber breaches with greater precision, reducing the potential for costly supply disruptions across the nation's 2.6 million miles of oil and gas pipelines. It would also improve operators' ability to detect malicious activity and prevent an intruder from triggering a catastrophic incident.
+
+Complicating the task are legacy OT networks that defy cheap and easy fixes, as well as long-standing tension between public and private stakeholders over minimum cybersecurity requirements and the scope of information that operators should share with government.
+
+Cybersecurity vulnerabilities exposed by the May attack on Colonial Pipeline Co. have spurred a new push for regulation. Industry observers, including Federal Energy Regulatory Commission Chairman Richard Glick, have long criticized the lack of minimum standards for certain cybersecurity protections. With the Colonial attack in recent memory, though, the industry and some cybersecurity experts worry that in policymakers' rush to regulate, they could impose ineffective, burdensome rules.
+
+"Compliance does not equate to security," Kimberly Denbow, managing director of security and operations at the American Gas Association, said in an interview, echoing cybersecurity experts.
+
+Long impasse over regulation ends
+
+Both Kinder Morgan Inc. and TC Energy Corp. noted their implementation of the cybersecurity framework released by the U.S. National Institute of Standards and Technology, or NIST, as part of their defenses against cyberattacks. Kinder Morgan expressed confidence in its cyber incident response plan, noting that there have been no interruptions or suspensions of the company's systems due to a cyber event. Still, the operators see room for additional government involvement in the space.
+
+"Based on our implementation of the NIST cybersecurity framework and the partnerships we have with various relevant government agencies, we would not oppose making compliance with the NIST [framework] mandatory," Kinder Morgan spokesperson Melissa Ruiz said. "However, we also believe that it is part of the federal government's primary constitutional purpose to protect citizens and businesses from cyberattacks by entities affiliated with or sponsored by foreign governments. The private sector can never, on its own, match the resources of state actors."

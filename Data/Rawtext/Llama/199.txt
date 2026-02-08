@@ -1,0 +1,19 @@
+Colonial Pipeline's Scheduling System Back Online After Brief Outage
+
+NEW YORK, May 18 – Colonial Pipeline, the operator of the largest fuel pipeline in the United States, announced that its scheduling system was back online on Tuesday following a brief network outage. The disruption was caused by efforts to harden the system following a recent cyberattack, rather than a new infection.
+
+The cyberattack, which occurred last week, led to a week-long outage of the 5,500-mile pipeline, causing significant fuel supply disruptions across the southeastern United States. The attack caused widespread fuel shortages, with thousands of gas stations running dry.
+
+Colonial has been working to normalize fuel deliveries using its shipping nomination system, which is managed by a third-party company, Transport4 (T4). T4 did not comment on the incident.
+
+Despite the restoration of the scheduling system, it was still operating slower than normal on Tuesday. However, the number of filling stations without fuel has been steadily decreasing. As of Tuesday, over 10,400 stations were still without fuel, an improvement from the peak of over 16,000.
+
+Fuel outages in several states, including North Carolina, South Carolina, Virginia, and Georgia, have dropped below 50%. GasBuddy's Patrick De Haan anticipated that the number of stations without gasoline would drop under 10,000 by Tuesday.
+
+The recent cyberattack on Colonial Pipeline has highlighted the vulnerability of the United States' energy infrastructure to cyber threats. The incident has also raised concerns about the potential for future attacks and the need for increased security measures to protect critical infrastructure.
+
+In response to the attack, Colonial Pipeline has promised to take steps to enhance the security of its systems and prevent similar incidents in the future. The company has also worked closely with law enforcement and other agencies to investigate the attack and mitigate its impact.
+
+The incident has also underscored the importance of preparedness and response planning for cyberattacks. As the number and severity of cyber threats continues to increase, it is crucial that companies and organizations take proactive steps to protect their systems and data.
+
+In conclusion, the brief network outage experienced by Colonial Pipeline's scheduling system is a reminder of the ongoing threat of cyberattacks and the need for vigilance in protecting critical infrastructure. While the incident has caused significant disruptions, the company's efforts to harden its systems and respond to the attack are a positive step towards mitigating the impact of future cyber threats.

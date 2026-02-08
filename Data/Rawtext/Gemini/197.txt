@@ -1,0 +1,55 @@
+Cybersecurity Lapse at Colonial Pipeline Raises Alarm, Spurs Mandatory Rules
+
+The recent ransomware attack on Colonial Pipeline, a major fuel supplier to the East Coast, has exposed a critical vulnerability in the nation's infrastructure: the lack of mandatory cybersecurity measures. Despite decades of voluntary guidelines, the Transportation Security Administration (TSA) had not conducted an in-depth cybersecurity review of Colonial Pipeline before the attack, leaving it susceptible to the crippling ransomware assault.
+
+The Colonial Pipeline Attack
+
+On May 7, 2021, Colonial Pipeline, the largest refined products pipeline in the United States, was hit by a ransomware attack that forced the company to shut down its operations. The attack caused widespread fuel shortages across the East Coast, leading to panic buying and long lines at gas stations.
+
+Colonial Pipeline spokesman Kevin Feeney acknowledged the company's lack of a comprehensive cybersecurity review with the TSA, stating, "We had not yet completed the voluntary assessment process with TSA."
+
+Voluntary Guidelines and Lack of Enforcement
+
+Historically, the TSA has partnered with the energy industry to establish voluntary cybersecurity guidelines, but these guidelines have lacked penalties for non-compliance. As of late 2018, only 23 comprehensive cybersecurity assessments (VADR) had been conducted by the TSA on pipeline companies.
+
+"The voluntary nature of these guidelines has created a situation where critical infrastructure is vulnerable to attacks," said Rep. Jim Langevin (D-R.I.), co-founder of the Congressional Cybersecurity Caucus.
+
+Shift to Mandatory Cybersecurity Measures
+
+In the wake of the Colonial Pipeline attack, the Department of Homeland Security (DHS) is moving towards implementing mandatory rules for pipeline cybersecurity. Homeland Security Secretary Alejandro Mayorkas emphasized the importance of adapting to new and emerging threats in cybersecurity.
+
+"We must adapt to the evolving threat landscape and ensure that our critical infrastructure is protected from these malicious actors," Mayorkas said.
+
+Colonial Pipeline's Cybersecurity Investments
+
+Despite the lack of a TSA review, Colonial Pipeline had reportedly increased its IT spending by about 50% since 2017, hiring independent firms for cybersecurity risk assessments.
+
+"We have made significant investments in our cybersecurity program and have been working to enhance our defenses against these types of attacks," Feeney said.
+
+Industry Resistance to Regulation
+
+The shift to mandatory cybersecurity measures comes amid growing ransomware attacks on critical infrastructure. However, the TSA has historically relied on voluntary compliance, influenced by industry resistance to regulation.
+
+"The energy industry has been reluctant to embrace mandatory cybersecurity regulations, citing concerns about cost and operational burdens," said Michael Chertoff, former Secretary of Homeland Security.
+
+TSA's Role in Pipeline Security
+
+Jack Fox, head of TSA's pipeline security program, acknowledged the need for mandatory cybersecurity measures.
+
+"We recognize that mandatory cybersecurity standards are necessary to protect our critical infrastructure from these evolving threats," Fox said.
+
+Industry Perspective on Mandatory Rules
+
+Gary Forman, director of corporate security at NiSource Inc., a natural gas and electric utility company, supports mandatory cybersecurity regulations.
+
+"Mandatory cybersecurity standards would provide a level playing field for all pipeline operators and ensure that everyone is meeting the same minimum level of security," Forman said.
+
+Cybersecurity Education and Training
+
+Tim Conway, an industrial control systems cybersecurity instructor at the SANS Institute, emphasized the importance of cybersecurity education and training for pipeline operators.
+
+"Pipeline operators need to be trained on how to identify and respond to cybersecurity threats," Conway said.
+
+Conclusion
+
+The Colonial Pipeline attack has served as a wake-up call for the nation's critical infrastructure. The lack of mandatory cybersecurity measures left Colonial Pipeline vulnerable to a crippling ransomware attack, causing widespread fuel shortages and economic disruption. The Department of Homeland Security is now moving towards implementing mandatory rules for pipeline cybersecurity, recognizing the need to adapt to evolving threats. While industry resistance to regulation remains a challenge, the shift to mandatory measures is essential to protect the nation's critical infrastructure from future attacks.

@@ -1,0 +1,15 @@
+Bose Hit by Ransomware Attack, Exposing Employee Data
+
+Audio equipment manufacturer Bose Corporation has fallen victim to a ransomware attack that compromised the personal data of six former employees. The incident, which occurred in March, was detected by Bose in late April.
+
+The exposed data includes Social Security numbers and salary information of the affected individuals, who were all based in New Hampshire. As of May 19, there was no evidence that the data had been sold on the dark web.
+
+The attack highlights the ongoing national issue with ransomware attacks, which have targeted various sectors, including healthcare, education, and government. Bose did not pay a ransom to the attackers and has not disclosed the type of ransomware used.
+
+Despite the incident, Bose reported $3.6 billion in sales last year and assures that there is no ongoing disruption to its business. The company has worked to safely restore its systems with the help of cyber experts.
+
+Bose is offering a year of free anti-fraud service to the affected individuals. The company is also working with law enforcement and has notified the New Hampshire Attorney General's Office.
+
+Consumer advocates are urging for more protections for victims of data breaches. They argue that companies should be held accountable for protecting consumer data and that victims should have access to free credit monitoring and identity theft protection services.
+
+The Bose incident serves as a reminder of the importance of cybersecurity and the need for businesses to take proactive measures to protect their systems and data. It also underscores the growing threat of ransomware attacks and the need for individuals to be vigilant about protecting their personal information.

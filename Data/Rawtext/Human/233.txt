@@ -1,0 +1,21 @@
+Colonial cyberattack raises a question: Can whole-system shutdowns be avoided?
+
+The decision to take the entire Colonial Pipeline Co. system offline following a cyberattack raises questions about whether the pipeline industry will be able to avoid disruptive whole-system shutdowns in the future.
+
+Cybersecurity and information technology professionals warn that following industry best practices alone may not prevent cyberattacks from infecting the systems that control the nation's vast energy infrastructure. With legacy pipeline assets becoming more connected and ransomware on the rise, attacks that shut down physical infrastructure are becoming more commonplace, they said.
+
+"Now we're seeing five to 10 a year. While that might not seem high, this is one of them, and you have an entire coast shut down for a pipeline," said Nicholas Friedman, national managing partner and governance, risk and compliance strategist at enterprise risk management firm Templar Shield Inc.
+
+The event is one of the highest-profile cyberattacks on U.S. energy infrastructure to date. It brought to a halt a major artery that provides the East Coast with nearly half of its fuel and prompted the federal government to convene inter-agency meetings and take emergency measures. The impact on fuel prices and supplies continues to be in flux.
+
+Uncertainty around Colonial shutdown
+
+The exact reason for the shutdown remains unclear. In public statements, Colonial has disclosed that it became aware on May 7 that it was the target of a cyberattack involving ransomware, which holds company data hostage. The company said it "proactively took certain systems offline to contain the threat." That response stopped all pipeline operations and affected some of Colonial's information technology, or IT, systems, Colonial said.
+
+U.S. national security officials offered additional details during a May 10 White House press briefing. Colonial shut down the system in part to ensure the ransomware would not migrate from IT systems to operational networks, which control physical assets in the field, according to U.S. Deputy National Security Advisor for Cyber and Emerging Technologies Anne Neuberger. She said she could not disclose whether Colonial detected malware in its operational technology, or OT.
+
+Cybersecurity solutions firm Tripwire Inc. said the Colonial incident appears to be limited to IT functions, but warned that cybercriminals are increasingly targeting industrial companies and utilities because they often have limited visibility into OT devices on their industrial network. "Here we saw the direct impact of an IT event on OT systems, which reinforces the importance of maintaining visibility of assets across your entire network," Tripwire Vice President for Industrial Sales Alex Bagwell said in a May 11 blog post.
+
+Visibility entails creating a picture of the relationship between physical and digital worlds that allows companies to immediately identify which assets are associated with an anomaly once it is detected, according to Leo Simonovich, vice president and global head of industrial cyber and digital security at Siemens Energy AG.
+
+That could in turn allow a more precise response to attacks, he added. Simonovich noted that the Colonial cyberattack has one thing in common with a previous attack that shut a gas pipeline system: Both companies took the blunt approach of shuttering a whole system.

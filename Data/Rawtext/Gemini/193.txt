@@ -1,0 +1,29 @@
+Justice Department Recovers Majority of Ransom Paid in Colonial Pipeline Cyberattack
+
+WASHINGTON (AP) – The Justice Department has recovered most of the ransom paid to hackers after the Colonial Pipeline cyberattack, marking a significant victory in the Biden administration's efforts to combat ransomware.
+
+The operation, led by the department's new ransomware task force, resulted in the seizure of 63.7 bitcoins, valued at approximately $2.3 million, from the hackers. The ransom paid by Colonial Pipeline, a major fuel supplier, amounted to 75 bitcoin, valued at approximately $4.4 million.
+
+"This is the first operation of its kind by our new ransomware task force," said Deputy Attorney General Lisa Monaco. "It demonstrates that we will use all of our tools to track down and disrupt ransomware attackers and hold them accountable."
+
+The attack on Colonial Pipeline, which led the company to halt operations on May 7, disrupted fuel supplies across the southeastern United States. Colonial Pipeline paid the ransom to resume operations.
+
+"This operation is a testament to the hard work and dedication of our law enforcement partners," said FBI Deputy Director Paul Abbate. "We will continue to work tirelessly to disrupt ransomware operations and hold these criminals accountable."
+
+The seizure of the ransom is part of a broader effort by the Biden administration to increase the cost and consequences of ransomware attacks.
+
+"Ransomware attacks are a serious threat to our national security and economy," said Monaco. "We will not tolerate these attacks, and we will continue to work with our partners to disrupt and dismantle ransomware operations."
+
+The FBI discourages ransom payments but suggests that quick law enforcement engagement can sometimes help recover funds.
+
+"We understand that victims of ransomware attacks are often under extreme pressure to pay the ransom," said Stephanie Hinds, Acting U.S. Attorney for the Northern District of California. "However, paying the ransom only encourages these criminals and makes them more likely to target other victims. We urge victims to contact law enforcement immediately so that we can investigate and potentially recover the funds."
+
+Joseph Blount, President and Chief Executive of Colonial Pipeline, said the operation was a "significant step forward" in disrupting ransomware operations.
+
+"This operation sends a clear message that ransomware attacks will not be tolerated," said Blount. "We are grateful to the Justice Department and the FBI for their hard work and dedication in recovering the majority of the ransom paid."
+
+Ransomware attacks have been increasing in recent years, targeting critical industries globally. The attacks involve hackers encrypting data and demanding a ransom payment in exchange for decrypting it.
+
+The Justice Department's ransomware task force was created in October 2021 to coordinate the government's response to ransomware attacks. The task force includes representatives from the FBI, the Cybersecurity and Infrastructure Security Agency (CISA), and the Department of Justice.
+
+The task force has been working to disrupt ransomware operations, hold hackers accountable, and provide support to victims of ransomware attacks. The operation to recover the Colonial Pipeline ransom is a significant success for the task force and demonstrates the Biden administration's commitment to combating ransomware.

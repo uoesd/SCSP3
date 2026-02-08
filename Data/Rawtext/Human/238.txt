@@ -1,0 +1,27 @@
+NYC Law Department system still down three days after hack uncovered
+
+The city Law Department's computer system remained down Tuesday, about three days after investigators discovered the agency had been hacked.
+
+The FBI and members of the city's Cyber Command office are doing a forensic analysis of the incident and trying to suss out a motive for the attack, which was first reported by the Daily News.
+
+The hackers have yet to demand a ransom, according to de Blasio, but a top NYPD official didn't rule out the possibility down the road.
+
+"Is it someone looking to corral information, export it and then do a ransomware attack? That's a possibility," John Miller, the NYPD's deputy commissioner of intelligence and counterterrorism, said at a Tuesday press conference alongside the mayor.
+
+New York City counter-terrorism and intelligence deputy commissioner John Miller.
+
+"Is it another kind of actor looking to gather information for other strategic purposes? That's a possibility," he added.
+
+Miller said investigators have identified the kind of malware that was used, noting "we've seen it before," and are now trying to trace it back to the hackers.
+
+The Law Department has been using outdated software, two sources with knowledge of the situation told The News.
+
+Some agency computers have been running on the Windows 7 operating system — which Microsoft hasn't supported since January 2020 — the sources said. They also use Microsoft Office 2010, which the company doesn't support, either, they added.
+
+The city's Department of Information Technology and Telecommunications had been warning the Law Department about the issue prior to the hack, according to one of the sources, an employee with the Law Department's IT division.
+
+"They also send a weekly report with a list of servers and computers that have vulnerabilities and should be addressed," the source said.
+
+Another Law Department staffer said the agency "is very archaic with a lot of things — not just in terms of how they handle tech, but in how they get things done.
+
+"They put a lot of things on the back burner," they added. "It moves slow. They only try to remedy situations after something bad has happened."

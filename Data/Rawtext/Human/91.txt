@@ -1,0 +1,51 @@
+Take a look at the confusing bank interface behind Citigroup's $500 million mistake
+
+In what a federal judge called "one of the biggest blunders in banking history," confusion regarding Citigroup's internal user interface cost the company over $500 million.
+
+This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now.
+
+Alex Khmelevskiy, the head of UX design at Clay — a design and branding agency based out of San Francisco — examined Citigroup's wire transfer and said the mistake could have been easily avoided with a more user friendly interface.
+
+"The UI looks like it came from the early '90s, which is a problem on its own," Khmelevskiy told Insider.
+
+Citigroup Revlon payment on Flexcube Court filing
+
+A Citigroup spokesperson told Insider the company is working to update its loan operations platform.
+
+"We take pride in the role that we play as a global leader in financial services and recognize that an operational error of this nature is unacceptable," the spokesperson told Insider. "We have put significant, additional controls in place until the new system is operational."
+
+A spokesperson for the interface provider, Oracle, declined to comment.
+
+Federal judge Jesse Furman ruled last week that Citigroup will not be able to recoup half a billion dollars of its own money after it accidentally sent Revlon creditors nearly $1 billion.
+
+Citigroup made the costly mistake over the summer. Instead of transferring a $7.8 million interest payment to the cosmetic company's lenders, the bank transferred the full loan amount.
+
+The bank notified the creditors within 24 hours that it had not intended to pay the full amount, which was not due until 2023. Some firms returned the money, but 10 others refused to return about $500 million of the funds, prompting Citigroup's failed lawsuit to recoup the payment.
+
+The blunder was the result of the failure to check the right boxes for the wire transfer
+
+Citigroup — like many commercial banks — uses Flexcube, a third-party application system from Oracle designed to help perform tasks like wire transfers.
+
+Citigroup subcontractors are responsible for entering the transaction information into the Flexcube database in order to initiate the transfer process.
+
+On Flexcube, the easiest way to perform a transaction is to enter the principal amount into the system. The principal amount is directed to a "wash account" within the bank, while the payment triggers the interest to be sent out automatically to lenders.
+
+For the Revlon payment, the subcontractor in India checked the box labeled "principal" and entered the digits for an internal Citigroup wash account. Three people signed off on the transaction.
+
+"Looks good, please proceed. Principal is going to wash," the supervisor wrote when he approved the transaction, according to the court filing.
+
+The mistake was not realized till the next morning when the full amount was sent out to the 10 different creditors.
+
+It turned out, the subcontractor needed to check two more boxes. In order to send the principal payment to the wash account, the subcontractor must also check the boxes for "front" and "fund," setting them to the internal Citigroup account as well.
+
+"Minor changes" to Flexcube could have spared the bank from the blunder altogether
+
+Khmelevskiy's agency has worked with several large scale tech companies, including Facebook, Google, and Slack. He said there are many ways the platform could have been improved to avoid the $500 million mistake.
+
+"Even if we put the look and feel aside, just adding more clear instructions for each field and using more human-friendly language and terms would improve it drastically," Khmelevskiy said. "Even a minor change such as a confirmation dialog with an overview of what is about to happen could help Citi avoid making this mistake."
+
+In his decision, the judge said he hoped other banks would learn from Citigroup's mistake and implement more steps to minimize the risk of errors — an accident which the judge calls the result of a "fat finger."
+
+The judge based his ruling off a previous case, stating that it was reasonable for the creditors to keep the funds because they matched what the lenders were owed.
+
+"To believe that Citibank, one of the most sophisticated financial institutions in the world, had made a mistake that had never happened before, to the tune of nearly $1 billion — would have been borderline irrational" Furman said in the ruling.

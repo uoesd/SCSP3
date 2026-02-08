@@ -1,0 +1,21 @@
+NIH Launches Clinical Trial to Evaluate Mixed COVID-19 Booster Regimens
+
+Bethesda, Md., May 25, 2021 - The National Institutes of Health (NIH) has initiated a Phase 1/2 clinical trial to assess the safety and immunogenicity of mixed booster COVID-19 vaccine regimens. The trial is led and funded by the National Institute of Allergy and Infectious Diseases (NIAID), part of the NIH, through the Infectious Diseases Clinical Research Consortium (IDCRC).
+
+"As we prepare for the possibility of booster shots due to waning immunity and virus evolution, it is critical to evaluate the safety and effectiveness of different vaccine combinations," said NIAID Director Anthony S. Fauci, M.D. "This trial will provide valuable information to inform public health policy on the use of mixed vaccine schedules if booster doses become necessary."
+
+The trial will enroll 150 participants who have previously received one of the three FDA Emergency Use Authorized (EUA) vaccines: Pfizer-BioNTech, Moderna, or Johnson & Johnson's Janssen vaccine. Participants will receive a booster dose of the Moderna vaccine.
+
+"We are particularly interested in evaluating the immune response in individuals who received the Johnson & Johnson vaccine, as it is a single-dose vaccine and may require a different boosting strategy," said Robert L. Atmar, M.D., principal investigator of the trial at Baylor College of Medicine.
+
+The trial also includes separate cohorts for individuals who have not been previously vaccinated. These participants will receive the two-dose Moderna vaccine regimen.
+
+"By including unvaccinated individuals in the trial, we can also evaluate the safety and immunogenicity of the Moderna vaccine in this population," said Kirsten E. Lyke, M.D., principal investigator of the trial at the University of Maryland, College Park.
+
+The trial has an adaptive design, which allows for the introduction of new arms as additional vaccines receive EUA or variant vaccines become available. Participants will be followed for a year post-vaccination for safety monitoring, side effects, and immune response evaluations.
+
+"The results of this trial will help us determine the optimal vaccine regimen for booster doses and inform public health policy on the use of mixed vaccine schedules," said Fauci.
+
+Initial results from the trial are expected in late summer 2021. More information about the trial is available on clinicaltrials.gov under identifier NCT04889209.
+
+The NIH is the primary federal agency for medical research in the U.S., focusing on infectious, immune-mediated diseases and other illnesses.

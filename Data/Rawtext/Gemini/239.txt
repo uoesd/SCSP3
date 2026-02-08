@@ -1,0 +1,27 @@
+Biden's Cybersecurity Executive Order Hailed as "Game Changer" by Former CISA Chief
+
+Washington, D.C. - Former Cybersecurity and Infrastructure Security Agency (CISA) Director Christopher Krebs has lauded President Biden's recent executive order aimed at bolstering the federal government's cybersecurity posture, describing it as a "dramatic game change."
+
+The executive order, signed by Biden on May 12, 2021, directs the Commerce Department to establish new cybersecurity standards for software vendors supplying the federal government. These standards will focus on improving the security of software products, including those used by government agencies and critical infrastructure sectors.
+
+"This is a big deal," Krebs said in an interview with CBS News. "It's the first time that the federal government has taken such a comprehensive approach to software security. It's going to have a cascading effect on the entire software industry, and it's going to make our government and our critical infrastructure more secure."
+
+Krebs, who was fired by former President Trump in November 2020 after debunking Trump's false election fraud claims, emphasized the importance of both presidential and congressional action to fortify the nation's cyber infrastructure.
+
+"We need to do more than just issue executive orders," Krebs said. "We need Congress to pass legislation that will provide the resources and authorities that CISA and other agencies need to protect our country from cyber threats."
+
+Krebs also discussed the growing threat of ransomware, referencing the recent attack on Colonial Pipeline, which involved the payment of a ransom.
+
+"Ransomware is a huge problem, and it's only getting worse," Krebs said. "We need to do more to disrupt the ransomware ecosystem and to hold the criminals who are behind these attacks accountable."
+
+Krebs mentioned the cybercriminal gang DarkSide, primarily composed of Russians, as responsible for the Colonial Pipeline attack. He noted the possible link between ransomware groups and Russian intelligence.
+
+"We know that DarkSide has ties to the Russian government," Krebs said. "We need to be prepared for the possibility that ransomware attacks could be used as a weapon by Russia or other nation-states."
+
+Krebs also discussed the SolarWinds hack, stressing the lessons learned from it and the need for businesses to enhance cybersecurity practices.
+
+"SolarWinds was a wake-up call for the entire cybersecurity community," Krebs said. "It showed us that even the most sophisticated organizations can be vulnerable to cyber attacks. We need to do a better job of sharing information and best practices, and we need to invest in new technologies and capabilities to defend against these threats."
+
+Krebs's comments come as the Biden administration grapples with a series of high-profile cyber attacks, including the SolarWinds hack and the Colonial Pipeline ransomware attack. The executive order on cybersecurity is part of the administration's broader efforts to strengthen the nation's cyber defenses.
+
+Biden's executive order on cybersecurity is a significant step towards enhancing the nation's cyber defenses. The order's focus on software security is particularly important, as software vulnerabilities are a major source of cyber attacks. The order is expected to have a cascading effect on the software industry, leading to more secure products for both government and consumer use.

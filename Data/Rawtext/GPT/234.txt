@@ -1,0 +1,15 @@
+Cyber Attack Paralyzes Spain's Damm Brewery Production
+
+MADRID, Nov 12 – Spain's second-largest beer producer, Damm, experienced a significant halt in operations at its primary facility outside Barcelona, due to a cyber attack that occurred on Tuesday night. The incident, which completely paralyzed the brewery in El Prat de Llobregat for several hours, underscores the escalating threat of cyber attacks on corporate infrastructure.
+
+The brewery, responsible for producing 7 million hectolitres of beer annually, managed to partially resume production after immediate IT intervention. This swift action reflects the growing necessity for robust cyber defenses in the face of escalating online threats.
+
+Olga Vidal, Damm's Head of Communications, confirmed the cyber attack but did not provide specifics regarding a ransom demand or payment to the hackers. "We are assessing the situation and have taken all necessary steps to mitigate the impact of this attack," Vidal stated, emphasizing the company's focus on recovery and security enhancement.
+
+There's no confirmation on whether Damm has reported the cyber incident to the police, but the brewery has successfully fulfilled all its deliveries utilizing existing stocks, ensuring no immediate shortage for consumers. This resilience highlights the importance of preparedness and adaptability in today's increasingly digital and interconnected business landscape.
+
+Damm, known for its iconic Estrella Damm lager among several other brands, represents a key player in Spain's brewing industry. The cyber attack on its operations is a stark reminder of the vulnerabilities that companies face in the digital age.
+
+Recent high-profile cyber attacks have not only targeted corporate giants but also affected key institutions such as the Autonomous University of Barcelona and Spain's employment agency, underscoring a national concern. A European Union report has pointed out the significant rise in cyber-criminal activities, particularly in the wake of the COVID-19 pandemic, leading to heightened scrutiny of security policies by both governments and corporations alike.
+
+As Spain continues to navigate the challenges posed by such nefarious activities, the cyber attack on Damm serves as a critical call to action for enhanced security measures within the corporate sector and beyond.

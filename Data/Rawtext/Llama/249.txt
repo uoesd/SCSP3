@@ -1,0 +1,15 @@
+COVID-19 Vaccines Proven Effective, But Breakthrough Cases Still Occur: KFF Analysis
+
+In a comprehensive analysis of state-level data, the Kaiser Family Foundation (KFF) has found that COVID-19 vaccines are highly effective at preventing severe disease, but breakthrough cases still occur, albeit at extremely low rates. The study, which reviewed data on breakthrough cases, hospitalizations, and deaths from official state sources for all 50 states and D.C., reveals that while not all hospitalizations and deaths in fully vaccinated individuals are due to COVID-19, breakthrough cases, hospitalizations, and deaths among the fully vaccinated are rare in the U.S.
+
+The Centers for Disease Control and Prevention (CDC) tracks hospitalizations and deaths among the fully vaccinated, but not all breakthrough infections. However, half of the states report data on COVID-19 breakthrough events, although the frequency and detail of reporting vary. According to the KFF analysis, rates of breakthrough cases among the fully vaccinated are below 1% in all reporting states.
+
+The data shows that more than 90% of COVID-19 cases, hospitalizations, and deaths occur among unvaccinated or not fully vaccinated individuals. This underscores the effectiveness of COVID-19 vaccines in preventing severe disease and the importance of robust state-level data for monitoring vaccine effectiveness.
+
+The KFF analysis also highlights the rarity of COVID-19 breakthrough events among the fully vaccinated in the U.S. State-level data indicates that breakthrough cases, hospitalizations, and deaths among the fully vaccinated are extremely rare, supporting the efficacy of COVID-19 vaccines.
+
+The study's findings are consistent with previous research on COVID-19 vaccine effectiveness. In a study published in The New England Journal of Medicine, the Pfizer-BioNTech COVID-19 vaccine was found to be 95% effective in preventing severe illness due to COVID-19. Similarly, the Moderna COVID-19 vaccine was found to be 94% effective in preventing severe illness in a study published in The Lancet.
+
+The KFF analysis emphasizes the importance of continued monitoring of COVID-19 vaccine effectiveness, particularly as new variants of the virus emerge. It also highlights the need for improved data reporting and coordination between states and the federal government to ensure accurate and timely tracking of breakthrough cases, hospitalizations, and deaths.
+
+In conclusion, the KFF analysis provides further evidence of the effectiveness of COVID-19 vaccines in preventing severe disease. While breakthrough cases still occur, they are extremely rare, and the vast majority of COVID-19 cases, hospitalizations, and deaths occur among unvaccinated or not fully vaccinated individuals. The study underscores the importance of robust state-level data for monitoring vaccine effectiveness and the need for continued efforts to improve data reporting and coordination.

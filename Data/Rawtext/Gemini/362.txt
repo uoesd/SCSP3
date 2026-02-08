@@ -1,0 +1,35 @@
+Facebook Outage Highlights Vulnerability of Cloud-Dependent Devices
+
+Facebook's massive outage on October 4, 2021, which lasted for over six hours, brought down not only the social media giant's namesake platform but also its virtual reality (VR) and augmented reality (AR) devices, including the Oculus Quest headset and Ray-Ban smart glasses.
+
+While the Oculus Quest headset remained partially operational, allowing users to launch and play downloaded games and even connect with others online in certain cases, many Facebook services, including the app store and avatars, were unavailable. The Ray-Ban smart glasses, on the other hand, could still take photos and videos but were unable to share them due to the inability to connect to the Facebook-connected app.
+
+The outage underscored the inherent vulnerabilities in app- and cloud-connected devices that rely heavily on online services. It raised questions about the future of VR and AR, emphasizing the need for devices that can operate independently of cloud services.
+
+"This outage is a reminder of the vulnerability of heavily cloud-dependent devices," said Patrick Moorhead, principal analyst at Moor Insights & Strategy. "We need more resilient and independent AR and VR technologies."
+
+The event also highlighted the broader issue of reliance on cloud-based services and the potential for service disruptions. It raised questions about the wisdom of putting all our eggs in one basket, so to speak, and emphasized the importance of having multiple companies provide apps and social networks to prevent a single point of failure.
+
+"We need to have multiple companies providing these services so that if one goes down, we're not all left in the dark," said Moorhead.
+
+The outage also served as a reminder of the need for local file storage and reduced reliance on a single company for communication and work needs.
+
+"We need to be able to store our files locally and have access to our apps and data even when we're not connected to the internet," said Moorhead.
+
+The Facebook outage is a wake-up call for the tech industry and consumers alike. It's a reminder that we need to be more resilient and independent in our use of technology. We need devices that can operate independently of cloud services, and we need multiple companies providing apps and social networks to prevent a single point of failure.
+
+The Future of VR and AR
+
+The Facebook outage has raised questions about the future of VR and AR. Some experts believe that the outage will accelerate the development of more independent VR and AR devices.
+
+"This outage is going to force companies to rethink their reliance on cloud services," said Moorhead. "We're going to see more devices that can operate independently of the cloud."
+
+Other experts believe that the outage will not have a major impact on the development of VR and AR.
+
+"I don't think this outage is going to change the trajectory of VR and AR," said Anshel Sag, principal analyst at Moor Insights & Strategy. "These technologies are still in their early stages of development, and they're going to continue to grow and evolve."
+
+Regardless of the impact on the development of VR and AR, the Facebook outage is a reminder that we need to be more resilient and independent in our use of technology. We need devices that can operate independently of cloud services, and we need multiple companies providing apps and social networks to prevent a single point of failure.
+
+Conclusion
+
+The Facebook outage was a major event that has raised important questions about the future of VR and AR. It's a reminder that we need to be more resilient and independent in our use of technology. We need devices that can operate independently of cloud services, and we need multiple companies providing apps and social networks to prevent a single point of failure.

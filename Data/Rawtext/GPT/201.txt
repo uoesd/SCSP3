@@ -1,0 +1,21 @@
+Cyber Vulnerabilities Endanger US Military Logistics
+
+NATIONAL HARBOR, Md.: – The recent Colonial Pipeline cyberattack in May, perpetrated by Russian-based hackers, not only disrupted civilian life through a gas shortage and an uptick in fuel prices but also underscored a critical vulnerability within the US military's operations. The incident, resulting in a $5 million ransom, highlighted the urgent need for enhanced cybersecurity measures across all sectors, including military logistics and supply chains.
+
+At the National Defense Transportation Association conference, Air Force Secretary Frank Kendall weighed in on the issue, expressing his concern over the potential risks of cyber and kinetic attacks on the United States military's logistical frameworks. "We are at a moment of reckoning. Our adversaries have recognized that our supply lines and networks are not just assets but potential vulnerabilities," Kendall remarked.
+
+Echoing Kendall's concerns, Air Force Gen. Jacqueline Van Ovost, head of US Transportation Command, emphasized the growing threat of cyber attacks targeting the military's backbone: its logistics and supply chain operations. "Cybersecurity is no longer just an IT concern; it's a strategic imperative for our national security," Van Ovost stated, advocating for a fortified defense against these digital threats.
+
+The Department of Defense's (DoD) reliance on commercial vendors for essential commodities such as fuel, spare parts, and even cloud services, exposes it to significant risks. Disruptions in these services could potentially cripple military operations, making it imperative to address these vulnerabilities head-on.
+
+Kendall specifically pointed out the importance of securing military networks and infrastructure against possible cyber or kinetic onslaughts. "Imagine the chaos that would ensue if our military logistics were to be targeted and disrupted. It's not just a hypothetical scenario but a very real threat," he stressed.
+
+To combat these threats, Kendall called for increased funding aimed at mitigating logistics vulnerabilities, including investment in weapon and hardened fuel storage infrastructure. "We can't afford to be complacent. The cost of inaction outweighs the expense of preparation," he affirmed.
+
+Moreover, the recruitment of highly skilled employees and the acquisition of more resilient transportation systems were highlighted as critical steps towards safeguarding military logistics against both cyber and kinetic attacks.
+
+Nickolas Guertin, nominated for the director of Operational Test and Evaluation (DOT&E), shared insights into the challenges facing the DoD, particularly in the realm of cybersecurity testing. "Our capabilities are being stretched thin. We require more resources and automation to effectively test our systems against cyberthreats," Guertin explained.
+
+He also highlighted the importance of conducting independent security assessments of cloud services acquired from commercial vendors by the Defense Department, emphasizing that "trust, but verify" should be the principle guiding these transactions.
+
+In conclusion, as cyber threats grow more sophisticated, the urgency to enhance the cybersecurity of the military's logistics and supply chain cannot be overstated. The insights provided by Kendall, Van Ovost, and Guertin shed light on the complex challenges and critical steps ahead for the DoD in securing its operations against an ever-evolving digital threat landscape.

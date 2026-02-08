@@ -1,0 +1,31 @@
+Former CISA chief says Biden order on cybersecurity is "dramatic game change"
+
+Christopher Krebs, the former director of the Cybersecurity and Infrastructure Security Agency at the Department of Homeland Security, praised the Biden administration for taking action to address cybersecurity threats. Krebs spoke with CBS News chief Washington correspondent Major Garrett for this week's episode of "The Takeout" podcast.
+
+President Biden signed an executive order Wednesday aimed at hardening the federal government's cybersecurity defenses by directing the Commerce Department to author new standards for software vendors supplying the federal government. Krebs called the action a "dramatic game change" that showed Mr. Biden's "committed leadership vision" to prioritize cybersecurity concerns.
+
+Highlights from this week's episode:
+
+Christopher Krebs on Biden's executive order: "It dramatically increases security expectations of the software products that are sold to the federal government."
+
+"It dramatically increases security expectations of the software products that are sold to the federal government." Presidential and congressional action on cybersecurity: "You need both."
+
+"You need both." Ransomware attacks: "Ransomware is a really, really profitable business these days."
+
+"Ransomware is a really, really profitable business these days." Need for companies to take action to secure their software: "Everybody can do better. The threats are so diverse right now."
+
+"It dramatically increases security expectations of the software products that are sold to the federal government," Krebs said, explaining that this would have a "cascading effect" for products sold to ordinary American customers.
+
+Krebs praised Mr. Biden for "jettisoning the traditional approach" to addressing cybersecurity, but said that Congress needed to act to shore up the nation's cyber infrastructure as well. Krebs has previously called on Mr. Biden to incorporate this into his $2.3 trillion infrastructure proposal.
+
+"You need both," Krebs said, meaning presidential and congressional action.
+
+Krebs also responded to the ransomware attack on Colonial Pipeline, after the company announced Wednesday that it has begun restarting pipeline operations after a cyberattack forced the company to take some of its systems offline last Friday.
+
+"Ransomware is a really, really profitable business these days," Krebs remarked.
+
+The company, which operates a major energy pipeline, first announced the hack a week ago, also soon disclosed that "this incident involves ransomware." Several sources told CBS News on Thursday that Colonial Pipeline did pay a ransom to the hackers who had infiltrated its computer network. The money was paid shortly after the computer systems started locking up late last week.
+
+The FBI said Monday that the attack was the work of a criminal gang known as DarkSide, an operation which Krebs said was composed mainly of Russian individuals, many in their teens or early twenties. Colonial Pipeline said an outside security firm is investigating the incident.
+
+Krebs said that DarkSide not only holds data for ransom, but exfiltrates it as well, calling the operation "fifth-dimension chess here from a criminal perspective."

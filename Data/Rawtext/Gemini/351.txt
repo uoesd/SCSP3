@@ -1,0 +1,39 @@
+Facebook's Global Outage: A Six-Hour Disruption Exposing Fragility of Online Services
+
+On October 4, 2021, the world witnessed a significant disruption in global internet connectivity as Facebook, Instagram, WhatsApp, and Messenger experienced a widespread outage that lasted nearly six hours. The outage, unprecedented in its scale and duration, left billions of users worldwide unable to access these popular platforms.
+
+Cause of the Outage
+
+According to Facebook, the outage was triggered by a configuration change to the backbone routers that coordinate network traffic between the company's data centers. These routers are responsible for directing data packets across the internet, ensuring seamless communication between devices and servers.
+
+Cloudflare, a leading internet infrastructure provider, provided a detailed explanation of the outage, highlighting the involvement of DNS (Domain Name System) and BGP (Border Gateway Protocol). DNS translates domain names into IP addresses, while BGP determines the best routes for data packets to travel across the internet. The configuration change disrupted these essential services, causing a cascading effect that led to the outage.
+
+Impact of the Outage
+
+The outage affected all Facebook services, including internal systems. Employees were locked out of their offices and unable to use the company's internal communications platform, further hindering efforts to resolve the issue.
+
+The outage also had a significant impact on businesses that rely on Facebook platforms for advertising, customer engagement, and sales. Many businesses reported lost revenue and disruption to their operations.
+
+Lengthy Resolution Process
+
+The outage took an unusually long time to fix, primarily due to the disruption of internal systems. This made it difficult for employees to diagnose and resolve the problem. Facebook indicated that the fix was slow due to the need to bring systems back to full capacity carefully, ensuring stability and preventing further disruptions.
+
+Manual Server Reset
+
+To resolve the outage, a technical team had to manually reset servers in California where the problem originated. This involved physically accessing the servers and restarting them, a time-consuming and delicate process.
+
+Single Point of Failure
+
+The outage highlighted the issues associated with a single point of failure for online services. When a critical component, such as a backbone router, fails, it can have a devastating impact on the entire system. This underscores the need for redundancy and resilience in internet infrastructure to minimize the risk of such outages.
+
+Timing of the Outage
+
+The outage occurred during a challenging time for Facebook, following the pausing of plans for an Instagram for kids and allegations made by a whistleblower about the company's practices. The outage further damaged Facebook's reputation and raised questions about the company's ability to manage its vast infrastructure.
+
+Financial Impact
+
+The outage had a significant financial impact on Facebook. The company's share price dropped 4.9% during the outage, reducing CEO Mark Zuckerberg's personal wealth by an estimated $6 billion.
+
+Conclusion
+
+The Facebook outage of October 4, 2021, was a stark reminder of the fragility of online services and the importance of robust infrastructure. The outage highlighted the need for redundancy, resilience, and careful management of critical systems to minimize the risk of such disruptions in the future.

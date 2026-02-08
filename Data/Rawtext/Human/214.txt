@@ -1,0 +1,15 @@
+How Private Equity Factors In To The Colonial Pipeline Hack
+
+1. PE's pipeline purchases
+
+On the first Friday in May, a gang of black-hat hackers operating under the ominous nom de guerre of DarkSide successfully breached the cyber defenses of Colonial Pipeline, a company that moves 100 million gallons of fuel a day through a 5,500-mile network of pipes running across the eastern half of the U.S.
+
+Colonial's system went dark for several days, prompting panic buying and gasoline shortages up and down the East Coast. Operations resumed in earnest on Wednesday, but only after Colonial reportedly paid the criminals a ransom of nearly $5 million in bitcoin to regain access to its systems. No immense damage was ultimately done. But the saga was a dramatic example of the rise in frequency of such ransomware attacks across the corporate world—not to mention a pointed reminder of just how vulnerable some of our crucial infrastructure remains.
+
+It is also a tale with ties to private equity. Back in 2010, industry powerhouse KKR acquired a 23.4% stake in Colonial Pipeline for $1.1 billion, investing jointly alongside the National Pension Service of Korea. A year later, Caisse de dépôt et placement du Québec—a Canadian pension fund that frequently does private equity-style deals—acquired a 16.6% stake of its own in Colonial.
+
+Private equity investment in the larger energy sector has been tailing off in recent years, but investments in pipeline operators and other midstream energy companies have long held a place in the industry landscape. The thesis is relatively simple. The global demand for energy continues to grow, and somebody needs to build and operate the assets to move all that energy around. Pipeline companies often ink long-term contracts that lock in fees for years to come, creating a steady and projectable stream of cash flow for investors.
+
+During the 2010s, PE firms averaged about 17 investments per year in oil and gas pipeline companies based in the U.S., according to PitchBook data. But activity in the space plunged last year, when the pandemic created chaos across the energy sector—chaos best demonstrated when the futures price of West Texas Intermediate crude dipped into negative territory last April. After conducting 17 pipeline deals with a combined value of $7.2 billion in 2019, private equity firms executed a mere $600 million worth of transactions last year.
+
+Over the past few years, KKR has been a particularly busy player in the pipeline space. In 2018, the firm formed a joint venture with energy company Williams to buy Discovery Midstream for $1.2 billion. A year later, it paid $385 million for a 49% stake in a midstream joint venture with SemGroup. That same year, KKR agreed to buy a 65% stake in the Coastal GasLink Pipeline project in western Canada, a controversial development that has sparked protests and condemnation from First Nations people in the region.

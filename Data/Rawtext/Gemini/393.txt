@@ -1,0 +1,41 @@
+WhatsApp Outage Exposes Digital Divide and Facebook's Global Dominance
+
+On Monday, October 4, 2021, a global outage of Facebook, Instagram, and WhatsApp left billions of users disconnected for nearly six hours. While the disruption caused inconvenience worldwide, it had a particularly profound impact in countries like Brazil, where WhatsApp is an indispensable part of daily life.
+
+WhatsApp's Ubiquity in the Global South
+
+WhatsApp, acquired by Facebook in 2014 for $21.8 billion, has become the dominant messaging platform in many countries in the Global South, including Brazil, India, Kenya, South Africa, Nigeria, Argentina, Malaysia, and Colombia. Its popularity stems from its affordability, as it bypasses high SMS and cellular data costs, making it accessible to a wider population.
+
+"WhatsApp has become a public utility in these regions," said David Nemer, a professor at the University of Virginia. "It's not just a messaging app; it's how people communicate, conduct business, and access information."
+
+Economic and Governmental Disruptions
+
+The outage on Monday highlighted the extent to which WhatsApp has become embedded in the fabric of daily life in these countries. Businesses that rely on WhatsApp for communication and sales were paralyzed, while government agencies that use the platform for public announcements and citizen engagement were unable to function effectively.
+
+"WhatsApp is essential for my business," said Daniella Goulart, a business owner in Brazil. "I use it to communicate with customers, send invoices, and even receive payments. When it went down, I lost a lot of business."
+
+Facebook's Digital Dominance
+
+The outage also underscored the immense power that Facebook has amassed through its acquisition of WhatsApp. The platform's user base has quadrupled since the acquisition, and its products have become increasingly central to digital communication and commerce.
+
+"Facebook has become a digital behemoth," said Gabriel Pereira, a doctoral fellow at Aarhus University. "Its dominance raises concerns about competition, privacy, and the future of the internet."
+
+Free Basics and Digital Colonialism
+
+Facebook's Free Basics program, which aimed to expand internet access in developing countries, has been criticized for creating a monopolized market and promoting a closed web. Critics have accused Facebook of engaging in "digital colonialism" by using zero-rating to bolster its own platform and extract data from users.
+
+"Free Basics is a Trojan horse for Facebook's dominance," said Nemer. "It creates a two-tiered internet, where the wealthy have access to the full web while the poor are confined to a walled garden controlled by Facebook."
+
+In-App Financial Transactions
+
+In Brazil and India, WhatsApp has recently introduced in-app financial transactions, further deepening its integration into daily life. This move has raised concerns about data privacy and the potential for Facebook to leverage its vast user base to dominate the fintech sector.
+
+Calls for Regulation
+
+The power amassed by Facebook, and by extension WhatsApp, has attracted scrutiny from lawmakers and regulators worldwide. There have been calls for antitrust action to break up Facebook's monopoly and for public utility regulation to ensure that WhatsApp remains accessible and affordable for all.
+
+"WhatsApp has become too big and too powerful," said Pereira. "It's time for governments to step in and regulate this industry to protect consumers and promote competition."
+
+Conclusion
+
+The WhatsApp outage on Monday exposed the digital divide that exists between the Global North and South and the extent to which Facebook has come to dominate the global communications landscape. It also highlighted the need for greater regulation of the tech industry to ensure that the internet remains open, accessible, and competitive.

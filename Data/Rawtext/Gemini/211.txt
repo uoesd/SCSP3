@@ -1,0 +1,19 @@
+Cyberattacks Escalate: Colonial Pipeline Hack Raises Alarm
+
+In the wake of the crippling cyberattack on the Colonial Pipeline, a crucial energy artery for the East Coast, experts are sounding the alarm about the growing threat posed by cyberattacks to critical infrastructure.
+
+Helima Croft, a member of the National Petroleum Council and Global Head of Commodity Strategy at RBC Capital Markets, warns that the Colonial Pipeline hack is a "wake-up call" for the nation. "This is not just an isolated incident," she said. "We are seeing a significant increase in the frequency and sophistication of cyberattacks targeting critical infrastructure."
+
+The Colonial Pipeline, which supplies nearly half of the East Coast's fuel, was shut down for several days after a ransomware attack by the group DarkSide. The incident has led to significant fuel shortages and panic buying across the United States, with gas prices spiking to a nearly seven-year high.
+
+"The Colonial Pipeline hack has exposed the vulnerability of our critical infrastructure to cyberattacks," said Croft. "It has also highlighted the need for better information sharing and improved cyber defenses between the public and private sectors."
+
+The rise in cyberattacks targeting critical infrastructure is a major concern, as many entities are vulnerable to these threats. Private ownership of critical infrastructure, such as the Colonial Pipeline, complicates disclosure and response to cyberattacks.
+
+"The private sector has a responsibility to invest in cybersecurity and to share information about threats with the government," said Croft. "The government, in turn, needs to provide better guidance and support to the private sector."
+
+The U.S. government is seeking to address the growing threat of cyberattacks. The Biden administration has proposed a $10 billion investment in cybersecurity and is working with Congress to pass legislation that would improve information sharing and strengthen cyber defenses.
+
+Ransomware attacks have become a major problem for American companies, costing them an estimated $20 billion in the last year. In addition to the Colonial Pipeline hack, other major cyberattacks in recent years include the 2020 attack on SolarWinds by hackers linked to Russian intelligence.
+
+"Cyberattacks are a serious threat to our national security and economic well-being," said Croft. "We need to take immediate action to address this growing threat."

@@ -1,0 +1,15 @@
+Biden Issues National Security Memorandum On Critical Infrastructure
+
+WASHINGTON: President Joe Biden today issued a national security memorandum on improving critical infrastructure cybersecurity, with the goal of encouraging critical infrastructure owners and operators to voluntarily adopt better cybersecurity standards.
+
+The memorandum is intended to address what a senior administration official described Tuesday evening as the nation's "woefully insufficient" cybersecurity posture; it also comes less than 24 hours after Biden stated that a cyberattack could someday lead to a "real shooting war."
+
+"I think it's more than likely we're going to end up, if we end up in a war — a real shooting war with a major power — it's going to be as a consequence of a cyber breach of great consequence, and it's increasing exponentially," the president said Tuesday during a visit to the Office of the Director of National Intelligence.
+
+The national security memorandum will, among other things, attempt to provide coherence to what is currently a "patchwork of sector-specific statutes that have been adopted piecemeal, typically in response to discrete security threats in particular sectors that gained public attention," according to the senior administration official. The executive branch is limited in its authority to mandate long-term cyber requirements on the private sector.
+
+The memorandum specifically addresses industrial control systems (ICS), which monitor, regulate, and automate operational technologies (OT) — a group covering hardware and software that enable functionality of infrastructure physical components, such as circuit breakers, motors, and valves. OT are prevalent throughout critical infrastructure environments, from power grids and telecommunications networks to manufacturing plants, public transportation systems, and energy pipelines.
+
+Compromised ICS/OT can allow attackers, in some cases, to cause physical damage to systems and even widespread outages. Probably the most well-known example is Stuxnet, discovered in 2010. Stuxnet targeted the ICS controlling centrifuges in Iran's Natanz nuclear enrichment facility, ultimately destroying the centrifuges and setting Iran's nuclear program back several years. Stuxnet is widely believed to have been a US-Israeli collaboration, but neither government has ever acknowledged its involvement.
+
+The ransomware attack on Colonial Pipeline in May illustrates a tricky problem: The convergence of traditional information technology and ICS/OT networks. In the Colonial Pipeline incident, the company preemptively shut down the pipeline's ICS/OT network to prevent attackers from traversing IT networks to the ICS network that controls pipeline operations, which could have enabled potential physical damage to the pipeline. The ransomware did not target Colonial's ICS/OT network directly, but the ICS network shutdown resulted in widespread fuel shortages up and down the East Coast that lasted for days.

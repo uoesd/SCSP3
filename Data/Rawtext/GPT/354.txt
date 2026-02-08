@@ -1,0 +1,25 @@
+Debunking Myths: No Military Raid Behind Facebook Outage
+
+In the wake of a massive six-hour outage that left millions of Facebook, Instagram, and WhatsApp users disconnected from their social spheres, an unfounded claim started circulating online. Some individuals suggested that the outage, which occurred on October 4, was the result of a military operation against Facebook, where servers were allegedly seized, effectively pulling the plug on the technology giant's platforms. This claim, however, does not hold up under scrutiny.
+
+One Facebook user, Stephon Rudd, echoed the sentiment of many, stating, "Heard the military took Facebook down. They seized servers! This is getting serious." This comment typifies the blend of speculation and misinformation that can spread during high-profile tech disruptions.
+
+Nevertheless, Facebook's leadership and technical teams have provided ample evidence to debunk this theory. Mark Zuckerberg, Facebook's CEO, referred to the outage as "the worst outage we've had in years," underscoring its severity but not its rumored cause.
+
+Santosh Janardhan, Facebook's Vice President of Infrastructure, offered a transparent explanation for the blackout. According to Janardhan, the outage was the result of "human error" during routine maintenance work. An engineer issued a command that unexpectedly interfered with the company's global data center connections - a critical part of the infrastructure that supports the social network's vast digital ecosystem.
+
+Janardhan elaborated, "This change caused a disconnection of our data centers globally, and it prevented our users from accessing our services." Compounding the issue was the failure of an audit tool designed to prevent such errors by catching them before they could unravel the network's connectivity. This lapse allowed the mistaken command to propagate without immediate rectification.
+
+The situation was further complicated by Facebook's disappearance from the Domain Name System (DNS) servers. This critical internet infrastructure acts like a phone book for the web, translating domain names into IP addresses. Without its DNS entries, Facebook effectively vanished from the internet, making it difficult for the internal team to diagnose and address the issue using their regular tools.
+
+Engineers faced a daunting task. To restore service, they had to manually restart systems across data centers scattered around the globe. This process was not only technical but also physically demanding due to strict security protocols in place at these facilities.
+
+Tom Parnell, a communications manager at Facebook, explicitly refuted the military raid theory. "At no point were Facebook's servers raided or seized by the military," stated Parnell. "We understand people were concerned about the outage, but attributing it to a non-existent raid is simply not factual."
+
+Parnell pointed to Janardhan's thorough explanation as the clear cause of the outage, emphasizing that the incident stemmed from internal operational errors rather than external forces or conspiracies.
+
+USA TODAY reached out to the Department of Defense for a comment regarding the raid claim. However, the facts as presented by Facebook's technical leaders and the absence of any corroborating evidence for the military action narrative allow us to rate this claim as false.
+
+For Facebook users and the wider online community, this incident serves as a stark reminder of the complexities and vulnerabilities inherent in maintaining the digital platforms that have become central to our daily lives. It also highlights the rapid spread of misinformation in times of uncertainty. While the cause of the outage was undeniably internal, the spread of baseless claims does nothing but sow unnecessary panic and confusion.
+
+Facebook has pledged to learn from this incident to prevent future outages of this magnitude. Meanwhile, users, now reconnected to their digital worlds, carry forward a lesson on the critical examination of sensational claims, particularly in the heat of unexpected and widespread service disruptions.

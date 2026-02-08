@@ -1,0 +1,11 @@
+Vaccine Effectiveness: Experts Caution Against Complacency After Single Dose
+
+As the rollout of COVID-19 vaccines continues worldwide, experts are urging caution against considering oneself safe after just one dose. Professor Nachman Ash, who coordinated Israel's Covid-19 response, criticized Pfizer's estimate of the single dose's effectiveness, a stance that has faced widespread criticism. According to Altmann, early signs of efficacy are not definitive proof of immunity.
+
+A study conducted by Clalit, Israel's largest healthcare provider, found a 33% effectiveness in preventing infection after a single dose of the Pfizer-BioNTech vaccine, differing from Pfizer's 52% figure in symptom prevention. However, the study's results have not been peer-reviewed and were based on observations two weeks post-vaccination.
+
+The Oxford-AstraZeneca vaccine shows 64.1% protection after one dose, with varying effectiveness based on dosing strategy. AstraZeneca's phase III trial data indicates 70% protection against mild or moderate illness after one dose, extending several months before a booster is needed. Moderna claims 80.2% efficacy after one dose from FDA submission, with no data on long-term immunity from a single dose.
+
+Sinovac's CoronaVac shows varied efficacy in trials across Turkey, Indonesia, and Brazil, but lacks single dose data. Sinopharm's BBIBP-CorV vaccine has been claimed to be 79% effective after two doses, without international verification. The UAE claims Sinopharm's vaccine to be 86% effective, according to a press release, with no details on single dose protection.
+
+In conclusion, while vaccines show promise in preventing COVID-19, experts stress the importance of continued vigilance and adherence to health guidelines, even after receiving a single dose. As Altmann warns, "One dose is not enough to guarantee immunity."

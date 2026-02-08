@@ -1,0 +1,23 @@
+Facebook Removes 20 Million COVID-19 Misinformation Posts, Faces Scrutiny for Transparency
+
+Since the onset of the COVID-19 pandemic, Facebook and Instagram have removed over 20 million posts containing misinformation about the virus. However, the company acknowledges the complexities involved in measuring the prevalence of such content.
+
+"Measuring the prevalence of misinformation is more complex than other types of content," said Guy Rosen, Facebook's vice president of integrity. "It's not always clear-cut what is true or false, and there are often multiple perspectives on the same issue."
+
+This action follows criticism from the White House, which accused Facebook of allowing vaccine misinformation to spread unchecked. "Facebook has a responsibility to be transparent about the misinformation on its platform," a White House spokesperson said.
+
+Despite taking action against prominent misinformation spreaders, the White House has criticized Facebook for not being transparent enough about the prevalence of misinformation on its platform.
+
+Facebook employs various strategies to combat COVID-19 misinformation, including partnering with fact-checkers, redirecting users to authoritative sources, and labeling misinformation. However, the effectiveness of these measures is still debated.
+
+"We have clear criteria for removing posts that make false claims about COVID-19 and vaccines," Rosen said. "We recently added new false claims to our list, such as the claim that vaccines contain microchips."
+
+Facebook has also removed over 3,000 accounts, pages, and groups for violating its COVID-19 and vaccine misinformation policies.
+
+According to Facebook, vaccine hesitancy among US users has dropped by 50% since the company began its efforts to combat misinformation. Increases in vaccine acceptance have also been reported in France, Indonesia, and Nigeria.
+
+Facebook shared viewership data of domains and posts, highlighting disparities in narrative regarding engagement with right-wing sites.
+
+"We're committed to continuing to work with experts and policymakers to address the challenges of misinformation," Rosen said. "We believe that by working together, we can make a real difference in the fight against this pandemic."
+
+Despite Facebook's efforts, the White House continues to press the company to do more to address the spread of misinformation on its platform. The company faces an ongoing challenge in balancing freedom of expression with the need to protect users from harmful content.

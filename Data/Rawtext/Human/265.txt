@@ -1,0 +1,33 @@
+Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern
+
+The Technical Advisory Group on SARS-CoV-2 Virus Evolution (TAG-VE) is an independent group of experts that periodically monitors and evaluates the evolution of SARS-CoV-2 and assesses if specific mutations and combinations of mutations alter the behaviour of the virus. The TAG-VE was convened on 26 November 2021 to assess the SARS-CoV-2 variant: B.1.1.529.
+
+The B.1.1.529 variant was first reported to WHO from South Africa on 24 November 2021. The epidemiological situation in South Africa has been characterized by three distinct peaks in reported cases, the latest of which was predominantly the Delta variant. In recent weeks, infections have increased steeply, coinciding with the detection of B.1.1.529 variant. The first known confirmed B.1.1.529 infection was from a specimen collected on 9 November 2021.
+
+This variant has a large number of mutations, some of which are concerning. Preliminary evidence suggests an increased risk of reinfection with this variant, as compared to other VOCs. The number of cases of this variant appears to be increasing in almost all provinces in South Africa. Current SARS-CoV-2 PCR diagnostics continue to detect this variant. Several labs have indicated that for one widely used PCR test, one of the three target genes is not detected (called S gene dropout or S gene target failure) and this test can therefore be used as marker for this variant, pending sequencing confirmation. Using this approach, this variant has been detected at faster rates than previous surges in infection, suggesting that this variant may have a growth advantage.
+
+There are a number of studies underway and the TAG-VE will continue to evaluate this variant. WHO will communicate new findings with Member States and to the public as needed.
+
+Based on the evidence presented indicative of a detrimental change in COVID-19 epidemiology, the TAG-VE has advised WHO that this variant should be designated as a VOC, and the WHO has designated B.1.1.529 as a VOC, named Omicron.
+
+As such, countries are asked to do the following:
+
+enhance surveillance and sequencing efforts to better understand circulating SARS-CoV-2 variants.
+
+submit complete genome sequences and associated metadata to a publicly available database, such as GISAID.
+
+report initial cases/clusters associated with VOC infection to WHO through the IHR mechanism.
+
+where capacity exists and in coordination with the international community, perform field investigations and laboratory assessments to improve understanding of the potential impacts of the VOC on COVID-19 epidemiology, severity, effectiveness of public health and social measures, diagnostic methods, immune responses, antibody neutralization, or other relevant characteristics.
+
+Individuals are reminded to take measures to reduce their risk of COVID-19, including proven public health and social measures such as wearing well-fitting masks, hand hygiene, physical distancing, improving ventilation of indoor spaces, avoiding crowded spaces, and getting vaccinated.
+
+For reference, WHO has working definitions for SARS-CoV-2 Variant of Interest (VOI) and Variant of Concern (VOC).
+
+A SARS-CoV-2 VOI is a SARS-CoV-2 variant:
+
+with genetic changes that are predicted or known to affect virus characteristics such as transmissibility, disease severity, immune escape, diagnostic or therapeutic escape; AND
+
+that has been identified as causing significant community transmission or multiple COVID-19 clusters, in multiple countries with increasing relative prevalence alongside increasing number of cases over time, or other apparent epidemiological impacts to suggest an emerging risk to global public health.
+
+A SARS-CoV-2 VOC is a SARS-CoV-2 variant that meets the definition of a VOI (see above) and, through a comparative assessment, has been demonstrated to be associated with one or more of the following changes at a degree of global public health significance:

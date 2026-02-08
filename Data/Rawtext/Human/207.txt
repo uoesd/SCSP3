@@ -1,0 +1,19 @@
+Cyberattack on Colonial Pipeline affected gas prices far less than initially reported, study finds
+
+LAWRENCE — In May, the Colonial Pipeline was shut down due to a ransomware attack by Russia-linked cybercriminals. As the largest fuel pipeline in the U.S., its six-day stoppage led to fuel shortages and price increases.
+
+But how much the shutdown actually affected these outcomes is the subject of a new article titled "The Effect of the Colonial Pipeline Shutdown on Gasoline Prices." It's published in Economics Letters.
+
+"We found the resulting increase in gas prices to be far less than the media initially reported," said Tsvetan Tsvetanov, associate professor of economics at the University of Kansas.
+
+"When looking at the six days from the closure to its reopening, there's barely any price effect until the very end of this period. What we really saw was delayed and persistent impacts. So when we read in the news how the problem had been solved and the pipeline's being reopened, that's actually when we truly began to feel the effect of this."
+
+His article, co-written with KU doctoral student Srishti Slaria, uses daily regular gasoline price data at the city level and employs a difference-in-differences approach to address potential demand-side confounding factors. While in May, fuel prices spiked to levels that were the highest in seven years, Tsvetanov discovered the Colonial Pipeline incident only led to a 4-cents-per-gallon increase in average gasoline prices in affected areas.
+
+Launched in 1963, the 5,550-mile pipeline is the nation's largest for refined oil products. Its two tubes can carry 3 million barrels of fuel per day between Texas and New York.
+
+"That's basically the bulk of the supply of fuel for the East Coast and the Southeast," Tsvetanov said. "Some of these 18 states have local refineries. Some can rely on imports. If they have the river or seaports, they can access that. But mostly it's the Colonial Pipeline they rely on."
+
+In May, just prior to the attack, dependence on oil products was escalating.
+
+"At the time, we were seemingly coming out of the pandemic situation," he said. "The economy was growing, more jobs were being created. Those were all demand-side factors that were pushing gas prices up. So the trick is, how do you parse out what would have been happening regardless from the fact of the pipeline shock?"

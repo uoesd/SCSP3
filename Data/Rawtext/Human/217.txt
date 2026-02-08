@@ -1,0 +1,35 @@
+How remote work opened the floodgates to ransomware
+
+Ransomware has roared into the headlines in recent weeks after criminal hacking networks, tentatively linked to Russia, launched attacks on the major US meat packing plant JBS and the nation's largest fuel pipeline.
+
+Joe Biden and his administration are scrambling to address the growing threat, pressing Vladimir Putin in a highly anticipated meeting on Wednesday to take action against the rise of ransomware attacks. Biden said he gave Putin a list of 16 areas – mostly in critical infrastructure - that are "off limits" for cyber-attacks.
+
+Ransomware has long posed a cybersecurity threat to companies and infrastructure, but experts say the problem has exploded in recent years. Last year was especially egregious, with ransomware victims in the US paying out nearly $350m, according to the global security group the Institute for Security and Technology – a 311% increase over 2019.
+
+The FBI director, Christopher Wray, highlighted this startling figure at a congressional hearing. "Ransomware alone, the total volume of amounts paid in ransomware has tripled over the last year," Wray said. "We think the cyber threat is increasing almost exponentially."
+
+Experts attribute the surge to a number of factors, but they say one of the most critical has been the shift to remote working during the pandemic.
+
+"When you are working from home, you are not behind the castle walls any more," said John Hammond, a cybersecurity researcher at the security firm Huntress. "You are working with your own devices, away from the safe perimeter of corporate networks."
+
+Criminals have found an increasingly lucrative path in ransomware attacks, in which a hacker breaks into a company or government's network and seizes data or systems, demanding payment for their return. Employees on computers outside the safety of office networks face more risks. Company networks generally only allow trusted devices to connect, reducing the risk of outside actors or malware entering. They also often have stronger protections in place than the average consumer wifi network.
+
+"The transition that we're seeing to working from home has contributed dramatically to the rise in successful ransomware attacks," said Israel Barak, the chief information security officer at the security firm Cybereason. "There are a lot more open doors to access networks now that employees are working remotely."
+
+One of the most consequential ransomware hacks in recent months, on the Colonial Pipeline – which shut down systems that supply 45% of the eastern United States' fuel – has now been attributed to the breach of a virtual private network, commonly used by remote employees to connect to a company system.
+
+VPNs are the most secure way for employees to connect to a corporate network from home, but they can pose their own risks if they are out of date or do not use multi-factor authentication.
+
+A spokesman for Colonial Pipeline said the VPN that was compromised was an older model and not the VPN that employees were actively using to remotely access the Colonial network.
+
+But experts say any time employees work offsite using their own networks, risks are involved. There have been a number of documented attacks on companies carried out through VPN access since the pandemic began, including on the Japanese game developer Capcom and a European industrial firm.
+
+In June 2020, the justice department identified a Russian ransomware group that was deliberately targeting people who work from home during the pandemic to access corporate and government networks.
+
+Corporate and government offices have a number of measures in place meant to keep bad actors out, said Joseph Carson, the chief security scientist at the cloud security firm Thycotic. That includes secure internet routers with unique passwords, firewalls that monitor incoming traffic and keep out threats, and company devices with additional security in place.
+
+"Most of those protections are pretty much useless when the devices have been moved to the public internet," he said.
+
+Though not a ransomware attack, the hack of Twitter in 2020 July was more directly attributed to remote working. Hackers called several Twitter employees claiming to be IT department employees and offered to help connect through the company's virtual private network being used by employees working from home. The 17-year-old hacker behind that heist collected $117,000 in bitcoin from the attack.
+
+Security breaches at large have also been on the rise over the past year. The vast majority of IT teams – 82% – experienced an increase in cyber-attacks in 2020, according to a survey from security firm Sophos.

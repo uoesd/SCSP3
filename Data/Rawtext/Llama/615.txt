@@ -1,0 +1,17 @@
+Kamala Harris' Bluetooth Ban: Paranoid or Pioneering?
+
+In a recent article published by Politico, it was revealed that US Vice President Kamala Harris avoids using wireless headphones and email due to security concerns. The report was met with a skeptical tone, verging on mockery, but the question remains: is Harris' approach to Bluetooth security paranoid or pioneering?
+
+Harris' office did not provide details on her specific concerns with Bluetooth technology, leading some of her aides to reportedly consider her approach to Bluetooth as "paranoid." However, cybersecurity experts, including John Scott-Railton from Citizen Lab and Chad Loder, support Harris' cautious stance on Bluetooth.
+
+"Bluetooth is a notoriously insecure protocol," said Scott-Railton. "It's not that Vice President Harris is being paranoid, it's that she's taking a reasonable approach to security."
+
+Wendy Nather, a veteran of the cybersecurity industry, also emphasized the importance of assessing one's personal risk or "threat model" in deciding to use Bluetooth technology. "It's not about being paranoid, it's about being aware of the potential risks and taking steps to mitigate them," she said.
+
+Sergio Caltagirone, former NSA employee and current Vice President of Threat Intelligence at Dragos, finds Harris' approach to Bluetooth security "perfectly reasonable." He noted that Bluetooth technology is often overlooked when it comes to security, but it can be a significant vulnerability. "Bluetooth is a wireless protocol, and wireless protocols are inherently insecure," he said. "It's not about whether or not you're a high-ranking official, it's about being aware of the risks and taking steps to protect yourself."
+
+Harris' preference for texting over email for security reasons is also worth noting, especially in light of previous security breaches in political emails. As Chad Loder pointed out, "Email is a fundamentally insecure protocol. If you're concerned about security, it's better to use a more secure method of communication, like texting or Signal."
+
+However, the question remains: should high-ranking officials like Harris take additional precautions not necessary for the general public? While some may view her approach as paranoid, others see it as pioneering. As Scott-Railton noted, "It's not about being paranoid, it's about being proactive. Vice President Harris is taking a leadership role in highlighting the importance of security and privacy."
+
+Ultimately, the decision to use Bluetooth technology is a personal one, and it's up to each individual to assess their own risk and take appropriate measures to protect themselves. As Nather said, "It's not about being paranoid, it's about being aware of the potential risks and taking steps to mitigate them." Whether Harris' approach is seen as paranoid or pioneering, it's clear that she's taking a proactive stance on security, and that's something we can all learn from.

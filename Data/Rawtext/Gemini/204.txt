@@ -1,0 +1,23 @@
+JBS Pays $11 Million Ransom in Bitcoin After Devastating Cyberattack
+
+JBS USA, the world's largest meatpacker, has confirmed paying $11 million in Bitcoin to cybercriminals following a crippling ransomware attack that temporarily halted operations at its processing plants across the United States.
+
+"The decision to pay the ransom was not made lightly," said Andre Nogueira, CEO of JBS USA. "We felt it was the best way to minimize the impact on our customers and the food supply chain."
+
+The attack, which targeted JBS's servers in the US and Australia, is believed to have been carried out by a criminal group based in Russia. No company, customer, or employee data was reportedly compromised.
+
+The FBI is actively investigating the incident, underscoring its severity. The White House has also engaged with the Russian government, with Deputy Press Secretary Karine Jean-Pierre stating, "We have made it clear to the Russian government that responsible states do not harbor ransomware criminals."
+
+Press Secretary Jen Psaki added, "President Biden will be raising concerns about cyberattacks with President Putin when they meet in Geneva next week."
+
+The attack on JBS comes on the heels of a similar incident that targeted the Colonial Pipeline, highlighting the vulnerability of the US's critical infrastructure to cyberattacks.
+
+"This incident is a wake-up call for all businesses and governments," said Nogueira. "We need to invest more in cybersecurity and work together to combat this growing threat."
+
+The FBI has urged organizations to take proactive measures to protect themselves from ransomware attacks, including implementing strong cybersecurity practices, regularly backing up data, and educating employees about phishing and other social engineering tactics.
+
+The White House has also emphasized the importance of international cooperation in addressing the threat of cyberattacks. "We need to work with our allies and partners to hold accountable those who engage in malicious cyber activities," said Jean-Pierre.
+
+The attack on JBS has had a significant impact on the US meat supply chain, with some grocery stores reporting shortages of beef and pork products. However, JBS has stated that its operations are gradually resuming and that it expects to be back to full capacity soon.
+
+The incident has also raised concerns about the potential for further cyberattacks on critical infrastructure, such as power grids, water systems, and transportation networks. Experts warn that businesses and governments need to be prepared for the possibility of future attacks and take steps to mitigate their impact.

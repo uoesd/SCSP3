@@ -1,0 +1,26 @@
+FDA Authorizes Evusheld for Pre-Exposure Prevention of COVID-19 in Immunocompromised Individuals
+
+Rockville, MD - The U.S. Food and Drug Administration (FDA) today issued an emergency use authorization (EUA) for AstraZeneca's Evusheld (tixagevimab co-packaged with cilgavimab) for the pre-exposure prevention of COVID-19 in certain individuals.
+
+"Today's authorization provides an additional tool for the prevention of COVID-19 in certain individuals who are at high risk of severe disease," said Patrizia Cavazzoni, M.D., director of the FDA's Center for Drug Evaluation and Research. "While vaccination remains the best way to prevent COVID-19, Evusheld offers an important option for those who may not be able to receive or fully benefit from vaccination."
+
+Evusheld is authorized for use in adults and pediatric individuals 12 years of age and older weighing at least 40 kilograms (~88 pounds) who are not currently infected with SARS-CoV-2, have not recently been exposed to someone with COVID-19, and meet one of the following criteria:
+
+  • Immunocompromised and may not mount an adequate immune response to COVID-19 vaccination
+  • Have a history of severe adverse reactions to COVID-19 vaccines
+
+Evusheld is a combination of two monoclonal antibodies, tixagevimab and cilgavimab, which are designed to block the SARS-CoV-2 virus from entering human cells. It is administered via two consecutive intramuscular injections and is intended to provide protection for up to six months.
+
+The primary data supporting the EUA comes from the PROVENT clinical trial, which enrolled over 5,000 participants. The trial showed that Evusheld recipients had a 77% reduced risk of developing COVID-19 compared to those receiving a placebo.
+
+"The FDA remains committed to evaluating and authorizing safe and effective medical products to combat the COVID-19 pandemic," said Dr. Cavazzoni. "We will continue to work with manufacturers to ensure that Americans have access to a range of prevention and treatment options."
+
+It is important to note that Evusheld is not a substitute for vaccination. The FDA continues to recommend that all eligible individuals get vaccinated against COVID-19. However, for those who are immunocompromised or have a history of severe adverse reactions to COVID-19 vaccines, Evusheld may provide an important additional layer of protection.
+
+The most common side effects of Evusheld include hypersensitivity reactions, bleeding at the injection site, headache, fatigue, cough, and in rare cases, serious cardiac adverse events.
+
+Healthcare providers should carefully consider the potential benefits and risks of Evusheld before prescribing it to patients.
+
+The FDA will continue to monitor the safety and efficacy of Evusheld and will provide updates as necessary.
+
+For more information, please visit the FDA's website: https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-evusheld-pre-exposure-prevention-covid-19

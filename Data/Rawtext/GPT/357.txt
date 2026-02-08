@@ -1,0 +1,13 @@
+Massive Facebook Outage Disrupts Internal and External Operations, Costs Zuckerberg Billions
+
+In an unprecedented disruption, Facebook employees found themselves locked out of their offices on Monday due to a failure in the company's badge system. The outage didn't stop at physical barriers; internal systems including conference rooms were suddenly off-limits, pushing staff to rely on alternative methods such as text messaging and Outlook email for communication.
+
+The chaos spilled over to the digital realm as well, with users across the globe experiencing outages on major platforms owned by Facebook, including its titular social media site, Messenger, Instagram, and WhatsApp. These interruptions were prominently reported on DownDetector, a website that tracks online service outages, affecting millions of users worldwide.
+
+In response to the crisis, Facebook acknowledged the widespread outages, assuring users and employees alike that it was "working to get things back to normal as quickly as possible." The outages, which began around 11:45 a.m. ET on Monday, persisted without resolution at the time of publishing, leaving many to wonder about the underlying cause and the time frame for recovery.
+
+Amidst the digital turmoil, Facebook CEO Mark Zuckerberg's net worth took a significant hit, plummeting nearly $7 billion in just five hours. Concurrently, Facebook's stock experienced a sharp downturn, falling by about 5% during the period of the outages. This financial blow adds another layer of urgency to resolving the crisis swiftly.
+
+Complicating matters further, the outages coincided with the release of a highly critical whistleblower report, thrusting the company into a deeper controversy. The report, which sheds light on various internal issues, has prompted widespread scrutiny and has exacerbated the challenges facing the tech giant during this tumultuous period.
+
+As Facebook scrambles to restore access and functionality to its sprawling suite of services, both employees and users are left in a state of limbo, highlighting the fragility of our dependence on digital platforms. The full extent of the impact of this outage, both financially and in terms of user trust, remains to be seen as the situation continues to unfold.

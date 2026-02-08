@@ -1,0 +1,21 @@
+Cyberattacks on Critical Infrastructure: A Growing Threat to National Security and Energy Supplies
+
+In the wake of the recent cyberattack on Colonial Pipeline, which resulted in the shutdown of a crucial fuel supply line for the East Coast, Helima Croft, a member of the National Petroleum Council and Global Head of Commodity Strategy at RBC Capital Markets, is sounding the alarm about the growing threat of cyberattacks on critical infrastructure.
+
+"This incident highlights the vulnerability of our energy infrastructure to cyber threats," Croft warned. "The Colonial Pipeline hack is a stark reminder that our critical infrastructure is under attack, and we need to take immediate action to protect it."
+
+The Colonial Pipeline hack, which was carried out by the group DarkSide, has led to significant fuel shortages and panic buying across the United States. Gas prices have spiked to a nearly seven-year high, with about 1,800 stations out of fuel.
+
+Croft notes that the rise in cyberattacks targets critical infrastructure, with many entities vulnerable. "The private ownership of critical infrastructure complicates disclosure and response to cyberattacks," she said. "We need better information sharing and improved cyber defenses with the private sector to prevent these types of attacks."
+
+The U.S. government is taking steps to address the issue, seeking better information sharing and improved cyber defenses with private sector entities. However, the problem is complex, and previous major cyberattacks, such as the 2020 attack on SolarWinds by hackers linked to Russian intelligence, highlight the ongoing threat.
+
+Ransomware attacks, in particular, have become a significant concern, costing American companies $20 billion in the last year alone. The Colonial Pipeline hack is just the latest example of the growing threat of cyberattacks on critical infrastructure.
+
+Croft emphasizes that the impact of these attacks goes beyond the immediate disruption to energy supplies. "These attacks have serious implications for our national security and economic stability," she said. "We need a comprehensive approach to address this growing threat and protect our critical infrastructure."
+
+The Colonial Pipeline hack has highlighted the vulnerability of the energy sector to cyberattacks, but it is not the only sector at risk. Other critical infrastructure, such as transportation, water, and healthcare, are also vulnerable to cyber threats.
+
+"We need a coordinated effort between the public and private sectors to address this issue," Croft said. "We cannot afford to wait until it's too late. The time to act is now."
+
+In conclusion, the recent cyberattack on Colonial Pipeline is a stark reminder of the growing threat of cyberattacks on critical infrastructure. The impact of these attacks goes beyond the immediate disruption to energy supplies, with serious implications for national security and economic stability. It is imperative that we take immediate action to protect our critical infrastructure and prevent future attacks.

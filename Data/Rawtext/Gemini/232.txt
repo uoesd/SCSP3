@@ -1,0 +1,17 @@
+Russia Branded a 'Safe Haven' for Cybercriminals After Colonial Pipeline Hack
+
+In the wake of the crippling cyberattack on the Colonial Pipeline, federal officials have labeled Russia a "safe haven" for criminal cyber actors, raising concerns about the nation's role in harboring and enabling malicious activities.
+
+The attack, attributed to the DarkSide ransomware group, has heightened tensions between the United States and Russia, with President Biden directly addressing the issue during a recent phone call with Russian President Vladimir Putin. While Biden did not explicitly blame the Russian government for the hack, he emphasized the need for Russia to take action against cybercriminals operating within its borders.
+
+"The increased blending of the threat is what we're seeing," said John Demers, Assistant Attorney General for the National Security Division at the Department of Justice. "Nation states are not combating criminal actors within their borders."
+
+The Biden administration has made cybersecurity a top priority, and the upcoming summit between Biden and Putin on June 16 is expected to address multiple tensions, including the issue of cyberattacks.
+
+"The Colonial Pipeline attack was a wake-up call for the United States and the world," said Michael Orlando, Acting Director of the National Counterintelligence and Security Center. "It showed that critical infrastructure is vulnerable to cyberattacks, and that nation states are not doing enough to combat the threat."
+
+Cybersecurity experts have also raised concerns about the potential for ransomware attacks to preview or test nation state capabilities in cyber warfare. "Ransomware attacks are a way for nation states to test their capabilities and see how far they can go," said Lior Div, CEO of cybersecurity firm Cybereason. "They can use these attacks to gather intelligence, disrupt critical infrastructure, and even sow chaos."
+
+Federal officials have emphasized the national security threat posed by ransomware attacks on critical infrastructure, and have advised against paying ransoms in cyberattacks. "Paying ransoms only encourages more attacks," said Demers. "Companies need to have robust protection and recovery plans in place."
+
+The government is also working with industry to secure infrastructure and combat the growing cyber threat from nation state actors and criminal groups. "This is a shared responsibility," said Orlando. "We need to work together to protect our critical infrastructure and keep our nation safe."

@@ -1,0 +1,13 @@
+Facebook Outage Highlights Vulnerabilities of Cloud-Connected Devices
+
+On Wednesday, Facebook experienced a full-day outage that affected its social platform and AR/VR gadgets, underscoring the inherent vulnerabilities in app- and cloud-connected devices that rely heavily on online services. The Oculus Quest headset, for example, was partially operational, allowing users to start up and display installed apps, but many Facebook services, including the app store and avatars, were unavailable.
+
+While players could still launch and play downloaded games, and even connect with others online in certain cases, the outage highlighted the broader issue of reliance on cloud-based services and the potential for service disruptions. The event raised questions about the future of VR and AR, emphasizing the need for devices that can operate independently of cloud services.
+
+The importance of having multiple companies provide apps and social networks to prevent a single point of failure was also noted. Facebook's Ray-Ban smart glasses, for instance, could still take photos and videos, but were unable to share them due to the inability to connect to the Facebook-connected app. This underscores the need for local file storage and reduced reliance on a single company for communication and work needs.
+
+The outage serves as a reminder of the vulnerability of heavily cloud-dependent devices and the need for more resilient and independent AR and VR technologies. As the world becomes increasingly reliant on technology, it is essential that devices and services are designed to be more robust and less susceptible to disruptions.
+
+The importance of this is highlighted by the fact that Facebook's outage was not an isolated incident. In recent years, there have been several high-profile outages affecting major technology companies, including Amazon, Google, and Microsoft. These outages demonstrate the potential for service disruptions and the need for more reliable and independent technologies.
+
+In conclusion, the Facebook outage highlights the vulnerabilities of cloud-connected devices and the need for more resilient and independent AR and VR technologies. As the world becomes increasingly reliant on technology, it is essential that devices and services are designed to be more robust and less susceptible to disruptions. The importance of local file storage and reduced reliance on a single company for communication and work needs cannot be overstated. The future of VR and AR depends on it.

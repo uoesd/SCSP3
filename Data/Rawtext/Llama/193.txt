@@ -1,0 +1,19 @@
+Justice Department Recovers Most of Ransom Paid in Colonial Pipeline Cyberattack
+
+WASHINGTON (AP) – In a major breakthrough, the Justice Department has recovered most of the ransom paid to hackers following the Colonial Pipeline cyberattack, marking the first successful operation by a ransomware task force created by the Biden administration.
+
+Deputy Attorney General Lisa Monaco announced the development, highlighting the effort to increase the cost and consequences of ransomware attacks. "We will not allow cybercriminals to profit from their illegal activities," Monaco said. "We will use all tools at our disposal to disrupt ransomware operations and hold hackers accountable."
+
+The attack on Colonial Pipeline, a major fuel supplier, led to the company halting operations on May 7. In response, Colonial Pipeline paid a ransom of 75 bitcoin, valued at approximately $4.4 million, to the hackers to resume operations. However, the FBI was able to identify and seize 63.7 bitcoins, now valued at $2.3 million, from the hackers. The seizure amounted to 85% of the total ransom paid.
+
+Colonial Pipeline's CEO, Joseph Blount, praised the operation, stating that it aimed to disrupt ransomware operations and hold hackers accountable. "We are grateful for the efforts of the FBI and the Justice Department in recovering a significant portion of the ransom paid," Blount said. "This operation sends a strong message to cybercriminals that their illegal activities will not go unpunished."
+
+Ransomware attacks have been increasing globally, targeting critical industries and causing widespread disruption. The FBI discourages ransom payments, suggesting that quick law enforcement engagement can sometimes help recover funds. "We urge victims to report ransomware attacks immediately, as it greatly increases the chances of recovery," said FBI Deputy Director Paul Abbate.
+
+Acting U.S. Attorney for the Northern District of California, Stephanie Hinds, emphasized the importance of collaboration between law enforcement agencies and the private sector in combating ransomware attacks. "This operation would not have been possible without the close cooperation between the FBI, the Justice Department, and Colonial Pipeline," Hinds said. "We will continue to work together to disrupt ransomware operations and protect our communities from cyber threats."
+
+The successful recovery of the ransom paid by Colonial Pipeline marks a significant milestone in the fight against ransomware attacks. It demonstrates the effectiveness of the ransomware task force created by the Biden administration and highlights the importance of collaboration between law enforcement agencies and the private sector in combating cyber threats.
+
+The operation also sends a strong message to cybercriminals, warning them that their illegal activities will not go unpunished. As ransomware attacks continue to pose a significant threat to critical industries globally, the Justice Department's recovery of the ransom paid by Colonial Pipeline serves as a reminder that law enforcement agencies are committed to disrupting ransomware operations and holding hackers accountable.
+
+In conclusion, the recovery of the ransom paid by Colonial Pipeline is a significant achievement in the fight against ransomware attacks. It demonstrates the effectiveness of the ransomware task force created by the Biden administration and highlights the importance of collaboration between law enforcement agencies and the private sector in combating cyber threats. The operation sends a strong message to cybercriminals, warning them that their illegal activities will not go unpunished, and serves as a reminder that law enforcement agencies are committed to disrupting ransomware operations and holding hackers accountable.

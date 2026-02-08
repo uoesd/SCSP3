@@ -1,0 +1,41 @@
+WHO Statement on Booster Doses for COVID-19 Vaccines
+
+7 December 2021
+
+The World Health Organization (WHO), in collaboration with the Strategic Advisory Group of Experts on Immunization (SAGE), has reviewed the latest evidence on booster doses for COVID-19 vaccines. This statement reflects our current understanding as of 7 December 2021, particularly in the context of the Omicron variant.
+
+Rationale for Booster Doses
+
+Booster doses are intended to restore vaccine effectiveness after it has diminished over time. This decline in effectiveness can occur due to several factors, including the waning of immune responses, the emergence of new variants, and the aging of the population.
+
+WHO's Position on Booster Doses
+
+The WHO Director-General has called for a moratorium on booster doses for healthy adults until the end of 2021 to improve global vaccine equity. This moratorium is intended to ensure that limited vaccine supplies are directed towards those most in need, particularly in countries with low vaccination rates.
+
+Considerations for Booster Dose Decisions
+
+Decisions regarding booster doses should consider both individual and public health benefits, as well as global vaccine access equity. The primary global health goal is to reduce COVID-19 deaths and severe disease, and to protect health systems.
+
+Evidence on Booster Doses
+
+Emerging data show a decline in vaccine effectiveness against SARS-CoV-2 infection and COVID-19 over time, particularly in older adults. For example, a study in the United Kingdom found that vaccine effectiveness against severe COVID-19 decreased by about 8% over a period of 6 months in all age groups.
+
+WHO Recommendations
+
+Based on the available evidence, the WHO recommends the following:
+
+  • An additional dose of an inactivated vaccine for those aged 60 and over as part of the primary series.
+  • Booster vaccinations for individuals with weakened immune systems, such as those with organ transplants or certain medical conditions.
+  • Booster vaccinations for healthcare workers and other high-risk groups, such as the elderly and those with underlying health conditions.
+
+Booster Vaccinations and the Omicron Variant
+
+The WHO is closely monitoring the Omicron variant and its potential impact on vaccine effectiveness. Preliminary data suggest that the Omicron variant may be more transmissible than previous variants, but it is not yet clear whether it will cause more severe disease. The WHO will continue to evaluate the evidence and provide updated guidance as necessary.
+
+Strong Immunological Response to Booster Vaccinations
+
+Studies have shown that booster vaccinations elicit a strong immunological response, with improved protection against infection and severe disease. However, the duration of protection provided by booster doses is still under investigation.
+
+Conclusion
+
+The WHO recognizes the importance of booster doses in maintaining vaccine effectiveness and protecting individuals from COVID-19. However, the global vaccine supply remains limited, and it is essential to prioritize the most vulnerable populations. The WHO continues to recommend a risk-based approach to booster dose decisions, taking into account individual and public health benefits, as well as global vaccine access equity.

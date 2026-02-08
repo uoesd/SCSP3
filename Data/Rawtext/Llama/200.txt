@@ -1,0 +1,19 @@
+DarkSide Ransomware Group Uses 'Ransomware-as-a-Service' Model to Extort Millions from Organizations
+
+A new ransomware group known as DarkSide has emerged, employing a "ransomware-as-a-service" model to partner with affiliates and launch sophisticated attacks on organizations. Since its emergence last August, DarkSide has used advanced techniques such as "double extortion" and "zero-day exploits" to infiltrate and swiftly move within target networks, stealing sensitive data before encrypting files.
+
+According to Christopher Ballod, Associate Managing Director for Cyber Risk at Kroll, DarkSide's modus operandi involves careful financial analysis or information from corporate emails to target organizations. "They're doing their research and picking their targets wisely," Ballod said.
+
+DarkSide's ransom demands are typically on the high end, with demands ranging from $5 million to over $10 million, according to Ballod. The group has also been known to threaten to share stolen information with short-sellers if publicly traded companies refuse to pay the ransom.
+
+Phil Wittmann, an attorney at Stone Pigman Walther Wittmann, noted that DarkSide's tactics are particularly concerning because they list their victims on the dark web, showcasing the confidential data they've stolen. "It's a pretty brazen move," Wittmann said. "They're essentially saying, 'We've got your data, and if you don't pay up, we'll release it to the world.'"
+
+Michael Walshe Jr., Chair of the Management Committee at Stone Pigman Walther Wittmann, emphasized the importance of having a comprehensive cyber insurance policy in place to mitigate the risks associated with ransomware attacks. "It's crucial for organizations to have a plan in place, including a cyber insurance policy that covers ransomware attacks," Walshe said. "Otherwise, they may find themselves in a situation where they have no choice but to pay the ransom."
+
+Seven of Tantleff's clients have fallen victim to DarkSide's attacks, with ransom demands ranging from $1.25 million to $6 million. After negotiations, the clients paid ransoms ranging from $1.25 million to $4.5 million.
+
+In a recent twist, affiliates of DarkSide have taken to a forum to complain that the group has not paid them their share of the ransoms. It remains to be seen how this development will impact DarkSide's operations moving forward.
+
+In the meantime, organizations are advised to remain vigilant and take steps to protect themselves against ransomware attacks. This includes implementing robust cybersecurity measures, regularly backing up data, and having a comprehensive incident response plan in place.
+
+As ransomware attacks continue to evolve and become more sophisticated, it's clear that organizations must stay ahead of the game to avoid falling victim to these costly and potentially devastating attacks.
