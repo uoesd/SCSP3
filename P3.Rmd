@@ -6,11 +6,181 @@ output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
+library(class)
+library(caret)
+source("stylometryfunctions.R")
 ```
-
 
 ```{r}
-
+# Data Input
+M <- loadCorpus("Data/FunctionWords/", "frequentwords")
+authors <- M$authornames
+features <- M$features
 ```
 
+```{r}
+# Visualisation
+x <- NULL
+for (i in 1:length(features)) {
+  x <- rbind(x, apply(features[[i]], 2, sum))
+}
+
+for (i in 1:nrow(x)) {
+x[i,] <- x[i,] / sum(x[i,])
+}
+
+for (j in 1:ncol(x)) {
+x[,j] <- (x[,j]- mean(x[,j]))/sd(x[,j])
+}
+
+d <- dist(x)
+pts <- cmdscale(d)
+
+plot(pts, type="n", main="MDS Plot of Authors")
+text(pts[,1], pts[,2], labels=authors)
+```
+下面是四元的 可删
+```{r}
+# Training-Test Sets
+traindata <- features
+testdata <- NULL
+testlabels <- NULL
+
+for (i in 1:length(traindata)) {
+
+  testind <- sample(1:nrow(traindata[[i]]), 1)
+
+  testdata <- rbind(testdata, traindata[[i]][testind,])
+  testlabels <- c(testlabels, i)
+
+  traindata[[i]] <- traindata[[i]][-testind,,drop=FALSE]
+}
+
+pred_da <- discriminantCorpus(traindata, testdata)
+acc_da <- sum(pred_da == testlabels) / length(testlabels)
+
+pred_knn <- KNNCorpus(traindata, testdata)
+acc_knn <- sum(pred_knn == testlabels) / length(testlabels)
+
+cat("\nTest Accuracy:\n")
+cat("Discriminant Analysis:", acc_da, "\n")
+cat("KNN:", acc_knn, "\n")
+```
+
+```{r}
+# Cross-Validation
+predictions_da <- NULL
+predictions_knn <- NULL
+truth <- NULL
+
+for (i in 1:length(features)) {
+  for (j in 1:nrow(features[[i]])) {
+    testdata <- matrix(features[[i]][j,], nrow=1)
+    traindata <- features
+    traindata[[i]] <- traindata[[i]][-j,,drop=FALSE]
+
+    pred <- discriminantCorpus(traindata, testdata)
+    predictions_da <- c(predictions_da, pred)
+
+    pred <- KNNCorpus(traindata, testdata)
+    predictions_knn <- c(predictions_knn, pred)
+    truth <- c(truth, i)
+  }
+}
+
+acc_da_cv  <- sum(predictions_da  == truth) / length(truth)
+acc_knn_cv <- sum(predictions_knn == truth) / length(truth)
+
+cat("\nCross-Validation Accuracy:\n")
+cat("Discriminant Analysis:", acc_da_cv, "\n")
+cat("KNN:", acc_knn_cv, "\n")
+
+# Confusion matrices
+cat("\nDiscriminant Analysis Confusion Matrix:\n")
+print(confusionMatrix(as.factor(predictions_da), as.factor(truth)))
+
+cat("\nKNN Confusion Matrix:\n")
+print(confusionMatrix(as.factor(predictions_knn), as.factor(truth)))
+```
+下面是二元的
+```{r}
+human_index <- which(authors == "Human")
+
+human_data <- features[[human_index]]
+
+llm_data <- NULL
+for (i in 1:length(features)) {
+  if (i != human_index) {
+    llm_data <- rbind(llm_data, features[[i]])
+  }
+}
+features_bin <- list(human_data, llm_data)
+```
+
+```{r}
+# Training-Test Sets
+traindata <- features_bin
+testdata <- NULL
+testlabels <- NULL
+
+for (i in 1:length(traindata)) {
+
+  testind <- sample(1:nrow(traindata[[i]]), 1)
+
+  testdata <- rbind(testdata, traindata[[i]][testind,])
+  testlabels <- c(testlabels, i)
+
+  traindata[[i]] <- traindata[[i]][-testind,,drop=FALSE]
+}
+
+pred_da <- discriminantCorpus(traindata, testdata)
+acc_da <- sum(pred_da == testlabels) / length(testlabels)
+
+pred_knn <- KNNCorpus(traindata, testdata)
+acc_knn <- sum(pred_knn == testlabels) / length(testlabels)
+
+cat("\nBinary Test Accuracy:\n")
+cat("Discriminant Analysis:", acc_da, "\n")
+cat("KNN:", acc_knn, "\n")
+```
+
+```{r}
+# Cross-Validation
+predictions_da <- NULL
+predictions_knn <- NULL
+truth <- NULL
+
+for (i in 1:length(features_bin)) {
+  for (j in 1:nrow(features_bin[[i]])) {
+
+    testdata <- matrix(features_bin[[i]][j,], nrow=1)
+
+    traindata <- features_bin
+    traindata[[i]] <- traindata[[i]][-j,,drop=FALSE]
+
+    pred <- discriminantCorpus(traindata, testdata)
+    predictions_da <- c(predictions_da, pred)
+
+    pred <- KNNCorpus(traindata, testdata)
+    predictions_knn <- c(predictions_knn, pred)
+
+    truth <- c(truth, i)
+  }
+}
+
+acc_da_cv  <- sum(predictions_da  == truth) / length(truth)
+acc_knn_cv <- sum(predictions_knn == truth) / length(truth)
+
+cat("\nBinary Cross-Validation Accuracy:\n")
+cat("Discriminant Analysis:", acc_da_cv, "\n")
+cat("KNN:", acc_knn_cv, "\n")
+
+# Confusion matrices
+cat("\nBinary Discriminant Analysis Confusion Matrix:\n")
+print(confusionMatrix(as.factor(predictions_da), as.factor(truth)))
+
+cat("\nBinary KNN Confusion Matrix:\n")
+print(confusionMatrix(as.factor(predictions_knn), as.factor(truth)))
+
+```
