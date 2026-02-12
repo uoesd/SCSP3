@@ -1,4 +1,11 @@
+# Loading functions
 source("stylometryfunctions.R")
+
+build_dataset <- function(features_list) {
+  X <- do.call(rbind, features_list)
+  y <- rep(seq_along(features_list), sapply(features_list, nrow))
+  list(X = X, y = y)
+}
 
 # Loading data
 M <- loadCorpus("Data/FunctionWords/", "frequentwords")
@@ -35,147 +42,104 @@ features_test <- mapply(function(mat, idx) {
 
 # DA
 
+# Test
+
 features_test_m <- do.call(rbind, features_test)
-pred <- discriminantCorpus(features_train, features_test_m)
-truth <- rep(1:length(features_test), sapply(features_test, nrow))
-test_acc <- sum(pred  == truth) / length(truth)
+pred_da_t <- discriminantCorpus(features_train, features_test_m)
+truth_da_t <- rep(1:length(features_test), sapply(features_test, nrow))
+acc_da_t <- sum(pred_da_t  == truth_da_t) / length(truth_da_t)
+acc_da_t
+print(confusionMatrix(as.factor(pred_da_t), as.factor(truth_da_t)))
 
 # LOOCV for DA
 
-predictions_da <- NULL
-truth <- NULL
+predictions_da_cv <- NULL
+truth_da_cv <- NULL
 
 for (i in 1:length(features_train)) {
   for (j in 1:nrow(features_train[[i]])) {
     
-    testdata <- matrix(features_train[[i]][j,], nrow=1)
+    testdata_da_cv <- matrix(features_train[[i]][j,], nrow=1)
     
-    traindata <- features_train
-    traindata[[i]] <- traindata[[i]][-j,,drop=FALSE]
+    traindata_da_cv <- features_train
+    traindata_da_cv[[i]] <- traindata_da_cv[[i]][-j,,drop=FALSE]
     
-    pred <- discriminantCorpus(traindata, testdata)
-    predictions_da <- c(predictions_da, pred)
+    pred_da_cv <- discriminantCorpus(traindata_da_cv, testdata_da_cv)
+    predictions_da_cv <- c(predictions_da_cv, pred_da_cv)
     
-    truth <- c(truth, i)
+    truth_da_cv <- c(truth_da_cv, i)
   }
 }
 
-acc_da_cv  <- sum(predictions_da  == truth) / length(truth)
+acc_da_cv  <- sum(predictions_da_cv  == truth_da_cv) / length(truth_da_cv)
+acc_da_cv
+
+print(confusionMatrix(as.factor(predictions_da_cv), as.factor(truth_da_cv)))
 
 # KNN
 
-KNN <- function(traindata, testdata, k=1) {
-  train <- NULL
-  for (i in 1:length(traindata)) {
-    train <- rbind(train, apply(traindata[[i]],2,sum))
-  }
-  
-  for (i in 1:nrow(train)) {
-    train[i,] <- train[i,]/sum(train[i,])
-  }
-  for (i in 1:nrow(testdata)) {
-    testdata[i,] <- testdata[i,]/sum(testdata[i,])
-  }
-  trainlabels <- 1:nrow(train)
-  myKNN(train, testdata, trainlabels,k=k)
-}
-
-# LOOCV analysis for k
-
-k_anakysis <- NULL
-
-for (k in 1:10){
-  predictions_knn <- NULL
-  truth <- NULL
-  for (i in 1:length(features_train)) {
-    for (j in 1:nrow(features_train[[i]])) {
-      
-      testdata <- matrix(features_train[[i]][j,], nrow=1)
-      
-      traindata <- features_train
-      traindata[[i]] <- traindata[[i]][-j,,drop=FALSE]
-      
-      pred <- KNN(traindata, testdata, k)
-      predictions_knn <- c(predictions_knn, pred)
-      
-      truth <- c(truth, i)
-    }
-  }
-  acc_knn_cv <- sum(predictions_knn == truth) / length(truth)
-  k_anakysis <- c(k_anakysis, acc_knn_cv)
-}
-
-k_anakysis
-
 # 10-fold CV analysis for k
 
-Kmax <- 10
-k_analysis1 <- numeric(Kmax)
+dataset <- build_dataset(features_train)
+X <- dataset$X
+y <- dataset$y
 
-nfold <- 10
+K <- 10
+fold_id <- sample(rep(1:K, length.out = nrow(X)))
 
-# create fold indices INSIDE each class
-folds <- lapply(features_train, function(mat) {
-  sample(rep(1:nfold, length.out = nrow(mat)))
-})
+k_analysis <- numeric(5)
 
-for (k in 1:Kmax) {
+for (k in 1:5) {
   
-  acc_fold <- numeric(nfold)
+  preds <- character(length(y))
   
-  for (f in 1:nfold) {
+  for (fold in 1:K) {
     
-    # build training and testing lists (same structure)
-    train_list <- vector("list", length(features_train))
-    test_list  <- vector("list", length(features_train))
+    test_idx  <- which(fold_id == fold)
+    train_idx <- which(fold_id != fold)
     
-    for (i in 1:length(features_train)) {
-      train_list[[i]] <- features_train[[i]][folds[[i]] != f, , drop = FALSE]
-      test_list[[i]]  <- features_train[[i]][folds[[i]] == f, , drop = FALSE]
-    }
+    train_X <- X[train_idx, , drop = FALSE]
+    train_y <- y[train_idx]
+    test_X  <- X[test_idx, , drop = FALSE]
     
-    # predict all test samples in this fold
-    predictions <- NULL
-    truth <- NULL
-    
-    for (i in 1:length(test_list)) {
-      for (j in 1:nrow(test_list[[i]])) {
-        
-        testdata <- matrix(test_list[[i]][j, ], nrow = 1)
-        
-        pred <- KNN(train_list, testdata, k)
-        
-        predictions <- c(predictions, pred)
-        truth <- c(truth, i)
-      }
-    }
-    
-    acc_fold[f] <- mean(predictions == truth)
+    # predict the whole fold at once
+    preds[test_idx] <- myKNN(train_X, test_X, train_y, k)
   }
   
-  k_analysis1[k] <- mean(acc_fold)
+  k_analysis[k] <- mean(preds == y)
 }
 
-k_analysis1
+k_analysis
 
+# Test
 
+train_ds <- build_dataset(features_train)
+train_X <- train_ds$X
+train_y <- train_ds$y
+test_X <- do.call(rbind, features_test)
+test_pred <- myKNN(train_X, test_X, train_y, k = 1)
+test_y <- rep(seq_along(features_test), sapply(features_test, nrow))
+acc_knn_t <- mean(test_pred == test_y)
+acc_knn_t
+print(confusionMatrix(as.factor(test_pred), as.factor(test_y)))
 
+# LOOCV for KNN
 
-predictions_knn <- NULL
-truth <- NULL
-for (i in 1:length(features_train)) {
-  for (j in 1:nrow(features_train[[i]])) {
-    
-    testdata <- matrix(features_train[[i]][j,], nrow=1)
-    
-    traindata <- features_train
-    traindata[[i]] <- traindata[[i]][-j,,drop=FALSE]
-    
-    pred <- KNN(traindata, testdata, 1)
-    predictions_knn <- c(predictions_knn, pred)
-    
-    truth <- c(truth, i)
-  }
+dataset <- build_dataset(features_train)
+X <- dataset$X
+y <- dataset$y
+
+preds <- integer(nrow(X))
+
+for (i in seq_len(nrow(X))) {
+  
+  train_X <- X[-i, , drop = FALSE]
+  train_y <- y[-i]
+  test_X  <- X[i, , drop = FALSE]
+  
+  preds[i] <- myKNN(train_X, test_X, train_y, k = 1)
 }
-acc_knn_cv <- sum(predictions_knn == truth) / length(truth)
-acc_knn_cv
+
+# LOOCV accuracy
+loo_accuracy <- mean(preds == y)
+loo_accuracy
