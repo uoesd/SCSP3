@@ -7,23 +7,80 @@ output: pdf_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-library(class)
-library(caret)
-source("stylometryfunctions.R")
 ```
 
 ```{r}
-# Data Input
-M <- loadCorpus("Data/FunctionWords/", "frequentwords")
-authors <- M$authornames
-features <- M$features
+# normalization(train)
+normalize_rows <- function(mat) mat / rowSums(mat)
+features_train_norm <- lapply(features_train, normalize_rows)
+
+eda_X <- do.call(rbind, features_train_norm)
+eda_y <- rep(c("Human", "LLM"), sapply(features_train_norm, nrow))
 ```
 
 ```{r}
-# Visualisation
+cat("Human texts:", nrow(features_train_norm[[1]]), "\n")
+cat("LLM texts:", nrow(features_train_norm[[2]]), "\n")
+cat("Number of function words:", ncol(eda_X), "\n\n")
+
+```
+
+```{r}
+human_mean <- colMeans(features_train_norm[[1]])
+llm_mean   <- colMeans(features_train_norm[[2]])
+
+mean_diff <- human_mean - llm_mean
+top <- order(abs(mean_diff), decreasing = TRUE)[1:10]
+
+barplot(mean_diff[top],
+        main = "Top 10 Function Words Mean Difference Between Human and LLM Texts",
+        ylab = "Mean Difference")
+```
+
+```{r}
+dist_mat <- dist(eda_X)
+mds_res <- cmdscale(dist_mat)
+
+plot(mds_res[,1], mds_res[,2],
+     col = ifelse(eda_y == "Human", "blue", "red"),
+     pch = 16,
+     cex = 0.6,
+     xlab = "MDS1",
+     ylab = "MDS2",
+     main = "MDS Visualisation of Stylometric Distances")
+
+
+human_pts <- mds_res[eda_y == "Human", ]
+llm_pts   <- mds_res[eda_y == "LLM", ]
+
+points(colMeans(human_pts)[1], colMeans(human_pts)[2],
+       pch = 4, cex = 2, lwd = 2)
+
+points(colMeans(llm_pts)[1], colMeans(llm_pts)[2],
+       pch = 4, cex = 2, lwd = 2)
+
+legend("topright",
+       legend = c("Human", "LLM"),
+       col = c("blue", "red"),
+       pch = 16)
+```
+
+```{r}
+split_idx <- lapply(features, function(mat) {
+  sample(1:nrow(mat), size = floor(0.8 * nrow(mat)))
+})
+
+features_train <- mapply(function(mat, idx) {
+  mat[idx, ]
+}, features, split_idx, SIMPLIFY = FALSE)
+
+features_test <- mapply(function(mat, idx) {
+  mat[-idx, ]
+}, features, split_idx, SIMPLIFY = FALSE)
+
 x <- NULL
-for (i in 1:length(features)) {
-  x <- rbind(x, apply(features[[i]], 2, sum))
+for (i in 1:length(features_train)) {
+  x <- rbind(x, apply(features_train[[i]], 2, sum))
 }
 
 for (i in 1:nrow(x)) {
@@ -39,6 +96,7 @@ pts <- cmdscale(d)
 
 plot(pts, type="n", main="MDS Plot of Authors")
 text(pts[,1], pts[,2], labels=authors)
+
 ```
 下面是四元的 可删
 ```{r}
@@ -60,7 +118,7 @@ for (i in 1:length(traindata)) {
 pred_da <- discriminantCorpus(traindata, testdata)
 acc_da <- sum(pred_da == testlabels) / length(testlabels)
 
-pred_knn <- KNNCorpus(traindata, testdata)
+pred_knn <- myKNN(traindata, testdata)
 acc_knn <- sum(pred_knn == testlabels) / length(testlabels)
 
 cat("\nTest Accuracy:\n")
@@ -83,7 +141,7 @@ for (i in 1:length(features)) {
     pred <- discriminantCorpus(traindata, testdata)
     predictions_da <- c(predictions_da, pred)
 
-    pred <- KNNCorpus(traindata, testdata)
+    pred <- myKNN(traindata, testdata)
     predictions_knn <- c(predictions_knn, pred)
     truth <- c(truth, i)
   }
@@ -137,7 +195,7 @@ for (i in 1:length(traindata)) {
 pred_da <- discriminantCorpus(traindata, testdata)
 acc_da <- sum(pred_da == testlabels) / length(testlabels)
 
-pred_knn <- KNNCorpus(traindata, testdata)
+pred_knn <- myKNN(traindata, testdata)
 acc_knn <- sum(pred_knn == testlabels) / length(testlabels)
 
 cat("\nBinary Test Accuracy:\n")
@@ -162,7 +220,7 @@ for (i in 1:length(features_bin)) {
     pred <- discriminantCorpus(traindata, testdata)
     predictions_da <- c(predictions_da, pred)
 
-    pred <- KNNCorpus(traindata, testdata)
+    pred <- myKNN(traindata, testdata)
     predictions_knn <- c(predictions_knn, pred)
 
     truth <- c(truth, i)
