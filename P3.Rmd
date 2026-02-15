@@ -111,7 +111,7 @@ text(pts[,1], pts[,2], labels=authors)
 ```
 
 
-# Model Choices
+# Modelling
 
 In this section, we will discuss two models 'K-nearest neighbors' and 'Discriminant Analysis' and compare to choose a more suitable model. Based on training data, we will use LOOCV to assess each performance. Particularly for KNN, a 10-fold cross validation will be used to choose a better value 'k'.
 
@@ -129,7 +129,7 @@ knn_cv_plot
 
 ```
 
-The table and confusion matrix below show the results of 'KNN' LOOCV, 658 of human texts are classified to AI, the kappa value is pretty low so the true improvement of this model over chance is only moderate. The reason for this may come from the imbalanced number of data points together with high overlap of two classes.
+Table [] and confusion matrix below show the results of 'KNN' LOOCV, 658 of human texts are classified to AI, the kappa value is pretty low so the true improvement of this model over chance is only moderate. The reason for this may come from the imbalanced number of data points together with high overlap of two classes.
 
 
 
@@ -145,21 +145,21 @@ knitr::kable(cm_knn_loo$table,
 
 ## DA
 
-''
+'Discriminant Analysis' assumes that observations from each class follow a multivariate normal distribution with means and variance from sample. Classification is performed by assigning each observation to the class with the higher probability. Because DA estimates a global decision boundary rather than relying on local neighbors, it is typically more stable KNN, especially when we have imbalanced number of data points. 
+
+Based on training data, Table [] and confusion matrix below show that 'DA' performs much better than 'KNN' in LOOCV. The accuracy is 0.874, with both high sensitivity and specificity. So 'DA' gives a fair classification with meaningful accuracy. Also kappa value (0.685) indicates substantial agreement.
 
 ```{r}
 knitr::kable(da_loo_table, digits = 3,
              caption = "DA Performance — LOOCV")
 
-```
-
-```{r}
-
 knitr::kable(cm_da_loo$table,
              caption = "DA (LOOCV)")
 ```
 
+## Model choice
 
+Based on the validation results, we will choose discriminant analysis below to classify the testing data.
 
 # Testing Results
 
