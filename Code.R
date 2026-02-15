@@ -2,6 +2,7 @@ set.seed(0)
 library(caret)
 library(dplyr)
 library(ggplot2)
+library(tidyr)
 # Loading functions
 source("stylometryfunctions.R")
 
@@ -114,6 +115,8 @@ K <- 10
 fold_id <- sample(rep(1:K, length.out = nrow(X)))
 
 k_analysis <- numeric(20)
+balacc_cv <- numeric(20)
+human_recall <- numeric(20)
 
 for (k in 1:20) {
   
@@ -133,9 +136,10 @@ for (k in 1:20) {
   }
   
   k_analysis[k] <- mean(preds == y)
+  cm_tmp <- confusionMatrix(as.factor(preds), as.factor(y))
+  balacc_cv[k] <- cm_tmp$byClass["Balanced Accuracy"]
+  human_recall[k] <- cm_tmp$byClass["Sensitivity"]
 }
-
-k_analysis
 
 # Test
 
@@ -187,4 +191,31 @@ knn_loo_table <- data.frame(
     cm_knn_loo$byClass["Balanced Accuracy"]
   )
 )
+
+k_vals <- 1:20
+
+plot_df <- data.frame(
+  k = k_vals,
+  Accuracy = k_analysis,
+  Balanced_Accuracy = balacc_cv,
+  Human_Recall = human_recall
+)
+
+plot_long <- plot_df %>%
+  pivot_longer(-k, names_to = "Metric", values_to = "Score")
+
+knn_cv_plot <- ggplot(plot_long, aes(x = k, y = Score,
+                                     shape = Metric, linetype = Metric)) +
+  geom_line(size = 0.8) +
+  geom_point(size = 2) +
+  scale_y_continuous(limits = c(0, 1)) +
+  labs(title = "10-Fold CV Performance of k-NN",
+       x = "k (number of neighbors)",
+       y = "Score") +
+  theme_minimal(base_size = 13) +
+  theme(
+    legend.position = "right",      # legend OUTSIDE on the side
+    legend.title = element_blank(),
+    plot.title = element_text(hjust = 0.5, face = "bold")
+  )
 

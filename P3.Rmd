@@ -111,9 +111,42 @@ text(pts[,1], pts[,2], labels=authors)
 ```
 
 
-# Model Choice
+# Model Choices
+
+In this section, we will discuss two models 'K-nearest neighbors' and 'Discriminant Analysis' and compare to choose a more suitable model. Based on training data, we will use LOOCV to assess each performance. Particularly for KNN, a 10-fold cross validation will be used to choose a better value 'k'.
+
+## KNN
+
+'K-Nearest Neighbors' (KNN) assigns a class label to a test observation based on the majority label among its k closest training samples in feature space. Distance between observations is typically measured using Euclidean distance after feature standardization. Comparing to 'DA', 'KNN' makes no distributional assumptions and relies directly on local neighborhood structure. 
+
+However, its performance is sensitive to the choice of k, for example in case of k=1, an outlier of human data lays near AI's group can make test points of AI near it wrong labeled. Because of the number of AI training points is three times of Human, a very high k is not a good choice.
+
+From figure [] below, 'KNN' with k from 1 to 10 all gives similar accuracy around 0.8, but the human recalls are pretty low, lead to a low balanced accuracy. It means that many human data points are wrong classified to AI, which cause the fake high accuracy. We will discuss it later in LOOCV after we choosing k=2 (k with highest human recall).
+
+```{r}
+
+knn_cv_plot
+
+```
+
+The table and confusion matrix below show the results of 'KNN' LOOCV, 658 of human texts are classified to AI, the kappa value is pretty low so the true improvement of this model over chance is only moderate. The reason for this may come from the imbalanced number of data points together with high overlap of two classes.
+
+
+
+
+```{r}
+knitr::kable(knn_loo_table,
+             digits = 3,
+             caption = "LOOCV Performance of k-NN (k = 2)")
+
+knitr::kable(cm_knn_loo$table,
+             caption = "Confusion Matrix")
+```
 
 ## DA
+
+''
+
 ```{r}
 knitr::kable(da_loo_table, digits = 3,
              caption = "DA Performance — LOOCV")
@@ -126,64 +159,8 @@ knitr::kable(cm_da_loo$table,
              caption = "DA (LOOCV)")
 ```
 
-## KNN
-
-```{r}
-# k values
-k_vals <- 1:20
-
-# plot accuracy vs k
-plot(k_vals, k_analysis,
-     type = "b",      
-     pch = 19,
-     xlab = "k (number of neighbors)",
-     ylab = "Cross-validated accuracy",
-     main = "KNN Accuracy")
-
-# optional grid for readability
-grid()
 
 
-```
-
-
-
-
-
-```{r}
-knn_loo_table <- data.frame(
-  Metric = c("Accuracy", "Kappa",
-             "Human Recall (Sensitivity)",
-             "AI Recall (Specificity)",
-             "Balanced Accuracy"),
-  Value = c(
-    cm_knn_loo$overall["Accuracy"],
-    cm_knn_loo$overall["Kappa"],
-    cm_knn_loo$byClass["Sensitivity"],
-    cm_knn_loo$byClass["Specificity"],
-    cm_knn_loo$byClass["Balanced Accuracy"]
-  )
-)
-
-knitr::kable(knn_loo_table,
-             digits = 3,
-             caption = "LOOCV Performance of k-NN (k = 2)")
-```
-
-
-```{r}
-knitr::kable(cm_knn_loo$table,
-             caption = "Confusion Matrix")
-
-
-```
-
-
-```{r}
-
-knitr::kable(loo_knn_cm$table,
-             caption = "Confusion Matrix")
-```
 # Testing Results
 
 ```{r}
