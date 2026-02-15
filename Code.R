@@ -52,8 +52,8 @@ features_test_m <- do.call(rbind, features_test)
 pred_da_t <- discriminantCorpus(features_train, features_test_m)
 truth_da_t <- rep(1:length(features_test), sapply(features_test, nrow))
 acc_da_t <- sum(pred_da_t  == truth_da_t) / length(truth_da_t)
-acc_da_t
-print(confusionMatrix(as.factor(pred_da_t), as.factor(truth_da_t)))
+
+cm_da_test <- confusionMatrix(as.factor(pred_da_t), as.factor(truth_da_t))
 
 # LOOCV for DA
 
@@ -76,9 +76,31 @@ for (i in 1:length(features_train)) {
 }
 
 acc_da_cv  <- sum(predictions_da_cv  == truth_da_cv) / length(truth_da_cv)
-acc_da_cv
+cm_da_loo  <- confusionMatrix(as.factor(predictions_da_cv), as.factor(truth_da_cv))
 
-print(confusionMatrix(as.factor(predictions_da_cv), as.factor(truth_da_cv)))
+## Reporting
+da_test_table <- data.frame(
+  Value = c(
+    cm_da_test$overall["Accuracy"],
+    cm_da_test$overall["Kappa"],
+    cm_da_test$byClass["Sensitivity"],
+    cm_da_test$byClass["Specificity"],
+    cm_da_test$byClass["Balanced Accuracy"]
+  )
+)
+
+da_loo_table  <- data.frame(
+  Value = c(
+    cm_da_loo$overall["Accuracy"],
+    cm_da_loo$overall["Kappa"],
+    cm_da_loo$byClass["Sensitivity"],
+    cm_da_loo$byClass["Specificity"],
+    cm_da_loo$byClass["Balanced Accuracy"]
+  )
+)
+da_test_table
+da_loo_table
+
 
 # KNN
 
@@ -132,24 +154,6 @@ knitr::kable(as.data.frame(cm_knn$table), caption = "Confusion Matrix")
 loo_knn_cm <- confusionMatrix(as.factor(test_pred_knn), as.factor(test_y_knn))
 
 
-# 
-# train_data <- features_train
-# test_data <- do.call(rbind, features_test)
-# test_labels <- rep(seq_along(features_test), sapply(features_test, nrow))
-# test_pred_knn_corpus <- KNNCorpus(train_data, test_data)
-# library(caret)
-# 
-# cm_knn_corpus <- confusionMatrix(
-#   as.factor(test_pred_knn_corpus),
-#   as.factor(test_labels)
-# )
-# 
-# cm_knn_corpus
-
-
-
-
-
 # LOOCV for KNN
 dataset <- build_dataset(features_train)
 X <- dataset$X
@@ -174,9 +178,7 @@ loo_accuracy <- mean(preds == as.character(y))
 cm_knn_loo <- confusionMatrix(as.factor(preds), as.factor(y))
 
 # ---- extract key metrics into a table ----
-knn_loo_table <- data.frame(
-  Metric = c("Accuracy", "Kappa", "Sensitivity (Human recall)",
-             "Specificity (AI recall)", "Balanced Accuracy"),
+knn_loo_table <- data.frame( 
   Value = c(
     cm_knn_loo$overall["Accuracy"],
     cm_knn_loo$overall["Kappa"],
@@ -185,8 +187,4 @@ knn_loo_table <- data.frame(
     cm_knn_loo$byClass["Balanced Accuracy"]
   )
 )
-
-knn_loo_table
-knn_loo_confusion <- as.data.frame(cm_knn_loo$table)
-knn_loo_confusion
 
