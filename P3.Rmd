@@ -15,7 +15,7 @@ source("code.R")
 
 
 # Data preprocessing
-The dataset contains around 3,500 complete English language text presented in Stylometry form, grouped by author: Human, ChatGPT, Gemini and Llama. To slove this task, all large language model (LLM) were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into 80% training sets and 20% testing sets, and the texts were normalised to ensure comparability across texts of different lengths. Finally, The normalised 80% training set was used for exploratory data analysis.
+The dataset contains around 3,500 complete English language text presented in Stylometry form, grouped by authors: Human, ChatGPT, Gemini and Llama. To slove this task, all large language model (LLM) were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into 80% training sets and 20% testing sets, and the texts were normalised to ensure comparability across texts of different lengths. Finally, The normalised 80% training set was used for exploratory data analysis.
 
 # Exploratory Data Analysis
 
