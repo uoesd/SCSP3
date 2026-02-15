@@ -86,14 +86,16 @@ da_test_table <- data.frame(
     cm_da_test$overall["Kappa"],
     cm_da_test$byClass["Sensitivity"],
     cm_da_test$byClass["Specificity"],
-    cm_da_test$byClass["Balanced Accuracy"]
+    cm_da_test$byClass["Balanced Accuracy"],
+    cm_da_test$overall["AccuracyLower"],
+    cm_da_test$overall["AccuracyUpper"]
   )
 )
 
 da_loo_table  <- data.frame(
   Value = c(
-    cm_da_loo$overall["Accuracy"],
-    cm_da_loo$overall["Kappa"],
+    as.numeric(cm_da_loo$overall["Accuracy"]),
+    as.numeric(cm_da_loo$overall["Kappa"]),
     cm_da_loo$byClass["Sensitivity"],
     cm_da_loo$byClass["Specificity"],
     cm_da_loo$byClass["Balanced Accuracy"]
@@ -140,23 +142,6 @@ for (k in 1:20) {
   balacc_cv[k] <- cm_tmp$byClass["Balanced Accuracy"]
   human_recall[k] <- cm_tmp$byClass["Sensitivity"]
 }
-
-# Test
-
-train_ds <- build_dataset(features_train)
-train_X <- train_ds$X
-train_y <- train_ds$y
-test_X <- do.call(rbind, features_test)
-test_pred_knn <- myKNN(train_X, test_X, train_y, k = 2)
-test_y_knn <- rep(seq_along(features_test), sapply(features_test, nrow))
-acc_knn_t <- mean(test_pred_knn == test_y_knn)
-acc_knn_t
-cm_knn <- confusionMatrix(as.factor(test_pred_knn), as.factor(test_y_knn))
-
-knitr::kable(as.data.frame(cm_knn$table), caption = "Confusion Matrix")
-
-loo_knn_cm <- confusionMatrix(as.factor(test_pred_knn), as.factor(test_y_knn))
-
 
 # LOOCV for KNN
 dataset <- build_dataset(features_train)

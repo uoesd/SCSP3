@@ -157,22 +157,19 @@ knitr::kable(cm_da_loo$table,
              caption = "DA (LOOCV)")
 ```
 
-## Model choice
-
 Based on the validation results, we will choose discriminant analysis below to classify the testing data.
 
 # Testing Results
+
+Now we start to classify testing data. Since testset is independent with trainset and separate rondomly, we have evidence to say that for any given texts, the model is able to classify them between AI and Human at accuracy 95% confidence interval 0.841-0.888, with out obvious bias on AI or Human.
 
 ```{r}
 
 knitr::kable(da_test_table, digits = 3,
              caption = "DA Performance — Test Set")
-```
-
-
-```{r}
 
 knitr::kable(cm_da_test$table,
              caption = "DA (Test)")
-
 ```
+
+
