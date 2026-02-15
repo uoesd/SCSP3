@@ -123,7 +123,7 @@ However, its performance is sensitive to the choice of k, for example in case of
 
 From figure [] below, 'KNN' with k from 1 to 10 all gives similar accuracy around 0.8, but the human recalls are pretty low, lead to a low balanced accuracy. It means that many human data points are wrong classified to AI, which cause the fake high accuracy. We will discuss it later in LOOCV after we choosing k=2 (k with highest human recall).
 
-```{r}
+```{r Figure 1, fig.cap="10-fold cross-validated performance of KNN showing accuracy, balanced accuracy, and human recall across different k values."}
 
 knn_cv_plot
 
@@ -134,7 +134,7 @@ Table [] and confusion matrix below show the results of 'KNN' LOOCV, 658 of huma
 
 
 
-```{r}
+```{r Table 1, fig.cap="10-fold cross-validated performance of KNN showing accuracy, balanced accuracy, and human recall across different k values."}
 knitr::kable(knn_loo_table,
              digits = 3,
              caption = "LOOCV Performance of k-NN (k = 2)")
