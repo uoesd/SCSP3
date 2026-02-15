@@ -7,7 +7,17 @@ output: pdf_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+source("code.R")
 ```
+
+# Brief Introduction 
+
+
+
+# Data preprocessing
+The dataset contains around 3,500 complete English language text presented in Stylometry form, grouped by author: Human, ChatGPT, Gemini and Llama. To slove this task, all large language model (LLM) were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into 80% training sets and 20% testing sets, and the texts were normalised to ensure comparability across texts of different lengths. Finally, The normalised 80% training set was used for exploratory data analysis.
+
+# Exploratory Data Analysis
 
 ```{r}
 # normalization(train)
@@ -16,13 +26,15 @@ features_train_norm <- lapply(features_train, normalize_rows)
 
 eda_X <- do.call(rbind, features_train_norm)
 eda_y <- rep(c("Human", "LLM"), sapply(features_train_norm, nrow))
-```
 
-```{r}
-cat("Human texts:", nrow(features_train_norm[[1]]), "\n")
-cat("LLM texts:", nrow(features_train_norm[[2]]), "\n")
-cat("Number of function words:", ncol(eda_X), "\n\n")
 
+
+
+d1 <- data.frame("Human texts" = nrow(features_train_norm[[1]]),
+                  "LLM texts" = nrow(features_train_norm[[2]]),
+                  "Function words" = ncol(eda_X),
+                  check.names = FALSE)
+d1
 ```
 
 ```{r}
@@ -37,9 +49,10 @@ barplot(mean_diff[top],
         ylab = "Mean Difference")
 ```
 
+
 ```{r}
 dist_mat <- dist(eda_X)
-mds_res <- cmdscale(dist_mat)
+mds_res  <- cmdscale(dist_mat)
 
 plot(mds_res[,1], mds_res[,2],
      col = ifelse(eda_y == "Human", "blue", "red"),
@@ -49,20 +62,18 @@ plot(mds_res[,1], mds_res[,2],
      ylab = "MDS2",
      main = "MDS Visualisation of Stylometric Distances")
 
+human_cent <- colMeans(mds_res[eda_y == "Human", ])
+llm_cent   <- colMeans(mds_res[eda_y == "LLM", ])
 
-human_pts <- mds_res[eda_y == "Human", ]
-llm_pts   <- mds_res[eda_y == "LLM", ]
-
-points(colMeans(human_pts)[1], colMeans(human_pts)[2],
-       pch = 4, cex = 2, lwd = 2)
-
-points(colMeans(llm_pts)[1], colMeans(llm_pts)[2],
-       pch = 4, cex = 2, lwd = 2)
+points(human_cent[1], human_cent[2], pch = 4, cex = 2, lwd = 2, col = "blue")
+points(llm_cent[1], llm_cent[2], pch = 4, cex = 2, lwd = 2, col = "Black")
 
 legend("topright",
-       legend = c("Human", "LLM"),
-       col = c("blue", "red"),
-       pch = 16)
+       legend = c("Human texts", "LLM texts", "Human centroid", "LLM centroid"),
+       col = c("blue", "red", "blue", "Black"),
+       pch = c(16, 16, 4, 4),
+       pt.cex = c(0.8, 0.8, 2, 2),
+       bty = "n")
 ```
 
 ```{r}
@@ -98,150 +109,7 @@ plot(pts, type="n", main="MDS Plot of Authors")
 text(pts[,1], pts[,2], labels=authors)
 
 ```
-下面是四元的 可删
-```{r}
-# Training-Test Sets
-traindata <- features
-testdata <- NULL
-testlabels <- NULL
 
-for (i in 1:length(traindata)) {
-
-  testind <- sample(1:nrow(traindata[[i]]), 1)
-
-  testdata <- rbind(testdata, traindata[[i]][testind,])
-  testlabels <- c(testlabels, i)
-
-  traindata[[i]] <- traindata[[i]][-testind,,drop=FALSE]
-}
-
-pred_da <- discriminantCorpus(traindata, testdata)
-acc_da <- sum(pred_da == testlabels) / length(testlabels)
-
-pred_knn <- myKNN(traindata, testdata)
-acc_knn <- sum(pred_knn == testlabels) / length(testlabels)
-
-cat("\nTest Accuracy:\n")
-cat("Discriminant Analysis:", acc_da, "\n")
-cat("KNN:", acc_knn, "\n")
-```
-
-```{r}
-# Cross-Validation
-predictions_da <- NULL
-predictions_knn <- NULL
-truth <- NULL
-
-for (i in 1:length(features)) {
-  for (j in 1:nrow(features[[i]])) {
-    testdata <- matrix(features[[i]][j,], nrow=1)
-    traindata <- features
-    traindata[[i]] <- traindata[[i]][-j,,drop=FALSE]
-
-    pred <- discriminantCorpus(traindata, testdata)
-    predictions_da <- c(predictions_da, pred)
-
-    pred <- myKNN(traindata, testdata)
-    predictions_knn <- c(predictions_knn, pred)
-    truth <- c(truth, i)
-  }
-}
-
-acc_da_cv  <- sum(predictions_da  == truth) / length(truth)
-acc_knn_cv <- sum(predictions_knn == truth) / length(truth)
-
-cat("\nCross-Validation Accuracy:\n")
-cat("Discriminant Analysis:", acc_da_cv, "\n")
-cat("KNN:", acc_knn_cv, "\n")
-
-# Confusion matrices
-cat("\nDiscriminant Analysis Confusion Matrix:\n")
-print(confusionMatrix(as.factor(predictions_da), as.factor(truth)))
-
-cat("\nKNN Confusion Matrix:\n")
-print(confusionMatrix(as.factor(predictions_knn), as.factor(truth)))
-```
-下面是二元的
-```{r}
-human_index <- which(authors == "Human")
-
-human_data <- features[[human_index]]
-
-llm_data <- NULL
-for (i in 1:length(features)) {
-  if (i != human_index) {
-    llm_data <- rbind(llm_data, features[[i]])
-  }
-}
-features_bin <- list(human_data, llm_data)
-```
-
-```{r}
-# Training-Test Sets
-traindata <- features_bin
-testdata <- NULL
-testlabels <- NULL
-
-for (i in 1:length(traindata)) {
-
-  testind <- sample(1:nrow(traindata[[i]]), 1)
-
-  testdata <- rbind(testdata, traindata[[i]][testind,])
-  testlabels <- c(testlabels, i)
-
-  traindata[[i]] <- traindata[[i]][-testind,,drop=FALSE]
-}
-
-pred_da <- discriminantCorpus(traindata, testdata)
-acc_da <- sum(pred_da == testlabels) / length(testlabels)
-
-pred_knn <- myKNN(traindata, testdata)
-acc_knn <- sum(pred_knn == testlabels) / length(testlabels)
-
-cat("\nBinary Test Accuracy:\n")
-cat("Discriminant Analysis:", acc_da, "\n")
-cat("KNN:", acc_knn, "\n")
-```
-
-```{r}
-# Cross-Validation
-predictions_da <- NULL
-predictions_knn <- NULL
-truth <- NULL
-
-for (i in 1:length(features_bin)) {
-  for (j in 1:nrow(features_bin[[i]])) {
-
-    testdata <- matrix(features_bin[[i]][j,], nrow=1)
-
-    traindata <- features_bin
-    traindata[[i]] <- traindata[[i]][-j,,drop=FALSE]
-
-    pred <- discriminantCorpus(traindata, testdata)
-    predictions_da <- c(predictions_da, pred)
-
-    pred <- myKNN(traindata, testdata)
-    predictions_knn <- c(predictions_knn, pred)
-
-    truth <- c(truth, i)
-  }
-}
-
-acc_da_cv  <- sum(predictions_da  == truth) / length(truth)
-acc_knn_cv <- sum(predictions_knn == truth) / length(truth)
-
-cat("\nBinary Cross-Validation Accuracy:\n")
-cat("Discriminant Analysis:", acc_da_cv, "\n")
-cat("KNN:", acc_knn_cv, "\n")
-
-# Confusion matrices
-cat("\nBinary Discriminant Analysis Confusion Matrix:\n")
-print(confusionMatrix(as.factor(predictions_da), as.factor(truth)))
-
-cat("\nBinary KNN Confusion Matrix:\n")
-print(confusionMatrix(as.factor(predictions_knn), as.factor(truth)))
-
-```
 
 # Model Choice
 
