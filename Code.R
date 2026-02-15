@@ -1,3 +1,7 @@
+set.seed(0)
+library(caret)
+library(dplyr)
+library(ggplot2)
 # Loading functions
 source("stylometryfunctions.R")
 
@@ -87,9 +91,9 @@ y <- dataset$y
 K <- 10
 fold_id <- sample(rep(1:K, length.out = nrow(X)))
 
-k_analysis <- numeric(5)
+k_analysis <- numeric(20)
 
-for (k in 1:5) {
+for (k in 1:20) {
   
   preds <- character(length(y))
   
@@ -117,19 +121,41 @@ train_ds <- build_dataset(features_train)
 train_X <- train_ds$X
 train_y <- train_ds$y
 test_X <- do.call(rbind, features_test)
-test_pred <- myKNN(train_X, test_X, train_y, k = 1)
-test_y <- rep(seq_along(features_test), sapply(features_test, nrow))
-acc_knn_t <- mean(test_pred == test_y)
+test_pred_knn <- myKNN(train_X, test_X, train_y, k = 2)
+test_y_knn <- rep(seq_along(features_test), sapply(features_test, nrow))
+acc_knn_t <- mean(test_pred_knn == test_y_knn)
 acc_knn_t
-print(confusionMatrix(as.factor(test_pred), as.factor(test_y)))
+cm_knn <- confusionMatrix(as.factor(test_pred_knn), as.factor(test_y_knn))
+
+knitr::kable(as.data.frame(cm_knn$table), caption = "Confusion Matrix")
+
+confusionMatrix(as.factor(test_pred_knn), as.factor(test_y_knn))
+
+
+# 
+# train_data <- features_train
+# test_data <- do.call(rbind, features_test)
+# test_labels <- rep(seq_along(features_test), sapply(features_test, nrow))
+# test_pred_knn_corpus <- KNNCorpus(train_data, test_data)
+# library(caret)
+# 
+# cm_knn_corpus <- confusionMatrix(
+#   as.factor(test_pred_knn_corpus),
+#   as.factor(test_labels)
+# )
+# 
+# cm_knn_corpus
+
+
+
+
 
 # LOOCV for KNN
-
 dataset <- build_dataset(features_train)
 X <- dataset$X
 y <- dataset$y
 
-preds <- integer(nrow(X))
+preds <- character(nrow(X))   # <-- FIXED TYPE
 
 for (i in seq_len(nrow(X))) {
   
@@ -137,9 +163,30 @@ for (i in seq_len(nrow(X))) {
   train_y <- y[-i]
   test_X  <- X[i, , drop = FALSE]
   
-  preds[i] <- myKNN(train_X, test_X, train_y, k = 1)
+  preds[i] <- as.character(myKNN(train_X, test_X, train_y, k = 2))
 }
 
-# LOOCV accuracy
-loo_accuracy <- mean(preds == y)
-loo_accuracy
+loo_accuracy <- mean(preds == as.character(y))
+
+## Report
+
+# ---- confusion matrix object ----
+cm_knn_loo <- confusionMatrix(as.factor(preds), as.factor(y))
+
+# ---- extract key metrics into a table ----
+knn_loo_table <- data.frame(
+  Metric = c("Accuracy", "Kappa", "Sensitivity (Human recall)",
+             "Specificity (AI recall)", "Balanced Accuracy"),
+  Value = c(
+    cm_knn_loo$overall["Accuracy"],
+    cm_knn_loo$overall["Kappa"],
+    cm_knn_loo$byClass["Sensitivity"],
+    cm_knn_loo$byClass["Specificity"],
+    cm_knn_loo$byClass["Balanced Accuracy"]
+  )
+)
+
+knn_loo_table
+knn_loo_confusion <- as.data.frame(cm_knn_loo$table)
+knn_loo_confusion
+

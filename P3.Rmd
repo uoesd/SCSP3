@@ -242,3 +242,57 @@ cat("\nBinary KNN Confusion Matrix:\n")
 print(confusionMatrix(as.factor(predictions_knn), as.factor(truth)))
 
 ```
+
+## KNN
+
+```{r}
+# k values
+k_vals <- 1:20
+
+# plot accuracy vs k
+plot(k_vals, k_analysis,
+     type = "b",      
+     pch = 19,
+     xlab = "k (number of neighbors)",
+     ylab = "Cross-validated accuracy",
+     main = "KNN Accuracy")
+
+# optional grid for readability
+grid()
+
+
+```
+
+
+
+
+
+```{r}
+knn_loo_table <- data.frame(
+  Metric = c("Accuracy", "Kappa",
+             "Human Recall (Sensitivity)",
+             "AI Recall (Specificity)",
+             "Balanced Accuracy"),
+  Value = c(
+    cm_knn_loo$overall["Accuracy"],
+    cm_knn_loo$overall["Kappa"],
+    cm_knn_loo$byClass["Sensitivity"],
+    cm_knn_loo$byClass["Specificity"],
+    cm_knn_loo$byClass["Balanced Accuracy"]
+  )
+)
+
+knitr::kable(knn_loo_table,
+             digits = 3,
+             caption = "LOOCV Performance of k-NN (k = 2)")
+
+knitr::kable(cm_knn_loo$table,
+             caption = "Confusion Matrix")
+
+
+```
+
+
+
+
+
