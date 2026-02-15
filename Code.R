@@ -1,4 +1,5 @@
 set.seed(0)
+library(kableExtra)
 library(caret)
 library(dplyr)
 library(ggplot2)
