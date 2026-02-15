@@ -129,7 +129,7 @@ cm_knn <- confusionMatrix(as.factor(test_pred_knn), as.factor(test_y_knn))
 
 knitr::kable(as.data.frame(cm_knn$table), caption = "Confusion Matrix")
 
-confusionMatrix(as.factor(test_pred_knn), as.factor(test_y_knn))
+loo_knn_cm <- confusionMatrix(as.factor(test_pred_knn), as.factor(test_y_knn))
 
 
 # 

@@ -243,6 +243,8 @@ print(confusionMatrix(as.factor(predictions_knn), as.factor(truth)))
 
 ```
 
+# Model Choice
+
 ## KNN
 
 ```{r}
@@ -293,6 +295,12 @@ knitr::kable(cm_knn_loo$table,
 ```
 
 
+```{r}
 
+knitr::kable(loo_knn_cm$table,
+             caption = "Confusion Matrix")
+```
+
+## DA
 
 
