@@ -186,9 +186,6 @@ da_loo_table  <- data.frame(
     cm_da_loo$byClass["Balanced Accuracy"]
   )
 )
-da_test_table
-da_loo_table
-
 
 # KNN
 
@@ -342,28 +339,3 @@ hist(log_diff, main="Gemini log-likelihood difference", xlab="log p(Human) - log
 abline(v=0)
 
 
-
-# method 2??
-human_counts <- colSums(features[[human_index]])
-gpt_counts   <- colSums(features[[gpt_index]])
-
-trainset <- rbind(human_counts, gpt_counts)
-
-# modelling
-C <- dim(trainset)[1]
-pis <- rep(1/C, C)
-
-thetas <- matrix(0, nrow=C, ncol=ncol(trainset))
-
-for (i in 1:C) {
-  thetas[i,] <- trainset[i,] / sum(trainset[i,])
-}
-
-
-posterior <- numeric(C)
-
-for(i in 1:C){
-  posterior[i] <- log(pis[i]) + dmultinom(testdata, prob=thetas[i,], log=TRUE)
-}
-
-which.max(posterior)

@@ -5,33 +5,36 @@ date: "2026-02-05"
 output: pdf_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-source("code.R")
+```{r setup, echo=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+source("Code.R")
 set.seed(0)
-
 ```
 
-# Brief Introduction 
+## Brief Introduction 
 
 
-# Data preprocessing
+## Data preprocessing
 The dataset contains around 3,500 complete English language texts presented in Stylometry form, grouped by author: Human, ChatGPT, Gemini and Llama. To solve this task, all large language model (LLM) texts were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into an 80% training set and a 20% testing set, and the texts were normalised to ensure comparability across texts of different lengths. Finally, the normalised 80% training set was used for exploratory data analysis.
 
-# Exploratory Data Analysis
-```{r Table 1, fig.cap="Basic Information of The Training Data"}
+## Exploratory Data Analysis
+```{r Table 1, echo=FALSE, fig.cap="Basic Information of The Training Data", message=FALSE, warning=FALSE}
 T1
 ```
 
 The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words for each text. Next, let's look at the mean difference in function words between LLM and Human texts.
   
-```{r Figure 1, fig.cap="Top 10 Mean Difference in Function Words Between LLM and Human Texts"}
+```{r Figure 1, echo=FALSE, fig.cap="Top 10 Mean Difference in Function Words Between LLM and Human Texts", warning=FALSE}
 barplot(mean_diff[top], ylab = "Mean Difference")
 ```
 
 Figure 1 shows the mean difference in function words, where the difference is LLM minus Human. We find that several function words have difference. In particular, V201 shows the largest mean difference, about 0.032, indicating that this function word is used very differently in human written and LLM written texts. This means V201 is an important feature for classifying human and LLM texts. Then, we used MDS visualisation to check the overall difference between Human and LLM texts.
 
-```{r Figure 2, fig.cap="MDS Visualisation of Human and LLM Texts"}
+```{r Figure 2, echo=FALSE, fig.cap="MDS Visualisation of Human and LLM Texts", warning=FALSE}
 plot(mds_res[,1], mds_res[,2],
      col = ifelse(eda_y == "Human", "blue", "red"),
      pch = 16,
@@ -52,7 +55,7 @@ legend("topright",
 
 As shown in Figure 2, the Human and LLM texts overlap but have different centroids, indicating partial separation and they may be separated in later analysis. Then, we used MDS Visualisation of Authors to explore the difference between human, ChatGPT, Gemini, and Llama texts.
 
-```{r Figure 3, fig.cap="MDS Visualisation of Authors"}
+```{r Figure 3, echo=FALSE, fig.cap="MDS Visualisation of Authors", warning=FALSE}
 plot(pts, 
      type="n", 
      xlim = c(min(pts[,1]) - 2, max(pts[,1]) + 1), 
@@ -63,11 +66,11 @@ text(pts[,1], pts[,2], labels=authors)
 
 In Figure 3, we find that LLM texts are on the right side and human texts are on the left side, indicating that human and LLM texts have different writing styles. In addition, different LLMs also have different writing styles. GPT is far away from Gemini and Llama. However, Gemini and Llama are close to each other, so they are more likely to be confused. After understanding the data, we start modelling.
 
-# Modelling
+## Modelling
 
 In this section, we will discuss two models 'K-nearest neighbors' and 'Discriminant Analysis' and compare to choose a more suitable model. Based on training data, we will use LOOCV to assess each performance. Particularly for KNN, a 10-fold cross validation will be used to choose a better value 'k'.
 
-## KNN
+### KNN
 
 'K-Nearest Neighbors' (KNN) assigns a class label to a test observation based on the majority label among its k closest training samples in feature space. Distance between observations is typically measured using Euclidean distance after feature standardization. Comparing to 'DA', 'KNN' makes no distributional assumptions and relies directly on local neighborhood structure. 
 
@@ -75,7 +78,7 @@ However, its performance is sensitive to the choice of k, for example in case of
 
 From figure [] below, 'KNN' with k from 1 to 10 all gives similar accuracy around 0.8, but the human recalls are pretty low, lead to a low balanced accuracy. It means that many human data points are wrong classified to AI, which cause the fake high accuracy. We will discuss it later in LOOCV after we choosing k=2 (k with highest human recall).
 
-```{r Figure 4, fig.cap="10-fold cross-validated performance of KNN showing accuracy, balanced accuracy, and human recall across different k values."}
+```{r Figure 4, echo=FALSE, fig.cap="10-fold cross-validated performance of KNN showing accuracy.", warning=FALSE}
 
 knn_cv_plot
 
@@ -87,22 +90,22 @@ Table 1 below shows the LOOCV results of 'KNN' with k=2, 658 of human texts are 
 \centering
 \begin{minipage}{0.48\linewidth}
 \centering
-```{r, results='asis'}
-knitr::kable(knn_loo_table, digits = 3, booktabs = TRUE)
+```{r echo=FALSE, warning=FALSE}
+knitr::kable(knn_loo_table, digits = 3)
 ```
 \caption{LOOCV Performance of KNN with k=2}
 \end{minipage}
 \hfill
 \begin{minipage}{0.48\linewidth}
 \centering
-```{r, results='asis'}
-knitr::kable(cm_knn_loo$table, booktabs = TRUE)
+```{r echo=FALSE, warning=FALSE}
+knitr::kable(cm_knn_loo$table)
 ```
 \caption{Loocv confusion matrix for KNN with k=3}
 \end{minipage}
 \end{table}
 
-## DA
+### DA
 
 'Discriminant Analysis' assumes that observations from each class follow a multivariate normal distribution with means and variance from sample. Classification is performed by assigning each observation to the class with the higher probability. Because DA estimates a global decision boundary rather than relying on local neighbors, it is typically more stable KNN, especially when we have imbalanced number of data points. 
 
@@ -112,7 +115,7 @@ Based on training data, Table [] and confusion matrix below show that 'DA' perfo
 \centering
 \begin{minipage}{0.48\linewidth}
 \centering
-```{r, results='asis'}
+```{r echo=FALSE, warning=FALSE}
 knitr::kable(da_loo_table, digits = 3,
              caption = "DA Performance — LOOCV")
 
@@ -122,7 +125,7 @@ knitr::kable(da_loo_table, digits = 3,
 \hfill
 \begin{minipage}{0.48\linewidth}
 \centering
-```{r, results='asis'}
+```{r echo=FALSE, warning=FALSE}
 knitr::kable(cm_da_loo$table,
              caption = "DA (LOOCV)")
 ```
@@ -132,7 +135,7 @@ knitr::kable(cm_da_loo$table,
 
 Based on the validation results, we will choose discriminant analysis below to classify the testing data.
 
-# Testing Results
+## Testing Results
 
 Now we start to classify testing data. Since testset is independent with trainset and separated randomly, we have evidence to say that for any given texts, the model is able to classify them between AI and Human at accuracy 95% confidence interval 0.841-0.888, with out obvious bias on AI or Human.
 
@@ -140,7 +143,7 @@ Now we start to classify testing data. Since testset is independent with trainse
 \centering
 \begin{minipage}{0.48\linewidth}
 \centering
-```{r, results='asis'}
+```{r echo=FALSE, warning=FALSE}
 
 knitr::kable(da_test_table, digits = 3,
              caption = "DA Performance — Test Set")
@@ -150,7 +153,7 @@ knitr::kable(da_test_table, digits = 3,
 \hfill
 \begin{minipage}{0.48\linewidth}
 \centering
-```{r, results='asis'}
+```{r echo=FALSE, warning=FALSE}
 knitr::kable(cm_da_test$table,
              caption = "DA (Test)")
 ```
@@ -158,7 +161,9 @@ knitr::kable(cm_da_test$table,
 \end{minipage}
 \end{table}
 
-```{r}
+
+
+```{r echo=FALSE, warning=FALSE}
 hist(log_diff,
      main="Gemini log-likelihood difference",
      xlab="log p(Human) - log p(GPT)")
