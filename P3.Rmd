@@ -19,7 +19,7 @@ set.seed(0)
 
 This paper will focus on classifying LLM texts and Human texts based on the difference on number of 200-function-words they use in a text like 'a' and 'the', together with total other words. There will be 3 LLM models: GPT, Gemini and Llama, which will be all seen as LLM group.
 
-We will talk about two model, 'K-nearest-neighbour' and 'Discriminant Analysis'. KNN labels points by their nearest group point. DA labels points by probability. We will introduce them later. Then we apply the chosen model on testing points to find a general results for future application and got an accuracy over 0.85. 
+We will talk about two model, 'K-nearest-neighbour' and 'Discriminant Analysis'. KNN labels points by their nearest group point. DA labels points by probability. We will introduce them later. Then we apply the chosen model DA on testing points to find a general results for future application and got an accuracy over 0.85. 
 
 In the end, as an extra research, we will find the similarity between three LLM's texts comparing to Human. For example, we train the model by Human and GPT, and test on Gemini.
 
