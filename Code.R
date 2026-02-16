@@ -3,6 +3,7 @@ library(caret)
 library(dplyr)
 library(ggplot2)
 library(tidyr)
+
 # Loading functions
 source("stylometryfunctions.R")
 
@@ -44,6 +45,92 @@ features_train <- mapply(function(mat, idx) {
 features_test <- mapply(function(mat, idx) {
   mat[-idx, ]
 }, features_bin, split_idx, SIMPLIFY = FALSE)
+
+# normalization (train)
+normalize_rows <- function(mat) mat / rowSums(mat)
+features_train_norm <- lapply(features_train, normalize_rows)
+
+# Basic Information of The Training Data
+eda_X <- do.call(rbind, features_train_norm)
+eda_y <- rep(c("Human", "LLM"), sapply(features_train_norm, nrow))
+
+df <- data.frame("Number of texts" = c(nrow(features_train_norm[[1]]), nrow(features_train_norm[[2]])),
+                 "Number of Function words" = c(ncol(eda_X)-1, ncol(eda_X)-1), 
+                 row.names = c("Human", "LLM"),
+                 check.names = FALSE)
+
+T1 <- knitr::kable(df)
+T1
+
+# Top 10 Mean Difference in Function Words Between LLM and Human Texts
+human_mean <- colMeans(features_train_norm[[1]])
+llm_mean   <- colMeans(features_train_norm[[2]])
+
+mean_diff <- llm_mean - human_mean
+top <- order(abs(mean_diff), decreasing = TRUE)[1:10]
+
+barplot(mean_diff[top], ylab = "Mean Difference")
+
+# MDS Visualisation of Human and LLM Texts
+dist_mat <- dist(eda_X)
+mds_res  <- cmdscale(dist_mat)
+
+plot(mds_res[,1], mds_res[,2],
+     col = ifelse(eda_y == "Human", "blue", "red"),
+     pch = 16,
+     cex = 0.6,
+     xlab = "MDS1",
+     ylab = "MDS2")
+
+human_cent <- colMeans(mds_res[eda_y == "Human", ])
+llm_cent   <- colMeans(mds_res[eda_y == "LLM", ])
+
+points(human_cent[1], human_cent[2], pch = 4, cex = 2, lwd = 2, col = "blue")
+points(llm_cent[1], llm_cent[2], pch = 4, cex = 2, lwd = 2, col = "Black")
+
+legend("topright",
+       legend = c("Human texts", "LLM texts", "Human centroid", "LLM centroid"),
+       col = c("blue", "red", "blue", "Black"),
+       pch = c(16, 16, 4, 4),
+       pt.cex = c(0.8, 0.8, 2, 2),
+       bty = "n")
+
+# Randomly split the whole dataset to train data(80%) and test data(20%)
+split_idx <- lapply(features, function(mat) {
+  sample(1:nrow(mat), size = floor(0.8 * nrow(mat)))
+})
+
+features_train_Authors <- mapply(function(mat, idx) {
+  mat[idx, ]
+}, features, split_idx, SIMPLIFY = FALSE)
+
+features_test_Authors <- mapply(function(mat, idx) {
+  mat[-idx, ]
+}, features, split_idx, SIMPLIFY = FALSE)
+
+# MDS Visualisation of Authors
+x <- NULL
+for (i in 1:length(features_train_Authors)) {
+  x <- rbind(x, apply(features_train_Authors[[i]], 2, sum))
+}
+
+for (i in 1:nrow(x)) {
+  x[i,] <- x[i,] / sum(x[i,])
+}
+
+for (j in 1:ncol(x)) {
+  x[,j] <- (x[,j]- mean(x[,j]))/sd(x[,j])
+}
+
+d <- dist(x)
+pts <- cmdscale(d)
+
+plot(pts, 
+     type="n", 
+     xlim = c(min(pts[,1]) - 2, max(pts[,1]) + 1), 
+     ylim = c(min(pts[,2]) - 1, max(pts[,2]) + 1))
+
+text(pts[,1], pts[,2], labels=authors)
 
 # DA
 
@@ -203,4 +290,3 @@ knn_cv_plot <- ggplot(plot_long, aes(x = k, y = Score,
     legend.title = element_blank(),
     plot.title = element_text(hjust = 0.5, face = "bold")
   )
-

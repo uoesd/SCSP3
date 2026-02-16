@@ -15,55 +15,28 @@ source("code.R")
 
 
 # Data preprocessing
-The dataset contains around 3,500 complete English language text presented in Stylometry form, grouped by authors: Human, ChatGPT, Gemini and Llama. To slove this task, all large language model (LLM) were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into 80% training sets and 20% testing sets, and the texts were normalised to ensure comparability across texts of different lengths. Finally, The normalised 80% training set was used for exploratory data analysis.
+The dataset contains around 3,500 complete English language texts presented in Stylometry form, grouped by author: Human, ChatGPT, Gemini and Llama. To solve this task, all large language model (LLM) texts were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into an 80% training set and a 20% testing set, and the texts were normalised to ensure comparability across texts of different lengths. Finally, the normalised 80% training set was used for exploratory data analysis.
 
 # Exploratory Data Analysis
-
-```{r}
-# normalization(train)
-normalize_rows <- function(mat) mat / rowSums(mat)
-features_train_norm <- lapply(features_train, normalize_rows)
-
-eda_X <- do.call(rbind, features_train_norm)
-eda_y <- rep(c("Human", "LLM"), sapply(features_train_norm, nrow))
-
-
-
-
-d1 <- data.frame("Human texts" = nrow(features_train_norm[[1]]),
-                  "LLM texts" = nrow(features_train_norm[[2]]),
-                  "Function words" = ncol(eda_X),
-                  check.names = FALSE)
-d1
+```{r Table 1, fig.cap="Basic Information of The Training Data"}
+T1
 ```
 
-```{r}
-human_mean <- colMeans(features_train_norm[[1]])
-llm_mean   <- colMeans(features_train_norm[[2]])
-
-mean_diff <- human_mean - llm_mean
-top <- order(abs(mean_diff), decreasing = TRUE)[1:10]
-
-barplot(mean_diff[top],
-        main = "Top 10 Function Words Mean Difference Between Human and LLM Texts",
-        ylab = "Mean Difference")
+The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words for each text. Next, let's look at the mean difference in function words between LLM and Human texts.
+  
+```{r Figure 1, fig.cap="Top 10 Mean Difference in Function Words Between LLM and Human Texts"}
+barplot(mean_diff[top], ylab = "Mean Difference")
 ```
 
+Figure 1 shows the mean difference in function words, where the difference is LLM minus Human. We find that several function words have difference. In particular, V201 shows the largest mean difference, about 0.032, indicating that this function word is used very differently in human written and LLM written texts. This means V201 is an important feature for classifying human and LLM texts. Then, we used MDS visualisation to check the overall difference between Human and LLM texts.
 
-```{r}
-dist_mat <- dist(eda_X)
-mds_res  <- cmdscale(dist_mat)
-
+```{r Figure 2, fig.cap="MDS Visualisation of Human and LLM Texts"}
 plot(mds_res[,1], mds_res[,2],
      col = ifelse(eda_y == "Human", "blue", "red"),
      pch = 16,
      cex = 0.6,
      xlab = "MDS1",
-     ylab = "MDS2",
-     main = "MDS Visualisation of Stylometric Distances")
-
-human_cent <- colMeans(mds_res[eda_y == "Human", ])
-llm_cent   <- colMeans(mds_res[eda_y == "LLM", ])
+     ylab = "MDS2")
 
 points(human_cent[1], human_cent[2], pch = 4, cex = 2, lwd = 2, col = "blue")
 points(llm_cent[1], llm_cent[2], pch = 4, cex = 2, lwd = 2, col = "Black")
@@ -76,40 +49,18 @@ legend("topright",
        bty = "n")
 ```
 
-```{r}
-split_idx <- lapply(features, function(mat) {
-  sample(1:nrow(mat), size = floor(0.8 * nrow(mat)))
-})
+As shown in Figure 2, the Human and LLM texts overlap but have different centroids, indicating partial separation and they may be separated in later analysis. Then, we used MDS Visualisation of Authors to explore the difference between human, ChatGPT, Gemini, and Llama texts.
 
-features_train <- mapply(function(mat, idx) {
-  mat[idx, ]
-}, features, split_idx, SIMPLIFY = FALSE)
+```{r Figure 3, fig.cap="MDS Visualisation of Authors"}
+plot(pts, 
+     type="n", 
+     xlim = c(min(pts[,1]) - 2, max(pts[,1]) + 1), 
+     ylim = c(min(pts[,2]) - 1, max(pts[,2]) + 1))
 
-features_test <- mapply(function(mat, idx) {
-  mat[-idx, ]
-}, features, split_idx, SIMPLIFY = FALSE)
-
-x <- NULL
-for (i in 1:length(features_train)) {
-  x <- rbind(x, apply(features_train[[i]], 2, sum))
-}
-
-for (i in 1:nrow(x)) {
-x[i,] <- x[i,] / sum(x[i,])
-}
-
-for (j in 1:ncol(x)) {
-x[,j] <- (x[,j]- mean(x[,j]))/sd(x[,j])
-}
-
-d <- dist(x)
-pts <- cmdscale(d)
-
-plot(pts, type="n", main="MDS Plot of Authors")
 text(pts[,1], pts[,2], labels=authors)
+``` 
 
-```
-
+In Figure 3, we find that LLM texts are on the right side and human texts are on the left side, indicating that human and LLM texts have different writing styles. In addition, different LLMs also have different writing styles. GPT is far away from Gemini and Llama. However, Gemini and Llama are close to each other, so they are more likely to be confused. After understanding the data, we start modelling.
 
 # Modelling
 
@@ -123,7 +74,7 @@ However, its performance is sensitive to the choice of k, for example in case of
 
 From figure [] below, 'KNN' with k from 1 to 10 all gives similar accuracy around 0.8, but the human recalls are pretty low, lead to a low balanced accuracy. It means that many human data points are wrong classified to AI, which cause the fake high accuracy. We will discuss it later in LOOCV after we choosing k=2 (k with highest human recall).
 
-```{r Figure 1, fig.cap="10-fold cross-validated performance of KNN showing accuracy, balanced accuracy, and human recall across different k values."}
+```{r Figure 4, fig.cap="10-fold cross-validated performance of KNN showing accuracy, balanced accuracy, and human recall across different k values."}
 
 knn_cv_plot
 
@@ -134,7 +85,7 @@ Table [] and confusion matrix below show the results of 'KNN' LOOCV, 658 of huma
 
 
 
-```{r Table 1, fig.cap="10-fold cross-validated performance of KNN showing accuracy, balanced accuracy, and human recall across different k values."}
+```{r Table 2, fig.cap="10-fold cross-validated performance of KNN showing accuracy, balanced accuracy, and human recall across different k values."}
 knitr::kable(knn_loo_table,
              digits = 3,
              caption = "LOOCV Performance of k-NN (k = 2)")
