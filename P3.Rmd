@@ -15,8 +15,13 @@ source("Code.R")
 set.seed(0)
 ```
 
-## Brief Introduction 
+## Executive summary
 
+This paper will focus on classifying AI texts and Human texts based on the difference on number of 200-frequent-words they use in a text like 'a' and 'the' and total other words. There will be 3 AI: GPT, Gemini and Llama, which will be seen as AI group.
+
+We will talk about two model, 'K-nearest-neighbour' and 'Discriminant Analysis'. KNN labels points by their nearest group point. DA labels points by probability. We will introduce them later. Then we apply the chosen model on testing points to find a general results for future application and got an accuracy over 0.85. 
+
+In the end, as an extra research, we will find the similarity between three AI's texts comparing to Human. For example, we train the model by Human and GPT, and test on Gemini.
 
 ## Data preprocessing
 The dataset contains around 3,500 complete English language texts presented in Stylometry form, grouped by author: Human, ChatGPT, Gemini and Llama. To solve this task, all large language model (LLM) texts were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into an 80% training set and a 20% testing set, and the texts were normalised to ensure comparability across texts of different lengths. Finally, the normalised 80% training set was used for exploratory data analysis.
