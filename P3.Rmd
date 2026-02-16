@@ -5,7 +5,7 @@ date: "2026-02-05"
 output: pdf_document
 ---
 
-```{r setup, echo=FALSE}
+```{r setup, echo=FALSE, message = FALSE, warning = FALSE, include = FALSE}
 knitr::opts_chunk$set(
 	echo = FALSE,
 	message = FALSE,
@@ -76,90 +76,66 @@ In this section, we will discuss two models 'K-nearest neighbors' and 'Discrimin
 
 However, its performance is sensitive to the choice of k, for example in case of k=1, an outlier of human data lays near AI's group can make test points of AI near it wrong labeled. Because of the number of AI training points is three times of Human, a very high k is not a good choice.
 
-From figure [] below, 'KNN' with k from 1 to 10 all gives similar accuracy around 0.8, but the human recalls are pretty low, lead to a low balanced accuracy. It means that many human data points are wrong classified to AI, which cause the fake high accuracy. We will discuss it later in LOOCV after we choosing k=2 (k with highest human recall).
+From figure 4 below, 'KNN' with k from 1 to 10 all gives similar accuracy around 0.8, but the human recalls are pretty low, lead to a low balanced accuracy. It means that many human data points are wrong classified to AI, which cause the fake high accuracy. We will discuss it later by confusion matrix in LOOCV after we choosing k=2 (k with highest human recall).
 
 ```{r Figure 4, echo=FALSE, fig.cap="10-fold cross-validated performance of KNN showing accuracy.", warning=FALSE}
-
 knn_cv_plot
 
 ```
 
-Table 1 below shows the LOOCV results of 'KNN' with k=2, 658 of human texts are classified to AI, the kappa value is pretty low so the true improvement of this model over chance is only moderate. The reason for this may come from the imbalanced number of data points together with high overlap of two classes.
+Table 2 below shows the LOOCV results of 'KNN' with k=2, 658 of human texts are classified to AI, which means that the model is bad on recognizing Human texts, most points are classified to AI. 
 
-\begin{table}[ht]
-\centering
-\begin{minipage}{0.48\linewidth}
-\centering
 ```{r echo=FALSE, warning=FALSE}
-knitr::kable(knn_loo_table, digits = 3)
+knitr::kable(cm_knn_loo$table, booktabs = TRUE, caption = "Confusion Matrix of LOOCV for KNN with k=2. ('1' is labeled as 'Human', '2' is labeled as 'AI')")
 ```
-\caption{LOOCV Performance of KNN with k=2}
-\end{minipage}
-\hfill
-\begin{minipage}{0.48\linewidth}
-\centering
+
+So the kappa value is pretty low so the true improvement of this model over chance is only moderate. And the sensitivity (Human recall) and balanced accuracy are pretty low. 
+
+The reason for this may come from the imbalanced number of data points together with high overlap of two classes.
+
 ```{r echo=FALSE, warning=FALSE}
-knitr::kable(cm_knn_loo$table)
+knitr::kable(knn_loo_table, digits = 3, booktabs = TRUE, caption = "KNN(k=2) Performance — LOOCV")
 ```
-\caption{Loocv confusion matrix for KNN with k=3}
-\end{minipage}
-\end{table}
 
 ### DA
 
 'Discriminant Analysis' assumes that observations from each class follow a multivariate normal distribution with means and variance from sample. Classification is performed by assigning each observation to the class with the higher probability. Because DA estimates a global decision boundary rather than relying on local neighbors, it is typically more stable KNN, especially when we have imbalanced number of data points. 
 
-Based on training data, Table [] and confusion matrix below show that 'DA' performs much better than 'KNN' in LOOCV. The accuracy is 0.874, with both high sensitivity and specificity. So 'DA' gives a fair classification with meaningful accuracy. Also kappa value (0.685) indicates substantial agreement.
+Based on training data, Table 4 and 5 below show that 'DA' performs much better than 'KNN' in LOOCV. Only 131 from Human and 306 from AI are wrong classified. The accuracy is 0.874, with both high sensitivity and specificity. So 'DA' gives a fair classification with meaningful accuracy. Also kappa value (0.685) indicates substantial agreement.
 
-\begin{table}[ht]
-\centering
-\begin{minipage}{0.48\linewidth}
-\centering
+```{r echo=FALSE, warning=FALSE}
+knitr::kable(cm_da_loo$table,
+             caption = "Confusion Matrix of LOOCV for DA. ('1' is labeled as 'Human', '2' is labeled as 'AI')")
+```
+
 ```{r echo=FALSE, warning=FALSE}
 knitr::kable(da_loo_table, digits = 3,
              caption = "DA Performance — LOOCV")
+```
 
-```
-\caption{LOOCV Performance of DA}
-\end{minipage}
-\hfill
-\begin{minipage}{0.48\linewidth}
-\centering
-```{r echo=FALSE, warning=FALSE}
-knitr::kable(cm_da_loo$table,
-             caption = "DA (LOOCV)")
-```
-\caption{Loocv confusion matrix for KNN with k=3}
-\end{minipage}
-\end{table}
 
 Based on the validation results, we will choose discriminant analysis below to classify the testing data.
 
 ## Testing Results
 
-Now we start to classify testing data. Since testset is independent with trainset and separated randomly, we have evidence to say that for any given texts, the model is able to classify them between AI and Human at accuracy 95% confidence interval 0.841-0.888, with out obvious bias on AI or Human.
+Now we start to classify testing data by discriminant analysis. The model is trained by trainset.
 
-\begin{table}[ht]
-\centering
-\begin{minipage}{0.48\linewidth}
-\centering
-```{r echo=FALSE, warning=FALSE}
+From the confusion matrix below, we can see that most texts are corrected labeled.
 
-knitr::kable(da_test_table, digits = 3,
-             caption = "DA Performance — Test Set")
-```
-\caption{Testset classification performance from DA}
-\end{minipage}
-\hfill
-\begin{minipage}{0.48\linewidth}
-\centering
 ```{r echo=FALSE, warning=FALSE}
-knitr::kable(cm_da_test$table,
-             caption = "DA (Test)")
+knitr::kable(cm_da_test$table, digits = 3,
+             caption = "Confusion Matrix of testing for DA. ('1' is labeled as 'Human', '2' is labeled as 'AI')")
+
 ```
-\caption{Testset classification confusion matrix from DA}
-\end{minipage}
-\end{table}
+
+Since testset is independent with trainset and separated randomly, we have evidence to say that for any given texts, the model is able to classify them between AI and Human at accuracy 95% confidence interval 0.841-0.888, with out obvious bias on AI or Human.
+
+```{r echo=FALSE, warning=FALSE}
+knitr::kable(da_test_table, digits = 3, caption = "DA Performance — Testing")
+```
+
+
+
 
 
 

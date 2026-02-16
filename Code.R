@@ -3,7 +3,8 @@ library(caret)
 library(dplyr)
 library(ggplot2)
 library(tidyr)
-
+library(gridExtra)
+library(grid)
 # Loading functions
 source("stylometryfunctions.R")
 
@@ -179,8 +180,8 @@ da_test_table <- data.frame(
 
 da_loo_table  <- data.frame(
   Value = c(
-    as.numeric(cm_da_loo$overall["Accuracy"]),
-    as.numeric(cm_da_loo$overall["Kappa"]),
+    cm_da_loo$overall["Accuracy"],
+    cm_da_loo$overall["Kappa"],
     cm_da_loo$byClass["Sensitivity"],
     cm_da_loo$byClass["Specificity"],
     cm_da_loo$byClass["Balanced Accuracy"]
@@ -276,8 +277,7 @@ knn_cv_plot <- ggplot(plot_long, aes(x = k, y = Score,
   geom_line(size = 0.8) +
   geom_point(size = 2) +
   scale_y_continuous(limits = c(0, 1)) +
-  labs(title = "10-Fold CV Performance of k-NN",
-       x = "k (number of neighbors)",
+  labs(x = "k (number of neighbors)",
        y = "Score") +
   theme_minimal(base_size = 13) +
   theme(
@@ -363,4 +363,3 @@ for(i in 1:C){
 }
 
 which.max(posterior)
-
