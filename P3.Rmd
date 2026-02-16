@@ -17,7 +17,7 @@ set.seed(0)
 
 ## Executive summary
 
-This paper will focus on classifying LLM texts and Human texts based on the difference on number of 200-function-words they use in a text like 'a' and 'the', together with total other words. There will be 3 LLM models: GPT, Gemini and Llama, which will be all seen as LLM group.
+This paper will focus on classifying LLM texts and Human texts based on the difference on number of 200 function words they use in a text like 'a' and 'the', together with total other words. There will be 3 LLM models: GPT, Gemini and Llama, which will be all seen as LLM group.
 
 We will talk about two model, 'K-nearest-neighbour' and 'Discriminant Analysis'. KNN labels points by their nearest group point. DA labels points by probability. We will introduce them later. Then we apply the chosen model DA on testing points to find a general results for future application and got an accuracy over 0.85. 
 
@@ -31,7 +31,7 @@ The dataset contains around 3,500 complete English language texts presented in S
 T1
 ```
 
-The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words for each text. Next, let's look at the mean difference in function words between LLM and Human texts.
+The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for other words in each text. Next, let's look at the mean difference in function words between LLM and Human texts.
   
 ```{r Figure 1, echo=FALSE, fig.cap="Top 10 Mean Difference in Function Words Between LLM and Human Texts", warning=FALSE}
 barplot(mean_diff[top], ylab = "Mean Difference")

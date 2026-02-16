@@ -53,8 +53,8 @@ features_train_norm <- lapply(features_train, normalize_rows)
 eda_X <- do.call(rbind, features_train_norm)
 eda_y <- rep(c("Human", "LLM"), sapply(features_train_norm, nrow))
 
-df <- data.frame("Number of texts" = c(nrow(features_train_norm[[1]]), nrow(features_train_norm[[2]])),
-                 "Number of Function words" = c(ncol(eda_X)-1, ncol(eda_X)-1), 
+df <- data.frame("Number of Texts" = c(nrow(features_train_norm[[1]]), nrow(features_train_norm[[2]])),
+                 "Function Words" = c(ncol(eda_X), ncol(eda_X)), 
                  row.names = c("Human", "LLM"),
                  check.names = FALSE)
 
