@@ -123,3 +123,12 @@ knitr::kable(cm_da_test$table,
 ```
 
 
+
+
+```{r}
+hist(log_diff,
+     main="Gemini log-likelihood difference",
+     xlab="log p(Human) - log p(GPT)")
+abline(v=0,col="red")
+
+```
