@@ -19,9 +19,7 @@ authors <- M$authornames
 features <- M$features
 
 # Combining all AI data
-
 human_index <- which(authors == "Human")
-
 human_data <- features[[human_index]]
 
 llm_data <- NULL
@@ -30,10 +28,10 @@ for (i in 1:length(features)) {
     llm_data <- rbind(llm_data, features[[i]])
   }
 }
+
 features_bin <- list(human_data, llm_data)
 
 # Randomly split to train data(80%) and test data(20%)
-
 split_idx <- lapply(features_bin, function(mat) {
   sample(1:nrow(mat), size = floor(0.8 * nrow(mat)))
 })
