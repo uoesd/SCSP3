@@ -288,3 +288,82 @@ knn_cv_plot <- ggplot(plot_long, aes(x = k, y = Score,
     legend.title = element_blank(),
     plot.title = element_text(hjust = 0.5, face = "bold")
   )
+
+
+
+
+
+
+### Bonus
+
+M <- loadCorpus("Data/FunctionWords/", "frequentwords")
+authors <- M$authornames
+features <- M$features
+
+# find observations
+human_index  <- which(authors == "Human")
+gpt_index    <- which(authors == "GPT")
+gemini_index <- which(authors == "Gemini")
+
+# train human and gpt data
+train_data <- list(
+  features[[human_index]],
+  features[[gpt_index]]
+)
+
+
+# find parameters
+
+estimate_theta <- function(mat){
+  word_counts <- colSums(mat)
+  word_counts[word_counts==0] <- 1
+  theta <- word_counts / sum(word_counts)
+  return(theta)
+}
+
+theta_human <- estimate_theta(train_data[[1]])
+theta_gpt   <- estimate_theta(train_data[[2]])
+
+
+# test Gemini data
+testdata <- features[[gemini_index]]
+
+
+# modelling with multivariate distributions
+
+log_h <- apply(testdata, 1, function(row) dmultinom(row, prob = theta_human, log = TRUE))
+log_g <- apply(testdata, 1, function(row) dmultinom(row, prob = theta_gpt,   log = TRUE))
+
+log_diff <- log_h - log_g
+
+#plot
+summary(log_diff)
+hist(log_diff, main="Gemini log-likelihood difference", xlab="log p(Human) - log p(GPT)")
+abline(v=0)
+
+
+
+# method 2??
+human_counts <- colSums(features[[human_index]])
+gpt_counts   <- colSums(features[[gpt_index]])
+
+trainset <- rbind(human_counts, gpt_counts)
+
+# modelling
+C <- dim(trainset)[1]
+pis <- rep(1/C, C)
+
+thetas <- matrix(0, nrow=C, ncol=ncol(trainset))
+
+for (i in 1:C) {
+  thetas[i,] <- trainset[i,] / sum(trainset[i,])
+}
+
+
+posterior <- numeric(C)
+
+for(i in 1:C){
+  posterior[i] <- log(pis[i]) + dmultinom(testdata, prob=thetas[i,], log=TRUE)
+}
+
+which.max(posterior)
