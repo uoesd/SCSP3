@@ -363,3 +363,34 @@ for(i in 1:C){
 
 which.max(posterior)
 
+
+
+#######
+Gemini <- features[[1]]
+GPT <- features[[2]]
+Human <- features[[3]]
+Llama <- features[[4]]
+
+# Human vs GPT: Test on Gemini
+pred_g_h_ge <- discriminantCorpus(list(GPT, Human), Gemini)
+table(pred_g_h_ge)
+
+# Human vs GPT: Test on Llama
+pred_g_h_l <- discriminantCorpus(list(GPT, Human), Llama)
+table(pred_g_h_l)
+
+# Human vs Gemini: Test on GPT
+pred_ge_h_g <- discriminantCorpus(list(Gemini, Human), GPT)
+table(pred_ge_h_g)
+
+# Human vs Gemini: Test on Llama
+pred_ge_h_l <- discriminantCorpus(list(Gemini, Human), Llama)
+table(pred_ge_h_l)
+
+# Human vs Llama: Test on GPT
+pred_l_h_g <- discriminantCorpus(list(Llama, Human), GPT)
+table(pred_l_h_g)
+
+# Human vs Llama: Test on Gemini
+pred_l_h_ge <- discriminantCorpus(list(Llama, Human), Gemini)
+table(pred_l_h_ge)
