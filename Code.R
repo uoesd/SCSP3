@@ -504,7 +504,7 @@ summary_table <- data.frame(
            "Llama",
            "GPT",
            "Gemini"),
-  Prop_Class1 = c(
+  Prop_Class_AI = c(
     prop.table(table(pred_g_h_ge))[1],
     prop.table(table(pred_g_h_l))[1],
     prop.table(table(pred_ge_h_g))[1],
@@ -515,3 +515,14 @@ summary_table <- data.frame(
 )
 
 summary_table
+
+
+library(ggplot2)
+
+ggplot(summary_table,
+       aes(x=Test, y=Prop_Class_AI, group=Train, color=Train)) +
+  geom_line() +
+  geom_point(size=3) +
+  facet_wrap(~Train) +
+  ylim(0,1) +
+  theme_minimal()
