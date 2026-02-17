@@ -133,16 +133,29 @@ text(pts[,1], pts[,2], labels=authors)
 # DA
 
 # Test
+# Make test data matrix and test
+features_test_matrix <- do.call(rbind, features_test)
+pred_da_t <- discriminantCorpus(features_train, features_test_matrix)
 
-features_test_m <- do.call(rbind, features_test)
-pred_da_t <- discriminantCorpus(features_train, features_test_m)
+# Calculate accuracy and make confusion matrix
 truth_da_t <- rep(1:length(features_test), sapply(features_test, nrow))
 acc_da_t <- sum(pred_da_t  == truth_da_t) / length(truth_da_t)
+cm_da_t <- confusionMatrix(as.factor(pred_da_t), as.factor(truth_da_t))
 
-cm_da_test <- confusionMatrix(as.factor(pred_da_t), as.factor(truth_da_t))
+# Reporting table
+da_test_table <- data.frame(
+  Value = c(
+    cm_da_t$overall["Accuracy"],
+    cm_da_t$overall["Kappa"],
+    cm_da_t$byClass["Sensitivity"],
+    cm_da_t$byClass["Specificity"],
+    cm_da_t$byClass["Balanced Accuracy"],
+    cm_da_t$overall["AccuracyLower"],
+    cm_da_t$overall["AccuracyUpper"]
+  )
+)
 
-# LOOCV for DA
-
+# LOOCV
 predictions_da_cv <- NULL
 truth_da_cv <- NULL
 
@@ -161,29 +174,18 @@ for (i in 1:length(features_train)) {
   }
 }
 
+# Calculate accuracy and make confusion matrix
 acc_da_cv  <- sum(predictions_da_cv  == truth_da_cv) / length(truth_da_cv)
-cm_da_loo  <- confusionMatrix(as.factor(predictions_da_cv), as.factor(truth_da_cv))
+cm_da_cv  <- confusionMatrix(as.factor(predictions_da_cv), as.factor(truth_da_cv))
 
-## Reporting
-da_test_table <- data.frame(
-  Value = c(
-    cm_da_test$overall["Accuracy"],
-    cm_da_test$overall["Kappa"],
-    cm_da_test$byClass["Sensitivity"],
-    cm_da_test$byClass["Specificity"],
-    cm_da_test$byClass["Balanced Accuracy"],
-    cm_da_test$overall["AccuracyLower"],
-    cm_da_test$overall["AccuracyUpper"]
-  )
-)
-
+# Reporting table
 da_loo_table  <- data.frame(
   Value = c(
-    cm_da_loo$overall["Accuracy"],
-    cm_da_loo$overall["Kappa"],
-    cm_da_loo$byClass["Sensitivity"],
-    cm_da_loo$byClass["Specificity"],
-    cm_da_loo$byClass["Balanced Accuracy"]
+    cm_da_cv$overall["Accuracy"],
+    cm_da_cv$overall["Kappa"],
+    cm_da_cv$byClass["Sensitivity"],
+    cm_da_cv$byClass["Specificity"],
+    cm_da_cv$byClass["Balanced Accuracy"]
   )
 )
 
@@ -191,20 +193,22 @@ da_loo_table  <- data.frame(
 
 # 10-fold CV analysis for k
 
+# Take the value of train points from list (myKNN needs matrix form) 
 dataset <- build_dataset(features_train)
 X <- dataset$X
 y <- dataset$y
 
+# Do 10-fold CV to find best k based on accuracy, balanced accuracy, sensitivity.
 K <- 10
 fold_id <- sample(rep(1:K, length.out = nrow(X)))
 
-k_analysis <- numeric(20)
-balacc_cv <- numeric(20)
-human_recall <- numeric(20)
+acc_k_analysis <- numeric(20)
+balacc_k_analysis <- numeric(20)
+sen_k_analysis <- numeric(20)
 
 for (k in 1:20) {
   
-  preds <- character(length(y))
+  preds_k_analysis <- character(length(y))
   
   for (fold in 1:K) {
     
@@ -215,22 +219,18 @@ for (k in 1:20) {
     train_y <- y[train_idx]
     test_X  <- X[test_idx, , drop = FALSE]
     
-    # predict the whole fold at once
-    preds[test_idx] <- myKNN(train_X, test_X, train_y, k)
+    preds_k_analysis[test_idx] <- myKNN(train_X, test_X, train_y, k)
   }
   
-  k_analysis[k] <- mean(preds == y)
-  cm_tmp <- confusionMatrix(as.factor(preds), as.factor(y))
-  balacc_cv[k] <- cm_tmp$byClass["Balanced Accuracy"]
-  human_recall[k] <- cm_tmp$byClass["Sensitivity"]
+  acc_k_analysis[k] <- mean(preds_k_analysis == y)
+  cm_k_analysis <- confusionMatrix(as.factor(preds_k_analysis), as.factor(y))
+  balacc_k_analysis[k] <- cm_k_analysis$byClass["Balanced Accuracy"]
+  sen_k_analysis[k] <- cm_k_analysis$byClass["Sensitivity"]
 }
 
-# LOOCV for KNN
-dataset <- build_dataset(features_train)
-X <- dataset$X
-y <- dataset$y
+## LOOCV with k=2
 
-preds <- character(nrow(X))   # <-- FIXED TYPE
+preds_knn_loo <- character(nrow(X))   # <-- FIXED TYPE
 
 for (i in seq_len(nrow(X))) {
   
@@ -238,17 +238,13 @@ for (i in seq_len(nrow(X))) {
   train_y <- y[-i]
   test_X  <- X[i, , drop = FALSE]
   
-  preds[i] <- as.character(myKNN(train_X, test_X, train_y, k = 2))
+  preds_knn_loo[i] <- as.character(myKNN(train_X, test_X, train_y, k = 2))
 }
 
-loo_accuracy <- mean(preds == as.character(y))
+acc_knn_loo <- mean(preds_knn_loo == as.character(y))
+cm_knn_loo <- confusionMatrix(as.factor(preds_knn_loo), as.factor(y))
 
-## Report
-
-# ---- confusion matrix object ----
-cm_knn_loo <- confusionMatrix(as.factor(preds), as.factor(y))
-
-# ---- extract key metrics into a table ----
+# Reporting table
 knn_loo_table <- data.frame( 
   Value = c(
     cm_knn_loo$overall["Accuracy"],
@@ -259,15 +255,18 @@ knn_loo_table <- data.frame(
   )
 )
 
+# Reporting plot for k analysis
+
 k_vals <- 1:20
 
+# Dataframe for plotting
 plot_df <- data.frame(
   k = k_vals,
-  Accuracy = k_analysis,
-  Balanced_Accuracy = balacc_cv,
-  Human_Recall = human_recall
-)
+  Accuracy = acc_k_analysis,
+  Balanced_Accuracy = balacc_k_analysis,
+  Sensitivity = sen_k_analysis)
 
+# Name the variables
 plot_long <- plot_df %>%
   pivot_longer(-k, names_to = "Metric", values_to = "Score")
 
@@ -280,7 +279,7 @@ knn_cv_plot <- ggplot(plot_long, aes(x = k, y = Score,
        y = "Score") +
   theme_minimal(base_size = 13) +
   theme(
-    legend.position = "right",      # legend OUTSIDE on the side
+    legend.position = "right",
     legend.title = element_blank(),
     plot.title = element_text(hjust = 0.5, face = "bold")
   )
@@ -362,3 +361,4 @@ for(i in 1:C){
 }
 
 which.max(posterior)
+

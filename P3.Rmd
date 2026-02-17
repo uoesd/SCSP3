@@ -88,13 +88,13 @@ knn_cv_plot
 
 ```
 
-Table 2 below shows the LOOCV results of 'KNN' with k=2, 658 of human texts are classified to LLM, which means that the model is bad on recognizing Human texts, most points are classified to LLM. 
+Table 2 below shows the LOOCV results of 'KNN' with k=2, 644 of human texts are classified to LLM, which means that the model is bad on recognizing Human texts. 
 
 ```{r echo=FALSE, warning=FALSE}
 knitr::kable(cm_knn_loo$table, booktabs = TRUE, caption = "Confusion Matrix of LOOCV for KNN with k=2. ('1' is labeled as 'Human', '2' is labeled as 'LLM')")
 ```
 
-So the kappa value is pretty low so the true improvement of this model over chance is only moderate. And the sensitivity (Human recall) and balanced accuracy are pretty low. 
+The kappa value is pretty low, so the true improvement of this model over chance is only moderate. And the sensitivity (Human recall) is much more lower than specificity (LLM recall), means that the model is biased on LLM.
 
 The reason for this may come from the imbalanced number of data points together with high overlap of two classes.
 
@@ -106,10 +106,10 @@ knitr::kable(knn_loo_table, digits = 3, booktabs = TRUE, caption = "KNN(k=2) Per
 
 'Discriminant Analysis' assumes that observations from each class follow a multivariate normal distribution with means and variance from sample. Classification is performed by assigning each observation to the class with the higher probability. Because DA estimates a global decision boundary rather than relying on local neighbors, it is typically more stable KNN, especially when we have imbalanced number of data points. 
 
-Based on training data, Table 4 and 5 below show that 'DA' performs much better than 'KNN' in LOOCV. Only 131 from Human and 306 from LLM are wrong classified. The accuracy is 0.874, with both high sensitivity and specificity. So 'DA' gives a fair classification with meaningful accuracy. Also kappa value (0.685) indicates substantial agreement.
+Based on training data, Table 4 and 5 below show that 'DA' performs much better than 'KNN' in LOOCV. Only 131 from Human and 308 from LLM are wrong classified. The accuracy is 0.874, with both high sensitivity and specificity. So 'DA' gives a fair classification with meaningful accuracy. Also kappa value (0.685) indicates substantial agreement.
 
 ```{r echo=FALSE, warning=FALSE}
-knitr::kable(cm_da_loo$table,
+knitr::kable(cm_da_cv$table,
              caption = "Confusion Matrix of LOOCV for DA. ('1' is labeled as 'Human', '2' is labeled as 'LLM')")
 ```
 
@@ -128,7 +128,7 @@ Now we start to classify testing data by discriminant analysis. The model is tra
 From the confusion matrix below, we can see that most texts are corrected labeled.
 
 ```{r echo=FALSE, warning=FALSE}
-knitr::kable(cm_da_test$table, digits = 3,
+knitr::kable(cm_da_t$table, digits = 3,
              caption = "Confusion Matrix of testing for DA. ('1' is labeled as 'Human', '2' is labeled as 'LLM')")
 
 ```
