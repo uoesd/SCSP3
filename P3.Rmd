@@ -31,14 +31,12 @@ The dataset contains around 3,500 complete English language texts presented in S
 T1
 ```
 
-The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for other words in each text. Next, let's look at the mean difference in function words between LLM and Human texts.
-  
+The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for other words in each text. Then, let's look at the mean difference in function words between LLM and Human texts, where the difference is LLM minus Human. 
 ```{r Figure 1, echo=FALSE, fig.cap="Top 10 Mean Difference in Function Words Between LLM and Human Texts", warning=FALSE}
 barplot(mean_diff[top], ylab = "Mean Difference")
 ```
 
-Figure 1 shows the mean difference in function words, where the difference is LLM minus Human. We find that several function words have difference. In particular, V201 shows the largest mean difference, about 0.032, indicating that this function word is used very differently in human written and LLM written texts. This means V201 is an important feature for classifying human and LLM texts. Then, we used MDS visualisation to check the overall difference between Human and LLM texts.
-
+The feature V201 can be ignored, as its high value is primarily due to longer text length rather than meaningful mean difference. We find that several function words have difference. In particular, V1 shows the largest mean difference, about 0.01, indicating that this function word is used very differently in human written and LLM written texts. This means V1 is an important feature for classifying human and LLM texts. Then, we used MDS visualisation to check the overall difference between Human and LLM texts.
 ```{r Figure 2, echo=FALSE, fig.cap="MDS Visualisation of Human and LLM Texts", warning=FALSE}
 plot(mds_res[,1], mds_res[,2],
      col = ifelse(eda_y == "Human", "blue", "red"),
