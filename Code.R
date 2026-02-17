@@ -59,7 +59,7 @@ df <- data.frame("Number of Texts" = c(nrow(features_train_norm[[1]]), nrow(feat
                  row.names = c("Human", "LLM"),
                  check.names = FALSE)
 
-T1 <- knitr::kable(df)
+T1 <- knitr::kable(df, caption = "Table 1: Basic Information of the Training Data")
 
 # Top 10 Mean Difference in Function Words Between LLM and Human Texts
 human_mean <- colMeans(features_train_norm[[1]])
