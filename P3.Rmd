@@ -1,7 +1,6 @@
 ---
-title: "Untitled"
+title: "Supervised Learning Model for LLM Text Detection"
 author: "Du Shi, Kunning Zhang, Yixuan Yin"
-date: "2026-02-05"
 output: pdf_document
 ---
 
@@ -21,7 +20,7 @@ This paper will focus on classifying LLM texts and Human texts based on the diff
 
 We will talk about two model, 'K-nearest-neighbour' and 'Discriminant Analysis'. KNN labels points by their nearest group point. DA labels points by probability. We will introduce them later. Then we apply the chosen model DA on testing points to find a general results for future application and got an accuracy over 0.85. 
 
-In the end, as an extra research, we will find the similarity between three LLM's texts comparing to Human. For example, we train the model by Human and GPT, and test on Gemini.
+In the end, as an extra research, we discuss the similarity between three LLM's and also comparing to Human. For example, we train the model by Human and GPT, and test on Gemini. The final results show that both three LLM texts show significant differences from human text. GPT has the most distinctive written style, Gemini and Llama are similar and both closer to human writing.
 
 ## Data preprocessing
 
