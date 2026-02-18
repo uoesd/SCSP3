@@ -517,12 +517,15 @@ summary_table <- data.frame(
 summary_table
 
 
+#
 library(ggplot2)
 
 ggplot(summary_table,
        aes(x=Test, y=Prop_Class_AI, group=Train, color=Train)) +
-  geom_line() +
+  geom_line(size=1.2) +(base_size=14)
   geom_point(size=3) +
-  facet_wrap(~Train) +
   ylim(0,1) +
-  theme_minimal()
+  labs(title="Classification Proportion under Different Training Models",
+       x="Tested AI",
+       y="Proportion classified as AI class") +
+  theme_minimal(base_size = 14)
