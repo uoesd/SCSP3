@@ -34,14 +34,19 @@ T1
 ```
 
 The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for other words in each text. Then, let's look at the mean difference in function words between LLM and Human texts, where the difference is LLM minus Human. 
+
 \newpage
-```{r Figure 1, echo=FALSE, fig.cap="Top 10 Mean Difference in Function Words Between LLM and Human Texts", warning=FALSE, fig.width = 6.5, fig.height = 3.5}
+
+```{r Figure 1, echo=FALSE, fig.cap="Top 10 Mean Difference in Function Words Between LLM and Human Texts", warning=FALSE, fig.width = 6.5, fig.height = 3}
+par(mar = c(3, 4, 1, 1))
 barplot(mean_diff[top], ylab = "Mean Difference")
 ```
 
 The feature V201 can be ignored, as its high value is primarily due to longer text length rather than meaningful mean difference. We find that several function words have difference. In particular, V1 shows the largest mean difference, about 0.01, indicating that this function word is used very differently in human written and LLM written texts. This means V1 is an important feature for classifying human and LLM texts. Then, we used MDS visualisation to check the overall difference between Human and LLM texts.
 
-```{r Figure 2, echo=FALSE, fig.cap="MDS Visualisation of Human and LLM Texts", warning=FALSE, fig.width = 6, fig.height = 4}
+```{r Figure 2, echo=FALSE, fig.cap="MDS Visualisation of Human and LLM Texts", warning=FALSE, fig.width = 5.5, fig.height = 3}
+par(mar = c(4, 4, 1, 1))
+
 plot(mds_res[,1], mds_res[,2],
      col = ifelse(eda_y == "Human", "blue", "red"),
      pch = 16,
@@ -62,7 +67,7 @@ legend("topleft",
 
 As shown in Figure 2, the Human and LLM texts overlap but have different centroids, indicating partial separation and they may be separated in later analysis. Then, we used MDS Visualisation of Authors to explore the difference between human, ChatGPT, Gemini, and Llama texts.
 
-```{r Figure 3, echo=FALSE, fig.cap="MDS Visualisation of Authors", warning=FALSE, fig.width = 5, fig.height = 3.5}
+```{r Figure 3, echo=FALSE, fig.cap="MDS Visualisation of Authors", warning=FALSE, fig.width = 4.5, fig.height = 3.5}
 plot(pts, 
      type="n", 
      xlim = c(min(pts[,1]) - 2, max(pts[,1]) + 1), 
@@ -70,6 +75,8 @@ plot(pts,
 
 text(pts[,1], pts[,2], labels=authors)
 ``` 
+
+\newpage
 
 In Figure 3, we find that LLM texts are on the right side and human texts are on the left side, indicating that human and LLM texts have different writing styles. In addition, different LLMs also have different writing styles. GPT is far away from Gemini and Llama. However, Gemini and Llama are close to each other, so they are more likely to be confused. After understanding the data, we start modelling.
 
@@ -85,20 +92,20 @@ However, its performance is sensitive to the choice of k, for example in case of
 
 From figure 4 below, 'KNN' with k from 1 to 10 all gives similar accuracy around 0.8, but the human recalls are pretty low, lead to a low balanced accuracy. It means that many human data points are wrong classified to LLM, which cause the fake high accuracy. We will discuss it later by confusion matrix in LOOCV after we choosing k=2 (k with highest human recall).
 
-```{r Figure 4, echo=FALSE, fig.cap="10-fold cross-validated performance of KNN showing accuracy.", warning=FALSE}
+\newpage
+
+```{r Figure 4, echo=FALSE, fig.cap="10-fold cross-validated performance of KNN showing accuracy.", warning=FALSE, fig.width = 6, fig.height = 2.5}
 knn_cv_plot
 
 ```
 
-Table 2 below shows the LOOCV results of 'KNN' with k=2, 644 of human texts are classified to LLM, which means that the model is bad on recognizing Human texts. 
+Table 2 below shows that the LOOCV results of 'KNN' with k=2, 644 of human texts are classified to LLM, which means that the model is bad on recognizing Human texts. 
 
 ```{r echo=FALSE, warning=FALSE}
 knitr::kable(cm_knn_loo$table, booktabs = TRUE, caption = "Confusion Matrix of LOOCV for KNN with k=2. ('1' is labeled as 'Human', '2' is labeled as 'LLM')")
 ```
 
-The kappa value is pretty low, so the true improvement of this model over chance is only moderate. And the sensitivity (Human recall) is much more lower than specificity (LLM recall), means that the model is biased on LLM.
-
-The reason for this may come from the imbalanced number of data points together with high overlap of two classes.
+Table 3 below shows that the kappa value is pretty low, so the true improvement of this model over chance is only moderate. And the sensitivity (Human recall) is much more lower than specificity (LLM recall), means that the model is biased on LLM. The reason for this may come from the imbalanced number of data points together with high overlap of two classes.
 
 ```{r echo=FALSE, warning=FALSE}
 knitr::kable(knn_loo_table, digits = 3, booktabs = TRUE, caption = "KNN(k=2) Performance — LOOCV")
@@ -119,7 +126,6 @@ knitr::kable(cm_da_cv$table,
 knitr::kable(da_loo_table, digits = 3,
              caption = "DA Performance — LOOCV")
 ```
-
 
 Based on the validation results, we will choose discriminant analysis below to classify the testing data.
 

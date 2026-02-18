@@ -176,7 +176,7 @@ df <- data.frame("Number of Texts" = c(nrow(features_train_norm[[1]]), nrow(feat
                  row.names = c("Human", "LLM"),
                  check.names = FALSE)
 
-T1 <- knitr::kable(df, caption = "Table 1: Basic Information of the Training Data")
+T1 <- knitr::kable(df, caption = "Basic Information of the Training Data")
 
 # Top 10 Mean Difference in Function Words Between LLM and Human Texts
 human_mean <- colMeans(features_train_norm[[1]])
@@ -204,7 +204,7 @@ llm_cent   <- colMeans(mds_res[eda_y == "LLM", ])
 points(human_cent[1], human_cent[2], pch = 4, cex = 2, lwd = 2, col = "blue")
 points(llm_cent[1], llm_cent[2], pch = 4, cex = 2, lwd = 2, col = "Black")
 
-legend("topright",
+legend("topleft",
        legend = c("Human texts", "LLM texts", "Human centroid", "LLM centroid"),
        col = c("blue", "red", "blue", "Black"),
        pch = c(16, 16, 4, 4),
