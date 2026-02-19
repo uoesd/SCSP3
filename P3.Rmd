@@ -28,7 +28,7 @@ The dataset contains around 3,500 complete English language texts presented in s
 
 ## Exploratory Data Analysis
 
-The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for all other words in each text. The mean differences in function words between LLM and Human texts is shown in figure 1.
+The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for all other words in each text. The mean differences in function words between LLM and Human texts is shown in figure 1.
  
 \newpage
 
