@@ -336,12 +336,4 @@ summary_table <- data.frame(
                prop.table(table(pred_l_h_ge))[1])
   )
 
-summary_table$Accuracy <- sprintf("%.3f", summary_table$Accuracy)
 summary_table
-
-ggplot(summary_table,
-       aes(x = Test, y = Accuracy, group = Train, color = Train)) +
-  geom_line(size = 1.2) +
-  geom_point(size = 3) +
-  labs(y = "Accuracy", title = "Accuracy if we use the “wrong” LLM to train the data") +
-  theme_minimal()
