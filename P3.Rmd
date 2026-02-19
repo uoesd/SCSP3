@@ -24,19 +24,15 @@ In the end, as an extra research, we discuss the similarity between three LLM's 
 
 ## Data preprocessing
 
-The dataset contains around 3,500 complete English language texts presented in Stylometry form, grouped by author: Human, ChatGPT, Gemini and Llama. To solve this task, all large language model (LLM) texts were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into an 80% training set and a 20% testing set, and the texts were normalised to ensure comparability across texts of different lengths. Finally, the normalised 80% training set was used for exploratory data analysis.
+The dataset contains around 3,500 complete English language texts presented in stylometry form, grouped by author: Human, ChatGPT, Gemini and Llama. To solve this task, all large language model (LLM) texts were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into an 80% training set and a 20% testing set, and the texts were normalised to ensure comparability across texts of different lengths. Finally, the normalised 80% training set was used for exploratory data analysis and model choosing.
 
 ## Exploratory Data Analysis
 
-```{r echo=FALSE, warning=FALSE}
-T1
-```
-
-The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for other words in each text. Then, let's look at the mean difference in function words between LLM and Human texts, where the difference is LLM minus Human. 
-
+The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for all other words in each text. The mean differences in function words between LLM and Human texts is shown in figure 1.
+ 
 \newpage
 
-```{r Figure 1, echo=FALSE, fig.cap="Top 10 Mean Difference in Function Words Between LLM and Human Texts", warning=FALSE, fig.width = 6.5, fig.height = 3}
+```{r Figure 1, echo=FALSE, fig.cap="Top 10 Mean Differences in Function Words Between LLM and Human Texts", warning=FALSE, fig.width = 6.5, fig.height = 3}
 par(mar = c(3, 4, 1, 1))
 barplot(mean_diff[top], ylab = "Mean Difference")
 ```
@@ -130,7 +126,7 @@ Based on the validation results, we will choose discriminant analysis below to c
 
 ## Testing Results
 
-Now we start to classify test set by discriminant analysis. 
+Now we start to classify test set by discriminant analysis. The chosen model is trained by trainset.
 
 From the confusion matrix below, we can see that most texts are corrected labeled.
 
