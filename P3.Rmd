@@ -27,9 +27,10 @@ In the end, as an extra research, we discuss the similarity between three LLM's 
 The dataset contains around 3,500 complete English language texts presented in stylometry form, grouped by author: Human, ChatGPT, Gemini and Llama. To solve this task, all large language model (LLM) texts were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into an 80% training set and a 20% testing set, and the texts were normalised to ensure comparability across texts of different lengths. Finally, the normalised 80% training set was used for exploratory data analysis and model choosing.
 
 ## Exploratory Data Analysis
-
-The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for all other words in each text. The mean differences in function words between LLM and Human texts is shown in figure 1.
- 
+```{r echo=FALSE, warning=FALSE}
+T1
+```
+The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for all other words in each text. The mean differences in function words between LLM and Human texts is shown in figure 1
 \newpage
 
 ```{r Figure 1, echo=FALSE, fig.cap="Top 10 Mean Differences in Function Words Between LLM and Human Texts", warning=FALSE, fig.width = 6.5, fig.height = 3}
@@ -100,7 +101,9 @@ Table 2 below shows that the LOOCV results of 'KNN' with k=2, 644 of human texts
 knitr::kable(cm_knn_loo$table, booktabs = TRUE, caption = "Confusion Matrix of LOOCV for KNN with k=2. ('1' is labeled as 'Human', '2' is labeled as 'LLM')")
 ```
 
-Table 3 below shows that the kappa value is pretty low, so the true improvement of this model over chance is only moderate. And the sensitivity (Human recall) is much more lower than specificity (LLM recall), means that the model is biased on LLM. The reason for this may come from the imbalanced number of data points together with high overlap of two classes.
+Table 3 below shows that the kappa value is pretty low, so the true improvement of this model over chance is only moderate. And the sensitivity (Human recall) is much more lower than specificity (LLM recall), means that the model is biased on LLM.
+
+The reason for this may come from the imbalanced number of data points together with high overlap of two classes.
 
 ```{r echo=FALSE, warning=FALSE}
 knitr::kable(knn_loo_table, digits = 3, booktabs = TRUE, caption = "KNN(k=2) Performance — LOOCV")
