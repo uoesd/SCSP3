@@ -16,21 +16,21 @@ set.seed(0)
 
 ## Executive summary
 
-This paper will focus on classifying LLM texts and Human texts based on the difference on number of 200 function words they use in a text like 'a' and 'the', together with total other words. There will be 3 LLM models: GPT, Gemini and Llama, which will be all seen as LLM group.
+This paper will focus on classifying LLM texts and Human texts based on the difference in the frequencies of 200 function words that commonly appear in a text like 'a' and 'the', together with total other words. There will be 3 LLM models: GPT, Gemini and Llama, which will be all seen as LLM group.
 
-We will talk about two model, 'K-nearest-neighbour' and 'Discriminant Analysis'. KNN labels points by their nearest group point. DA labels points by probability. We will introduce them later. Then we apply the chosen model DA on testing points to find a general results for future application and got an accuracy over 0.85. 
+We will focus on two models, 'K-nearest-neighbour' and 'Discriminant Analysis'. Specifically, KNN labels points by their nearest group point, while DA labels points by probability. After further introductions to the two models, we applied the chosen model DA on testing points to find a general results for future application and achieved an accuracy over 0.85. 
 
-In the end, as an extra research, we discuss the similarity between three LLM's and also comparing to Human. For example, we train the model by Human and GPT, and test on Gemini. The final results indicate that all three LLM texts differ significantly from human text, and these differences follow similar stylistic patterns. GPT has the most distinctive written style, Gemini and Llama are similar and both closer to human writing.
+In the end, as an extra research, we will discuss the similarity among three LLMs and compare each of them with Human. For example, we train the model by Human and GPT, and test on Gemini. The final results indicate that all three LLM texts differ significantly from human text, and these differences follow similar stylistic patterns. GPT has the most distinctive written style, Gemini and Llama are similar and both closer to human writing.
 
 ## Data preprocessing
 
-The dataset contains around 3,500 complete English language texts presented in stylometry form, grouped by author: Human, ChatGPT, Gemini and Llama. To solve this task, all large language model (LLM) texts were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into an 80% training set and a 20% testing set, and the texts were normalised to ensure comparability across texts of different lengths. Finally, the normalised 80% training set was used for exploratory data analysis and model choosing.
+The dataset contains around 3,500 complete English language texts presented in stylometry form, grouped by author: Human, ChatGPT, Gemini and Llama. To solve our task, all large language model (LLM) texts were merged into a single category, resulting in a binary dataset of Human vs LLM. Then the data were randomly split into an 80% training set and a 20% testing set, and the texts were normalised to ensure comparability across texts of different lengths. Finally, the normalised 80% training set was used for exploratory data analysis and model choosing.
 
 ## Exploratory Data Analysis
 ```{r echo=FALSE, warning=FALSE}
 T1
 ```
-The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for all other words in each text. The mean differences in function words between LLM and Human texts is shown in figure 1
+The basic information of the training set is shown in Table 1. The training set contains 869 human written texts and 2,608 LLM written texts, with 200 function words and one additional feature for all other words in each text. The mean differences in function words between LLM and Human texts is shown in figure 1.
 \newpage
 
 ```{r Figure 1, echo=FALSE, fig.cap="Top 10 Mean Differences in Function Words Between LLM and Human Texts", warning=FALSE, fig.width = 6.5, fig.height = 3}
@@ -38,7 +38,7 @@ par(mar = c(3, 4, 1, 1))
 barplot(mean_diff[top], ylab = "Mean Difference")
 ```
 
-The feature V201 can be ignored, as its high value is primarily due to longer text length rather than meaningful mean difference. We find that several function words have difference. In particular, V1 shows the largest mean difference, about 0.01, indicating that this function word is used very differently in human written and LLM written texts. This means V1 is an important feature for classifying human and LLM texts. Then, we used MDS visualisation to check the overall difference between Human and LLM texts.
+We ignored the feature V201, as its high value is primarily due to longer text length rather than meaningful mean difference. To identify the texts' author, we find that several function words have difference. In particular, V1 shows the largest mean difference, around 0.01, indicating that this function word is used very differently in human written and LLM written texts. This means V1 is an important feature for classifying human and LLM texts. Then, we used MDS visualisation to check the overall difference between Human and LLM texts.
 
 ```{r Figure 2, echo=FALSE, fig.cap="MDS Visualisation of Human and LLM Texts", warning=FALSE, fig.width = 5.5, fig.height = 3}
 par(mar = c(4, 4, 1, 1))
@@ -74,7 +74,7 @@ text(pts[,1], pts[,2], labels=authors)
 
 \newpage
 
-In Figure 3, we find that LLM texts are on the right side and human texts are on the left side, indicating that human and LLM texts have different writing styles. In addition, different LLMs also have different writing styles. GPT is far away from Gemini and Llama. However, Gemini and Llama are close to each other, so they are more likely to be confused. After understanding the data, we start modelling.
+In Figure 3, we find that LLM texts are on the right side while human's on the left, indicating that human and LLM texts have different writing styles. In addition, different LLMs also have different writing styles. GPT is clearly separated from Gemini and Llama. However, Gemini and Llama are close to each other, so they are more likely to be confused. After understanding the data, we start modelling.
 
 ## Modelling
 
@@ -157,6 +157,6 @@ The accuracy in table 8 means the proportion of tested LLM generated texts as co
 
 The test results also demonstrate whether the LLM being tested has significant influence on classification outcomes. As shown in table 8, less than 10% of GPT-generated texts are classified as Human-written on both trained classifiers. Compared to GPT's performance, Llama and Gemini's results appeared a slightly weaker under the same classifiers. 
 
-Under this framework, The mean values of Gemini and Llama's features' normal distribution lay between GPT and Human and similar with each other, Gemini may tend to be near human more. GPT has the most distinctive written style. This result is exactly what figure 3 shows.
+Under this framework, The mean values of Gemini and Llama's features' normal distribution lay between GPT and Human and similar with each other, Gemini tends to be closer to human, while GPT has the most distinctive written style. This result further supports the obeservations in Figure 3.
 
 
