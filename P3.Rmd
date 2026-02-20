@@ -111,9 +111,9 @@ knitr::kable(knn_loo_table, digits = 3, booktabs = TRUE, caption = "KNN(k=2) Per
 
 ### DA
 
-'Discriminant Analysis' assumes that observations from each class follow a multivariate normal distribution with means and variance from sample. Classification is performed by assigning each observation to the class with the higher probability. Because DA estimates a global decision boundary rather than relying on local neighbors, it is typically more stable KNN, especially when we have imbalanced number of data points. 
+'Discriminant Analysis' assumes that observations from each class follow a multivariate normal distribution with means and variance from sample. Classification is performed by assigning each observation to the class with the higher probability. Because DA estimates a global decision boundary rather than relying on local neighbors, it is typically more stable in KNN, especially when we have imbalanced number of data points. 
 
-Based on training data, Table 4 and 5 below show that 'DA' performs much better than 'KNN' in LOOCV. Only 131 from Human and 308 from LLM are wrong classified. The accuracy is 0.874, with both high sensitivity and specificity. So 'DA' gives a fair classification with meaningful accuracy. Also kappa value (0.685) indicates substantial agreement.
+Based on training data, Table 4 and 5 below show that 'DA' performs much better than 'KNN' in LOOCV. Only 131 from Human and 308 from LLM are wrongly classified. The accuracy is 0.874, with both high sensitivity and specificity. So 'DA' gives a fair classification with meaningful accuracy. Also kappa value (0.685) indicates substantial agreement.
 
 ```{r echo=FALSE, warning=FALSE}
 knitr::kable(cm_da_cv$table,
@@ -129,7 +129,7 @@ Based on the validation results, we will choose discriminant analysis below to c
 
 ## Testing Results
 
-Now we start to classify test set by discriminant analysis. The chosen model is trained by trainset.
+Now we start to classify test set by discriminant analysis. The chosen model is trained by 'trainset'.
 
 From the confusion matrix below, we can see that most texts are corrected labeled.
 
